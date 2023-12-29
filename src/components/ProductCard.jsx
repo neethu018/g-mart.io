@@ -19,7 +19,7 @@ const ProductCard = ({product,category,subcategory}) => {
   }else{
     navigate('/')
   }
-  console.log("product to pass : ",product);
+  console.log("product to pass : ",product);  
   return (
     <Card style={{borderRadius:"10%",padding:20,marginBottom:20}} as={Link} to={`/premiumfruits/${path}`} state={{product}}>
       <Card.Img variant="top" src={product.productImage[0]} alt={product.productImage} style={{width:300,height:300}}/>

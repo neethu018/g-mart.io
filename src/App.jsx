@@ -3,7 +3,7 @@ import "./App.css";
 import Category from "./pages/Category";
 import Home from "./pages/Home";
 import SubCategory from "./pages/SubCategory";
-import { premiumFruits } from "./utils/premiumfruitsdata";
+import { premiumFruits } from "./utils/premiumfruitsdata";//data
 import MainCategory from "./pages/MainCategory";
 import Header from "./components/Header";
 import ProductDetail from "./pages/ProductDetail";

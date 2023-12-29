@@ -15,8 +15,8 @@ const SubCategory = ({ products }) => {
     : [];
   console.log("Filtered products : ", filteredProducts.length);
 
-  const check = filteredProducts.find((product)=>product.productId == 599991275);
-  console.log("ckeck",check);
+  // const check = filteredProducts.find((product)=>product.productId == 599991275);
+  // console.log("ckeck",check);
 
 
   return (

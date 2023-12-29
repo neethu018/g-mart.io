@@ -21,12 +21,8 @@ const Category = ({ products }) => {
   const { category } = useParams();
   console.log("category : ", category);
   console.log("products : ", products);
+
   let filteredProducts;
-//   if (category == "apples-pears") {
-//     filteredProducts = [...products.apples,...products.pears];
-//     // return filteredProducts
-//     console.log("filteredProducts : ", filteredProducts);
-//   }
   if (category === "apples-pears") {
     // Check if 'apples' and 'pears' properties exist in the products object
     if (products && products.apples && products.pears) {
@@ -36,7 +32,7 @@ const Category = ({ products }) => {
       return <div>Error loading products.</div>;
     }
   } else if (category === "avacado-peach-plum") {
-    // Check if 'apples' and 'pears' properties exist in the products object
+    // Check if 'avocados','nectarines','peaches properties exist in the products object
     if (products && products.avacados && products.peaches&& products.nectarines) {
       filteredProducts = [...products.avacados, ...products.peaches,...products.nectarines];
     } else {
@@ -44,7 +40,7 @@ const Category = ({ products }) => {
       return <div>Error loading products.</div>;
     }
   }else if (category === "banana-melons-coconut") {
-    // Check if 'apples' and 'pears' properties exist in the products object
+    // Check if 'bananas','coconuts','melons properties exist in the products object
     if (products && products.coconuts && products.melons && products.bananas) {
       filteredProducts = [...products.coconuts, ...products.melons,...products.bananas];
     } else {
@@ -52,7 +48,7 @@ const Category = ({ products }) => {
       return <div>Error loading products.</div>;
     }
   }else if (category === "cherries-berries-exotic-fruits") {
-    // Check if 'apples' and 'pears' properties exist in the products object
+    // Check if 'cherries','berries','dragonfruits' properties exist in the products object
     if (products && products.cherries && products.berries && products.dragonfruits) {
       filteredProducts = [...products.cherries, ...products.berries,...products.dragonfruits];
     } else {
@@ -60,7 +56,7 @@ const Category = ({ products }) => {
       return <div>Error loading products.</div>;
     }
   }else if (category === "citrus-mango-grapes") {
-    // Check if 'apples' and 'pears' properties exist in the products object
+    // Check if 'citrus','grspes', properties exist in the products object
     if (products && products.grapes && products.citrus) {
       filteredProducts = [...products.grapes, ...products.citrus];
     } else {
@@ -68,7 +64,7 @@ const Category = ({ products }) => {
       return <div>Error loading products.</div>;
     }
   }else if (category === "dates") {
-    // Check if 'apples' and 'pears' properties exist in the products object
+    // Check if 'wetdates' properties exist in the products object
     if (products && products.wetdates) {
       filteredProducts = [...products.wetdates];
     } else {
@@ -76,7 +72,7 @@ const Category = ({ products }) => {
       return <div>Error loading products.</div>;
     }
   }else if (category === "gift-assorted-xl-packs") {
-    // Check if 'apples' and 'pears' properties exist in the products object
+    // Check if 'giftpacks' properties exist in the products object
     if (products && products.giftpacks) {
       filteredProducts = [...products.giftpacks];
     } else {
@@ -84,7 +80,7 @@ const Category = ({ products }) => {
       return <div>Error loading products.</div>;
     }
   }else if (category === "pomegranate-papaya-pineapple") {
-    // Check if 'apples' and 'pears' properties exist in the products object
+    // Check if 'pomegranates','pineapples','papayas' properties exist in the products object
     if (products && products.pomegranates && products.papayas && products.pineapples) {
       filteredProducts = [...products.pineapples,...products.pomegranates,...products.papayas];
     } else {
@@ -92,7 +88,7 @@ const Category = ({ products }) => {
       return <div>Error loading products.</div>;
     }
   }else if (category === "seasonal-minor-fruits") {
-    // Check if 'apples' and 'pears' properties exist in the products object
+    // Check if 'guavas','custardapples' properties exist in the products object
     if (products && products.guavas && products.custardapples) {
       filteredProducts = [...products.guavas,...products.custardapples];
     } else {

@@ -7,7 +7,8 @@ const MainCategory = ({ products }) => {
   const path = useParams();
   console.log("path", path);
   
-  const filteredProducts = [...products.apples,...products.pears,...products.avacados,...products.nectarines,...products.peaches,...products.coconuts,...products.melons,...products.bananas,...products.cherries,...products.dragonfruits,...products.grapes,...products.citrus,...products.wetdates,...products.giftpacks,...products.pomegranates,...products.pineapples,...products.papayas,...products.guavas,...products.custardapples];
+  const filteredProducts = [].concat(...Object.values(products));
+  console.log("filteredProducts", filteredProducts);
 
   //unique productid check
   // const check = filteredProducts.find((product)=>product.productId == 599990499);
