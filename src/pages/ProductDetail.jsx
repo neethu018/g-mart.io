@@ -53,15 +53,29 @@ const ProductDetail = () => {
               />
             </div>
           </div>
-          {product.discount > 0 ?(<div>
-            <div style={{ display: "flex", gap: 10, alignItems: "center" }}>
-              <p style={{ fontSize: 20, fontWeight: "bold" }}>{(product.mrp-(product.mrp*(product.discount/100))).toFixed}</p>
-              <p style={{ color: "green" }}>26% off</p>
-            </div>
+          {product.discount > 0 ? (
             <div>
-              <p>M.R.P:{product.mrp} (Incl.of. all taxes)</p>
+              <div style={{ display: "flex", gap: 10, alignItems: "center" }}>
+                <p style={{ fontSize: 20, fontWeight: "bold" }}>
+                  {
+                    (product.mrp - (product.mrp * (product.discount / 100)))
+                      .toFixed()
+                  }
+                </p>
+                <p style={{ color: "green" }}>{product.discount}% off</p>
+              </div>
+              <div>
+                <p>
+                  <span style={{ textDecoration: "line-through" }}>
+                    M.R.P:{product.mrp}
+                  </span>
+                  (Incl.of. all taxes)
+                </p>
+              </div>
             </div>
-          </div>):(<p>M.R.P:{product.mrp}</p>)}
+          ) : (
+            <p>M.R.P:{product.mrp}</p>
+          )}
           <p>{product.description}</p>
         </Col>
       </Row>
