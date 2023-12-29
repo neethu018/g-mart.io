@@ -25,8 +25,8 @@ const SubCategory = ({ products }) => {
 
       <Row>
         {filteredProducts.map((product) => (
-          <Col key={product.id} xs={12} md={6} lg={4}>
-            <ProductCard key={product.id} product={product} category={category} subcategory={subcategory}/>
+          <Col key={product.productId} xs={12} md={6} lg={4}>
+            <ProductCard key={product.productId} product={product} category={category} subcategory={subcategory}/>
           </Col>
         ))}
       </Row>
