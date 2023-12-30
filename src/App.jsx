@@ -3,7 +3,8 @@ import "./App.css";
 import Category from "./pages/Category";
 import Home from "./pages/Home";
 import SubCategory from "./pages/SubCategory";
-import { premiumFruits } from "./utils/premiumfruitsdata";//data
+import { premiumFruits } from "./utils/premiumfruitsdata";//premiumfruits data
+import { beauty } from "./utils/beauty";//beauty data
 import MainCategory from "./pages/MainCategory";
 import Header from "./components/Header";
 import ProductDetail from "./pages/ProductDetail";
@@ -16,6 +17,7 @@ function App() {
         <Header />
         <Routes>
           <Route path="/" element={<Home />} />
+          {/* premiumfruits routings */}
           <Route
             path="/premiumfruits"
             element={<MainCategory products={premiumFruits} />}
@@ -31,6 +33,23 @@ function App() {
           <Route
             path="/premiumfruits/:category/:subcategory/:product"
             element={<ProductDetail products={premiumFruits} />}
+          />
+           {/*beauty routings */}
+           <Route
+            path="/beauty"
+            element={<MainCategory products={beauty} />}
+          />
+          <Route
+            path="/beauty/:category"
+            element={<Category products={beauty} />}
+          />
+          <Route
+            path="/beauty/:category/:subcategory"
+            element={<SubCategory products={beauty} />}
+          />
+          <Route
+            path="/beauty/:category/:subcategory/:product"
+            element={<ProductDetail products={beauty} />}
           />
         </Routes>
       </Router>
