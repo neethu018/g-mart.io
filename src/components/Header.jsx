@@ -15,7 +15,9 @@ const Header = () => {
   const [showGiftPackDropdown,setShowGiftPackDropdown] = useState(false);
   const [showPomegranatePapayaPineappleDropdown,setShowPomegranatePapayaPineappleDropdown] = useState(false);
   const [showSeasonalMinorFruitsDropdown,setShowSeasonalMinorFruitsDropdown] = useState(false);
-  
+  //beauty state
+  const [showBeautyDropdown, setshowBeautyDropdown] = useState(false);
+  const [showMakeUpDropdown, setShowMakeUpDropdown] = useState(false);
   
 
   const handlePremiumFruitsMouseEnter = () => {
@@ -103,6 +105,21 @@ const Header = () => {
     const handleSeasonalMinorFruitsMouseLeave = () => {
       setShowSeasonalMinorFruitsDropdown(false);
     };
+
+    //beauty
+  const handleBeautyMouseEnter = () => {
+    setshowBeautyDropdown(true);
+  };
+  const handleBeautyMouseLeave = () => {
+    setshowBeautyDropdown(false);
+  };
+  //for Makeup
+  const handleMakeUpMouseEnter = () => {
+    setShowMakeUpDropdown(true);
+  };
+  const handleMakeUpMouseLeave = () => {
+    setShowMakeUpDropdown(false);
+  };
   return (
     <>
       <Navbar bg="dark" variant="dark" expand="lg">
@@ -318,6 +335,54 @@ const Header = () => {
               onMouseLeave={handlePremiumFruitsMouseLeave}
             >
               Premium Fruits
+            </Nav.Link>
+            {/* beauty dropdown */}
+            <NavDropdown
+              show={showBeautyDropdown}
+              onMouseEnter={handleBeautyMouseEnter}
+              onMouseLeave={handleBeautyMouseLeave}
+            >
+              <NavDropdown.Item
+                as={Link}
+                to={"/Beauty/make-up"}
+                onMouseEnter={handleMakeUpMouseEnter}
+                onMouseLeave={handleMakeUpMouseLeave}
+              >
+                Make-Up
+              </NavDropdown.Item>
+              {showMakeUpDropdown && (
+                <>
+                  <Container
+                    show={showMakeUpDropdown}
+                    onMouseEnter={handleMakeUpMouseEnter}
+                    onMouseLeave={handleMakeUpMouseLeave}
+                  >
+                    <NavDropdown.Item href="/beauty/make-up/Lips">
+                      Lips
+                    </NavDropdown.Item>
+                    <NavDropdown.Item href="/beauty/make-up/Nails">
+                      Nails
+                    </NavDropdown.Item>
+                    <NavDropdown.Item href="/beauty/make-up/Eyes">
+                      Eyes
+                    </NavDropdown.Item>
+                    <NavDropdown.Item href="/beauty/make-up/FaceMakeUp">
+                      FaceMakeUp
+                    </NavDropdown.Item>
+                    <NavDropdown.Item href="/beauty/make-up/MakeupToolsBrushes">
+                      MakeupToolsBrushes
+                    </NavDropdown.Item>
+                  </Container>
+                </>
+              )}
+            </NavDropdown>
+            <Nav.Link
+              as={Link}
+              to={"/beauty"}
+              onMouseEnter={handleBeautyMouseEnter}
+              onMouseLeave={handleBeautyMouseLeave}
+            >
+              Beauty
             </Nav.Link>
 
             <Nav.Link href="#about">About</Nav.Link>
