@@ -15,9 +15,9 @@ const ProductCard = ({product,category,subcategory}) => {
   // },[])
   let path = "";
   if(subcategory){
-    path = `${category}/${subcategory}/${product.productId}`;
+    path = `${subcategory}/${product.productId}`;
   }else if(category){
-    path = `${category}/${product.shortDesc.split(" ")[0]}/${product.productId}`;
+    path = `${product.shortDesc.split(" ")[0]}/${product.productId}`;
   }else{
     navigate('/')
   }
