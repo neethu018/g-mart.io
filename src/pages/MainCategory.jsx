@@ -1,10 +1,10 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import ProductCard from "../components/ProductCard";
-import {useParams} from 'react-router-dom';
+import {useLocation} from 'react-router-dom';
 
 const MainCategory = ({ products }) => {
-  const path = useParams();
+  const path = useLocation();
   console.log("path", path);
   
   const filteredProducts = [].concat(...Object.values(products));
