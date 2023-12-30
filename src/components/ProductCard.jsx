@@ -15,7 +15,7 @@ const ProductCard = ({product,category,subcategory}) => {
   // },[])
   let path = "";
   if(subcategory){
-    path = `${subcategory}/${product.productId}`;
+    path = `${product.productId}`;
   }else if(category){
     path = `${product.shortDesc.split(" ")[0]}/${product.productId}`;
   }else{
