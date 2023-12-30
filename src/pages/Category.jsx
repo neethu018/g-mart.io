@@ -95,6 +95,14 @@ const Category = ({ products }) => {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
+  }else if (category === "make-up") {
+    // Check if 'Lips','Nails','Eyes','Facepack','makeuptools' properties exist in the products object
+    if (products && products.Lips && products.Nails && products.Eyes && products.FaceMakeUp && products.MakeupToolsBrushes) {
+      filteredProducts = [...products.Lips,...products.Nails,...products.Eyes,...products.FaceMakeUp,...products.MakeupToolsBrushes];
+    } else {
+      console.error("Products data is incomplete.");
+      return <div>Error loading products.</div>;
+    }
   }else {
     // Handle other categories or render an appropriate message
     return <div>Invalid category specified.</div>;
