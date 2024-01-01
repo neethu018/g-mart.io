@@ -103,15 +103,26 @@ const Category = ({ products }) => {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
-  }else {
+  }//BagsAndLuggages
+  else if (category === "Bags") {
+    // Bags Luggages
+    if (products && products.BagsAndBackpacks && products.DoffleBags && products.TrollyseAndSuitcase && products.ShoppingbagsAndOtherbags) {
+      filteredProducts = [...products.BagsAndBackpacks, ...products.DoffleBags,...products.TrollyseAndSuitcase,...products.ShoppingbagsAndOtherbags];
+    } else {
+      console.error("Products data is incomplete.");
+      return <div>Error loading products.</div>;
+    }
+  }
+  else {
     // Handle other categories or render an appropriate message
     return <div>Invalid category specified.</div>;
   }
+  
   filteredProducts = shuffleArray(filteredProducts);
 
   return (
     <Container className="product-list-container">
-      <h3>Premiumfruits</h3>
+      <h3>Products </h3>
       <Row>
         {filteredProducts.map((product) => (
           <Col key={product.productId} xs={12} md={6} lg={4}>
