@@ -38,11 +38,7 @@ const MainCategory = ({ products }) => {
   
   return (
     <Container className="product-list-container">
-<<<<<<< HEAD
-      <h3>breadcrumps</h3>
-=======
       <h3>Products :</h3>
->>>>>>> main
       <Row>
         {shuffledArray.map((product) => (
           <Col key={product.productId} xs={12} md={6} lg={4}>
