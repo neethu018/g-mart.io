@@ -38,11 +38,11 @@ const MainCategory = ({ products }) => {
   
   return (
     <Container className="product-list-container">
-      <h3>Premiumfruits</h3>
+      <h3>breadcrumps</h3>
       <Row>
         {shuffledArray.map((product) => (
           <Col key={product.productId} xs={12} md={6} lg={4}>
-            <ProductCard key={product.productId} product={product} category={"allfruits"} />
+            <ProductCard key={product.productId} product={product} category={"allproducts"} />
           </Col>
         ))}
       </Row>

@@ -32,7 +32,7 @@ function App() {
           />
           <Route
             path="/premiumfruits/:category/:subcategory/:product"
-            element={<ProductDetail products={premiumFruits} />}
+            element={<ProductDetail />}
           />
            {/*beauty routings */}
            <Route
@@ -49,7 +49,7 @@ function App() {
           />
           <Route
             path="/beauty/:category/:subcategory/:product"
-            element={<ProductDetail products={beauty} />}
+            element={<ProductDetail/>}
           />
         </Routes>
       </Router>
