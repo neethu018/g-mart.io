@@ -5,6 +5,7 @@ import Home from "./pages/Home";
 import SubCategory from "./pages/SubCategory";
 import { premiumFruits } from "./utils/premiumfruitsdata";//premiumfruits data
 import { beauty } from "./utils/beauty";//beauty data
+import {BagsAndLuggages} from './utils/Bags' //BagsAndLuggages data
 import MainCategory from "./pages/MainCategory";
 import Header from "./components/Header";
 import ProductDetail from "./pages/ProductDetail";
@@ -49,7 +50,21 @@ function App() {
           />
           <Route
             path="/beauty/:category/:subcategory/:product"
-            element={<ProductDetail/>}
+            element={<ProductDetail />}
+          />
+           <Route path="/BagsAndLuggages"
+          element={<MainCategory products={BagsAndLuggages}/>} />
+           <Route
+            path="/BagsAndLuggages/:category"
+            element={<Category products={BagsAndLuggages} />}
+          />
+          <Route
+            path="/BagsAndLuggages/:category/:subcategory"
+            element={<SubCategory products={BagsAndLuggages} />}
+          />
+          <Route
+            path="/BagsAndLuggages/:category/:subcategory/:product"
+            element={<ProductDetail />}
           />
         </Routes>
       </Router>
