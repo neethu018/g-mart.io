@@ -42,7 +42,7 @@ const MainCategory = ({ products }) => {
       <Row>
         {shuffledArray.map((product) => (
           <Col key={product.productId} xs={12} md={6} lg={4}>
-            <ProductCard key={product.productId} product={product} category={"allfruits"} />
+            <ProductCard key={product.productId} product={product} category={"allproducts"} />
           </Col>
         ))}
       </Row>

@@ -33,7 +33,7 @@ function App() {
           />
           <Route
             path="/premiumfruits/:category/:subcategory/:product"
-            element={<ProductDetail products={premiumFruits} />}
+            element={<ProductDetail />}
           />
            {/*beauty routings */}
            <Route
@@ -50,7 +50,7 @@ function App() {
           />
           <Route
             path="/beauty/:category/:subcategory/:product"
-            element={<ProductDetail products={beauty} />}
+            element={<ProductDetail />}
           />
            <Route path="/BagsAndLuggages"
           element={<MainCategory products={BagsAndLuggages}/>} />
@@ -64,7 +64,7 @@ function App() {
           />
           <Route
             path="/BagsAndLuggages/:category/:subcategory/:product"
-            element={<ProductDetail products={BagsAndLuggages} />}
+            element={<ProductDetail />}
           />
         </Routes>
       </Router>
