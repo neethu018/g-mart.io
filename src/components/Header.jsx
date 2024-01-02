@@ -18,6 +18,16 @@ const Header = () => {
   //beauty state
   const [showBeautyDropdown, setshowBeautyDropdown] = useState(false);
   const [showMakeUpDropdown, setShowMakeUpDropdown] = useState(false);
+  //BagsLuggage state
+  const [showBagsLugsDropdown, setshowBagsLugsDropdown] = useState(false);
+
+  
+  
+  const handleBagsLugsMouseLeave = () => {
+    setshowBagsLugsDropdown(false);
+  };
+  
+
   
 
   const handlePremiumFruitsMouseEnter = () => {
@@ -119,6 +129,10 @@ const Header = () => {
   };
   const handleMakeUpMouseLeave = () => {
     setShowMakeUpDropdown(false);
+  };
+  //BagsLuggages
+  const handleBagsLugsMouseEnter = () => {
+    setshowBagsLugsDropdown(true);
   };
   return (
     <>
@@ -384,8 +398,53 @@ const Header = () => {
             >
               Beauty
             </Nav.Link>
+            <NavDropdown
+              show={showBagsLugsDropdown}
+              onMouseEnter={handleBagsLugsMouseEnter}
+              onMouseLeave={handleBagsLugsMouseLeave}
+            >
+              
+              <NavDropdown.Item
+                as={Link}
+                to={"/BagsAndLuggages/BagsAndLuggages/BagsAndBackpacks"}
+                
+              >
+                Bags & Backpacks
+              </NavDropdown.Item>
+              <NavDropdown.Item
+                as={Link}
+                to={"/BagsAndLuggages/BagsAndLuggages/DoffleBags"}
+                
+              >
+                DoffleBags
+              </NavDropdown.Item>
+              <NavDropdown.Item
+                as={Link}
+                to={"/BagsAndLuggages/BagsAndLuggages/TrollyseAndSuitcase"}
+                
+              >
+                Trolleys & Suitcases
+              </NavDropdown.Item>
+              <NavDropdown.Item
+                as={Link}
+                to={"/BagsAndLuggages/BagsAndLuggages/ShoppingbagsAndOtherbags"}
+                
+              >
+                Shopping Bags & OtherBags
+              </NavDropdown.Item>
+              
 
-            <Nav.Link href="#about">About</Nav.Link>
+
+             </NavDropdown>
+            <Nav.Link
+              as={Link}
+              to={"/BagsAndLuggages"}
+              onMouseEnter={handleBagsLugsMouseEnter}
+              onMouseLeave={handleBagsLugsMouseLeave}
+            >
+              Bags & Luggages
+            </Nav.Link>
+
             <Nav.Link href="#about">About</Nav.Link>
             <Nav.Link href="#about">About</Nav.Link>
             <Nav.Link href="#about">About</Nav.Link>
