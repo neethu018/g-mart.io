@@ -5,7 +5,7 @@ import Home from "./pages/Home";
 import SubCategory from "./pages/SubCategory";
 import { premiumFruits } from "./utils/premiumfruitsdata";//premiumfruits data
 import { beauty } from "./utils/beauty";//beauty data
-import {BagsAndLuggages} from './utils/Bags' //BagsAndLuggages data
+import { SportsToysLuggages } from "./utils/sportstoysluggages"; //sportstoysLuggages data
 import MainCategory from "./pages/MainCategory";
 import Header from "./components/Header";
 import ProductDetail from "./pages/ProductDetail";
@@ -52,18 +52,21 @@ function App() {
             path="/beauty/:category/:subcategory/:product"
             element={<ProductDetail />}
           />
-           <Route path="/BagsAndLuggages"
-          element={<MainCategory products={BagsAndLuggages}/>} />
-           <Route
-            path="/BagsAndLuggages/:category"
-            element={<Category products={BagsAndLuggages} />}
+           {/* sportsToysLuggages */}
+          <Route
+            path="/SportsToys&Luggages"
+            element={<MainCategory products={SportsToysLuggages} />}
           />
           <Route
-            path="/BagsAndLuggages/:category/:subcategory"
-            element={<SubCategory products={BagsAndLuggages} />}
+            path="/SportsToys&Luggages/:category"
+            element={<Category products={SportsToysLuggages} />}
           />
           <Route
-            path="/BagsAndLuggages/:category/:subcategory/:product"
+            path="/SportsToys&Luggages/:category/:subcategory"
+            element={<SubCategory products={SportsToysLuggages} />}
+          />
+          <Route
+            path="/SportsToys&Luggages/:category/:subcategory/:product"
             element={<ProductDetail />}
           />
         </Routes>

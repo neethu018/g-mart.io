@@ -1,34 +1,40 @@
 import React, { useState } from "react";
 // import { Navbar, Nav } from 'react-bootstrap';
-import { Navbar, Nav, NavDropdown,Container } from "react-bootstrap";
+import { Navbar, Nav, NavDropdown, Container } from "react-bootstrap";
 import { Link } from "react-router-dom";
 
 const Header = () => {
   const [showPremiumFruitsDropdown, setshowPremiumFruitsDropdown] =
     useState(false);
   const [showApplePearsDropdown, setShowApplePearsDropdown] = useState(false);
-  const [showAvacadoPeachPlumDropdown,setShowAvacadoPeachPlumDropdown] = useState(false);
-  const [showBananaMelonCoconutDropdown,setShowBananaMelonCoconutDropdown] = useState(false);
-  const [showCherriesBerriesExoticDropdown,setShowCherriesBerriesExoticDropdown] = useState(false);
-  const [showCitrusMangoGrapeDropdown,setShowCitrusMangoGrapeDropdown] = useState(false);
-  const [showWetDatesDropdown,setShowWetDatesDropdown] = useState(false);
-  const [showGiftPackDropdown,setShowGiftPackDropdown] = useState(false);
-  const [showPomegranatePapayaPineappleDropdown,setShowPomegranatePapayaPineappleDropdown] = useState(false);
-  const [showSeasonalMinorFruitsDropdown,setShowSeasonalMinorFruitsDropdown] = useState(false);
+  const [showAvacadoPeachPlumDropdown, setShowAvacadoPeachPlumDropdown] =
+    useState(false);
+  const [showBananaMelonCoconutDropdown, setShowBananaMelonCoconutDropdown] =
+    useState(false);
+  const [
+    showCherriesBerriesExoticDropdown,
+    setShowCherriesBerriesExoticDropdown,
+  ] = useState(false);
+  const [showCitrusMangoGrapeDropdown, setShowCitrusMangoGrapeDropdown] =
+    useState(false);
+  const [showWetDatesDropdown, setShowWetDatesDropdown] = useState(false);
+  const [showGiftPackDropdown, setShowGiftPackDropdown] = useState(false);
+  const [
+    showPomegranatePapayaPineappleDropdown,
+    setShowPomegranatePapayaPineappleDropdown,
+  ] = useState(false);
+  const [showSeasonalMinorFruitsDropdown, setShowSeasonalMinorFruitsDropdown] =
+    useState(false);
   //beauty state
   const [showBeautyDropdown, setshowBeautyDropdown] = useState(false);
   const [showMakeUpDropdown, setShowMakeUpDropdown] = useState(false);
-  //BagsLuggage state
-  const [showBagsLugsDropdown, setshowBagsLugsDropdown] = useState(false);
-
-  
-  
-  const handleBagsLugsMouseLeave = () => {
-    setshowBagsLugsDropdown(false);
-  };
-  
-
-  
+  //SportsToysLuggage
+  const [showSportsToysLuggagesDropdown, setshowSportsToysLuggagesDropdown] =
+    useState(false);
+  const [
+    showBagsAndTravelLuggagesDropdown,
+    setShowBagsAndTravelLuggagesDropdown,
+  ] = useState(false);
 
   const handlePremiumFruitsMouseEnter = () => {
     setshowPremiumFruitsDropdown(true);
@@ -45,23 +51,23 @@ const Header = () => {
   const handleApplePearsMouseLeave = () => {
     setShowApplePearsDropdown(false);
   };
-   //for avacado-peach-plum
-   const handleAvacadoPeachPlumMouseEnter = () => {
+  //for avacado-peach-plum
+  const handleAvacadoPeachPlumMouseEnter = () => {
     setShowAvacadoPeachPlumDropdown(true);
   };
 
   const handleAvacadoPeachPlumMouseLeave = () => {
     setShowAvacadoPeachPlumDropdown(false);
   };
-   //for bananas-melons-coconut
-   const handleBananaMelonCoconutMouseEnter = () => {
+  //for bananas-melons-coconut
+  const handleBananaMelonCoconutMouseEnter = () => {
     setShowBananaMelonCoconutDropdown(true);
   };
 
   const handleBananaMelonCoconutMouseLeave = () => {
     setShowBananaMelonCoconutDropdown(false);
   };
-  
+
   //for cherries-berries-dragonfruits
   const handleCherriesBerriesExoticMouseEnter = () => {
     setShowCherriesBerriesExoticDropdown(true);
@@ -70,53 +76,53 @@ const Header = () => {
   const handleCherriesBerriesExoticMouseLeave = () => {
     setShowCherriesBerriesExoticDropdown(false);
   };
-  
-   //for citrus-mangos-grapes
-   const handleCitrusMangoGrapeMouseEnter = () => {
+
+  //for citrus-mangos-grapes
+  const handleCitrusMangoGrapeMouseEnter = () => {
     setShowCitrusMangoGrapeDropdown(true);
   };
 
   const handleCitrusMangoGrapeMouseLeave = () => {
     setShowCitrusMangoGrapeDropdown(false);
   };
-  
-    //for dates
-    const handleWetDatesMouseEnter = () => {
-      setShowWetDatesDropdown(true);
-    };
-  
-    const handleWetDatesMouseLeave = () => {
-      setShowWetDatesDropdown(false);
-    };
-    
-    //for gift packs
-    const handleGiftPackMouseEnter = () => {
-      setShowGiftPackDropdown(true);
-    };
-  
-    const handleGiftPackMouseLeave = () => {
-      setShowGiftPackDropdown(false);
-    };
-    
-    //for pomegranate-papayas-pineapple
-    const handlePomegranatePapayaPineappleMouseEnter = () => {
-      setShowPomegranatePapayaPineappleDropdown(true);
-    };
-  
-    const handlePomegranatePapayaPineappleMouseLeave = () => {
-      setShowPomegranatePapayaPineappleDropdown(false);
-    };
-    
-    //for seasonal-minor-fruits
-    const handleSeasonalMinorFruitsMouseEnter = () => {
-      setShowSeasonalMinorFruitsDropdown(true);
-    };
-  
-    const handleSeasonalMinorFruitsMouseLeave = () => {
-      setShowSeasonalMinorFruitsDropdown(false);
-    };
 
-    //beauty
+  //for dates
+  const handleWetDatesMouseEnter = () => {
+    setShowWetDatesDropdown(true);
+  };
+
+  const handleWetDatesMouseLeave = () => {
+    setShowWetDatesDropdown(false);
+  };
+
+  //for gift packs
+  const handleGiftPackMouseEnter = () => {
+    setShowGiftPackDropdown(true);
+  };
+
+  const handleGiftPackMouseLeave = () => {
+    setShowGiftPackDropdown(false);
+  };
+
+  //for pomegranate-papayas-pineapple
+  const handlePomegranatePapayaPineappleMouseEnter = () => {
+    setShowPomegranatePapayaPineappleDropdown(true);
+  };
+
+  const handlePomegranatePapayaPineappleMouseLeave = () => {
+    setShowPomegranatePapayaPineappleDropdown(false);
+  };
+
+  //for seasonal-minor-fruits
+  const handleSeasonalMinorFruitsMouseEnter = () => {
+    setShowSeasonalMinorFruitsDropdown(true);
+  };
+
+  const handleSeasonalMinorFruitsMouseLeave = () => {
+    setShowSeasonalMinorFruitsDropdown(false);
+  };
+
+  //beauty
   const handleBeautyMouseEnter = () => {
     setshowBeautyDropdown(true);
   };
@@ -130,9 +136,19 @@ const Header = () => {
   const handleMakeUpMouseLeave = () => {
     setShowMakeUpDropdown(false);
   };
-  //BagsLuggages
-  const handleBagsLugsMouseEnter = () => {
-    setshowBagsLugsDropdown(true);
+  //SportsToysLuggages
+  const handleSportsToysLuggagesMouseEnter = () => {
+    setshowSportsToysLuggagesDropdown(true);
+  };
+  const handleSportsToysLuggagesMouseLeave = () => {
+    setshowSportsToysLuggagesDropdown(false);
+  };
+  //for BagsAndTravleLuggages
+  const handleBagsAndTravelLuggagesMouseEnter = () => {
+    setShowBagsAndTravelLuggagesDropdown(true);
+  };
+  const handleBagsAndTravelLuggagesMouseLeave = () => {
+    setShowBagsAndTravelLuggagesDropdown(false);
   };
   return (
     <>
@@ -156,14 +172,17 @@ const Header = () => {
               </NavDropdown.Item>
               {showApplePearsDropdown && (
                 <>
-                <Container show={showApplePearsDropdown}  onMouseEnter={handleApplePearsMouseEnter}
-                onMouseLeave={handleApplePearsMouseLeave}>
-                  <NavDropdown.Item href="/premiumfruits/apples-pears/apples">
-                    Apples
-                  </NavDropdown.Item>
-                  <NavDropdown.Item href="/premiumfruits/apples-pears/pears">
-                    Pears
-                  </NavDropdown.Item>
+                  <Container
+                    show={showApplePearsDropdown}
+                    onMouseEnter={handleApplePearsMouseEnter}
+                    onMouseLeave={handleApplePearsMouseLeave}
+                  >
+                    <NavDropdown.Item href="/premiumfruits/apples-pears/apples">
+                      Apples
+                    </NavDropdown.Item>
+                    <NavDropdown.Item href="/premiumfruits/apples-pears/pears">
+                      Pears
+                    </NavDropdown.Item>
                   </Container>
                 </>
               )}
@@ -178,17 +197,20 @@ const Header = () => {
               </NavDropdown.Item>
               {showAvacadoPeachPlumDropdown && (
                 <>
-                <Container show={showAvacadoPeachPlumDropdown}  onMouseEnter={handleAvacadoPeachPlumMouseEnter}
-                onMouseLeave={handleAvacadoPeachPlumMouseLeave}>
-                  <NavDropdown.Item href="/premiumfruits/avacado-peach-plum/avacados">
-                    Avacados
-                  </NavDropdown.Item>
-                  <NavDropdown.Item href="/premiumfruits/avacado-peach-plum/peaches">
-                    Peaches
-                  </NavDropdown.Item>
-                  <NavDropdown.Item href="/premiumfruits/avacado-peach-plum/nectarines">
-                    Nectarines
-                  </NavDropdown.Item>
+                  <Container
+                    show={showAvacadoPeachPlumDropdown}
+                    onMouseEnter={handleAvacadoPeachPlumMouseEnter}
+                    onMouseLeave={handleAvacadoPeachPlumMouseLeave}
+                  >
+                    <NavDropdown.Item href="/premiumfruits/avacado-peach-plum/avacados">
+                      Avacados
+                    </NavDropdown.Item>
+                    <NavDropdown.Item href="/premiumfruits/avacado-peach-plum/peaches">
+                      Peaches
+                    </NavDropdown.Item>
+                    <NavDropdown.Item href="/premiumfruits/avacado-peach-plum/nectarines">
+                      Nectarines
+                    </NavDropdown.Item>
                   </Container>
                 </>
               )}
@@ -202,17 +224,20 @@ const Header = () => {
               </NavDropdown.Item>
               {showBananaMelonCoconutDropdown && (
                 <>
-                <Container show={showBananaMelonCoconutDropdown}  onMouseEnter={handleBananaMelonCoconutMouseEnter}
-                onMouseLeave={handleBananaMelonCoconutMouseLeave}>
-                  <NavDropdown.Item href="/premiumfruits/banana-melons-coconut/bananas">
-                    Bananas
-                  </NavDropdown.Item>
-                  <NavDropdown.Item href="/premiumfruits/banana-melons-coconut/melons">
-                    Melons
-                  </NavDropdown.Item>
-                  <NavDropdown.Item href="/premiumfruits/banana-melons-coconut/coconuts">
-                    Coconuts
-                  </NavDropdown.Item>
+                  <Container
+                    show={showBananaMelonCoconutDropdown}
+                    onMouseEnter={handleBananaMelonCoconutMouseEnter}
+                    onMouseLeave={handleBananaMelonCoconutMouseLeave}
+                  >
+                    <NavDropdown.Item href="/premiumfruits/banana-melons-coconut/bananas">
+                      Bananas
+                    </NavDropdown.Item>
+                    <NavDropdown.Item href="/premiumfruits/banana-melons-coconut/melons">
+                      Melons
+                    </NavDropdown.Item>
+                    <NavDropdown.Item href="/premiumfruits/banana-melons-coconut/coconuts">
+                      Coconuts
+                    </NavDropdown.Item>
                   </Container>
                 </>
               )}
@@ -226,17 +251,20 @@ const Header = () => {
               </NavDropdown.Item>
               {showCherriesBerriesExoticDropdown && (
                 <>
-                <Container show={showCherriesBerriesExoticDropdown}  onMouseEnter={handleCherriesBerriesExoticMouseEnter}
-                onMouseLeave={handleCherriesBerriesExoticMouseLeave}>
-                  <NavDropdown.Item href="/premiumfruits/cherries-berries-exotic-fruits/cherries">
-                    Cherries
-                  </NavDropdown.Item>
-                  <NavDropdown.Item href="/premiumfruits/cherries-berries-exotic-fruits/berries">
-                    Berries
-                  </NavDropdown.Item>
-                  <NavDropdown.Item href="/premiumfruits/cherries-berries-exotic-fruits/dragonfruits">
-                    Dragon Fruits
-                  </NavDropdown.Item>
+                  <Container
+                    show={showCherriesBerriesExoticDropdown}
+                    onMouseEnter={handleCherriesBerriesExoticMouseEnter}
+                    onMouseLeave={handleCherriesBerriesExoticMouseLeave}
+                  >
+                    <NavDropdown.Item href="/premiumfruits/cherries-berries-exotic-fruits/cherries">
+                      Cherries
+                    </NavDropdown.Item>
+                    <NavDropdown.Item href="/premiumfruits/cherries-berries-exotic-fruits/berries">
+                      Berries
+                    </NavDropdown.Item>
+                    <NavDropdown.Item href="/premiumfruits/cherries-berries-exotic-fruits/dragonfruits">
+                      Dragon Fruits
+                    </NavDropdown.Item>
                   </Container>
                 </>
               )}
@@ -250,31 +278,41 @@ const Header = () => {
               </NavDropdown.Item>
               {showCitrusMangoGrapeDropdown && (
                 <>
-                <Container show={showCitrusMangoGrapeDropdown}  onMouseEnter={handleCitrusMangoGrapeMouseEnter}
-                onMouseLeave={handleCitrusMangoGrapeMouseLeave}>
-                  <NavDropdown.Item href="/premiumfruits/citrus-mango-grapes/citrus">
-                    Citrus
-                  </NavDropdown.Item>
-                  <NavDropdown.Item href="/premiumfruits/citrus-mango-grapes/mangos">
-                    Mangos
-                  </NavDropdown.Item>
-                  <NavDropdown.Item href="/premiumfruits/citrus-mango-grapes/grapes">
-                    Grapes
-                  </NavDropdown.Item>
+                  <Container
+                    show={showCitrusMangoGrapeDropdown}
+                    onMouseEnter={handleCitrusMangoGrapeMouseEnter}
+                    onMouseLeave={handleCitrusMangoGrapeMouseLeave}
+                  >
+                    <NavDropdown.Item href="/premiumfruits/citrus-mango-grapes/citrus">
+                      Citrus
+                    </NavDropdown.Item>
+                    <NavDropdown.Item href="/premiumfruits/citrus-mango-grapes/mangos">
+                      Mangos
+                    </NavDropdown.Item>
+                    <NavDropdown.Item href="/premiumfruits/citrus-mango-grapes/grapes">
+                      Grapes
+                    </NavDropdown.Item>
                   </Container>
                 </>
               )}
-              <NavDropdown.Item as={Link} to={"/premiumfruits/dates"} onMouseEnter={handleWetDatesMouseEnter}
-                onMouseLeave={handleWetDatesMouseLeave}>
+              <NavDropdown.Item
+                as={Link}
+                to={"/premiumfruits/dates"}
+                onMouseEnter={handleWetDatesMouseEnter}
+                onMouseLeave={handleWetDatesMouseLeave}
+              >
                 dates
               </NavDropdown.Item>
               {showWetDatesDropdown && (
                 <>
-                <Container show={showWetDatesDropdown}  onMouseEnter={handleWetDatesMouseEnter}
-                onMouseLeave={handleWetDatesMouseLeave}>
-                  <NavDropdown.Item href="/premiumfruits/dates/wetdates">
-                    Wet Dates
-                  </NavDropdown.Item>
+                  <Container
+                    show={showWetDatesDropdown}
+                    onMouseEnter={handleWetDatesMouseEnter}
+                    onMouseLeave={handleWetDatesMouseLeave}
+                  >
+                    <NavDropdown.Item href="/premiumfruits/dates/wetdates">
+                      Wet Dates
+                    </NavDropdown.Item>
                   </Container>
                 </>
               )}
@@ -288,11 +326,14 @@ const Header = () => {
               </NavDropdown.Item>
               {showGiftPackDropdown && (
                 <>
-                <Container show={showGiftPackDropdown}  onMouseEnter={handleGiftPackMouseEnter}
-                onMouseLeave={handleGiftPackMouseLeave}>
-                  <NavDropdown.Item href="/premiumfruits/gift-assorted-xl-packs/giftpacks">
-                    Gifts Pack
-                  </NavDropdown.Item>
+                  <Container
+                    show={showGiftPackDropdown}
+                    onMouseEnter={handleGiftPackMouseEnter}
+                    onMouseLeave={handleGiftPackMouseLeave}
+                  >
+                    <NavDropdown.Item href="/premiumfruits/gift-assorted-xl-packs/giftpacks">
+                      Gifts Pack
+                    </NavDropdown.Item>
                   </Container>
                 </>
               )}
@@ -306,17 +347,20 @@ const Header = () => {
               </NavDropdown.Item>
               {showPomegranatePapayaPineappleDropdown && (
                 <>
-                <Container show={showPomegranatePapayaPineappleDropdown}  onMouseEnter={handlePomegranatePapayaPineappleMouseEnter}
-                onMouseLeave={handlePomegranatePapayaPineappleMouseLeave}>
-                  <NavDropdown.Item href="/premiumfruits/pomegranate-papaya-pineapple/pomegranates">
-                    Pomegranates
-                  </NavDropdown.Item>
-                  <NavDropdown.Item href="/premiumfruits/pomegranate-papaya-pineapple/papayas">
-                    Papayas
-                  </NavDropdown.Item>
-                  <NavDropdown.Item href="/premiumfruits/pomegranate-papaya-pineapple/pineapples">
-                    Pineapples
-                  </NavDropdown.Item>
+                  <Container
+                    show={showPomegranatePapayaPineappleDropdown}
+                    onMouseEnter={handlePomegranatePapayaPineappleMouseEnter}
+                    onMouseLeave={handlePomegranatePapayaPineappleMouseLeave}
+                  >
+                    <NavDropdown.Item href="/premiumfruits/pomegranate-papaya-pineapple/pomegranates">
+                      Pomegranates
+                    </NavDropdown.Item>
+                    <NavDropdown.Item href="/premiumfruits/pomegranate-papaya-pineapple/papayas">
+                      Papayas
+                    </NavDropdown.Item>
+                    <NavDropdown.Item href="/premiumfruits/pomegranate-papaya-pineapple/pineapples">
+                      Pineapples
+                    </NavDropdown.Item>
                   </Container>
                 </>
               )}
@@ -330,14 +374,17 @@ const Header = () => {
               </NavDropdown.Item>
               {showSeasonalMinorFruitsDropdown && (
                 <>
-                <Container show={showSeasonalMinorFruitsDropdown}  onMouseEnter={handleSeasonalMinorFruitsMouseEnter}
-                onMouseLeave={handleSeasonalMinorFruitsMouseLeave}>
-                  <NavDropdown.Item href="/premiumfruits/seasonal-minor-fruits/guavas">
-                    Guava
-                  </NavDropdown.Item>
-                  <NavDropdown.Item href="/premiumfruits/seasonal-minor-fruits/custardapples">
-                    Custard Apples
-                  </NavDropdown.Item>
+                  <Container
+                    show={showSeasonalMinorFruitsDropdown}
+                    onMouseEnter={handleSeasonalMinorFruitsMouseEnter}
+                    onMouseLeave={handleSeasonalMinorFruitsMouseLeave}
+                  >
+                    <NavDropdown.Item href="/premiumfruits/seasonal-minor-fruits/guavas">
+                      Guava
+                    </NavDropdown.Item>
+                    <NavDropdown.Item href="/premiumfruits/seasonal-minor-fruits/custardapples">
+                      Custard Apples
+                    </NavDropdown.Item>
                   </Container>
                 </>
               )}
@@ -398,51 +445,53 @@ const Header = () => {
             >
               Beauty
             </Nav.Link>
+            {/* bagsandluggages */}
             <NavDropdown
-              show={showBagsLugsDropdown}
-              onMouseEnter={handleBagsLugsMouseEnter}
-              onMouseLeave={handleBagsLugsMouseLeave}
+              show={showSportsToysLuggagesDropdown}
+              onMouseEnter={handleSportsToysLuggagesMouseEnter}
+              onMouseLeave={handleSportsToysLuggagesMouseLeave}
             >
-              
               <NavDropdown.Item
                 as={Link}
-                to={"/BagsAndLuggages/BagsAndLuggages/BagsAndBackpacks"}
-                
+                to={"/SportsToys&Luggages/BagsTravelLuggages"}
+                onMouseEnter={handleBagsAndTravelLuggagesMouseEnter}
+                onMouseLeave={handleBagsAndTravelLuggagesMouseLeave}
               >
-                Bags & Backpacks
+                Bags & Travel Luggages
               </NavDropdown.Item>
-              <NavDropdown.Item
-                as={Link}
-                to={"/BagsAndLuggages/BagsAndLuggages/DoffleBags"}
-                
-              >
-                DoffleBags
-              </NavDropdown.Item>
-              <NavDropdown.Item
-                as={Link}
-                to={"/BagsAndLuggages/BagsAndLuggages/TrollyseAndSuitcase"}
-                
-              >
-                Trolleys & Suitcases
-              </NavDropdown.Item>
-              <NavDropdown.Item
-                as={Link}
-                to={"/BagsAndLuggages/BagsAndLuggages/ShoppingbagsAndOtherbags"}
-                
-              >
-                Shopping Bags & OtherBags
-              </NavDropdown.Item>
-              
-
-
-             </NavDropdown>
+              {showBagsAndTravelLuggagesDropdown && (
+                <>
+                  <Container
+                    show={showBagsAndTravelLuggagesDropdown}
+                    onMouseEnter={handleBagsAndTravelLuggagesMouseEnter}
+                    onMouseLeave={handleBagsAndTravelLuggagesMouseLeave}
+                  >
+                    <NavDropdown.Item href="/SportsToys&Luggages/BagsTravelLuggages/BagsAndBackpacks">
+                      Bags & Backpacks
+                    </NavDropdown.Item>
+                    <NavDropdown.Item href="/SportsToys&Luggages/BagsTravelLuggages/DuffleBags">
+                      Duffle Bags
+                    </NavDropdown.Item>
+                    <NavDropdown.Item href="/SportsToys&Luggages/BagsTravelLuggages/ShoppingAndOtherbags">
+                      Shopping & Other Bags
+                    </NavDropdown.Item>
+                    {/* <NavDropdown.Item href="/SportsToys&Luggages/BagsTravelLuggages/TravelAccessories">
+                      Travel Accessories
+                    </NavDropdown.Item> */}
+                    <NavDropdown.Item href="/SportsToys&Luggages/BagsTravelLuggages/TrolleysAndSuitcases">
+                      Trolleys & Suitcases
+                    </NavDropdown.Item>
+                  </Container>
+                </>
+              )}
+            </NavDropdown>
             <Nav.Link
               as={Link}
-              to={"/BagsAndLuggages"}
-              onMouseEnter={handleBagsLugsMouseEnter}
-              onMouseLeave={handleBagsLugsMouseLeave}
+              to={"/SportsToys&Luggages"}
+              onMouseEnter={handleSportsToysLuggagesMouseEnter}
+              onMouseLeave={handleSportsToysLuggagesMouseLeave}
             >
-              Bags & Luggages
+              SportsToys&Luggages
             </Nav.Link>
 
             <Nav.Link href="#about">About</Nav.Link>
