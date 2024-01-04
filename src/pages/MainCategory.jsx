@@ -1,9 +1,10 @@
-import React from "react";
+import React, { useState } from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import ProductCard from "../components/ProductCard";
 import { useLocation } from "react-router-dom";
 import BreadCrumbs from "../components/BreadCrumbs";
 import CategoryAccordions from "../components/CategoryAccordions";
+import SortBtn from '../components/SortBtn';
 
 const MainCategory = ({ products }) => {
   const { pathname } = useLocation();
@@ -12,14 +13,44 @@ const MainCategory = ({ products }) => {
   const mainTitle = pathname?.substring(1);
   const mainUrl = pathname;
 
-  const filteredProducts = [].concat(...Object.values(products));
+  //sortbtn
+  const [selectedSortItem, setSelectedSortItem] = useState("Discount");
+  const handleDropdownSelect = (selected) => {
+    setSelectedSortItem(selected);
+  };
+  console.log("selectedSortItem", selectedSortItem);
+
+  let filteredProducts = [].concat(...Object.values(products));
   console.log("filteredProducts", filteredProducts);
 
   //unique productid check
   // const check = filteredProducts.find((product)=>product.productId == 599990499);
   // console.log("check",check);
 
-  console.log("Filtered products : ", filteredProducts);
+  //sortbtn filter
+  if (selectedSortItem == "All Products") {
+    console.log("based on all Products sorting");
+    // Example usage:
+    filteredProducts = shuffleArray(filteredProducts);
+  } else if (selectedSortItem == "Discount") {
+    console.log("based on discount");
+    filteredProducts = filteredProducts
+      .slice()
+      .sort((a, b) => b.discount - a.discount);
+  } else if (selectedSortItem == "Popularity") {
+    console.log("based on popularity");
+    filteredProducts = filteredProducts
+      .slice()
+      .sort((a, b) => b.ratings - a.ratings);
+  } else if (selectedSortItem == "Price:High to Low") {
+    console.log("based on ascending price");
+    filteredProducts = filteredProducts.slice().sort((a, b) => b.mrp - a.mrp);
+  } else if (selectedSortItem == "Price:Low to High") {
+    console.log("based on descending price");
+    filteredProducts = filteredProducts.slice().sort((a, b) => a.mrp - b.mrp);
+  } else {
+    console.log("selectedSortItem is empty");
+  }
 
   function shuffleArray(array) {
     // Create a copy of the original array to avoid modifying the original array
@@ -37,13 +68,9 @@ const MainCategory = ({ products }) => {
     return shuffledArray;
   }
 
-  // Example usage:
-  const shuffledArray = shuffleArray(filteredProducts);
-
-  console.log(shuffledArray);
 
   return (
-    <Container className="product-list-container">
+    <Container fluid className="product-list-container">
       {/* First Row with Breadcrumbs */}
       <Row>
         <Col>
@@ -58,8 +85,16 @@ const MainCategory = ({ products }) => {
         </Col>
         {/* Right column */}
         <Col md={9}>
+          <Row className=" mt-3 justify-content-end">
+            <Col>
+              <SortBtn
+                selectedSortItem={selectedSortItem}
+                handleDropdownSelect={handleDropdownSelect}
+              />
+            </Col>
+          </Row>
           <Row className=" mt-3 ">
-            {shuffledArray.map((product) => (
+            {filteredProducts.map((product) => (
               <Col key={product.productId} xs={12} md={6} lg={4}>
                 <ProductCard
                   key={product.productId}
