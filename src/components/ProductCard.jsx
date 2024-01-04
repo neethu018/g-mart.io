@@ -1,29 +1,28 @@
-
-
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { Card, Button } from "react-bootstrap";
 import { Link, useNavigate, useLocation } from "react-router-dom";
-import { CartContext } from '../context/CartContext'
+import { CartContext } from "../context/CartContext";
 import { faPlus } from "@fortawesome/free-solid-svg-icons";
 import { faHeart as regularHeart } from "@fortawesome/free-regular-svg-icons";
-import { useContext } from 'react'
+import { useContext } from "react";
 
 const ProductCard = ({ product, category, subcategory }) => {
   const { pathname } = useLocation();
-  const { cartItems, addToCart } = useContext(CartContext)
+  const { cartItems, addToCart } = useContext(CartContext);
   const navigate = useNavigate();
 
   let path = "";
   if (subcategory) {
     path = `${product.productId}`;
   } else if (category === "allproducts") {
-    path = `${category}/${product.shortDesc.split(" ")[0]}/${product.productId}`;
+    path = `${category}/${product.shortDesc.split(" ")[0]}/${
+      product.productId
+    }`;
   } else if (category) {
     path = `${product.shortDesc.split(" ")[0]}/${product.productId}`;
   } else {
     navigate("/");
   }
-  
 
   const handleAddToCart = () => {
     // Call the function from useCart to add the product to the cart
@@ -32,22 +31,18 @@ const ProductCard = ({ product, category, subcategory }) => {
     addToCart(product);
     // console.log("Cart after adding:", cartItems); // Make sure this log shows the updated cart
     // console.log("add to cart button clicked")
-
   };
 
   return (
-    <Card
-      style={{ borderRadius: "10%", padding: 20, marginBottom: 20 }}
-      as={Link}
-      to={`${pathname}/${path}`}
-      state={{ product }}
-    >
-      <Card.Img
-        variant="top"
-        src={product.productImage[0]}
-        alt={product.productImage}
-        style={{ width: 300, height: 300 }}
-      />
+    <Card style={{ borderRadius: "10%", padding: 20, marginBottom: 20 }}>
+      <Link to={`${pathname}/${path}`} state={{ product }}>
+        <Card.Img
+          variant="top"
+          src={product.productImage[0]}
+          alt={product.productImage}
+          style={{ width: 200, height: 200 }}
+        />
+      </Link>
       <Card.Title style={{ position: "absolute", top: 30, right: 30 }}>
         <FontAwesomeIcon
           icon={regularHeart}
@@ -57,8 +52,23 @@ const ProductCard = ({ product, category, subcategory }) => {
       <Card.Body>
         <Card.Title>{product.shortDesc}</Card.Title>
         <Card.Text>
-          {(product.mrp - product.mrp * (product.discount / 100)).toFixed()}{" "}
-          {product.mrp} {product.discount}% OFF
+        {product.discount > 0 ? (
+            <div className="d-flex flex-row justify-content-start gap-2">
+              <p style={{ fontWeight: "bold" }}>
+                &#x20B9;{" "}
+                {(
+                  product.mrp -
+                  product.mrp * (product.discount / 100)
+                ).toFixed()}
+              </p>
+              <p style={{ textDecoration: "line-through" }}>
+                M.R.P:{product.mrp}
+              </p>
+              <p style={{ color: "green",backgroundColor: "#ABEBC6",borderRadius:"5px",padding:"0px 5px" }}>{product.discount}% off</p>
+            </div>
+          ) : (
+            <p style={{ fontWeight: "bold" }}>&#x20B9; {product.mrp}</p>
+          )}
         </Card.Text>
         <Button className="rounded-lg bg-white w-100" onClick={handleAddToCart}>
           <div
