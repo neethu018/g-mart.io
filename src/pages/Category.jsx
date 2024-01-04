@@ -1,8 +1,9 @@
 import React, { useState } from "react";
 import ProductCard from "../components/ProductCard";
-import { useParams,useLocation } from "react-router-dom";
+import { useParams, useLocation } from "react-router-dom";
 import { Container, Row, Col } from "react-bootstrap";
 import BreadCrumbs from "../components/BreadCrumbs";
+import CategoryAccordions from "../components/CategoryAccordions";
 
 const Category = ({ products }) => {
   const [showdata, setShowdata] = useState([]);
@@ -37,7 +38,7 @@ const Category = ({ products }) => {
   console.log("catUrl", catUrl);
 
   let filteredProducts;
-  if (category === "apples-pears") {
+  if (category === "ApplePears") {
     // Check if 'apples' and 'pears' properties exist in the products object
     if (products && products.apples && products.pears) {
       filteredProducts = [...products.apples, ...products.pears];
@@ -45,31 +46,53 @@ const Category = ({ products }) => {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
-  } else if (category === "avacado-peach-plum") {
+  } else if (category === "AvacadoPeachPlum") {
     // Check if 'avocados','nectarines','peaches properties exist in the products object
-    if (products && products.avacados && products.peaches&& products.nectarines) {
-      filteredProducts = [...products.avacados, ...products.peaches,...products.nectarines];
+    if (
+      products &&
+      products.avacados &&
+      products.peaches &&
+      products.nectarines
+    ) {
+      filteredProducts = [
+        ...products.avacados,
+        ...products.peaches,
+        ...products.nectarines,
+      ];
     } else {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
-  }else if (category === "banana-melons-coconut") {
+  } else if (category === "BananaMelonCoconut") {
     // Check if 'bananas','coconuts','melons properties exist in the products object
     if (products && products.coconuts && products.melons && products.bananas) {
-      filteredProducts = [...products.coconuts, ...products.melons,...products.bananas];
+      filteredProducts = [
+        ...products.coconuts,
+        ...products.melons,
+        ...products.bananas,
+      ];
     } else {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
-  }else if (category === "cherries-berries-exotic-fruits") {
+  } else if (category === "CherriesBerriesDragonfruit") {
     // Check if 'cherries','berries','dragonfruits' properties exist in the products object
-    if (products && products.cherries && products.berries && products.dragonfruits) {
-      filteredProducts = [...products.cherries, ...products.berries,...products.dragonfruits];
+    if (
+      products &&
+      products.cherries &&
+      products.berries &&
+      products.dragonfruits
+    ) {
+      filteredProducts = [
+        ...products.cherries,
+        ...products.berries,
+        ...products.dragonfruits,
+      ];
     } else {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
-  }else if (category === "citrus-mango-grapes") {
+  } else if (category === "CitrusMangosGrapes") {
     // Check if 'citrus','grspes', properties exist in the products object
     if (products && products.grapes && products.citrus) {
       filteredProducts = [...products.grapes, ...products.citrus];
@@ -77,7 +100,7 @@ const Category = ({ products }) => {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
-  }else if (category === "dates") {
+  } else if (category === "Dates") {
     // Check if 'wetdates' properties exist in the products object
     if (products && products.wetdates) {
       filteredProducts = [...products.wetdates];
@@ -85,7 +108,7 @@ const Category = ({ products }) => {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
-  }else if (category === "gift-assorted-xl-packs") {
+  } else if (category === "GiftAssortedXlPacks") {
     // Check if 'giftpacks' properties exist in the products object
     if (products && products.giftpacks) {
       filteredProducts = [...products.giftpacks];
@@ -93,67 +116,108 @@ const Category = ({ products }) => {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
-  }else if (category === "pomegranate-papaya-pineapple") {
+  } else if (category === "PomegranatePapayaPineapple") {
     // Check if 'pomegranates','pineapples','papayas' properties exist in the products object
-    if (products && products.pomegranates && products.papayas && products.pineapples) {
-      filteredProducts = [...products.pineapples,...products.pomegranates,...products.papayas];
+    if (
+      products &&
+      products.pomegranates &&
+      products.papayas &&
+      products.pineapples
+    ) {
+      filteredProducts = [
+        ...products.pineapples,
+        ...products.pomegranates,
+        ...products.papayas,
+      ];
     } else {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
-  }else if (category === "seasonal-minor-fruits") {
+  } else if (category === "SeasonalMinorFruits") {
     // Check if 'guavas','custardapples' properties exist in the products object
     if (products && products.guavas && products.custardapples) {
-      filteredProducts = [...products.guavas,...products.custardapples];
+      filteredProducts = [...products.guavas, ...products.custardapples];
     } else {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
-  }else if (category === "make-up") {
+  } else if (category === "makeup") {
     // Check if 'Lips','Nails','Eyes','Facepack','makeuptools' properties exist in the products object
-    if (products && products.Lips && products.Nails && products.Eyes && products.FaceMakeUp && products.MakeupToolsBrushes) {
-      filteredProducts = [...products.Lips,...products.Nails,...products.Eyes,...products.FaceMakeUp,...products.MakeupToolsBrushes];
+    if (
+      products &&
+      products.Lips &&
+      products.Nails &&
+      products.Eyes &&
+      products.FaceMakeUp &&
+      products.MakeupToolsBrushes
+    ) {
+      filteredProducts = [
+        ...products.Lips,
+        ...products.Nails,
+        ...products.Eyes,
+        ...products.FaceMakeUp,
+        ...products.MakeupToolsBrushes,
+      ];
     } else {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
-  }//BagsAndLuggages
+  } //BagsAndLuggages
   else if (category === "BagsTravelLuggages") {
     // Bags Luggages
-    if (products && products.BagsAndBackpacks && products.DuffleBags && products.TrolleysAndSuitcases && products.ShoppingAndOtherbags) {
-      filteredProducts = [...products.BagsAndBackpacks, ...products.DuffleBags,...products.TrolleysAndSuitcases,...products.ShoppingAndOtherbags];
+    if (
+      products &&
+      products.BagsAndBackpacks &&
+      products.DuffleBags &&
+      products.TrolleysAndSuitcases &&
+      products.ShoppingAndOtherbags
+    ) {
+      filteredProducts = [
+        ...products.BagsAndBackpacks,
+        ...products.DuffleBags,
+        ...products.TrolleysAndSuitcases,
+        ...products.ShoppingAndOtherbags,
+      ];
     } else {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
-  }
-  else {
+  } else {
     // Handle other categories or render an appropriate message
     return <div>Invalid category specified.</div>;
   }
-  
+
   filteredProducts = shuffleArray(filteredProducts);
 
   return (
     <Container className="product-list-container">
       {/* First Row with Breadcrumbs */}
       <Row>
-          <Col>
-            <BreadCrumbs
-              mainTitle={mainTitle}
-              mainUrl={mainUrl}
-              catTitle={catTitle}
-              catUrl={catUrl}
-            />
-          </Col>
-        </Row>
-        {/* Second Row with Two Columns */}
+        <Col>
+          <BreadCrumbs
+            mainTitle={mainTitle}
+            mainUrl={mainUrl}
+            catTitle={catTitle}
+            catUrl={catUrl}
+          />
+        </Col>
+      </Row>
+      {/* Second Row with Two Columns */}
       <Row>
-        {filteredProducts.map((product) => (
-          <Col key={product.productId} xs={12} md={6} lg={4}>
-            <ProductCard product={product} category={category}/>
-          </Col>
-        ))}
+        {/* Left Column with Category Accordions */}
+        <Col md={3} lg={3}>
+          <CategoryAccordions mainCategory={mainTitle} />
+        </Col>
+        {/* right column with product list */}
+        <Col md={9}>
+          <Row className=" mt-3 justify-content-end">
+            {filteredProducts.map((product) => (
+              <Col key={product.productId} xs={12} md={6} lg={4}>
+                <ProductCard product={product} category={category} />
+              </Col>
+            ))}
+          </Row>
+        </Col>
       </Row>
     </Container>
   );
