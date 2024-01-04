@@ -104,10 +104,10 @@ const Category = ({ products }) => {
       return <div>Error loading products.</div>;
     }
   }//BagsAndLuggages
-  else if (category === "Bags") {
+  else if (category === "BagsTravelLuggages") {
     // Bags Luggages
-    if (products && products.BagsAndBackpacks && products.DoffleBags && products.TrollyseAndSuitcase && products.ShoppingbagsAndOtherbags) {
-      filteredProducts = [...products.BagsAndBackpacks, ...products.DoffleBags,...products.TrollyseAndSuitcase,...products.ShoppingbagsAndOtherbags];
+    if (products && products.BagsAndBackpacks && products.DuffleBags && products.TrolleysAndSuitcases && products.ShoppingAndOtherbags) {
+      filteredProducts = [...products.BagsAndBackpacks, ...products.DuffleBags,...products.TrolleysAndSuitcases,...products.ShoppingAndOtherbags];
     } else {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
