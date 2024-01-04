@@ -1,6 +1,7 @@
-import React, { useState } from "react";
+import  { useState } from "react";
 // import { Navbar, Nav } from 'react-bootstrap';
 import { Navbar, Nav, NavDropdown,Container } from "react-bootstrap";
+import CartIcon from "./CartIcon";
 import { Link } from "react-router-dom";
 
 const Header = () => {
@@ -445,10 +446,11 @@ const Header = () => {
               Bags & Luggages
             </Nav.Link>
 
+            
             <Nav.Link href="#about">About</Nav.Link>
             <Nav.Link href="#about">About</Nav.Link>
             <Nav.Link href="#about">About</Nav.Link>
-            <Nav.Link href="#about">About</Nav.Link>
+            <CartIcon/>
           </Nav>
         </Navbar.Collapse>
       </Navbar>

@@ -2,6 +2,7 @@ import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 import "./App.css";
 import Category from "./pages/Category";
 import Home from "./pages/Home";
+import Cart from "./pages/Cart"
 import SubCategory from "./pages/SubCategory";
 import { premiumFruits } from "./utils/premiumfruitsdata";//premiumfruits data
 import { beauty } from "./utils/beauty";//beauty data
@@ -9,10 +10,10 @@ import {BagsAndLuggages} from './utils/Bags' //BagsAndLuggages data
 import MainCategory from "./pages/MainCategory";
 import Header from "./components/Header";
 import ProductDetail from "./pages/ProductDetail";
-
 function App() {
   console.log("premiumfruits data :", premiumFruits);
   return (
+  
     <>
       <Router>
         <Header />
@@ -64,11 +65,13 @@ function App() {
           />
           <Route
             path="/BagsAndLuggages/:category/:subcategory/:product"
-            element={<ProductDetail />}
-          />
+            element={<ProductDetail />}/>
+            <Route path="/cart" element={<Cart/>}/>
+          
         </Routes>
       </Router>
     </>
+
   );
 }
 
