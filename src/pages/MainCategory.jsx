@@ -2,10 +2,14 @@ import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import ProductCard from "../components/ProductCard";
 import {useLocation} from 'react-router-dom';
+import BreadCrumbs from "../components/BreadCrumbs";
 
 const MainCategory = ({ products }) => {
-  const path = useLocation();
-  console.log("path", path);
+  const {pathname} = useLocation();
+  console.log("path", pathname);
+  //breadcrumbs
+  const mainTitle = pathname?.substring(1);
+  const mainUrl = pathname;
   
   const filteredProducts = [].concat(...Object.values(products));
   console.log("filteredProducts", filteredProducts);
@@ -38,7 +42,13 @@ const MainCategory = ({ products }) => {
   
   return (
     <Container className="product-list-container">
-      <h3>Products :</h3>
+      {/* First Row with Breadcrumbs */}
+      <Row>
+        <Col>
+          <BreadCrumbs mainTitle={mainTitle} mainUrl={mainUrl} />
+        </Col>
+      </Row>
+      {/* Second Row with Two Columns */}
       <Row>
         {shuffledArray.map((product) => (
           <Col key={product.productId} xs={12} md={6} lg={4}>

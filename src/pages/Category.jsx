@@ -1,7 +1,8 @@
 import React, { useState } from "react";
 import ProductCard from "../components/ProductCard";
-import { useParams } from "react-router-dom";
+import { useParams,useLocation } from "react-router-dom";
 import { Container, Row, Col } from "react-bootstrap";
+import BreadCrumbs from "../components/BreadCrumbs";
 
 const Category = ({ products }) => {
   const [showdata, setShowdata] = useState([]);
@@ -21,6 +22,19 @@ const Category = ({ products }) => {
   const { category } = useParams();
   console.log("category : ", category);
   console.log("products : ", products);
+  //breadcrumbs
+  const { pathname } = useLocation();
+  console.log("pathname", pathname);
+  const titles = pathname.split("/");
+  console.log("titles", titles);
+  const mainTitle = titles[1];
+  const mainUrl = "/" + titles[1];
+  console.log("mainTitle", mainTitle);
+  console.log("mainUrl", mainUrl);
+  const catTitle = titles[2];
+  const catUrl = pathname;
+  console.log("catTitle", catTitle);
+  console.log("catUrl", catUrl);
 
   let filteredProducts;
   if (category === "apples-pears") {
@@ -122,7 +136,18 @@ const Category = ({ products }) => {
 
   return (
     <Container className="product-list-container">
-      <h3>Products </h3>
+      {/* First Row with Breadcrumbs */}
+      <Row>
+          <Col>
+            <BreadCrumbs
+              mainTitle={mainTitle}
+              mainUrl={mainUrl}
+              catTitle={catTitle}
+              catUrl={catUrl}
+            />
+          </Col>
+        </Row>
+        {/* Second Row with Two Columns */}
       <Row>
         {filteredProducts.map((product) => (
           <Col key={product.productId} xs={12} md={6} lg={4}>
