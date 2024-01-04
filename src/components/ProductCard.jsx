@@ -1,41 +1,81 @@
-import { faHeart, faPlus } from "@fortawesome/free-solid-svg-icons";
-import { faHeart as regularHeart,} from "@fortawesome/free-regular-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import React, { useEffect } from "react";
-import { Card, Button } from "react-bootstrap";
-import { Link,useParams,useNavigate,useLocation } from "react-router-dom";
 
-const ProductCard = ({product,category,subcategory}) => {
-  const {pathname} = useLocation();
-  console.log("loc",pathname);
+
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { Card, Button } from "react-bootstrap";
+import { Link, useNavigate, useLocation } from "react-router-dom";
+import { CartContext } from '../context/CartContext'
+import { faPlus } from "@fortawesome/free-solid-svg-icons";
+import { faHeart as regularHeart } from "@fortawesome/free-regular-svg-icons";
+import { useContext } from 'react'
+
+const ProductCard = ({ product, category, subcategory }) => {
+  const { pathname } = useLocation();
+  const { cartItems, addToCart } = useContext(CartContext)
   const navigate = useNavigate();
-  // useEffect(()=>{
-  //   const path = useParams();
-  //   console.log("path : ",path);
-  // },[])
+
   let path = "";
-  if(subcategory){
+  if (subcategory) {
     path = `${product.productId}`;
-  }else if(category == "allproducts"){
+  } else if (category === "allproducts") {
     path = `${category}/${product.shortDesc.split(" ")[0]}/${product.productId}`;
-  }else if(category){
+  } else if (category) {
     path = `${product.shortDesc.split(" ")[0]}/${product.productId}`;
-  }else{
-    navigate('/')
+  } else {
+    navigate("/");
   }
-  console.log("product to pass : ",product);  
+  
+
+  const handleAddToCart = () => {
+    // Call the function from useCart to add the product to the cart
+    // console.log("add to cart button clicked")
+    // console.log("Adding to cart:", product);
+    addToCart(product);
+    // console.log("Cart after adding:", cartItems); // Make sure this log shows the updated cart
+    // console.log("add to cart button clicked")
+
+  };
+
   return (
-    <Card style={{borderRadius:"10%",padding:20,marginBottom:20}} as={Link} to={`${pathname}/${path}`} state={{product}}>
-      <Card.Img variant="top" src={product.productImage[0]} alt={product.productImage} style={{width:300,height:300}}/>
-      <Card.Title style={{position:"absolute",top:30,right:30}}><FontAwesomeIcon icon={regularHeart} style={{width:"30",height:"30"}} /></Card.Title>
+    <Card
+      style={{ borderRadius: "10%", padding: 20, marginBottom: 20 }}
+      as={Link}
+      to={`${pathname}/${path}`}
+      state={{ product }}
+    >
+      <Card.Img
+        variant="top"
+        src={product.productImage[0]}
+        alt={product.productImage}
+        style={{ width: 300, height: 300 }}
+      />
+      <Card.Title style={{ position: "absolute", top: 30, right: 30 }}>
+        <FontAwesomeIcon
+          icon={regularHeart}
+          style={{ width: "30", height: "30" }}
+        />
+      </Card.Title>
       <Card.Body>
         <Card.Title>{product.shortDesc}</Card.Title>
         <Card.Text>
-          {(product.mrp -(product.mrp * (product.discount / 100))).toFixed()} {product.mrp}{" "}
-          {product.discount}% OFF
+          {(product.mrp - product.mrp * (product.discount / 100)).toFixed()}{" "}
+          {product.mrp} {product.discount}% OFF
         </Card.Text>
-        <Button className="rounded-lg bg-white w-100">
-          <div style={{display:"flex",justifyContent:"space-between",color:"black",alignItems:"center",marginRight: '20px',marginLeft:"20px"}}><div style={{fontSize:20,fontWeight:800}}>Add</div><div><FontAwesomeIcon icon={faPlus} /></div></div>
+        <Button className="rounded-lg bg-white w-100" onClick={handleAddToCart}>
+          <div
+            style={{
+              display: "flex",
+              justifyContent: "space-between",
+              color: "black",
+              alignItems: "center",
+              marginRight: "20px",
+              marginLeft: "20px",
+            }}
+          >
+            <div style={{ fontSize: 20, fontWeight: 800 }}>Add</div>
+            <div>
+              <FontAwesomeIcon icon={faPlus} />
+            </div>
+          </div>
         </Button>
       </Card.Body>
     </Card>

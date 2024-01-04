@@ -1,6 +1,9 @@
-import React, { useState } from "react";
-// import { Navbar, Nav } from 'react-bootstrap';
+import  { useState } from "react";
+
+import CartIcon from "./CartIcon";
+
 import { Navbar, Nav, NavDropdown, Container } from "react-bootstrap";
+
 import { Link } from "react-router-dom";
 
 const Header = () => {
@@ -494,10 +497,11 @@ const Header = () => {
               SportsToys&Luggages
             </Nav.Link>
 
+            
             <Nav.Link href="#about">About</Nav.Link>
             <Nav.Link href="#about">About</Nav.Link>
             <Nav.Link href="#about">About</Nav.Link>
-            <Nav.Link href="#about">About</Nav.Link>
+            <CartIcon/>
           </Nav>
         </Navbar.Collapse>
       </Navbar>
