@@ -4,9 +4,17 @@ import { useParams, useLocation } from "react-router-dom";
 import { Container, Row, Col } from "react-bootstrap";
 import BreadCrumbs from "../components/BreadCrumbs";
 import CategoryAccordions from "../components/CategoryAccordions";
+import SortBtn from "../components/SortBtn";
 
 const Category = ({ products }) => {
   const [showdata, setShowdata] = useState([]);
+
+  //sortbtn
+  const [selectedSortItem, setSelectedSortItem] = useState("Discount");
+  const handleDropdownSelect = (selected) => {
+    setSelectedSortItem(selected);
+  };
+  console.log("selectedSortItem", selectedSortItem);
 
   const shuffleArray = (array) => {
     const shuffledArray = [...array];
@@ -187,10 +195,35 @@ const Category = ({ products }) => {
     return <div>Invalid category specified.</div>;
   }
 
-  filteredProducts = shuffleArray(filteredProducts);
+  //sortbtn filter
+  if (selectedSortItem == "All Products") {
+    console.log("based on all Products sorting");
+    // Example usage:
+    filteredProducts = shuffleArray(filteredProducts);
+  } else if (selectedSortItem == "Discount") {
+    console.log("based on discount");
+    filteredProducts = filteredProducts
+      .slice()
+      .sort((a, b) => b.discount - a.discount);
+  } else if (selectedSortItem == "Popularity") {
+    console.log("based on popularity");
+    filteredProducts = filteredProducts
+      .slice()
+      .sort((a, b) => b.ratings - a.ratings);
+  } else if (selectedSortItem == "Price:High to Low") {
+    console.log("based on ascending price");
+    filteredProducts = filteredProducts.slice().sort((a, b) => b.mrp - a.mrp);
+  } else if (selectedSortItem == "Price:Low to High") {
+    console.log("based on descending price");
+    filteredProducts = filteredProducts.slice().sort((a, b) => a.mrp - b.mrp);
+  } else {
+    console.log("selectedSortItem is empty");
+  }
+
+  // filteredProducts = shuffleArray(filteredProducts);
 
   return (
-    <Container className="product-list-container">
+    <Container fluid className="product-list-container">
       {/* First Row with Breadcrumbs */}
       <Row>
         <Col>
@@ -210,6 +243,14 @@ const Category = ({ products }) => {
         </Col>
         {/* right column with product list */}
         <Col md={9}>
+          <Row className=" mt-3 justify-content-end">
+            <Col>
+              <SortBtn
+                selectedSortItem={selectedSortItem}
+                handleDropdownSelect={handleDropdownSelect}
+              />
+            </Col>
+          </Row>
           <Row className=" mt-3 justify-content-end">
             {filteredProducts.map((product) => (
               <Col key={product.productId} xs={12} md={6} lg={4}>
