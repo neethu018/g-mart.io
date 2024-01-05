@@ -5,8 +5,8 @@ import Home from "./pages/Home";
 import Cart from "./pages/Cart"
 import SubCategory from "./pages/SubCategory";
 import { premiumFruits } from "./utils/premiumfruitsdata";//premiumfruits data
-import { beauty } from "./utils/beauty";//beauty data
-import {BagsAndLuggages} from './utils/Bags' //BagsAndLuggages data
+import { Beauty } from "./utils/beauty";//beauty data
+import { SportsToysLuggages } from "./utils/sportstoysluggages"; //sportstoysLuggages data
 import MainCategory from "./pages/MainCategory";
 import Header from "./components/Header";
 import ProductDetail from "./pages/ProductDetail";
@@ -38,36 +38,39 @@ function App() {
           />
            {/*beauty routings */}
            <Route
-            path="/beauty"
-            element={<MainCategory products={beauty} />}
+            path="/Beauty"
+            element={<MainCategory products={Beauty} />}
           />
           <Route
-            path="/beauty/:category"
-            element={<Category products={beauty} />}
+            path="/Beauty/:category"
+            element={<Category products={Beauty} />}
           />
           <Route
-            path="/beauty/:category/:subcategory"
-            element={<SubCategory products={beauty} />}
+            path="/Beauty/:category/:subcategory"
+            element={<SubCategory products={Beauty} />}
           />
           <Route
-            path="/beauty/:category/:subcategory/:product"
+            path="/Beauty/:category/:subcategory/:product"
             element={<ProductDetail />}
           />
-           <Route path="/BagsAndLuggages"
-          element={<MainCategory products={BagsAndLuggages}/>} />
-           <Route
-            path="/BagsAndLuggages/:category"
-            element={<Category products={BagsAndLuggages} />}
+           {/* sportsToysLuggages */}
+          <Route
+            path="/SportsToysLuggages"
+            element={<MainCategory products={SportsToysLuggages} />}
           />
           <Route
-            path="/BagsAndLuggages/:category/:subcategory"
-            element={<SubCategory products={BagsAndLuggages} />}
+            path="/SportsToysLuggages/:category"
+            element={<Category products={SportsToysLuggages} />}
           />
           <Route
-            path="/BagsAndLuggages/:category/:subcategory/:product"
-            element={<ProductDetail />}/>
-            <Route path="/cart" element={<Cart/>}/>
-          
+            path="/SportsToysLuggages/:category/:subcategory"
+            element={<SubCategory products={SportsToysLuggages} />}
+          />
+          <Route
+            path="/SportsToysLuggages/:category/:subcategory/:product"
+            element={<ProductDetail />}
+          />
+              <Route path="/cart" element={<Cart/>}/>
         </Routes>
       </Router>
     </>

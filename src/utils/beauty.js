@@ -1,4 +1,4 @@
-export const beauty = {
+export const Beauty = {
     Lips:[
       //lipliner
         {
