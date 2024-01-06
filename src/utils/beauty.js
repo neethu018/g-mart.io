@@ -37,7 +37,7 @@ export const Beauty = {
               howtouse:
                 "Step1: Ensure the tip of the pencil is sharp for precise application Step2: Apply first to the outer lines of lips to create the perfect contour Step3: Gradually fill in color all over lips to create the perfect lip fill Step4: You can increase the strokes as per the intensity you desire",
             },
-            productId: 948443,
+            productId: 60632,
           },
           {
             productImage:
@@ -75,7 +75,7 @@ export const Beauty = {
               howtouse:
                 "Step1: Ensure the tip of the pencil is sharp for precise application Step2: Apply first to the outer lines of lips to create the perfect contour Step3: Gradually fill in color all over lips to create the perfect lip fill Step4: You can increase the strokes as per the intensity you desire",
             },
-            productId: 948339,
+            productId: 60633,
           },
           {
             productImage:
@@ -113,7 +113,7 @@ export const Beauty = {
               howtouse:
                 "Step1: Ensure the tip of the pencil is sharp for precise application Step2: Apply first to the outer lines of lips to create the perfect contour Step3: Gradually fill in color all over lips to create the perfect lip fill Step4: You can increase the strokes as per the intensity you desire",
             },
-            productId: 948505,
+            productId: 60634,
           },
           {
             productImage:
@@ -151,7 +151,7 @@ export const Beauty = {
               howtouse:
                 "Step 1: Exfoliate and hydrate your lips. Step 2: Line your lips with the lip definer. Step 3: Define with vertical lines to add dimension. Step 4: Contour using a darker shade to fill in outer corners . Step 5: Fill in your lips with a matching matte shade",
             },
-            productId: 1080167,
+            productId: 60635,
           },
           {
             productImage:
@@ -189,7 +189,7 @@ export const Beauty = {
               howtouse:
                 "Step 1: Exfoliate and hydrate your lips. Step 2: Line your lips with the lip definer. Step 3: Define with vertical lines to add dimension. Step 4: Contour using a darker shade to fill in outer corners . Step 5: Fill in your lips with a matching matte shade",
             },
-            productId: 944480,
+            productId: 60636,
           },//lipstickcream
           {
             productImage:
@@ -227,7 +227,7 @@ export const Beauty = {
               howtouse:
                 "For a flawless application, start from the center of your lips and move outward. Build up the intensity according to your preference. Pair it with a lip liner for added definition or a clear gloss for an extra touch of glamour.",
             },
-            productId: 954785,
+            productId: 60637,
           },//lipstickliquid
           {
             productImage:
@@ -265,7 +265,7 @@ export const Beauty = {
               howtouse:
                 "Use the tip of the doe-foot applicator to easily line and define the contour of the lips. Fill in lips in using the flat side of the wand.",
             },
-            productId: 974112,
+            productId: 60638,
           },
           {
             productImage:
@@ -303,7 +303,7 @@ export const Beauty = {
               howtouse:
                 "1. Start by defining your Cupid's Bow to get perfectly designed lips. Then, move to the puter edges and get an intense look in one swipe.2. Get the intense matte that glides on easily and stays forever fresh",
             },
-            productId: 949481,
+            productId: 60639,
           },//lipstickmate
           {
             productImage:
@@ -341,7 +341,7 @@ export const Beauty = {
               howtouse:
                 "1. Start at the centre of the upper lip and move outwards toward the corners 2. Apply the lipstick to the lower lip 3. Blend to get the perfect finish",
             },
-            productId: 939718,
+            productId: 60640,
           },
           {
             productImage:
@@ -379,7 +379,7 @@ export const Beauty = {
               howtouse:
                 "Using the high point of the bullet, line the cupid’s bow, starting at the center of the lip and moving out. Now fill in the bottom lip by laying the bullet on one of its sides.",
             },
-            productId: 974029,
+            productId: 60641,
           },//lipgloss
           {
             productImage:
@@ -417,7 +417,7 @@ export const Beauty = {
               howtouse:
                 "Swipe lip gloss across your lips like a lipstick, staying away from your lip line. Or Dab a touch of gloss in the middle of your bottom lip and then rub your lips together.",
             },
-            productId: 974011,
+            productId: 60642,
           },
           {
             productImage:
@@ -455,7 +455,7 @@ export const Beauty = {
               howtouse:
                 "Dab the lip gloss on the centre of your lips and move outwards. Press your lips for a smoother looking finish. You can choose to apply it directly or choose to add that sheen to your favourite RENÉE lipstick shade.",
             },
-            productId: 1017817,
+            productId: 60643,
           },
           {
             productImage:
@@ -493,7 +493,7 @@ export const Beauty = {
               howtouse:
                 "Dab the lip gloss on the centre of your lips and move outwards. Press your lips for a smoother looking finish. You can choose to apply it directly or choose to add that sheen to your favourite RENÉE lipstick shade.",
             },
-            productId:"RVTSLIAQ2M",
+            productId:60644,
           },
           {
             productImage:
@@ -531,7 +531,7 @@ export const Beauty = {
               howtouse:
                 "Dab the lip gloss on the centre of your lips and move outwards. Press your lips for a smoother looking finish. You can choose to apply it directly or choose to add that sheen to your favourite RENÉE lipstick shade.",
             },
-            productId: 949310,
+            productId: 60645,
           },//lipbalm
           {
             productImage:
@@ -569,7 +569,7 @@ export const Beauty = {
               howtouse:
                 "Dab the lip gloss on the centre of your lips and move outwards. Press your lips for a smoother looking finish. You can choose to apply it directly or choose to add that sheen to your favourite RENÉE lipstick shade.",
             },
-            productId: 954861,
+            productId: 60646,
           },
           {
             productImage:
@@ -607,7 +607,7 @@ export const Beauty = {
               howtouse:
                 "Use fingertips or a brush to apply a small amount to apple of the cheeks and the lips. For a stronger shade, layer it with multiple applications.",
             },
-          productId: "RVNAUHAPAO",
+          productId: 60647,
           },
           {
             productImage:
@@ -645,7 +645,7 @@ export const Beauty = {
               howtouse:
                 "Massage balm directly onto the lips until it is obsorbed. For best results, use twice a day, daily.",
             },
-            productId: "RVPMXJXH3D",
+            productId: 60648,
           },
           {
             productImage:
@@ -683,7 +683,7 @@ export const Beauty = {
               howtouse:
                 "Massage balm directly onto the lips until it is obsorbed. For best results, use twice a day, daily.",
             },
-            productId: "RVCXPMWY7E",
+            productId: 60649,
           },
           {
             productImage:
@@ -721,7 +721,7 @@ export const Beauty = {
               howtouse:
                 "Massage balm directly onto the lips until it is obsorbed. For best results, use twice a day, daily.",
             },
-            productId: "RVOEF7RY2W",
+            productId: 60650,
           },
           {
             productImage:
@@ -759,7 +759,7 @@ export const Beauty = {
               howtouse:
                 "Wash your hands to remove any dirt or oils.Dry your hands thoroughly.Soak your fingertips in warm, soapy water for a few minutes to soften the nails. This can make the trimming process easier.Ensure that you're using a clean and sharp nail clipper appropriate for your nail size.Position the nail clipper at a comfortable angle, usually straight across the nail.Align the clipper with the desired nail length.Trim your nails in small sections, moving from one side to the other.Avoid cutting too close to the nail bed to prevent ingrown nails.",
             },
-            productId: 1047276,
+            productId: 60651,
           },
           {
             productImage:
@@ -797,7 +797,7 @@ export const Beauty = {
               howtouse:
                 "Wash your hands to remove any dirt or oils.Dry your hands thoroughly.Soak your fingertips in warm, soapy water for a few minutes to soften the nails. This can make the trimming process easier.Ensure that you're using a clean and sharp nail clipper appropriate for your nail size.Position the nail clipper at a comfortable angle, usually straight across the nail.Align the clipper with the desired nail length.Trim your nails in small sections, moving from one side to the other.Avoid cutting too close to the nail bed to prevent ingrown nails.",
             },
-            productId: 1066244,
+            productId: 60652,
           },
           {
             productImage:
@@ -835,7 +835,7 @@ export const Beauty = {
               howtouse:
                 "Ensure your nails are clean and free from any polish or debris.Use the coarsest side of the buffer to shape your nails according to your preference. Move the buffer in one direction to avoid splitting.Switch to the smoother side to reduce ridges and create a smooth nail surface.Use the polishing side of the buffer in a gentle back-and-forth motion to achieve a glossy shine. Take care not to over-buff.Buffing can be done as often as needed to maintain a healthy shine. However, avoid excessive buffing to prevent thinning of the nails.Finish by moisturizing your nails and cuticles to keep them hydrated and healthy.",
             },
-            productId: 1046578,
+            productId: 60653,
           },
     ],
     Nails:[
@@ -876,7 +876,7 @@ export const Beauty = {
           howtouse:
             "Start from the center of the nail and move sideways. Although you are good to go in a single coat but for added drama you can use two coats.",
         },
-        productId: 974151,
+        productId: 60654,
       },
       {
         productImage:
@@ -914,7 +914,7 @@ export const Beauty = {
           howtouse:
             "Start from the center of the nail and move sideways. Although you are good to go in a single coat but for added drama you can use two coats.",
         },
-        productId: 974150,
+        productId: 60655,
       },
       {
         productImage:
@@ -952,7 +952,7 @@ export const Beauty = {
           howtouse:
             "Start from the center of the nail and move sideways. Although you are good to go in a single coat but for added drama you can use two coats.",
         },
-        productId: 948606,
+        productId: 60656,
       },
       {
         productImage:
@@ -990,7 +990,7 @@ export const Beauty = {
           howtouse:
             "Start from the center of the nail and move sideways. Although you are good to go in a single coat but for added drama you can use two coats.",
         },
-        productId: 948588,
+        productId: 60657,
       },//nailpolishremover
       {
         productImage:
@@ -1028,7 +1028,7 @@ export const Beauty = {
           howtouse:
             "Dab some remover onto a cotton pad and gently remove the lacquer from your nail bed with a circular massaging motion until completely clean.",
         },
-        productId: 974165,
+        productId: 60658,
       },
       {
         productImage:
@@ -1066,7 +1066,7 @@ export const Beauty = {
           howtouse:
             "Dab some remover onto a cotton pad and gently remove the lacquer from your nail bed with a circular massaging motion until completely clean.",
         },
-        productId: 974166,
+        productId: 60659,
       },
       {
         productImage:
@@ -1104,7 +1104,7 @@ export const Beauty = {
           howtouse:
             "Press saturated pad lightly over the nail to enable remover to penetrate the layers of polish. Wait a moment and wipe off in one stroke. A second application may be necessary to remove layers of dark nail polish or many layers of nail polish. Wash hands thoroughly.",
         },
-        productId: 974110,
+        productId: 60660,
       },//nailpaint
       {
         productImage:
@@ -1142,7 +1142,7 @@ export const Beauty = {
           howtouse:
             "To apply your first coat of paint, start by a center swipe of paint, then swipe on either side. You should be able to cover the average nail plate in 2-3 strokes. Repeat on each nail. Let dry for at least 3 minutes before applying your second coat of paint.",
         },
-        productId: 949800,
+        productId: 60661,
       },
       {
         productImage:
@@ -1180,7 +1180,7 @@ export const Beauty = {
           howtouse:
             "To apply your first coat of Paint, start by a center swipe of paint, then swipe on either side. You should be able to cover the average nail plate in 2-3 strokes. Repeat on each nail. Let dry for at least 3 minutes before applying your second coat of paint.",
         },
-        productId: 1028716,
+        productId: 60662,
       },
       {
         productImage:
@@ -1218,7 +1218,7 @@ export const Beauty = {
           howtouse:
             "To apply your first coat of Paint, start by a center swipe of paint, then swipe on either side. You should be able to cover the average nail plate in 2-3 strokes. Repeat on each nail. Let dry for at least 3 minutes before applying your second coat of paint.",
         },
-        productId: 949793,
+        productId: 60663,
       },//nailpaintremover
       {
         productImage:
@@ -1256,7 +1256,7 @@ export const Beauty = {
           howtouse:
             "Wash your hands to remove any surface dirt or oils.Moisten a cotton pad or ball with the [Your Brand Name] Nail Paint Remover.Place the moistened cotton pad or ball on your nail and press down gently.Hold the cotton pad or ball on the nail for a few seconds to allow the remover to work. Wipe away the nail polish, starting from the base to the tip.For stubborn or multiple layers of polish, repeat the process until your nails are clean.Wash your hands after using the nail paint remover. Apply a moisturizer to keep your nails and cuticles hydrated.Discard used cotton pads or balls in a waste bin.",
         },
-        productId: 954679,
+        productId: 60664,
       },
       {
         productImage:
@@ -1294,7 +1294,7 @@ export const Beauty = {
           howtouse:
             "Wash your hands to remove any surface dirt or oils.Moisten a cotton pad or ball with the [Your Brand Name] Nail Paint Remover.Place the moistened cotton pad or ball on your nail and press down gently.Hold the cotton pad or ball on the nail for a few seconds to allow the remover to work. Wipe away the nail polish, starting from the base to the tip.For stubborn or multiple layers of polish, repeat the process until your nails are clean.Wash your hands after using the nail paint remover. Apply a moisturizer to keep your nails and cuticles hydrated.Discard used cotton pads or balls in a waste bin.",
         },
-        productId: 954714,
+        productId: 60665,
       },//nailart
       {
         productImage:
@@ -1332,7 +1332,7 @@ export const Beauty = {
           howtouse:
             "Apply a coat of your favourite Lakme Color Crush Nail Art all over your nails avoiding the outer edges and the surrounding skin. Be sure to apply two coats of nail polish for that salon-quality finish.",
         },
-        productId: 949491,
+        productId: 60666,
       },
       {
         productImage:
@@ -1370,7 +1370,7 @@ export const Beauty = {
           howtouse:
             "Apply a coat of your favourite Lakme Color Crush Nail Art all over your nails avoiding the outer edges and the surrounding skin. Be sure to apply two coats of nail polish for that salon-quality finish.",
         },
-        productId: 949373,
+        productId: 60667,
       },//enamelremover
       {
         productImage:
@@ -1408,7 +1408,7 @@ export const Beauty = {
           howtouse:
             "Remove unwanted, old nail color from with Faces Nail Enamel Remover. Little amount of this liquid is enough for removal.",
         },
-        productId: 941092,
+        productId: 60668,
       },
     ],
     Eyes:[
@@ -1449,7 +1449,7 @@ export const Beauty = {
           howtouse:
             "Start at the inner corner of the eye and move outwards The kajal can also be used in the waterline for a refined look",
         },
-        productId: 973962,
+        productId: 60669,
       },
       {
         productImage:
@@ -1487,7 +1487,7 @@ export const Beauty = {
           howtouse:
             "Start at the inner corner of the eye and move outwards The kajal can also be used in the waterline for a refined look",
         },
-        productId: 949201,
+        productId: 60670,
       },
       {
         productImage:
@@ -1525,7 +1525,7 @@ export const Beauty = {
           howtouse:
             " Begin with a clean face and ensure that the eye area is free from any makeup or impurities.f desired, apply eyeshadow or other eye makeup before using kajal.Gently open the Maybelline kajal, being cautious not to twist it excessively to prevent breakage.Apply the kajal to the waterline of your eyes. The waterline is the inner rim of the lower eyelid. You can also apply it to the upper waterline for a more intense look.Depending on the product, you may be able to experiment with different styles, such as creating a winged or smudged look.",
         },
-        productId: 940610,
+        productId: 60671,
       },//eyeliner
       {
         productImage:
@@ -1563,7 +1563,7 @@ export const Beauty = {
           howtouse:
             "Start with a clean, dry eye area. Ensure that your eyelids are free from any oil, moisturizer, or previous makeup.Depending on the specific Blue Heaven eyeliner you have (pencil, liquid, gel), choose the type that suits your preferred application style.Use the applicator to create a smooth line along the lash line. You can start from the inner corner and move towards the outer corner.",
         },
-        productId: 954772,
+        productId: 60672,
       },
       {
         productImage:
@@ -1601,7 +1601,7 @@ export const Beauty = {
           howtouse:
             "Apply close to the lashes for a super tight line, or build to create a dramatic cat-eye or winged-out eye look. Use the lashes as a guide, by resting then pressing the side of the applicator. Use the applicator tip to fill in gaps between lashes, or use thick, bolder lines for a dramatic nighttime feel.",
         },
-        productId: 973942,
+        productId: 60673,
       },
       {
         productImage:
@@ -1639,7 +1639,7 @@ export const Beauty = {
           howtouse:
             "Use the tip of your eyeliner brush to create a dotted (guide) line on your.Slowly connect them with a steady hand and fill in the gaps to get an even stroke.Keep your eyes shut for a while to let the product dry well.",
         },
-        productId: 949351,
+        productId: 60674,
       },
       {
         productImage:
@@ -1677,7 +1677,7 @@ export const Beauty = {
           howtouse:
             "Step 1: Apply along the lash line from the inner to the outer corner. Step 2: Keep it as close to the lashline. Step 3: Extend the line to create a wing.",
         },
-        productId: 1089268,
+        productId: 60675,
       },//eyebrow pencil
       {
         productImage:
@@ -1715,7 +1715,7 @@ export const Beauty = {
           howtouse:
             "Step1: Ensure the tip of the pencil is sharp to mimic precise natural brow hair Step2: Following the shape of your brows to create a natural, fuller look Step3: Fill by drawing short, upward strokes in the direction of your natural hair growth Step4: Continue to make strokes to achieve a desired look.",
         },
-        productId: 948346,
+        productId: 60676,
       },
       {
         productImage:
@@ -1753,7 +1753,7 @@ export const Beauty = {
           howtouse:
             "Ensure your eyebrows are clean and free from any makeup or oils.Brush your eyebrows with a spoolie or eyebrow brush to shape them.Select an eyebrow pencil shade that closely matches your natural eyebrow color for a natural look.Start by outlining the bottom and top edges of your eyebrows using short, light strokes.Use the eyebrow pencil to fill in any sparse areas or gaps in your eyebrows with light, feathery strokes.After applying the pencil, use a spoolie or an eyebrow brush to blend and soften the product for a more natural appearance.If desired, define the arch and tail of your eyebrows for a polished look.To enhance the longevity of your eyebrow makeup, you can use a clear or tinted brow gel to set the hairs in place.",
         },
-        productId: 1039022,
+        productId: 60677,
       },//Eyeshadowpalette
       {
         productImage:
@@ -1791,7 +1791,7 @@ export const Beauty = {
           howtouse:
             "Start with clean, dry eyelids. You can apply a neutral eyeshadow base or primer to enhance the longevity and vibrancy of the eyeshadows.Select the eyeshadow shades you want to use for your eye look. Blue Heaven eyeshadow palettes often include a mix of colors suitable for creating various eye makeup styles.Begin by applying a neutral or matte transition shade to the crease of your eyelid. This helps to create a seamless blend between colors.Use darker shades to add depth to the outer corner of your eye or along the crease, depending on the desired look.Use shimmer or metallic shades on the eyelid for a pop of color or a glamorous finish. You can apply these shades with a fingertip or a flat eyeshadow brush for maximum intensity.Blend the eyeshadows well to avoid harsh lines and create a seamless transition between colors.Apply a light, shimmery shade to the brow bone and inner corner of the eyes to highlight and brighten.",
         },
-        productId: 954687,
+        productId: 60678,
       },
       {
         productImage:
@@ -1829,7 +1829,7 @@ export const Beauty = {
           howtouse:
             "Begin with clean, dry eyelids. Consider applying an eyeshadow primer or a neutral eyeshadow base to enhance the vibrancy and longevity of the eyeshadows.Identify the four eyeshadow shades in the quad that you want to use. Wet n Wild quads often include instructions on where to apply each shade (e.g., lid, crease, brow bone, outer corner).Use a transition shade (often a matte shade) to define the crease. This creates depth and helps blend the other eyeshadows seamlessly.Apply one of the lid shades to the movable part of the eyelid. This can be a shimmer or metallic shade for a pop of color or dimension.Use a darker shade from the quad to add depth to the outer corner of the eyelid. This can create a more defined and dimensional look.Apply the lightest shade in the quad to the brow bone. This highlights and brightens the area.Blend the eyeshadows well to avoid harsh lines and create a smooth transition between colors.",
         },
-        productId: 963556,
+        productId: 60679,
       },
       {
         productImage:
@@ -1867,7 +1867,7 @@ export const Beauty = {
           howtouse:
             "Start by taking a colour that is a shade or two darker than your skin tone and run it back and forth onto your crease as a transition shade - Start blending at the point where you want the deepest colour, like the outer corner and aim toward the place where you want the lightest colour. By doing this, a gradient will be created by the colour choice alone Next go for the shimmer shade on the lid to get that pop. - Use the doe-tip sponge applicator or a damp flat brush or your finger for that additional depth - Use a darker shade on the crease to define the eye shape. Start applying from the outer corner of the eye, making a ‘V’, and blend it halfway through the eyelid with the round eyeshadow blending brush",
         },
-        productId: 972442,
+        productId: 60680,
       },
       {
         productImage:
@@ -1905,7 +1905,7 @@ export const Beauty = {
           howtouse:
             "Start with clean, dry eyelids. Apply eyeshadow primer or a neutral eyeshadow base to create a smooth surface for the glitter.Select the Wet n Wild eyeshadow glitter you want to use. If it's loose glitter, you might need a glitter adhesive to help it adhere to the skin.Using a flat eyeshadow brush, a silicone applicator, or your fingertip, gently pat or press the glitter onto the eyelid. Take care not to rub or drag the glitter to avoid fallout.",
         },
-        productId: 963532,
+        productId: 60681,
       },//eyebrush
       {
         productImage:
@@ -1943,7 +1943,7 @@ export const Beauty = {
           howtouse:
             "Use the comb side to brush through eyebrows. Turn it over to gently brush through eyelashes.",
         },
-        productId: 1066258,
+        productId: 60682,
       },//glimmerstick
       {
         productImage:
@@ -1981,7 +1981,7 @@ export const Beauty = {
           howtouse:
             "Step1: Ensure the tip of the pencil is sharp for precise application Step2: Start from the inner corner of the upper eyelid, as close to the lash line as you can Step3: Continue to draw a thin line outwards, towards the outer corner Step4: You can increase the strokes as per the intensity you desire",
         },
-        productId: 948513,
+        productId: 60683,
       },
       {
         productImage:
@@ -2019,7 +2019,7 @@ export const Beauty = {
           howtouse:
             "Start with clean, dry eyelids. If you're applying eyeshadow, do so before applying the glimmerstick.Decide whether you want to apply the glimmerstick to the upper lash line, lower lash line, or both. You can also experiment with different styles, such as winged eyeliner.Gently glide the Glimmerstick along the lash line, starting from the inner corner and moving towards the outer corner. Use short strokes for more precision.",
         },
-        productId: 948477,
+        productId: 60684,
       },//eyebrowenhancer
       {
         productImage:
@@ -2057,7 +2057,7 @@ export const Beauty = {
           howtouse:
             "Start with clean, dry eyebrows. Brush your eyebrows using an eyebrow brush or spoolie to shape them.Depending on the Blue Heaven Eyebrow Enhancer you have (pencil, powder, gel, pomade), choose the product form that suits your preference and desired eyebrow look.Use the eyebrow enhancer to define the shape of your eyebrows. This can include outlining the edges and defining the arch.If you have sparse areas in your eyebrows, use the product to fill them in. You can make short, light strokes to mimic the appearance of natural eyebrow hairs.Blend the product with an eyebrow brush or spoolie to ensure a natural and seamless look. This helps soften any harsh lines and distributes the product evenly.",
         },
-        productId: 954713,
+        productId: 60685,
       },//eyelashes
       {
         productImage:
@@ -2095,7 +2095,7 @@ export const Beauty = {
           howtouse:
             "Carefully remove the eyelashes from the case with the help of a tweezer. Trim eyelashes to fit your eye shape, then apple glue to eyelashes Apply it to eyelids if necessary apply eyeliner or eye shadow.",
         },
-        productId: 1070037,
+        productId: 60686,
       },//mascara
       {
         productImage:
@@ -2133,7 +2133,7 @@ export const Beauty = {
           howtouse:
             "Start with clean, dry eyelashes. Curl your lashes if desired before applying mascara.Twist open the mascara tube, ensuring that the brush is clean and free of clumps.Hold the mascara wand horizontally and start at the base of your lashes. Wiggle the wand back and forth while moving upward to coat each lash. You can apply one or more coats, depending on the desired volume and length.Allow the mascara to dry between coats to avoid clumping. If you plan to apply multiple coats, do so before the mascara dries completely.",
         },
-        productId: 954858,
+        productId: 60687,
       },
       {
         productImage:
@@ -2171,7 +2171,7 @@ export const Beauty = {
           howtouse:
             "Start with clean, dry eyelashes. Curl your lashes if desired before applying mascara.Twist open the mascara tube, ensuring that the brush is clean and free of clumps.Hold the mascara wand horizontally and start at the base of your lashes. Wiggle the wand back and forth while moving upward to coat each lash. You can apply one or more coats, depending on the desired volume and length.Allow the mascara to dry between coats to avoid clumping. If you plan to apply multiple coats, do so before the mascara dries completely.",
         },
-        productId: "RVLML923VY",
+        productId: 60688,
       },
       {
         productImage:
@@ -2209,7 +2209,7 @@ export const Beauty = {
           howtouse:
             "Position wand horizontally and wiggle from side to side and base to tip to achieve maximum volume and length and lift. Hold wand vertically and stroke upward to curl and separate. Layer generously as desired.",
         },
-        productId: 973945,
+        productId: 60689,
       },
     ],
     FaceMakeUp:[
@@ -2250,7 +2250,7 @@ export const Beauty = {
           howtouse:
             "Dab over the face using the sponge applicator",
         },
-        productId: 949212,
+        productId: 60690,
       },
       {
         productImage:
@@ -2288,7 +2288,7 @@ export const Beauty = {
           howtouse:
             "After applying the foundation, take a small amount of the powder on a brush and pat it on the entire face. • Wait for a few seconds and dust off the excess with a brush.",
         },
-        productId: 974050,
+        productId: 60691,
       },//highlighter
       {
         productImage:
@@ -2326,7 +2326,7 @@ export const Beauty = {
           howtouse:
             "Apply to the areas you wish to bring dimension and light to, such as cheekbones, cupids bow, inner corners of the eyes, brow bone, even your body for an all-over glowing look!",
         },
-        productId: 973924,
+        productId: 60692,
       },
       {
         productImage:
@@ -2364,7 +2364,7 @@ export const Beauty = {
           howtouse:
             "Apply to the areas you wish to bring dimension and light to, such as cheekbones, cupids bow, inner corners of the eyes, brow bone, even your body for an all-over glowing look!",
         },
-        productId: 973925,
+        productId: 60693,
       },
       {
         productImage:
@@ -2402,7 +2402,7 @@ export const Beauty = {
           howtouse:
             "Apply to the areas you wish to bring dimension and light to, such as cheekbones, cupids bow, inner corners of the eyes, brow bone, even your body for an all-over glowing look!",
         },
-        productId: 973928,
+        productId: 60694,
       },
       {
         productImage:
@@ -2440,7 +2440,7 @@ export const Beauty = {
           howtouse:
             "1.Squeeze a little moisturiser on your palm 2.Apply little dots around your face 3.Blend the moisturiser 4.Enjoy your 3D highlighted glow",
         },
-        productId: 1086152,
+        productId: 60695,
       },//concealer
       {
         productImage:
@@ -2478,7 +2478,7 @@ export const Beauty = {
           howtouse:
             "Apply to skin directly with finger or concealer brush. Blend with finger or concealer brush.",
         },
-        productId: 974097,
+        productId: 60696,
       },
       {
         productImage:
@@ -2516,7 +2516,7 @@ export const Beauty = {
           howtouse:
             "Apply it on the desired places with the help of a concealer brush or use your fingertips to blend on all areas of application. Give few minutes for the product toDry completely.",
         },
-        productId: 974091,
+        productId: 60697,
       },
       {
         productImage:
@@ -2554,7 +2554,7 @@ export const Beauty = {
           howtouse:
             "Apply to skin directly with finger or concealer brush. Blend with finger or concealer brush.",
         },
-        productId: 974100,
+        productId: 60698,
       },
       {
         productImage:
@@ -2592,7 +2592,7 @@ export const Beauty = {
           howtouse:
             "Apply it on the desired places with the help of a concealer brush or use your fingertips to blend on all areas of application. Give few minutes for the product toDry completely.",
         },
-        productId: 954766,
+        productId: 60699,
       },
       {
         productImage:
@@ -2630,7 +2630,7 @@ export const Beauty = {
           howtouse:
             "Apply it on the desired places with the help of a concealer brush or use your fingertips to blend on all areas of application. Give few minutes for the product toDry completely.",
         },
-        productId: 954767,
+        productId: 60700,
       },//compact
       {
         productImage:
@@ -2668,7 +2668,7 @@ export const Beauty = {
           howtouse:
             "Begin by applying your foundation and concealer as part of your regular makeup routine.Select the Extraposh Compact Powder shade that matches your skin tone or is translucent for a universal finish.Dip a powder brush or use the included puff into the compact powder. Tap off any excess to avoid overapplication.Gently apply the powder over your foundation, starting from the center of your face and working outward. Focus on areas that tend to get oily.Blend the powder into your skin using a sweeping or patting motion. For more coverage, you can build up layers, but avoid over-powdering to prevent a heavy look.Use a light hand when applying the powder, especially if you have dry or mature skin, to prevent emphasizing fine lines.",
         },
-        productId: "RV3DUT24BD",
+        productId: 60701,
       },
       {
         productImage:
@@ -2706,7 +2706,7 @@ export const Beauty = {
           howtouse:
             "For a smooth powder finish using the dry sponge , gently dab the compact over the face and neck area till complexion looks fair and even toned.",
         },
-        productId: 1080115,
+        productId: 60702,
       },
       {
         productImage:
@@ -2744,7 +2744,7 @@ export const Beauty = {
           howtouse:
             "Begin by applying your foundation and concealer as part of your regular makeup routine.Select the Faces Canada Compact Powder shade that matches your skin tone or is translucent for a universal finish.Dip a powder brush or use the included puff into the compact powder. Tap off any excess to avoid overapplication.Gently apply the powder over your foundation, starting from the center of your face and working outward. Focus on areas that tend to get oily.Blend the powder into your skin using a sweeping or patting motion. For more coverage, you can build up layers, but avoid over-powdering to prevent a heavy look.Use a light hand when applying the powder, especially if you have dry or mature skin, to prevent emphasizing fine lines.",
         },
-        productId: 1057366,
+        productId: 60703,
       },
       {
         productImage:
@@ -2782,7 +2782,7 @@ export const Beauty = {
           howtouse:
             "Begin by applying your foundation and concealer as part of your regular makeup routine.Select the DA.VE Soft Light Compact Powder shade that matches your skin tone or is translucent for a universal finish.Dip a powder brush or use the included puff into the compact powder. Tap off any excess to avoid overapplication.Gently apply the powder over your foundation, starting from the center of your face and working outward. Focus on areas that tend to get oily.Blend the powder into your skin using a sweeping or patting motion. For more coverage, you can build up layers, but avoid over-powdering to prevent a heavy look.Use a light hand when applying the powder to prevent a heavy appearance, especially if you have dry or mature skin.",
         },
-        productId: "RVIG6B4VZ1",
+        productId: 60704,
       },//foundation
       {
         productImage:
@@ -2820,7 +2820,7 @@ export const Beauty = {
           howtouse:
             "Step 1: Apply Lakme 9to5 Weightless Foundation to clean, moisturized skin. Step 2 : Just take a small amount of product with the index finger and start applying it to the skin with your fingertips. Usually, you can just apply the mousse in four places: the forehead, nose, chin and cheekbones. Step 3: Blend into your skin starting from the centre of the skin outwards, taking care to cover your face including your neck.",
         },
-        productId: 949321,
+        productId: 60705,
       },
       {
         productImage:
@@ -2858,7 +2858,7 @@ export const Beauty = {
           howtouse:
             "Start with clean and moisturized skin. Use a suitable primer if desired.Choose a Lakmé Foundation shade that matches your skin tone. You can test the shade on your jawline to find the closest match.Use the foundation applicator or your fingertips to apply small dots or lines of foundation on your forehead, cheeks, nose, and chin.Use a makeup sponge, brush, or your fingertips to blend the foundation into your skin. Blend in a downward motion for a smoother finish.Use a light hand when applying foundation to avoid a heavy or cakey appearance. Focus on areas where you need coverage.Ensure to blend the foundation into your jawline and slightly down your neck to avoid a noticeable line.",
         },
-        productId: 949175,
+        productId: 60706,
       },
       {
         productImage:
@@ -2896,7 +2896,7 @@ export const Beauty = {
           howtouse:
             "Start with a clean and moisturized face. If using a primer, apply it to create a smooth base for the foundation.Select a Maybelline Foundation shade that closely matches your skin tone. You can test the shade on your jawline for the best match.Use the foundation applicator or your fingertips to apply small dots or lines of foundation on your forehead, cheeks, nose, and chin.Use a makeup sponge, brush, or your fingertips to blend the foundation into your skin. Blend in upward and outward motions for a natural look.Use a light hand when applying foundation to prevent a heavy or cakey appearance. Focus on areas where you need coverage.Ensure to blend the foundation into your jawline and slightly down your neck to avoid a noticeable line of demarcation.",
         },
-        productId: 940499,
+        productId: 60707,
       },
       {
         productImage:
@@ -2934,7 +2934,7 @@ export const Beauty = {
           howtouse:
             "Begin with clean, moisturized skin. Apply a suitable primer if desired for a smooth base.Select a Faces Canada Foundation shade that closely matches your skin tone. You can test the shade on your jawline for an accurate match.Use the foundation applicator or your fingertips to apply small dots or lines of foundation on your forehead, cheeks, nose, and chin.Use a makeup sponge, brush, or your fingertips to blend the foundation into your skin. Blend in upward and outward motions for a natural and even finish.Apply the foundation lightly to prevent a heavy or cakey appearance. Focus on areas that require coverage.Ensure the foundation is blended seamlessly into your jawline and slightly down your neck to avoid noticeable lines.",
         },
-        productId: 1047759,
+        productId: 60708,
       },
       {
         productImage:
@@ -2972,7 +2972,7 @@ export const Beauty = {
           howtouse:
             "Start with a clean and moisturized face. Apply a suitable primer if desired for a smooth and even base.Select an Insight Foundation shade that closely matches your skin tone. You can test the shade on your jawline for an accurate match.Use the foundation applicator or your fingertips to apply small dots or lines of foundation on your forehead, cheeks, nose, and chin.Use a makeup sponge, brush, or your fingertips to blend the foundation into your skin. Blend in upward and outward motions for a natural and even finish.Apply the foundation lightly to prevent a heavy or cakey appearance. Focus on areas that require coverage.Ensure the foundation is blended seamlessly into your jawline and slightly down your neck to avoid noticeable lines.",
         },
-        productId: 974057,
+        productId: 60709,
       },
     ],
     MakeupToolsBrushes:[
@@ -3013,7 +3013,7 @@ export const Beauty = {
           howtouse:
             "Lakmé Sharpener typically comes with multiple hole sizes to accommodate different pencil diameters. Choose the hole that best fits your Lakmé pencil.Insert the Lakmé pencil into the selected hole, ensuring a secure fit. Hold the sharpener steady to prevent any wobbling during the sharpening process.Rotate the pencil in a gentle, clockwise motion. The sharpener's blades will trim the pencil, creating a clean and pointed tip.Periodically stop and check the pencil's tip to ensure the desired level of sharpness. Avoid over-sharpening to prevent product wastage.Once the desired sharpness is achieved, carefully remove the pencil from the sharpener. Wipe away any excess shavings.Dispose of pencil shavings in a trash bin. Do not allow shavings to accumulate in the sharpener.",
         },
-        productId: 949192,
+        productId: 60710,
       },//face pack brush
       {
         productImage:
@@ -3051,7 +3051,7 @@ export const Beauty = {
           howtouse:
             "Depending on the consistency and the number of coats, gently apply your facepack in upwards and downwards motion on your face.",
         },
-        productId: 1066237,
+        productId: 60711,
       },
       {
         productImage:
@@ -3089,7 +3089,7 @@ export const Beauty = {
           howtouse:
             "Begin with a clean face. Remove any makeup or impurities using a gentle cleanser.Prepare your chosen face pack or mask according to the product instructions. Ensure it is in a suitable consistency for application.Dip the BABILA FACE PACK BRUSH into the face pack, ensuring the bristles are evenly coatedUsing gentle strokes, apply the face pack evenly to your face, avoiding the eye and lip areas.Be mindful of your hairline and eyebrows while applying the face pack to prevent the product from getting into your hair.Extend the application to your neck and jawline for comprehensive skincare.The brush's soft bristles allow for a smooth and comfortable application, enhancing the overall experience.After use, clean the BABILA FACE PACK BRUSH thoroughly with warm water and mild soap. Allow it to air dry before storing.",
         },
-        productId: 1046479,
+        productId: 60712,
       },//fanbrush
       {
         productImage:
@@ -3127,7 +3127,7 @@ export const Beauty = {
           howtouse:
             "Dip the fan brush into your favorite highlighter, ensuring the bristles are coated evenly.Lightly sweep the brush over the high points of your face, such as the tops of your cheekbones, bridge of the nose, and cupid's bow.For contouring, use the edge of the fan brush to pick up a small amount of contour powder.Apply the contour along the hollows of your cheeks, jawline, and the sides of your nose for a sculpted look.Use the fan brush to blend and soften harsh lines, ensuring a seamless and natural-looking finish.The fan shape is also effective for gently sweeping away excess powder or fallout without disturbing the rest of your makeup.Clean the brush regularly with a mild brush cleanser or gentle soap to maintain its performance.",
         },
-        productId: 1066229,
+        productId: 60713,
       },//eyeshadow brush
       {
         productImage:
@@ -3165,7 +3165,7 @@ export const Beauty = {
           howtouse:
             "Choose the eye shadow colors you wish to apply. Ensure the eye shadow palette is clean and free of excess powder.Gently dip the Bronson Professional Eye Shadow Brush into the desired eye shadow color. Tap off any excess to avoid fallout.Use the brush to apply the eye shadow to your eyelids with gentle sweeping or patting motions. Start from the inner corner and blend outward.If using multiple eye shadow shades, use the brush to blend the colors together for a smooth transition.Clean the brush regularly to remove any accumulated product. This ensures optimal performance and prevents color transfer between applications.",
         },
-        productId: 1066225,
+        productId: 60714,
       },
       {
         productImage:
@@ -3203,7 +3203,7 @@ export const Beauty = {
           howtouse:
             "Dip the Faces Canada Eye Shadow Brush into your chosen eyeshadow. Tap off any excess to avoid fallout.Use the brush to apply the base eyeshadow shade to the entire eyelid. Sweep the color gently back and forth for an even application.For added dimension, use the tip of the brush to apply a darker eyeshadow shade to the crease. Blend in windshield wiper motions for a seamless transition.Apply a lighter eyeshadow shade to the brow bone using the tip of the brush. This enhances the eyes and adds brightness.For a finishing touch, use the tip to add a pop of color or shimmer to the inner corner of the eyes.Blend eyeshadows seamlessly using circular motions to avoid harsh lines and achieve a professional-looking finish.",
         },
-        productId: 939569,
+        productId: 60715,
       },
       {
         productImage:
@@ -3241,7 +3241,7 @@ export const Beauty = {
           howtouse:
             "Dip the brush head in the product and apply.",
         },
-        productId: 1070325,
+        productId: 60716,
       },
       {
         productImage:
@@ -3279,7 +3279,7 @@ export const Beauty = {
           howtouse:
             "Begin with a clean and primed eyelid. Ensure your eyeshadow base or primer is applied for long-lasting results.Choose the eyeshadow shades you want to apply. You can use one or more colors for your desired eye makeup look.Gently swirl or tap the Vega Eye Shadow Brush into the eyeshadow pan to pick up the desired amount of product. Tap off any excess to avoid fallout.Using the brush, apply the eyeshadow to your eyelid with gentle sweeping or patting motions. Start from the inner corner and work your way outward.To achieve a seamless look, use the brush to blend the eyeshadow, especially in the crease area. The soft bristles ensure smooth blending for a professional finish.Clean the brush regularly to maintain hygiene. Use a mild brush cleaner or gentle soap, and let it dry thoroughly.",
         },
-        productId: 1011603,
+        productId: 60717,
       },
       {
         productImage:
@@ -3317,7 +3317,7 @@ export const Beauty = {
           howtouse:
             "Choose the eye shadow shades you want to apply. The Midazzle Professional Eye Shadow Brush works well with powder and pressed eye shadows.Gently swirl the brush over the eye shadow, ensuring the bristles pick up an even amount of product.Tap the brush against the edge of the eye shadow palette to remove any excess product. This step prevents fallout and ensures a controlled application.Using light pressure, apply the eye shadow to your eyelid. Start from the inner corner and blend towards the outer corner.For more intricate looks, use the brush to blend crease and transition colors. The soft bristles allow for seamless blending without harsh lines.Clean the Midazzle Professional Eye Shadow Brush regularly to maintain its performance. Use a brush cleaner or mild soap and water, and allow it to dry thoroughly.",
         },
-        productId: "RVF4MFMCQM",
+        productId: 60718,
       },//eyelash curlers
       {
         productImage:
@@ -3355,7 +3355,7 @@ export const Beauty = {
           howtouse:
             "Start with clean, dry lashes. If desired, apply mascara before using the lash curler brush for enhanced curling.Open the Babila Eye Lash Curler Brush and position it close to the base of your upper lashes.Gently place your lashes between the curler's clamps, ensuring they are well-positioned for even curling.Hold the curler steady and gently squeeze the handles together for about 5-10 seconds. Be careful not to tug or pull on your lashes.Release the curler's clamps slowly and carefully to reveal beautifully curled lashes.If you want a more pronounced curl, you can repeat the process, focusing on different sections of your lashes.Clean the curler regularly to remove any mascara residue and ensure smooth operation.",
         },
-        productId: 1046575,
+        productId: 60719,
       },
       {
         productImage:
@@ -3393,7 +3393,7 @@ export const Beauty = {
           howtouse:
             "Ensure your lashes are clean and free from mascara or any other eye makeup.Open the Majestique Eyelash Curler and position it near the base of your upper lashes.Gently place your lashes between the curler's clamps, making sure your lashes are evenly spread across the curve of the curler.Close the curler gently, ensuring not to pinch your eyelids. Hold for a few seconds, then release.For a more pronounced curl, repeat the process, moving the curler slightly towards the tips of your lashes.For optimal results, use the Majestique Eyelash Curler before applying mascara. This enhances the curl and prevents lash breakage.Wipe the curler clean after use to maintain hygiene and prevent any makeup buildup.",
         },
-        productId: 1071618,
+        productId: 60720,
       },//eyeliner brush
       {
         productImage:
@@ -3431,7 +3431,7 @@ export const Beauty = {
           howtouse:
             "Start with a clean and primed eye area. Ensure your eyelids are free of excess oil and properly moisturized.Choose your preferred eyeliner product, whether it's gel, cream, or powder. Ensure it is of the desired consistency for easy application.Dip the Vega Eye Liner Brush into your chosen eyeliner product. Ensure that the brush is evenly coated but not overloaded.Starting from the inner corner of your eye, use short, controlled strokes to create your desired eyeliner look. The fine tip of the brush allows for precision, whether you prefer a thin line or a bold wing.If you wish to build thickness or extend the line, continue applying and building with the brush. The Vega Eye Liner Brush allows for flexibility in creating various eye makeup styles.",
         },
-        productId: 1011759,
+        productId: 60721,
       },
       {
         productImage:
@@ -3469,7 +3469,7 @@ export const Beauty = {
           howtouse:
             "Start with a clean and dry eyelid. Apply eyeshadow if desired before eyeliner application.Dip the Boujee Eye Liner Brush into your preferred eyeliner product. Ensure the brush is coated evenly.Begin applying eyeliner at the inner corner of your eye. Place the brush as close to the lash line as possible.Use short, controlled strokes to create your desired eyeliner line. You can gradually build thickness and length as needed.Clean up any mistakes or uneven lines using a cotton swab dipped in makeup remover or concealer.Regularly clean the Boujee Eye Liner Brush using a mild brush cleaner or gentle soap to maintain its performance.",
         },
-        productId: "RVD8BPE7AG",
+        productId: 60722,
       },//tweezer
       {
         productImage:
@@ -3507,7 +3507,7 @@ export const Beauty = {
           howtouse:
             "Start with a clean face and ensure the area to be tweezed is free of makeup and oils.Select a well-lit environment to ensure optimal visibility while tweezing.Hold the tweezer near the middle or closer to the pointed tips for better control.Position the tweezer at the base of the hair you want to remove. Grasp the hair firmly with the tips.Pull the hair out in the direction of its growth to minimize discomfort and reduce the risk of breakage.Pluck one hair at a time using short, controlled movements to avoid over-tweezing.For eyebrow shaping, follow the natural arch and only remove stray hairs to achieve a well-defined look.Regularly clean the tweezer tips with rubbing alcohol to maintain hygiene and ensure optimal performance.",
         },
-        productId: 996887,
+        productId: 60723,
       },//sponge
       {
         productImage:
@@ -3545,7 +3545,7 @@ export const Beauty = {
           howtouse:
             "Start with a clean face and ensure the area to be tweezed is free of makeup and oils.Select a well-lit environment to ensure optimal visibility while tweezing.Hold the tweezer near the middle or closer to the pointed tips for better control.Position the tweezer at the base of the hair you want to remove. Grasp the hair firmly with the tips.Pull the hair out in the direction of its growth to minimize discomfort and reduce the risk of breakage.Pluck one hair at a time using short, controlled movements to avoid over-tweezing.For eyebrow shaping, follow the natural arch and only remove stray hairs to achieve a well-defined look.Regularly clean the tweezer tips with rubbing alcohol to maintain hygiene and ensure optimal performance.",
         },
-        productId: 1071642,
+        productId: 60724,
       },//puff
       {
         productImage:
@@ -3583,7 +3583,7 @@ export const Beauty = {
           howtouse:
             "Gently dip or press the Majestique Powder Puff Round into loose or pressed powder, ensuring an even distribution of product.Tap the powder puff against the back of your hand or on the edge of the powder container to remove any excess powder.Use the powder puff to gently press or roll the powder onto your face. Start from the center and work outward for an even application.Concentrate on areas where makeup has been applied, such as foundation and concealer, to set and mattify the makeup.Use gentle, patting motions to blend the powder into the skin seamlessly. The round shape allows for easy maneuvering around facial contours.Clean the powder puff regularly to prevent product buildup. Wash with a mild cleanser or soap, and allow it to air dry completely.The round shape makes this powder puff versatile for various makeup applications, including setting foundation, applying blush, or blending contour.",
         },
-        productId: 1071606,
+        productId: 60725,
       },
       {
         productImage:
@@ -3621,7 +3621,7 @@ export const Beauty = {
           howtouse:
             "Dampen your makeup sponge, then squeeze all the excess water from it. Dip in the product and apply in a strobing motion.",
         },
-        productId: 1070320,
+        productId: 60726,
       },//lip liner
       {
         productImage:
@@ -3659,7 +3659,7 @@ export const Beauty = {
           howtouse:
             "Begin with clean and moisturized lips. You can apply a lip balm beforehand to ensure smooth application.Choose the Babila Lip Liner shade that closely matches your lipstick or natural lip color.Use the lip liner to carefully outline the natural shape of your lips. You can start by tracing the cupid's bow and then move to the corners and the center of the lower lip.If desired, you can fill in the entire lip with the lip liner to create a base for your lipstick or to wear it alone for a matte look.Blend the lip liner gently with a lip brush or your fingertip to soften the edges and create a seamless transition between the liner and your lipstick.",
         },
-        productId: 1046471,
+        productId: 60727,
       },//black head remover
       {
         productImage:
@@ -3697,7 +3697,7 @@ export const Beauty = {
           howtouse:
             "Clean your skin before extractions and afterwards to avoid infections. Using the tool after a shower is ideal or alternatively apply a warm face cloth over your face for about one minute so the steam can open up your pores. Simply place the loop end over the top of the blackhead and gently press. It should just pop out easily.",
         },
-        productId: 1070071,
+        productId: 60728,
       },//foundation brush
       {
         productImage:
@@ -3735,7 +3735,7 @@ export const Beauty = {
           howtouse:
             "1.Start by dotting the foundation all over your face and neck. 2. Using the foundation brush, buff in light, circular motions and build coverage as you go. 3. Blend in product for seamless coverage.",
         },
-        productId: 996836,
+        productId: 60729,
       }
     ],
 }
