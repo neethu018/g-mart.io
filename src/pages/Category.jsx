@@ -170,6 +170,24 @@ const Category = ({ products }) => {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
+  }else if (category === "skincare") {
+    // Check if 'Serum','FaceMask','Moisturizes',properties exist in the products object
+    if (
+      products &&
+      products.Serum &&
+      products.FaceMask &&
+      products.Moisturizes 
+      
+    ) {
+      filteredProducts = [
+        ...products.Serum,
+        ...products.FaceMask ,
+        ...products.Moisturizes,
+      ];
+    } else {
+      console.error("Products data is incomplete.");
+      return <div>Error loading products.</div>;
+    }
   } //BagsAndLuggages
   else if (category === "BagsTravelLuggages") {
     // Bags Luggages
