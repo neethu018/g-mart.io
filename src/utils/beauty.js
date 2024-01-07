@@ -3738,4 +3738,2260 @@ export const Beauty = {
         productId: 60729,
       }
     ],
+    Serum: [
+      {
+        productImage: [
+            "https://www.jiomart.com/images/product/original/973024/garnier-light-complete-vitamin-c-booster-serum-30-ml-prod-973024-0-202206241435.jpg?im=Resize=(600,600)",
+        ],
+  
+        brand: "Garnier",
+  
+        shortDesc: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+
+        size : "30 ml",
+
+        colour: "colorless",
+  
+        ratings: 3.5,
+  
+        mrp: 219,
+  
+        discount: 12,
+  
+        additionalOffers:[
+            "upto Rs. 60% casback on first order", 
+            "Flate rs.100 caskback on first clothing accessories",
+        ],
+  
+        bankOffers: [
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+        ],
+  
+        coupons: [
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+        ],
+  
+        status: "In stock",
+  
+        soldBy: "Reliance Retail",
+  
+        description: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+  
+        countryOfOrigin: "India",
+  
+        manufacturer: "L'Oreal India Pvt, Ltd",
+  
+        manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+  
+        productId: 60783,
+  
+      },
+      {
+        productImage: [
+            "https://www.jiomart.com/images/product/original/1002784/minimalist-vitamin-c-face-serum-30-ml-prod-1002784-0-202306252318.jpg?im=Resize=(600,600)",
+        ],
+  
+        brand: "Garnier",
+  
+        shortDesc: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+
+        size : "30 ml",
+
+        colour: "colorless",
+  
+        ratings: 3.5,
+  
+        mrp: 319,
+  
+        discount: 12,
+  
+        additionalOffers:[
+            "upto Rs. 60% casback on first order", 
+            "Flate rs.100 caskback on first clothing accessories",
+        ],
+  
+        bankOffers: [
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+        ],
+  
+        coupons: [
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+        ],
+  
+        status: "In stock",
+  
+        soldBy: "Reliance Retail",
+  
+        description: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+  
+        countryOfOrigin: "India",
+  
+        manufacturer: "L'Oreal India Pvt, Ltd",
+  
+        manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+  
+        productId: 60784,
+  
+      },
+      {
+        productImage: [
+            "https://www.jiomart.com/images/product/original/921621/matra-face-serum-vitamin-c-15-ml-prod-921621-0-202202282314.jpg?im=Resize=(600,600)",
+        ],
+  
+        brand: "Garnier",
+  
+        shortDesc: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+
+        size : "30 ml",
+
+        colour: "colorless",
+  
+        ratings: 3.5,
+  
+        mrp: 399,
+  
+        discount: 12,
+  
+        additionalOffers:[
+            "upto Rs. 60% casback on first order", 
+            "Flate rs.100 caskback on first clothing accessories",
+        ],
+  
+        bankOffers: [
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+        ],
+  
+        coupons: [
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+        ],
+  
+        status: "In stock",
+  
+        soldBy: "Reliance Retail",
+  
+        description: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+  
+        countryOfOrigin: "India",
+  
+        manufacturer: "L'Oreal India Pvt, Ltd",
+  
+        manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+  
+        productId: 60785,
+  
+      },
+      {
+        productImage: [
+           "https://www.jiomart.com/images/product/original/1002892/globus-naturals-vitamin-c-face-serum-30-ml-prod-1002892-0-202301041407.jpg?im=Resize=(600,600)",
+        ],
+  
+        brand: "Garnier",
+  
+        shortDesc: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+
+        size : "30 ml",
+
+        colour: "colorless",
+  
+        ratings: 3.5,
+  
+        mrp: 219,
+  
+        discount: 12,
+  
+        additionalOffers:[
+            "upto Rs. 60% casback on first order", 
+            "Flate rs.100 caskback on first clothing accessories",
+        ],
+  
+        bankOffers: [
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+        ],
+  
+        coupons: [
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+        ],
+  
+        status: "In stock",
+  
+        soldBy: "Reliance Retail",
+  
+        description: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+  
+        countryOfOrigin: "India",
+  
+        manufacturer: "L'Oreal India Pvt, Ltd",
+  
+        manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+  
+        productId: 60786,
+  
+      },
+      {
+        productImage: [
+            "https://www.jiomart.com/images/product/original/1002894/globus-naturals-advanced-recovery-face-serum-50-ml-prod-1002894-0-202301041407.jpg?im=Resize=(600,600)",
+        ],
+  
+        brand: "Garnier",
+  
+        shortDesc: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+
+        size : "30 ml",
+
+        colour: "colorless",
+  
+        ratings: 3.5,
+  
+        mrp: 450,
+  
+        discount: 12,
+  
+        additionalOffers:[
+            "upto Rs. 60% casback on first order", 
+            "Flate rs.100 caskback on first clothing accessories",
+        ],
+  
+        bankOffers: [
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+        ],
+  
+        coupons: [
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+        ],
+  
+        status: "In stock",
+  
+        soldBy: "Reliance Retail",
+  
+        description: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+  
+        countryOfOrigin: "India",
+  
+        manufacturer: "L'Oreal India Pvt, Ltd",
+  
+        manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+  
+        productId: 60787,
+  
+      },
+      {
+        productImage: [
+           "https://www.jiomart.com/images/product/original/1059973/jovees-herbal-revita-ageing-skin-recovery-serum-30-ml-prod-1059973-0-202306291047.jpg?im=Resize=(600,600)",
+        ],
+  
+        brand: "Garnier",
+  
+        shortDesc: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+
+        size : "30 ml",
+
+        colour: "colorless",
+  
+        ratings: 3.5,
+  
+        mrp: 219,
+  
+        discount: 12,
+  
+        additionalOffers:[
+            "upto Rs. 60% casback on first order", 
+            "Flate rs.100 caskback on first clothing accessories",
+        ],
+  
+        bankOffers: [
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+        ],
+  
+        coupons: [
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+        ],
+  
+        status: "In stock",
+  
+        soldBy: "Reliance Retail",
+  
+        description: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+  
+        countryOfOrigin: "India",
+  
+        manufacturer: "L'Oreal India Pvt, Ltd",
+  
+        manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+  
+        productId: 60788,
+  
+      },
+      {
+        productImage: [
+            "https://www.jiomart.com/images/product/original/971171/spantra-anti-ageing-facial-serum-50-ml-prod-971171-0-202112010433.jpg?im=Resize=(600,600)",
+        ],
+  
+        brand: "Garnier",
+  
+        shortDesc: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+
+        size : "30 ml",
+
+        colour: "colorless",
+  
+        ratings: 3.5,
+  
+        mrp: 359,
+  
+        discount: 12,
+  
+        additionalOffers:[
+            "upto Rs. 60% casback on first order", 
+            "Flate rs.100 caskback on first clothing accessories",
+        ],
+  
+        bankOffers: [
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+        ],
+  
+        coupons: [
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+        ],
+  
+        status: "In stock",
+  
+        soldBy: "Reliance Retail",
+  
+        description: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+  
+        countryOfOrigin: "India",
+  
+        manufacturer: "L'Oreal India Pvt, Ltd",
+  
+        manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+  
+        productId: 60789,
+  
+      },
+      {
+        productImage: [
+            "https://www.jiomart.com/images/product/original/971174/spantra-skin-corrector-facial-serum-50-ml-prod-971174-0-202112010433.jpg?im=Resize=(600,600)",
+        ],
+  
+        brand: "Garnier",
+  
+        shortDesc: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+
+        size : "30 ml",
+
+        colour: "colorless",
+  
+        ratings: 3.5,
+  
+        mrp: 436,
+  
+        discount: 12,
+  
+        additionalOffers:[
+            "upto Rs. 60% casback on first order", 
+            "Flate rs.100 caskback on first clothing accessories",
+        ],
+  
+        bankOffers: [
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+        ],
+  
+        coupons: [
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+        ],
+  
+        status: "In stock",
+  
+        soldBy: "Reliance Retail",
+  
+        description: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+  
+        countryOfOrigin: "India",
+  
+        manufacturer: "L'Oreal India Pvt, Ltd",
+  
+        manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+  
+        productId: 60790,
+  
+      },
+      {
+        productImage: [
+           "https://www.jiomart.com/images/product/original/971175/spantra-anti-acne-facial-serum-50-ml-prod-971175-0-202112010433.jpg?im=Resize=(600,600)",
+        ],
+  
+        brand: "Garnier",
+  
+        shortDesc: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+
+        size : "30 ml",
+
+        colour: "colorless",
+  
+        ratings: 3.5,
+  
+        mrp: 565,
+  
+        discount: 12,
+  
+        additionalOffers:[
+            "upto Rs. 60% casback on first order", 
+            "Flate rs.100 caskback on first clothing accessories",
+        ],
+  
+        bankOffers: [
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+        ],
+  
+        coupons: [
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+        ],
+  
+        status: "In stock",
+  
+        soldBy: "Reliance Retail",
+  
+        description: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+  
+        countryOfOrigin: "India",
+  
+        manufacturer: "L'Oreal India Pvt, Ltd",
+  
+        manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+  
+        productId: 60791,
+  
+      },
+      {
+        productImage: [
+            "https://www.jiomart.com/images/product/original/1050420/love-earth-anti-acne-serum-with-pure-vitamin-c-witch-hazel-30-ml-prod-1050420-1-202208302133.jpg?im=Resize=(600,600)",
+        ],
+  
+        brand: "Garnier",
+  
+        shortDesc: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+
+        size : "30 ml",
+
+        colour: "colorless",
+  
+        ratings: 3.5,
+  
+        mrp: 499,
+  
+        discount: 12,
+  
+        additionalOffers:[
+            "upto Rs. 60% casback on first order", 
+            "Flate rs.100 caskback on first clothing accessories",
+        ],
+  
+        bankOffers: [
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+        ],
+  
+        coupons: [
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+        ],
+  
+        status: "In stock",
+  
+        soldBy: "Reliance Retail",
+  
+        description: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+  
+        countryOfOrigin: "India",
+  
+        manufacturer: "L'Oreal India Pvt, Ltd",
+  
+        manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+  
+        productId: 60792,
+  
+      },
+      {
+        productImage: [
+            "https://www.jiomart.com/images/product/original/1084417/skivia-green-tea-seed-face-serum-with-witch-hazel-mandarin-oil-30-ml-prod-1084417-0-202304181606.jpg?im=Resize=(600,600)",
+        ],
+  
+        brand: "Garnier",
+  
+        shortDesc: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+
+        size : "30 ml",
+
+        colour: "colorless",
+  
+        ratings: 3.5,
+  
+        mrp: 289,
+  
+        discount: 12,
+  
+        additionalOffers:[
+            "upto Rs. 60% casback on first order", 
+            "Flate rs.100 caskback on first clothing accessories",
+        ],
+  
+        bankOffers: [
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+        ],
+  
+        coupons: [
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+        ],
+  
+        status: "In stock",
+  
+        soldBy: "Reliance Retail",
+  
+        description: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+  
+        countryOfOrigin: "India",
+  
+        manufacturer: "L'Oreal India Pvt, Ltd",
+  
+        manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+  
+        productId: 60793,
+  
+      },
+      {
+        productImage: [
+            "https://www.jiomart.com/images/product/original/1095363/skivia-vitamin-c-face-serum-with-hyaluronic-acid-30-ml-prod-1095363-0-202304181651.jpg?im=Resize=(600,600)",
+        ],
+  
+        brand: "Garnier",
+  
+        shortDesc: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+
+        size : "30 ml",
+
+        colour: "colorless",
+  
+        ratings: 3.5,
+  
+        mrp: 379,
+  
+        discount: 12,
+  
+        additionalOffers:[
+            "upto Rs. 60% casback on first order", 
+            "Flate rs.100 caskback on first clothing accessories",
+        ],
+  
+        bankOffers: [
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+        ],
+  
+        coupons: [
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+        ],
+  
+        status: "In stock",
+  
+        soldBy: "Reliance Retail",
+  
+        description: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+  
+        countryOfOrigin: "India",
+  
+        manufacturer: "L'Oreal India Pvt, Ltd",
+  
+        manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+  
+        productId: 60794,
+  
+      },
+      {
+        productImage: [
+           "https://www.jiomart.com/images/product/original/1085102/skivia-lactic-hyaluronic-acid-face-serum-30-ml-prod-1085102-0-202304181632.jpg?im=Resize=(600,600)",
+        ],
+  
+        brand: "Garnier",
+  
+        shortDesc: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+
+        size : "30 ml",
+
+        colour: "colorless",
+  
+        ratings: 3.5,
+  
+        mrp: 219,
+  
+        discount: 12,
+  
+        additionalOffers:[
+            "upto Rs. 60% casback on first order", 
+            "Flate rs.100 caskback on first clothing accessories",
+        ],
+  
+        bankOffers: [
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+        ],
+  
+        coupons: [
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+        ],
+  
+        status: "In stock",
+  
+        soldBy: "Reliance Retail",
+  
+        description: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+  
+        countryOfOrigin: "India",
+  
+        manufacturer: "L'Oreal India Pvt, Ltd",
+  
+        manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+  
+        productId: 60795,
+  
+      },
+      {
+        productImage: [
+            "https://www.jiomart.com/images/product/original/1023902/plum-2-hyaluronic-acid-serum-with-bulgarian-rose-30-ml-prod-1023902-0-202206140122.jpg?im=Resize=(600,600)",
+        ],
+  
+        brand: "Garnier",
+  
+        shortDesc: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+
+        size : "30 ml",
+
+        colour: "colorless",
+  
+        ratings: 3.5,
+  
+        mrp: 219,
+  
+        discount: 12,
+  
+        additionalOffers:[
+            "upto Rs. 60% casback on first order", 
+            "Flate rs.100 caskback on first clothing accessories",
+        ],
+  
+        bankOffers: [
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+        ],
+  
+        coupons: [
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+        ],
+  
+        status: "In stock",
+  
+        soldBy: "Reliance Retail",
+  
+        description: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+  
+        countryOfOrigin: "India",
+  
+        manufacturer: "L'Oreal India Pvt, Ltd",
+  
+        manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+  
+        productId: 60796,
+  
+      },
+      {
+        productImage: [
+            "https://www.jiomart.com/images/product/original/1023903/plum-1-retinol-face-serum-with-bakuchiol-small-20-ml-prod-1023903-0-202206132129.jpg?im=Resize=(600,600)",
+        ],
+  
+        brand: "Garnier",
+  
+        shortDesc: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+
+        size : "30 ml",
+
+        colour: "colorless",
+  
+        ratings: 3.5,
+  
+        mrp: 599,
+  
+        discount: 12,
+  
+        additionalOffers:[
+            "upto Rs. 60% casback on first order", 
+            "Flate rs.100 caskback on first clothing accessories",
+        ],
+  
+        bankOffers: [
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+        ],
+  
+        coupons: [
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+        ],
+  
+        status: "In stock",
+  
+        soldBy: "Reliance Retail",
+  
+        description: "Serum Garnier Light Complete VITAMIN C Booster 30 ml",
+  
+        countryOfOrigin: "India",
+  
+        manufacturer: "L'Oreal India Pvt, Ltd",
+  
+        manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+  
+        productId: 60797,
+  
+      },
+    ],
+    FaceMask: [
+        {
+          productImage: [
+              "https://www.jiomart.com/images/product/original/951206/nature-s-essence-glowing-gold-peel-off-mask-65-ml-prod-951206-0-202111140906.jpg?im=Resize=(600,600)",
+            ],
+    
+          brand: "Nature's Essence",
+    
+          shortDesc: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+  
+          size : "65 ml",
+  
+          colour: "colorless",
+    
+          ratings: 3.5,
+    
+          mrp: 85,
+    
+          discount: 12,
+    
+          additionalOffers:[
+              "upto Rs. 60% casback on first order", 
+              "Flate rs.100 caskback on first clothing accessories",
+          ],
+    
+          bankOffers: [
+              "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+              "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+          ],
+    
+          coupons: [
+              "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+              "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+              "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+          ],
+    
+          status: "In stock",
+    
+          soldBy: "Reliance Retail",
+    
+          description: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+    
+          countryOfOrigin: "India",
+    
+          manufacturer: "NATURE's ESSENCE PVT LTD",
+    
+          manufacturerAddress: ["NATURE's ESSENCE PVT LTD"],
+    
+          productId: 60798,
+    
+        },
+        {
+            productImage: [
+                "https://www.jiomart.com/images/product/original/951214/nature-s-essence-daily-de-tan-day-serum-cream-50-gm-prod-951214-0-202111141405.jpg?im=Resize=(600,600)",
+            ],
+      
+            brand: "Nature's Essence",
+      
+            shortDesc: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+    
+            size : "65 ml",
+    
+            colour: "colorless",
+      
+            ratings: 3.5,
+      
+            mrp: 85,
+      
+            discount: 12,
+      
+            additionalOffers:[
+                "upto Rs. 60% casback on first order", 
+                "Flate rs.100 caskback on first clothing accessories",
+            ],
+      
+            bankOffers: [
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            ],
+      
+            coupons: [
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            ],
+      
+            status: "In stock",
+      
+            soldBy: "Reliance Retail",
+      
+            description: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+      
+            countryOfOrigin: "India",
+      
+            manufacturer: "NATURE's ESSENCE PVT LTD",
+      
+            manufacturerAddress: ["NATURE's ESSENCE PVT LTD"],
+      
+            productId: 60799,
+      
+          },
+          {
+            productImage: [
+                "https://www.jiomart.com/images/product/original/951208/nature-s-essence-protecting-neem-aloe-peel-off-mask-65-ml-prod-951208-0-202111141405.jpg?im=Resize=(600,600)",
+            ],
+      
+            brand: "Nature's Essence",
+      
+            shortDesc: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+    
+            size : "65 ml",
+    
+            colour: "colorless",
+      
+            ratings: 3.5,
+      
+            mrp: 85,
+      
+            discount: 12,
+      
+            additionalOffers:[
+                "upto Rs. 60% casback on first order", 
+                "Flate rs.100 caskback on first clothing accessories",
+            ],
+      
+            bankOffers: [
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            ],
+      
+            coupons: [
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            ],
+      
+            status: "In stock",
+      
+            soldBy: "Reliance Retail",
+      
+            description: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+      
+            countryOfOrigin: "India",
+      
+            manufacturer: "NATURE's ESSENCE PVT LTD",
+      
+            manufacturerAddress: ["NATURE's ESSENCE PVT LTD"],
+      
+            productId: 60800,
+      
+          },
+          {
+            productImage: [
+                "https://www.jiomart.com/images/product/original/411453/himalaya-tan-removal-orange-peel-off-mask-50-gm-prod-411453-0-202202220842.jpg?im=Resize=(600,600)",
+            ],
+      
+            brand: "Nature's Essence",
+      
+            shortDesc: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+    
+            size : "65 ml",
+    
+            colour: "colorless",
+      
+            ratings: 3.5,
+      
+            mrp: 75,
+      
+            discount: 12,
+      
+            additionalOffers:[
+                "upto Rs. 60% casback on first order", 
+                "Flate rs.100 caskback on first clothing accessories",
+            ],
+      
+            bankOffers: [
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            ],
+      
+            coupons: [
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            ],
+      
+            status: "In stock",
+      
+            soldBy: "Reliance Retail",
+      
+            description: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+      
+            countryOfOrigin: "India",
+      
+            manufacturer: "NATURE's ESSENCE PVT LTD",
+      
+            manufacturerAddress: ["NATURE's ESSENCE PVT LTD"],
+      
+            productId: 60801,
+      
+          },
+          {
+            productImage: [
+                "https://www.jiomart.com/images/product/original/406133/himalaya-oil-clear-mud-face-pack-50-gm-prod-406133-0-202112020202.jpg?im=Resize=(600,600)",
+            ],
+      
+            brand: "Nature's Essence",
+      
+            shortDesc: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+    
+            size : "65 ml",
+    
+            colour: "colorless",
+      
+            ratings: 3.5,
+      
+            mrp: 95,
+      
+            discount: 12,
+      
+            additionalOffers:[
+                "upto Rs. 60% casback on first order", 
+                "Flate rs.100 caskback on first clothing accessories",
+            ],
+      
+            bankOffers: [
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            ],
+      
+            coupons: [
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            ],
+      
+            status: "In stock",
+      
+            soldBy: "Reliance Retail",
+      
+            description: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+      
+            countryOfOrigin: "India",
+      
+            manufacturer: "NATURE's ESSENCE PVT LTD",
+      
+            manufacturerAddress: ["NATURE's ESSENCE PVT LTD"],
+      
+            productId: 60802,
+      
+          },
+          {
+            productImage: [
+                "https://www.jiomart.com/images/product/original/918866/himalaya-tan-removal-face-wash-orange-50-ml-prod-918866-0-202208040733.jpg?im=Resize=(600,600)",
+            ],
+      
+            brand: "Nature's Essence",
+      
+            shortDesc: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+    
+            size : "65 ml",
+    
+            colour: "colorless",
+      
+            ratings: 3.5,
+      
+            mrp: 85,
+      
+            discount: 12,
+      
+            additionalOffers:[
+                "upto Rs. 60% casback on first order", 
+                "Flate rs.100 caskback on first clothing accessories",
+            ],
+      
+            bankOffers: [
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            ],
+      
+            coupons: [
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            ],
+      
+            status: "In stock",
+      
+            soldBy: "Reliance Retail",
+      
+            description: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+      
+            countryOfOrigin: "India",
+      
+            manufacturer: "NATURE's ESSENCE PVT LTD",
+      
+            manufacturerAddress: ["NATURE's ESSENCE PVT LTD"],
+      
+            productId: 60803,
+      
+          },
+          {
+            productImage: [
+                "https://www.jiomart.com/images/product/original/13112/himalaya-natural-glow-kesar-face-cream-50-gm-prod-13112-0-202202282318.jpg?im=Resize=(600,600)",
+            ],
+      
+            brand: "Nature's Essence",
+      
+            shortDesc: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+    
+            size : "65 ml",
+    
+            colour: "colorless",
+      
+            ratings: 3.5,
+      
+            mrp: 65,
+      
+            discount: 12,
+      
+            additionalOffers:[
+                "upto Rs. 60% casback on first order", 
+                "Flate rs.100 caskback on first clothing accessories",
+            ],
+      
+            bankOffers: [
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            ],
+      
+            coupons: [
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            ],
+      
+            status: "In stock",
+      
+            soldBy: "Reliance Retail",
+      
+            description: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+      
+            countryOfOrigin: "India",
+      
+            manufacturer: "NATURE's ESSENCE PVT LTD",
+      
+            manufacturerAddress: ["NATURE's ESSENCE PVT LTD"],
+      
+            productId: 60804,
+      
+          },
+          {
+            productImage: [
+               "https://www.jiomart.com/images/product/original/949590/lakme-blush-glow-strawberry-sheet-mask-25-ml-prod-949590-0-202303311729.jpg?im=Resize=(600,600)",
+            ],
+      
+            brand: "Nature's Essence",
+      
+            shortDesc: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+    
+            size : "65 ml",
+    
+            colour: "colorless",
+      
+            ratings: 3.5,
+      
+            mrp: 95,
+      
+            discount: 12,
+      
+            additionalOffers:[
+                "upto Rs. 60% casback on first order", 
+                "Flate rs.100 caskback on first clothing accessories",
+            ],
+      
+            bankOffers: [
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            ],
+      
+            coupons: [
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            ],
+      
+            status: "In stock",
+      
+            soldBy: "Reliance Retail",
+      
+            description: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+      
+            countryOfOrigin: "India",
+      
+            manufacturer: "NATURE's ESSENCE PVT LTD",
+      
+            manufacturerAddress: ["NATURE's ESSENCE PVT LTD"],
+      
+            productId: 60805,
+      
+          },
+          {
+            productImage: [
+               "https://www.jiomart.com/images/product/original/1002344/organic-harvest-vitamin-a-face-sheet-mask-20-gm-prod-1002344-0-202203172023.jpg?im=Resize=(600,600)",
+            ],
+      
+            brand: "Nature's Essence",
+      
+            shortDesc: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+    
+            size : "65 ml",
+    
+            colour: "colorless",
+      
+            ratings: 3.5,
+      
+            mrp: 110,
+      
+            discount: 12,
+      
+            additionalOffers:[
+                "upto Rs. 60% casback on first order", 
+                "Flate rs.100 caskback on first clothing accessories",
+            ],
+      
+            bankOffers: [
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            ],
+      
+            coupons: [
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            ],
+      
+            status: "In stock",
+      
+            soldBy: "Reliance Retail",
+      
+            description: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+      
+            countryOfOrigin: "India",
+      
+            manufacturer: "NATURE's ESSENCE PVT LTD",
+      
+            manufacturerAddress: ["NATURE's ESSENCE PVT LTD"],
+      
+            productId: 60806,
+      
+          },
+          {
+            productImage: [
+                "https://www.jiomart.com/images/product/original/930263/organic-harvest-serum-face-sheet-mask-skin-brightening-wild-rose-20-gm-prod-930263-0-202112020341.jpg?im=Resize=(600,600)",
+            ],
+      
+            brand: "Nature's Essence",
+      
+            shortDesc: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+    
+            size : "65 ml",
+    
+            colour: "colorless",
+      
+            ratings: 3.5,
+      
+            mrp: 120,
+      
+            discount: 12,
+      
+            additionalOffers:[
+                "upto Rs. 60% casback on first order", 
+                "Flate rs.100 caskback on first clothing accessories",
+            ],
+      
+            bankOffers: [
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            ],
+      
+            coupons: [
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            ],
+      
+            status: "In stock",
+      
+            soldBy: "Reliance Retail",
+      
+            description: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+      
+            countryOfOrigin: "India",
+      
+            manufacturer: "NATURE's ESSENCE PVT LTD",
+      
+            manufacturerAddress: ["NATURE's ESSENCE PVT LTD"],
+      
+            productId: 60807,
+      
+          },
+          {
+            productImage: [
+                "https://www.jiomart.com/images/product/original/1002345/organic-harvest-vitamin-b-face-sheet-mask-20-gm-prod-1002345-0-202203172023.jpg?im=Resize=(600,600)",
+            ],
+      
+            brand: "Nature's Essence",
+      
+            shortDesc: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+    
+            size : "65 ml",
+    
+            colour: "colorless",
+      
+            ratings: 3.5,
+      
+            mrp: 115,
+      
+            discount: 12,
+      
+            additionalOffers:[
+                "upto Rs. 60% casback on first order", 
+                "Flate rs.100 caskback on first clothing accessories",
+            ],
+      
+            bankOffers: [
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            ],
+      
+            coupons: [
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            ],
+      
+            status: "In stock",
+      
+            soldBy: "Reliance Retail",
+      
+            description: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+      
+            countryOfOrigin: "India",
+      
+            manufacturer: "NATURE's ESSENCE PVT LTD",
+      
+            manufacturerAddress: ["NATURE's ESSENCE PVT LTD"],
+      
+            productId: 60808,
+      
+          },
+          {
+            productImage: [
+                "https://www.jiomart.com/images/product/original/945289/mirabelle-korea-tea-tree-essential-facial-sheet-mask-25-ml-prod-945289-0-202111141136.jpg?im=Resize=(600,600)",
+            ],
+      
+            brand: "Nature's Essence",
+      
+            shortDesc: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+    
+            size : "65 ml",
+    
+            colour: "colorless",
+      
+            ratings: 3.5,
+      
+            mrp: 125,
+      
+            discount: 12,
+      
+            additionalOffers:[
+                "upto Rs. 60% casback on first order", 
+                "Flate rs.100 caskback on first clothing accessories",
+            ],
+      
+            bankOffers: [
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            ],
+      
+            coupons: [
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            ],
+      
+            status: "In stock",
+      
+            soldBy: "Reliance Retail",
+      
+            description: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+      
+            countryOfOrigin: "India",
+      
+            manufacturer: "NATURE's ESSENCE PVT LTD",
+      
+            manufacturerAddress: ["NATURE's ESSENCE PVT LTD"],
+      
+            productId: 60809,
+      
+          },
+          {
+            productImage: [
+                "https://www.jiomart.com/images/product/original/945290/mirabelle-korea-turmeric-essential-facial-sheet-mask-25-ml-prod-945290-0-202111141136.jpg?im=Resize=(600,600)",
+            ],
+      
+            brand: "Nature's Essence",
+      
+            shortDesc: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+    
+            size : "65 ml",
+    
+            colour: "colorless",
+      
+            ratings: 3.5,
+      
+            mrp: 85,
+      
+            discount: 12,
+      
+            additionalOffers:[
+                "upto Rs. 60% casback on first order", 
+                "Flate rs.100 caskback on first clothing accessories",
+            ],
+      
+            bankOffers: [
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            ],
+      
+            coupons: [
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            ],
+      
+            status: "In stock",
+      
+            soldBy: "Reliance Retail",
+      
+            description: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+      
+            countryOfOrigin: "India",
+      
+            manufacturer: "NATURE's ESSENCE PVT LTD",
+      
+            manufacturerAddress: ["NATURE's ESSENCE PVT LTD"],
+      
+            productId: 60810,
+      
+          },
+          {
+            productImage: [
+               "https://www.jiomart.com/images/product/original/945297/mirabelle-korea-wine-fairness-facial-sheet-mask-25-ml-prod-945297-0-202111141137.jpg?im=Resize=(600,600)",
+            ],
+      
+            brand: "Nature's Essence",
+      
+            shortDesc: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+    
+            size : "65 ml",
+    
+            colour: "colorless",
+      
+            ratings: 3.5,
+      
+            mrp: 119,
+      
+            discount: 12,
+      
+            additionalOffers:[
+                "upto Rs. 60% casback on first order", 
+                "Flate rs.100 caskback on first clothing accessories",
+            ],
+      
+            bankOffers: [
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            ],
+      
+            coupons: [
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            ],
+      
+            status: "In stock",
+      
+            soldBy: "Reliance Retail",
+      
+            description: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+      
+            countryOfOrigin: "India",
+      
+            manufacturer: "NATURE's ESSENCE PVT LTD",
+      
+            manufacturerAddress: ["NATURE's ESSENCE PVT LTD"],
+      
+            productId: 60811,
+      
+          },
+          {
+            productImage: [
+                "https://www.jiomart.com/images/product/original/945292/mirabelle-korea-avocado-fairness-facial-sheet-mask-25-ml-prod-945292-0-202111141137.jpg?im=Resize=(600,600)",
+            ],
+      
+            brand: "Nature's Essence",
+      
+            shortDesc: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+    
+            size : "65 ml",
+    
+            colour: "colorless",
+      
+            ratings: 3.5,
+      
+            mrp: 95,
+      
+            discount: 12,
+      
+            additionalOffers:[
+                "upto Rs. 60% casback on first order", 
+                "Flate rs.100 caskback on first clothing accessories",
+            ],
+      
+            bankOffers: [
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            ],
+      
+            coupons: [
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            ],
+      
+            status: "In stock",
+      
+            soldBy: "Reliance Retail",
+      
+            description: "Nature's Essence Glowing Gold Peel-Off Mask 65 ml",
+      
+            countryOfOrigin: "India",
+      
+            manufacturer: "NATURE's ESSENCE PVT LTD",
+      
+            manufacturerAddress: ["NATURE's ESSENCE PVT LTD"],
+      
+            productId: 60812,
+      
+          },
+    ],
+    Moisturizers: [
+        {
+          productImage: [
+              "https://www.jiomart.com/images/product/original/1080597/charmis-daily-nourishing-soft-cream-with-vitamin-c-saffron-extracts-and-spf-30-200-ml-prod-1080597-0-202304261314.jpg?im=Resize=(600,600)",
+            ],
+    
+          brand: "Charmis Daily",
+    
+          shortDesc: " Moisturizer Charmis Daily Nourishing Soft Cream with Vitamin C Saffron Extracts And Spf 30 200 ml",
+  
+          size : "60 ml",
+  
+          colour: "colorless",
+    
+          ratings: 3.5,
+    
+          mrp: 219,
+    
+          discount: 12,
+    
+          additionalOffers:[
+              "upto Rs. 60% casback on first order", 
+              "Flate rs.100 caskback on first clothing accessories",
+          ],
+    
+          bankOffers: [
+              "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+              "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+          ],
+    
+          coupons: [
+              "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+              "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+              "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+          ],
+    
+          status: "In stock",
+    
+          soldBy: "Reliance Retail",
+    
+          description: "Enriched with natural skin soothers, this light moisturizer provides relief from sun damage & comforts your parched skin by instantly boosting the moisture reserve.",
+    
+          countryOfOrigin: "India",
+    
+          manufacturer: "L'Oreal India Pvt, Ltd",
+    
+          manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+    
+          productId: 60813,
+    
+        },
+        {
+            productImage: [
+                "https://www.jiomart.com/images/product/original/1089363/mamaearth-skin-illuminate-face-cream-for-skin-brightening-with-vitamin-c-and-turmeric-for-radiant-skin-80-gm-prod-1089363-0-202305090528.jpg?im=Resize=(600,600)",
+            ],
+      
+            brand: "Charmis Daily",
+      
+            shortDesc: " Moisturizer Charmis Daily Nourishing Soft Cream with Vitamin C Saffron Extracts And Spf 30 200 ml",
+    
+            size : "60 ml",
+    
+            colour: "colorless",
+      
+            ratings: 3.5,
+      
+            mrp: 219,
+      
+            discount: 12,
+      
+            additionalOffers:[
+                "upto Rs. 60% casback on first order", 
+                "Flate rs.100 caskback on first clothing accessories",
+            ],
+      
+            bankOffers: [
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            ],
+      
+            coupons: [
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            ],
+      
+            status: "In stock",
+      
+            soldBy: "Reliance Retail",
+      
+            description: "Enriched with natural skin soothers, this light moisturizer provides relief from sun damage & comforts your parched skin by instantly boosting the moisture reserve.",
+      
+            countryOfOrigin: "India",
+      
+            manufacturer: "L'Oreal India Pvt, Ltd",
+      
+            manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+      
+            productId: 60814,
+      
+          },
+          {
+            productImage: [
+                "https://www.jiomart.com/images/product/original/1089378/mamaearth-rice-face-wash-with-rice-water-niacinamide-for-glass-skin-100-ml-prod-1089378-0-202305090258.jpg?im=Resize=(600,600)",
+            ],
+      
+            brand: "Charmis Daily",
+      
+            shortDesc: " Moisturizer Charmis Daily Nourishing Soft Cream with Vitamin C Saffron Extracts And Spf 30 200 ml",
+    
+            size : "60 ml",
+    
+            colour: "colorless",
+      
+            ratings: 3.5,
+      
+            mrp: 219,
+      
+            discount: 12,
+      
+            additionalOffers:[
+                "upto Rs. 60% casback on first order", 
+                "Flate rs.100 caskback on first clothing accessories",
+            ],
+      
+            bankOffers: [
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            ],
+      
+            coupons: [
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            ],
+      
+            status: "In stock",
+      
+            soldBy: "Reliance Retail",
+      
+            description: "Enriched with natural skin soothers, this light moisturizer provides relief from sun damage & comforts your parched skin by instantly boosting the moisture reserve.",
+      
+            countryOfOrigin: "India",
+      
+            manufacturer: "L'Oreal India Pvt, Ltd",
+      
+            manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+      
+            productId: 60815,
+      
+          },
+          {
+            productImage: [
+                "https://www.jiomart.com/images/product/original/1089363/mamaearth-skin-illuminate-face-cream-for-skin-brightening-with-vitamin-c-and-turmeric-for-radiant-skin-80-gm-prod-1089363-0-202305090528.jpg?im=Resize=(600,600)",
+            ],
+      
+            brand: "Charmis Daily",
+      
+            shortDesc: " Moisturizer Charmis Daily Nourishing Soft Cream with Vitamin C Saffron Extracts And Spf 30 200 ml",
+    
+            size : "60 ml",
+    
+            colour: "colorless",
+      
+            ratings: 3.5,
+      
+            mrp: 219,
+      
+            discount: 12,
+      
+            additionalOffers:[
+                "upto Rs. 60% casback on first order", 
+                "Flate rs.100 caskback on first clothing accessories",
+            ],
+      
+            bankOffers: [
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            ],
+      
+            coupons: [
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            ],
+      
+            status: "In stock",
+      
+            soldBy: "Reliance Retail",
+      
+            description: "Enriched with natural skin soothers, this light moisturizer provides relief from sun damage & comforts your parched skin by instantly boosting the moisture reserve.",
+      
+            countryOfOrigin: "India",
+      
+            manufacturer: "L'Oreal India Pvt, Ltd",
+      
+            manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+      
+            productId: 60816,
+      
+          },
+          {
+            productImage: [
+                "https://www.jiomart.com/images/product/original/1089321/mamaearth-ubtan-oil-free-face-moisturizer-with-turmeric-saffron-for-skin-brightening-80-ml-prod-1089321-0-202305090531.jpg?im=Resize=(600,600)",
+            ],
+      
+            brand: "Charmis Daily",
+      
+            shortDesc: " Moisturizer Charmis Daily Nourishing Soft Cream with Vitamin C Saffron Extracts And Spf 30 200 ml",
+    
+            size : "60 ml",
+    
+            colour: "colorless",
+      
+            ratings: 3.5,
+      
+            mrp: 219,
+      
+            discount: 12,
+      
+            additionalOffers:[
+                "upto Rs. 60% casback on first order", 
+                "Flate rs.100 caskback on first clothing accessories",
+            ],
+      
+            bankOffers: [
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            ],
+      
+            coupons: [
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            ],
+      
+            status: "In stock",
+      
+            soldBy: "Reliance Retail",
+      
+            description: "Enriched with natural skin soothers, this light moisturizer provides relief from sun damage & comforts your parched skin by instantly boosting the moisture reserve.",
+      
+            countryOfOrigin: "India",
+      
+            manufacturer: "L'Oreal India Pvt, Ltd",
+      
+            manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+      
+            productId: 60817,
+      
+          },
+          {
+            productImage: [
+                "https://www.jiomart.com/images/product/original/1089411/mamaearth-honey-malai-oil-free-face-moisturizer-for-nourishing-glow-80-gm-prod-1089411-0-202305140206.jpg?im=Resize=(600,600)",
+            ],
+      
+            brand: "Charmis Daily",
+      
+            shortDesc: " Moisturizer Charmis Daily Nourishing Soft Cream with Vitamin C Saffron Extracts And Spf 30 200 ml",
+    
+            size : "60 ml",
+    
+            colour: "colorless",
+      
+            ratings: 3.5,
+      
+            mrp: 219,
+      
+            discount: 12,
+      
+            additionalOffers:[
+                "upto Rs. 60% casback on first order", 
+                "Flate rs.100 caskback on first clothing accessories",
+            ],
+      
+            bankOffers: [
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            ],
+      
+            coupons: [
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            ],
+      
+            status: "In stock",
+      
+            soldBy: "Reliance Retail",
+      
+            description: "Enriched with natural skin soothers, this light moisturizer provides relief from sun damage & comforts your parched skin by instantly boosting the moisture reserve.",
+      
+            countryOfOrigin: "India",
+      
+            manufacturer: "L'Oreal India Pvt, Ltd",
+      
+            manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+      
+            productId: 60818,
+      
+          },
+          {
+            productImage: [
+                "https://www.jiomart.com/images/product/original/1089314/mamaearth-vitamin-c-oil-free-moisturizer-for-face-with-vitamin-c-gotu-kola-for-skin-illumination-80-ml-prod-1089314-0-202305090506.jpg?im=Resize=(600,600)",
+            ],
+      
+            brand: "Charmis Daily",
+      
+            shortDesc: " Moisturizer Charmis Daily Nourishing Soft Cream with Vitamin C Saffron Extracts And Spf 30 200 ml",
+    
+            size : "60 ml",
+    
+            colour: "colorless",
+      
+            ratings: 3.5,
+      
+            mrp: 438,
+      
+            discount: 12,
+      
+            additionalOffers:[
+                "upto Rs. 60% casback on first order", 
+                "Flate rs.100 caskback on first clothing accessories",
+            ],
+      
+            bankOffers: [
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            ],
+      
+            coupons: [
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            ],
+      
+            status: "In stock",
+      
+            soldBy: "Reliance Retail",
+      
+            description: "Enriched with natural skin soothers, this light moisturizer provides relief from sun damage & comforts your parched skin by instantly boosting the moisture reserve.",
+      
+            countryOfOrigin: "India",
+      
+            manufacturer: "L'Oreal India Pvt, Ltd",
+      
+            manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+      
+            productId: 60819,
+      
+          },
+          {
+            productImage: [
+                "https://www.jiomart.com/images/product/original/1079503/aqualogica-glow-plus-oil-free-moisturizer-100-gm-prod-1079503-0-202305090837.jpg?im=Resize=(600,600)",
+            ],
+      
+            brand: "Charmis Daily",
+      
+            shortDesc: " Moisturizer Charmis Daily Nourishing Soft Cream with Vitamin C Saffron Extracts And Spf 30 200 ml",
+    
+            size : "60 ml",
+    
+            colour: "colorless",
+      
+            ratings: 3.5,
+      
+            mrp: 219,
+      
+            discount: 12,
+      
+            additionalOffers:[
+                "upto Rs. 60% casback on first order", 
+                "Flate rs.100 caskback on first clothing accessories",
+            ],
+      
+            bankOffers: [
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            ],
+      
+            coupons: [
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            ],
+      
+            status: "In stock",
+      
+            soldBy: "Reliance Retail",
+      
+            description: "Enriched with natural skin soothers, this light moisturizer provides relief from sun damage & comforts your parched skin by instantly boosting the moisture reserve.",
+      
+            countryOfOrigin: "India",
+      
+            manufacturer: "L'Oreal India Pvt, Ltd",
+      
+            manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+      
+            productId: 60820,
+      
+          },
+          {
+            productImage: [
+                "https://www.jiomart.com/images/product/original/1079476/aqualogica-glow-plus-jello-gel-moisturiser-50-ml-prod-1079476-0-202305140441.jpg?im=Resize=(600,600)",
+            ],
+      
+            brand: "Charmis Daily",
+      
+            shortDesc: " Moisturizer Charmis Daily Nourishing Soft Cream with Vitamin C Saffron Extracts And Spf 30 200 ml",
+    
+            size : "60 ml",
+    
+            colour: "colorless",
+      
+            ratings: 3.5,
+      
+            mrp: 219,
+      
+            discount: 12,
+      
+            additionalOffers:[
+                "upto Rs. 60% casback on first order", 
+                "Flate rs.100 caskback on first clothing accessories",
+            ],
+      
+            bankOffers: [
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            ],
+      
+            coupons: [
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            ],
+      
+            status: "In stock",
+      
+            soldBy: "Reliance Retail",
+      
+            description: "Enriched with natural skin soothers, this light moisturizer provides relief from sun damage & comforts your parched skin by instantly boosting the moisture reserve.",
+      
+            countryOfOrigin: "India",
+      
+            manufacturer: "L'Oreal India Pvt, Ltd",
+      
+            manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+      
+            productId: 60821,
+      
+          },
+          {
+            productImage: [
+                "https://www.jiomart.com/images/product/original/1102676/pilgrim-oil-freegel-moisturiser-50-gm-prod-1102676-0-202310041258.jpg?im=Resize=(600,600)",
+            ],
+      
+            brand: "Charmis Daily",
+      
+            shortDesc: " Moisturizer Charmis Daily Nourishing Soft Cream with Vitamin C Saffron Extracts And Spf 30 200 ml",
+    
+            size : "60 ml",
+    
+            colour: "colorless",
+      
+            ratings: 3.5,
+      
+            mrp: 219,
+      
+            discount: 12,
+      
+            additionalOffers:[
+                "upto Rs. 60% casback on first order", 
+                "Flate rs.100 caskback on first clothing accessories",
+            ],
+      
+            bankOffers: [
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            ],
+      
+            coupons: [
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            ],
+      
+            status: "In stock",
+      
+            soldBy: "Reliance Retail",
+      
+            description: "Enriched with natural skin soothers, this light moisturizer provides relief from sun damage & comforts your parched skin by instantly boosting the moisture reserve.",
+      
+            countryOfOrigin: "India",
+      
+            manufacturer: "L'Oreal India Pvt, Ltd",
+      
+            manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+      
+            productId: 60822,
+      
+          },
+          {
+            productImage: [
+                "https://www.jiomart.com/images/product/original/1102532/pilgrim-2-vitamin-c-oil-free-moisturizer-with-kakadu-plum-lime-pearl-for-brighter-skin-50-gm-prod-1102532-0-202310041233.jpg?im=Resize=(600,600)",
+            ],
+      
+            brand: "Charmis Daily",
+      
+            shortDesc: " Moisturizer Charmis Daily Nourishing Soft Cream with Vitamin C Saffron Extracts And Spf 30 200 ml",
+    
+            size : "60 ml",
+    
+            colour: "colorless",
+      
+            ratings: 3.5,
+      
+            mrp: 219,
+      
+            discount: 12,
+      
+            additionalOffers:[
+                "upto Rs. 60% casback on first order", 
+                "Flate rs.100 caskback on first clothing accessories",
+            ],
+      
+            bankOffers: [
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            ],
+      
+            coupons: [
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            ],
+      
+            status: "In stock",
+      
+            soldBy: "Reliance Retail",
+      
+            description: "Enriched with natural skin soothers, this light moisturizer provides relief from sun damage & comforts your parched skin by instantly boosting the moisture reserve.",
+      
+            countryOfOrigin: "India",
+      
+            manufacturer: "L'Oreal India Pvt, Ltd",
+      
+            manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+      
+            productId: 60823,
+      
+          },
+          {
+            productImage: [
+                "https://www.jiomart.com/images/product/original/939276/green-tea-oil-free-moisturizer-50-ml-prod-939276-0-202202181852.jpg?im=Resize=(600,600)",
+            ],
+      
+            brand: "Charmis Daily",
+      
+            shortDesc: " Moisturizer Charmis Daily Nourishing Soft Cream with Vitamin C Saffron Extracts And Spf 30 200 ml",
+    
+            size : "60 ml",
+    
+            colour: "colorless",
+      
+            ratings: 3.5,
+      
+            mrp: 219,
+      
+            discount: 12,
+      
+            additionalOffers:[
+                "upto Rs. 60% casback on first order", 
+                "Flate rs.100 caskback on first clothing accessories",
+            ],
+      
+            bankOffers: [
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            ],
+      
+            coupons: [
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            ],
+      
+            status: "In stock",
+      
+            soldBy: "Reliance Retail",
+      
+            description: "Enriched with natural skin soothers, this light moisturizer provides relief from sun damage & comforts your parched skin by instantly boosting the moisture reserve.",
+      
+            countryOfOrigin: "India",
+      
+            manufacturer: "L'Oreal India Pvt, Ltd",
+      
+            manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+      
+            productId: 60824,
+      
+          },
+          {
+            productImage: [
+                "https://www.jiomart.com/images/product/original/1002787/minimalist-sepicalm-oats-face-moisturizer-fragrance-free-face-cream-50-ml-prod-1002787-0-202306252122.jpg?im=Resize=(600,600)",
+            ],
+      
+            brand: "Charmis Daily",
+      
+            shortDesc: " Moisturizer Charmis Daily Nourishing Soft Cream with Vitamin C Saffron Extracts And Spf 30 200 ml",
+    
+            size : "60 ml",
+    
+            colour: "colorless",
+      
+            ratings: 3.5,
+      
+            mrp: 219,
+      
+            discount: 12,
+      
+            additionalOffers:[
+                "upto Rs. 60% casback on first order", 
+                "Flate rs.100 caskback on first clothing accessories",
+            ],
+      
+            bankOffers: [
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            ],
+      
+            coupons: [
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            ],
+      
+            status: "In stock",
+      
+            soldBy: "Reliance Retail",
+      
+            description: "Enriched with natural skin soothers, this light moisturizer provides relief from sun damage & comforts your parched skin by instantly boosting the moisture reserve.",
+      
+            countryOfOrigin: "India",
+      
+            manufacturer: "L'Oreal India Pvt, Ltd",
+      
+            manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+      
+            productId: 60825,
+      
+          },
+          {
+            productImage: [
+               "https://www.jiomart.com/images/product/original/1083226/the-derma-co-5-percent-cicaglow-daily-face-moisturizer-50-gm-prod-1083226-0-202305140133.jpg?im=Resize=(600,600)",
+             ],
+      
+            brand: "Charmis Daily",
+      
+            shortDesc: " Moisturizer Charmis Daily Nourishing Soft Cream with Vitamin C Saffron Extracts And Spf 30 200 ml",
+    
+            size : "60 ml",
+    
+            colour: "colorless",
+      
+            ratings: 3.5,
+      
+            mrp: 345,
+      
+            discount: 12,
+      
+            additionalOffers:[
+                "upto Rs. 60% casback on first order", 
+                "Flate rs.100 caskback on first clothing accessories",
+            ],
+      
+            bankOffers: [
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            ],
+      
+            coupons: [
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            ],
+      
+            status: "In stock",
+      
+            soldBy: "Reliance Retail",
+      
+            description: "Enriched with natural skin soothers, this light moisturizer provides relief from sun damage & comforts your parched skin by instantly boosting the moisture reserve.",
+      
+            countryOfOrigin: "India",
+      
+            manufacturer: "L'Oreal India Pvt, Ltd",
+      
+            manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+      
+            productId: 60826,
+      
+          },
+          {
+            productImage: [
+                "https://www.jiomart.com/images/product/original/994254/azafran-organics-daily-3-in-1-moisturizer-50-gm-prod-994254-0-202203281640.jpg?im=Resize=(600,600)",
+            ],
+      
+            brand: "Charmis Daily",
+      
+            shortDesc: " Moisturizer Charmis Daily Nourishing Soft Cream with Vitamin C Saffron Extracts And Spf 30 200 ml",
+    
+            size : "60 ml",
+    
+            colour: "colorless",
+      
+            ratings: 3.5,
+      
+            mrp: 299,
+      
+            discount: 12,
+      
+            additionalOffers:[
+                "upto Rs. 60% casback on first order", 
+                "Flate rs.100 caskback on first clothing accessories",
+            ],
+      
+            bankOffers: [
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+                "10% Instant Discount. Min. Trnx 1500/- Max Discount Up to Rs. 500/- On Ban", 
+            ],
+      
+            coupons: [
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+                "Get Flat Rs.100 Off for selected user, Valid on Beauty Products",
+            ],
+      
+            status: "In stock",
+      
+            soldBy: "Reliance Retail",
+      
+            description: "Enriched with natural skin soothers, this light moisturizer provides relief from sun damage & comforts your parched skin by instantly boosting the moisture reserve.",
+      
+            countryOfOrigin: "India",
+      
+            manufacturer: "L'Oreal India Pvt, Ltd",
+      
+            manufacturerAddress: ["Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501"],
+      
+            productId: 60827,
+      
+          },
+    ],
 }

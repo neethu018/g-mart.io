@@ -15,7 +15,10 @@ const CategoryAccordions = ({ mainCategory }) => {
       "PomegranatePapayaPineapple",
       "SeasonalMinorFruits"
     ],
-    Beauty: ["makeup"],
+    Beauty: [
+      "makeup",
+      "skincare"
+    ],
     SportsToysLuggages: ["BagsTravelLuggages"],
     HomeAndKitchenNeeds: [
       "Kitchenware",
@@ -44,6 +47,7 @@ const CategoryAccordions = ({ mainCategory }) => {
     SeasonalMinorFruits:["guavas","custardapples"],
     //beauty
     makeup: ["Lips", "Nails", "Eyes", "FaceMakeUp", "MakeupToolsBrushes"],
+    skincare:["Serum", "FaceMask", "Moisturizers"],
     //sportstoysluggages
     BagsTravelLuggages: [
       "BagsAndBackpacks",
