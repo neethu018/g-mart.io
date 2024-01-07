@@ -176,13 +176,13 @@ const Category = ({ products }) => {
       products &&
       products.Serum &&
       products.FaceMask &&
-      products.Moisturizes 
+      products.Moisturizers 
       
     ) {
       filteredProducts = [
         ...products.Serum,
         ...products.FaceMask ,
-        ...products.Moisturizes,
+        ...products.Moisturizers,
       ];
     } else {
       console.error("Products data is incomplete.");
