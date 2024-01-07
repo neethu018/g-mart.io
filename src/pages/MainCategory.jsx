@@ -1,10 +1,11 @@
-import React, { useState } from "react";
-import { Col, Container, Row } from "react-bootstrap";
+import React, { useEffect, useState } from "react";
+import { Col, Container, Row,Image } from "react-bootstrap";
 import ProductCard from "../components/ProductCard";
 import { useLocation } from "react-router-dom";
 import BreadCrumbs from "../components/BreadCrumbs";
 import CategoryAccordions from "../components/CategoryAccordions";
 import SortBtn from '../components/SortBtn';
+import {maincategorybanneradimagedata} from '../utils/adimage/maincategorybanneradimage';
 
 const MainCategory = ({ products }) => {
   const { pathname } = useLocation();
@@ -67,7 +68,15 @@ const MainCategory = ({ products }) => {
 
     return shuffledArray;
   }
-
+//ProductlistAdImage
+const [maincategoryBannerAdImage,setmaincategoryBannerAdImage] = useState("");
+  
+useEffect(()=>{
+  if(mainTitle){
+    console.log("subcategoryAdImageData key :",mainTitle);
+    setmaincategoryBannerAdImage(maincategorybanneradimagedata[mainTitle]);
+  }
+},[mainTitle])
 
   return (
     <Container fluid className="product-list-container">
@@ -85,6 +94,16 @@ const MainCategory = ({ products }) => {
         </Col>
         {/* Right column */}
         <Col md={9}>
+        {maincategoryBannerAdImage &&<Row>
+            <Col>
+              <Image
+                src={maincategoryBannerAdImage}
+                fluid
+                rounded
+                style={{ height: '200px',width:"100%",objectFit:"cover"}}
+              />
+            </Col>
+          </Row>}
           <Row className=" mt-3 justify-content-end">
             <Col>
               <SortBtn
