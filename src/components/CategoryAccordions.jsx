@@ -29,8 +29,7 @@ const CategoryAccordions = ({ mainCategory }) => {
     Fashion: [
       "MensFashion",
       "WomensFashion",
-      "JuniorBoy",
-      "JuniorGirl",
+      "KidsFashion",
       "Infants",
     ],
   };
@@ -65,20 +64,31 @@ const CategoryAccordions = ({ mainCategory }) => {
     MensFashion: [
       "ClothingAccessories",
       "WesternWear",
-      "FootWear",
-      "EyeWear",
+      "MensFootWear",
+      "MensEyeWear",
       "InnerWear",
     ],
     WomensFashion: [
-      "EthnicWear",
+      "EthinicWear",
       "TraditionalWear",
       "EyeWear",
       "FootWear",
       "Watches",
     ],
-    JuniorBoy: ["Shirts", "Tracks", "InnerWear"],
-    JuniorGirl: ["GownAndDress", "TopsAndPants", "InnerWear"],
-    Infants: ["Boy", "Girl"],
+    KidsFashion: [
+      "JuniorBoyShirt",
+      "JuniorBoyTracks",
+      "JuniorBoyInnerWear",
+      "JuniorGirlGowns",
+      "JuniorGirlCasualWear",
+      "JuniorGirlInnerWear",
+      
+    ],
+    Infants: [
+      "BabyGirl",
+      "BabyBoy",
+      "Toys",
+    ],
     "Category C2": ["Subcategory C1.1", "Subcategory C1.2", "Subcategory C1.3"],
   };
   const { pathname } = useLocation();

@@ -188,6 +188,100 @@ const Category = ({ products }) => {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
+  }else if (category === "mensfashion") {
+    // Check if 'ClothingAccessories','WesternWear','FootWear','EyeWear','InnerWear' properties exist in the products object
+    if (
+      products &&
+      products.ClothingAccessories &&
+      products.WesternWear &&
+      products.MensFootWear &&
+      products.MensEyeWear &&
+      products.InnerWear
+    ) {
+      filteredProducts = [
+        ...products.ClothingAccessories,
+        ...products.WesternWear,
+        ...products.MensFootWear,
+        ...products.MensEyeWear,
+        ...products.InnerWear,
+      ];
+    } else {
+      console.error("Products data is incomplete.");
+      return <div>Error loading products.</div>;
+    }
+  }else if (category === "womensfashion") {
+    // Check if 'EthinicWear','TraditionalWear','EyeWear','Watches','FootWear'properties exist in the products object
+    if (
+      products &&
+      products.EthinicWear &&
+      products.TraditionalWear &&
+      products.EyeWear &&
+      products.Watches &&
+      products.FootWear 
+      
+    ) {
+      filteredProducts = [
+        ...products.EthinicWear,
+        ...products.TraditionalWear ,
+        ...products.EyeWear,
+        ...products.Watches,
+        ...products.FootWear,
+      ];
+    } else {
+      console.error("Products data is incomplete.");
+      return <div>Error loading products.</div>;
+    }
+  }else if (category === "kidsfashion") {
+    // Check if 'JuniorBoyShirt','JuniorBoyTracks','JuniorBoyInnerWear',
+    //'JuniorGirlGowns','JuniorGirlCasualWear','JuniorGirlInnerWear','BabyGirl','BabyBoy','Toys'
+    //properties exist in the products object
+    if (
+      products &&
+      products.JuniorBoyShirt &&
+      products.JuniorBoyTracks &&
+      products.JuniorBoyInnerWear &&
+      products.JuniorGirlGowns &&
+      products.JuniorGirlCasualWear &&
+      products.JuniorGirlInnerWear 
+     
+      
+    ) {
+      filteredProducts = [
+        ...products.JuniorBoyShirt,
+        ...products.JuniorBoyTracks ,
+        ...products.JuniorBoyInnerWear,
+        ...products.JuniorGirlGowns,
+        ...products.JuniorGirlCasualWear,
+        ...products.JuniorGirlInnerWear,
+        ...products.BabyGirl,
+        ...products.BabyBoy,
+        ...products.Toys,
+      ];
+    } else {
+      console.error("Products data is incomplete.");
+      return <div>Error loading products.</div>;
+    }
+  }
+  else if (category === "infants") {
+    // Check if 'JuniorBoyShirt','JuniorBoyTracks','JuniorBoyInnerWear',
+    //'JuniorGirlGowns','JuniorGirlCasualWear','JuniorGirlInnerWear','BabyGirl','BabyBoy','Toys'
+    //properties exist in the products object
+    if (
+      products &&
+      products.BabyGirl &&
+      products.BabyBoy &&
+      products.Toys 
+      
+    ) {
+      filteredProducts = [
+        ...products.BabyGirl,
+        ...products.BabyBoy,
+        ...products.Toys,
+      ];
+    } else {
+      console.error("Products data is incomplete.");
+      return <div>Error loading products.</div>;
+    }
   } //BagsAndLuggages
   else if (category === "BagsTravelLuggages") {
     // Bags Luggages
