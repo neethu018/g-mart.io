@@ -2,6 +2,7 @@ import React from "react";
 import { Breadcrumb } from "react-bootstrap";
 import { Link } from "react-router-dom";
 
+
 const BreadCrumbs = ({mainTitle,mainUrl,catTitle,catUrl,subcatTitle,subcatUrl}) => {
     console.log("main",mainTitle);
     console.log("main",mainUrl);
@@ -12,7 +13,7 @@ const BreadCrumbs = ({mainTitle,mainUrl,catTitle,catUrl,subcatTitle,subcatUrl}) 
 
   return (
     <Breadcrumb >
-      <Breadcrumb.Item linkAs={Link} linkProps={{ to: "/" }} className="text-decoration-none">
+      <Breadcrumb.Item linkAs={Link} linkProps={{ to: "/" }} >
         Home
       </Breadcrumb.Item>
       <Breadcrumb.Item linkAs={Link} linkProps={{ to: "/allcategory" }} className="text-decoration-none">
