@@ -10,6 +10,7 @@ import { SportsToysLuggages } from "./utils/sportstoysluggages"; //sportstoysLug
 import MainCategory from "./pages/MainCategory";
 import Header from "./components/Header";
 import ProductDetail from "./pages/ProductDetail";
+import { Fashion } from "./utils/Fashion";
 function App() {
   console.log("premiumfruits data :", premiumFruits);
   return (
@@ -51,6 +52,23 @@ function App() {
           />
           <Route
             path="/Beauty/:category/:subcategory/:product"
+            element={<ProductDetail />}
+          />
+          {/*fashion routings */}
+          <Route
+            path="/Fashion"
+            element={<MainCategory products={Fashion} />}
+          />
+          <Route
+            path="/Fashion/:category"
+            element={<Category products={Fashion} />}
+          />
+          <Route
+            path="/Fashion/:category/:subcategory"
+            element={<SubCategory products={Fashion} />}
+          />
+          <Route
+            path="/Fashion/:category/:subcategory/:product"
             element={<ProductDetail />}
           />
            {/* sportsToysLuggages */}
