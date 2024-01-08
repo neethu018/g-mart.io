@@ -16,16 +16,16 @@ const BreadCrumbs = ({mainTitle,mainUrl,catTitle,catUrl,subcatTitle,subcatUrl}) 
       <Breadcrumb.Item linkAs={Link} linkProps={{ to: "/" }} >
         Home
       </Breadcrumb.Item>
-      <Breadcrumb.Item linkAs={Link} linkProps={{ to: "/allcategory" }} className="text-decoration-none">
+      <Breadcrumb.Item linkAs={Link} linkProps={{ to: "/allcategory" }}>
         All Categories
       </Breadcrumb.Item>
-      {mainTitle&& <Breadcrumb.Item linkAs={Link} linkProps={{ to: `${mainUrl}` }} className="text-decoration-none">
+      {mainTitle&& <Breadcrumb.Item linkAs={Link} linkProps={{ to: `${mainUrl}` }}>
         {mainTitle}
       </Breadcrumb.Item>}
-      {catTitle&& <Breadcrumb.Item linkAs={Link} linkProps={{ to: `${catUrl}` }} className="text-decoration-none">
+      {catTitle&& <Breadcrumb.Item linkAs={Link} linkProps={{ to: `${catUrl}` }} >
         {catTitle}
       </Breadcrumb.Item>}
-      {subcatTitle&& <Breadcrumb.Item linkAs={Link} linkProps={{ to: `${subcatUrl}` }} className="text-decoration-none">
+      {subcatTitle&& <Breadcrumb.Item linkAs={Link} linkProps={{ to: `${subcatUrl}` }} >
         {subcatTitle}
       </Breadcrumb.Item>}
       {/* {breadcrumbsItem.map(
