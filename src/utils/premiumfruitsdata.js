@@ -49,7 +49,7 @@ export const premiumFruits = {
         interestingFacts:
           "The Royal Gala apple is a cross between the Golden Delicious and Kidd's Orange Red. It was developed in New Zealand in the 1930s and is the most exported Apple too.",
       },
-      productId: 599991906,
+      productId: 60000,
     },
     {
       productImage: [
@@ -105,7 +105,7 @@ export const premiumFruits = {
         interestingFacts:
           "Apples are a member of the rose family. There are more than 5000 varieties of apples grown throughout the world. India is the world's fifth-biggest producer of apples. The primary production is from the three central hilly states of Jammu & Kashmir, Himachal Pradesh, and Uttarakhand.",
       },
-      productId: 599991927,
+      productId: 60001,
     },
     {
       productImage: [
@@ -161,7 +161,7 @@ export const premiumFruits = {
         interestingFacts:
           "Apples are a member of the rose family. There are more than 5000 varieties of apples grown throughout the world. India is the world's fifth-biggest producer of apples. The primary production is from the three central hilly states of Jammu & Kashmir, Himachal Pradesh, and Uttarakhand.",
       },
-      productId: 599991871,
+      productId: 60002,
     },
     {
       productImage: [
@@ -219,7 +219,7 @@ export const premiumFruits = {
         interestingFacts:
           "Granny Smith is one of the most popular cooking Apples. It was discovered as a result of a chance of seeding in Australia. In Sydney, Australia, Granny Smith Apples are celebrated annually at the largest street festival called Granny Smith Festival. The festival is characterized by local artisans promoting Granny smith by selling apple pies, cakes, and more. The parade is fun-filled with apple displays, entertainment events, fireworks, and more.",
       },
-      productId: 599991869,
+      productId: 60003,
     },
     {
       productImage: [
@@ -277,7 +277,7 @@ export const premiumFruits = {
         interestingFacts:
           "Apples are a member of the rose family. There are more than 5000 varieties of apples grown throughout the world. India is the world's fifth-biggest producer of apples. The primary production is from the three central hilly states of Jammu & Kashmir, Himachal Pradesh, and Uttarakhand.",
       },
-      productId: 599991926
+      productId: 60004
       ,
     },
     {
@@ -336,7 +336,7 @@ export const premiumFruits = {
         interestingFacts:
           "The Envy™ apples are large in size. They are a modern variety of Apples developed in New Zealand by crossing Braeburn and Royal Gala apples.",
       },
-      productId: 599991513
+      productId: 60005
       ,
     },
     {
@@ -395,7 +395,7 @@ export const premiumFruits = {
         interestingFacts:
           "The Queen apples are large in size. They are a modern variety of Apples developed in New Zealand by crossing Braeburn and Royal Gala apples.",
       },
-      productId: 599991866
+      productId: 60006
       ,
     },
     {
@@ -454,7 +454,7 @@ export const premiumFruits = {
         interestingFacts:
           "	Granny Smith is one of the most popular cooking Apples. It was discovered as a result of a chance of seeding in Australia. In Sydney, Australia, Granny Smith Apples are celebrated annually at the largest street festival called Granny Smith Festival. The festival is characterized by local artisans promoting Granny smith by selling apple pies, cakes, and more. The parade is fun-filled with apple displays, entertainment events, fireworks, and more.",
       },
-      productId: 599991868
+      productId: 60008
       ,
     },
     {
@@ -513,7 +513,7 @@ export const premiumFruits = {
         interestingFacts:
           "Pink Lady is the first-ever trademarked Apple variety. It is Australia's favourite cross of the classic Golden Delicious and the pretty Red Lady William. It is lovingly called as the queen of fruit baskets for being one of the most crispiest, tastiest and juiciest apple variety.",
       },
-      productId: 599991213
+      productId: 60009
       ,
     },
     {
@@ -572,7 +572,7 @@ export const premiumFruits = {
         interestingFacts:
           "The Royal Gala apple is a cross between the Golden Delicious and Kidd's Orange Red. It was developed in New Zealand in the 1930s and is the most exported Apple too.",
       },
-      productId: 599991294
+      productId: 60010
       ,
     },
     {
@@ -631,7 +631,7 @@ export const premiumFruits = {
         interestingFacts:
           "	Pink Lady is the first-ever trademarked Apple variety. It is Australia's favourite cross of the classic Golden Delicious and the pretty Red Lady William Apple.",
       },
-      productId: 599991086
+      productId: 60011
       ,
     },
     {
@@ -690,7 +690,7 @@ export const premiumFruits = {
         interestingFacts:
           "The Royal Gala apple is a cross between the Golden Delicious and Kidd's Orange Red. It was developed in New Zealand in the 1930s and is the most exported Apple too.",
       },
-      productId: 599991657
+      productId: 60012
       ,
     },
     {
@@ -749,7 +749,7 @@ export const premiumFruits = {
         interestingFacts:
           "	Pink Lady is the first-ever trademarked Apple variety. It is Australia's favourite cross of the classic Golden Delicious and the pretty Red Lady William Apple.",
       },
-      productId: 599991872
+      productId: 60013
       ,
     },
     {
@@ -808,7 +808,7 @@ export const premiumFruits = {
         interestingFacts:
           "The Royal Gala apple is a cross between the Golden Delicious and Kidd's Orange Red. It was developed in New Zealand in the 1930s and is the most exported Apple too.",
       },
-      productId: 599991905
+      productId: 60014
       ,
     },
     {
@@ -867,7 +867,7 @@ export const premiumFruits = {
         interestingFacts:
           "Queen is a darker sibling of the Pacific Rose. Queen Apples primarily grow in New Zealand. They are born out of a cross between Royal Gala and Splendor. They are a modern variety and are also known as the Pacific Queen or New Zealand Queen.",
       },
-      productId: 599991212
+      productId: 60015
       ,
     },
     {
@@ -926,7 +926,7 @@ export const premiumFruits = {
         interestingFacts:
           "	Pink Lady is the first-ever trademarked Apple variety. It is Australia's favourite cross of the classic Golden Delicious and the pretty Red Lady William Apple.",
       },
-      productId: 599991125
+      productId: 60016
       ,
     },
     {
@@ -985,7 +985,7 @@ export const premiumFruits = {
         interestingFacts:
           "Red Delicious is one of the most popular commercial varieties in the US. Red delicious is commonly used in breeding programs and is the parent to many other modern apples like Fuji, Starkrimson, and Empire.",
       },
-      productId: 599991233
+      productId: 60017
       ,
     },
     {
@@ -1045,7 +1045,7 @@ export const premiumFruits = {
         interestingFacts:
           "Queen is a darker sibling of the Pacific Rose. Queen Apples primarily grow in New Zealand. They are born out of a cross between Royal Gala and Splendor. They are a modern variety and are also known as the Pacific Queen or New Zealand Queen.",
       },
-      productId: 599991865
+      productId: 60018
       ,
     },
     {
@@ -1102,7 +1102,7 @@ export const premiumFruits = {
         interestingFacts:
           "Apples are a member of the rose family. There are more than 5000 varieties of apples grown throughout the world. India is the world's fifth-biggest producer of apples. The primary production is from the three central hilly states of Jammu & Kashmir, Himachal Pradesh, and Uttarakhand.",
       },
-      productId: 599991928,
+      productId: 60019,
     },
     {
       productImage: [
@@ -1160,7 +1160,7 @@ export const premiumFruits = {
         interestingFacts:
           "	Granny Smith is one of the most popular cooking Apples. It was discovered as a result of a chance of seeding in Australia. In Sydney, Australia, Granny Smith Apples are celebrated annually at the largest street festival called Granny Smith Festival. The festival is characterized by local artisans promoting Granny smith by selling apple pies, cakes, and more. The parade is fun-filled with apple displays, entertainment events, fireworks, and more.",
       },
-      productId: 599991230
+      productId: 60020
       ,
     },
     {
@@ -1219,7 +1219,7 @@ export const premiumFruits = {
         interestingFacts:
           "The Envy™ apples are large in size. They are a modern variety of Apples developed in New Zealand by crossing Braeburn and Royal Gala apples.",
       },
-      productId: 599991514
+      productId: 60021
       ,
     },
     {
@@ -1278,7 +1278,7 @@ export const premiumFruits = {
         interestingFacts:
           "Queen is a darker sibling of the Pacific Rose. Queen Apples primarily grow in New Zealand. They are born out of a cross between Royal Gala and Splendor. They are a modern variety and are also known as the Pacific Queen or New Zealand Queen.",
       },
-      productId: 599991352
+      productId: 60022
       ,
     },
     {
@@ -1337,7 +1337,7 @@ export const premiumFruits = {
         interestingFacts:
           "	Granny Smith is one of the most popular cooking Apples. It was discovered as a result of a chance of seeding in Australia. In Sydney, Australia, Granny Smith Apples are celebrated annually at the largest street festival called Granny Smith Festival. The festival is characterized by local artisans promoting Granny smith by selling apple pies, cakes, and more. The parade is fun-filled with apple displays, entertainment events, fireworks, and more.",
       },
-      productId: 599991179
+      productId: 60023
       ,
     },
     {
@@ -1396,7 +1396,7 @@ export const premiumFruits = {
         interestingFacts:
           "Red Delicious is one of the most popular commercial varieties in the US. Red delicious is commonly used in breeding programs and is the parent to many other modern apples like Fuji, Starkrimson, and Empire.",
       },
-      productId: 599991127
+      productId: 60024
       ,
     },
     {
@@ -1455,7 +1455,7 @@ export const premiumFruits = {
         interestingFacts:
           "Queen is a darker sibling of the Pacific Rose. Queen Apples primarily grow in New Zealand. They are born out of a cross between Royal Gala and Splendor. They are a modern variety and are also known as the Pacific Queen or New Zealand Queen.",
       },
-      productId: 599991351
+      productId: 60025
       ,
     },
     {
@@ -1512,7 +1512,7 @@ export const premiumFruits = {
         interestingFacts:
           "Apples are a member of the rose family. There are more than 5000 varieties of apples grown throughout the world. India is the world's fifth-biggest producer of apples. The primary production is from the three central hilly states of Jammu & Kashmir, Himachal Pradesh, and Uttarakhand.",
       },
-      productId: 599991510,
+      productId: 60026,
     },
     {
       productImage:
@@ -1563,7 +1563,7 @@ export const premiumFruits = {
         interestingFacts:
           "The Royal Gala apple is a cross between the Golden Delicious and Kidd's Orange Red. It was developed in New Zealand in the 1930s and is the most exported Apple too.",
       },
-      productId: 599991238,
+      productId: 60027,
     },
     {
       productImage:
@@ -1614,12 +1614,12 @@ export const premiumFruits = {
         interestingFacts:
           "The Royal Gala apple is a cross between the Golden Delicious and Kidd's Orange Red. It was developed in New Zealand in the 1930s and is the most exported Apple too.",
       },
-      productId: 599991910,
+      productId: 60028,
     },
   ],
   pears: [
     {
-      productId: 599991264,
+      productId: 60029,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991264/pear-packham-premium-imported-4-pc-approx-720-g-880-g-product-images-o599991264-p591057892-0-202304281758.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991344/pear-packham-premium-imported-6-pc-approx-1-10-kg-1-30-kg-product-images-o599991344-p591226026-1-202304281805.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991344/pear-packham-premium-imported-6-pc-approx-1-10-kg-1-30-kg-product-images-o599991344-p591226026-2-202304281805.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -1674,7 +1674,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991344,
+      productId: 60030,
       productImage:
       ["https://www.jiomart.com/images/product/original/599991264/pear-packham-premium-imported-4-pc-approx-720-g-880-g-product-images-o599991264-p591057892-0-202304281758.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991344/pear-packham-premium-imported-6-pc-approx-1-10-kg-1-30-kg-product-images-o599991344-p591226026-1-202304281805.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991344/pear-packham-premium-imported-6-pc-approx-1-10-kg-1-30-kg-product-images-o599991344-p591226026-2-202304281805.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -1729,7 +1729,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991374,
+      productId: 60031,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991374/pear-forelle-premium-imported-4-pc-approx-650-g-800-g-product-images-o599991374-p591238252-0-202304281801.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991374/pear-forelle-premium-imported-4-pc-approx-650-g-800-g-product-images-o599991374-p591238252-1-202304281801.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991374/pear-forelle-premium-imported-4-pc-approx-650-g-800-g-product-images-o599991374-p591238252-2-202304281801.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991374/pear-forelle-premium-imported-4-pc-approx-720-g-880-g-product-images-o599991374-p591238252-3-202207282046.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -1783,7 +1783,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991092,
+      productId: 60032,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991374/pear-forelle-premium-imported-4-pc-approx-650-g-800-g-product-images-o599991374-p591238252-0-202304281801.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991374/pear-forelle-premium-imported-4-pc-approx-650-g-800-g-product-images-o599991374-p591238252-1-202304281801.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991374/pear-forelle-premium-imported-4-pc-approx-650-g-800-g-product-images-o599991374-p591238252-2-202304281801.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991374/pear-forelle-premium-imported-4-pc-approx-720-g-880-g-product-images-o599991374-p591238252-3-202207282046.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -1837,7 +1837,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991375,
+      productId: 60033,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991375/pears-beauty-green-premium-imported-4-pc-approx-720-g-880-g-product-images-o599991375-p591238253-0-202304281818.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991375/pears-beauty-green-premium-imported-4-pc-approx-720-g-880-g-product-images-o599991375-p591238253-0-202304281818.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991375/pears-beauty-green-premium-imported-4-pc-approx-720-g-880-g-product-images-o599991375-p591238253-2-202304281818.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -1892,7 +1892,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991376,
+      productId: 60034,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991375/pears-beauty-green-premium-imported-4-pc-approx-720-g-880-g-product-images-o599991375-p591238253-0-202304281818.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991375/pears-beauty-green-premium-imported-4-pc-approx-720-g-880-g-product-images-o599991375-p591238253-0-202304281818.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991375/pears-beauty-green-premium-imported-4-pc-approx-720-g-880-g-product-images-o599991375-p591238253-2-202304281818.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -1947,7 +1947,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991802,
+      productId: 60035,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991802/pear-forelle-bites-premium-imported-6-pc-product-images-o599991802-p603234964-0-202309051947.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991802/pear-forelle-bites-premium-imported-6-pc-product-images-o599991802-p603234964-1-202309051947.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991802/pear-forelle-bites-premium-imported-6-pc-product-images-o599991802-p603234964-2-202307261200.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -2008,7 +2008,7 @@ export const premiumFruits = {
       }
     },
     {
-      productId: 599991801,
+      productId: 60036,
       productImage:
       ["https://www.jiomart.com/images/product/original/599991802/pear-forelle-bites-premium-imported-6-pc-product-images-o599991802-p603234964-0-202309051947.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991802/pear-forelle-bites-premium-imported-6-pc-product-images-o599991802-p603234964-1-202309051947.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991802/pear-forelle-bites-premium-imported-6-pc-product-images-o599991802-p603234964-2-202307261200.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -2069,7 +2069,7 @@ export const premiumFruits = {
       }
     },
     {
-      productId: 599991939,
+      productId: 60037,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991939/pears-beauty-green-bites-premium-imported-6-pc-product-images-o599991939-p606342463-0-202311271758.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991939/pears-beauty-green-bites-premium-imported-6-pc-product-images-o599991939-p606342463-1-202311271758.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991939/pears-beauty-green-bites-premium-imported-6-pc-product-images-o599991939-p606342463-2-202311271758.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -2131,7 +2131,7 @@ export const premiumFruits = {
       }
     },
     {
-      productId: 599991938,
+      productId: 60038,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991939/pears-beauty-green-bites-premium-imported-6-pc-product-images-o599991939-p606342463-0-202311271758.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991939/pears-beauty-green-bites-premium-imported-6-pc-product-images-o599991939-p606342463-1-202311271758.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991939/pears-beauty-green-bites-premium-imported-6-pc-product-images-o599991939-p606342463-2-202311271758.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -2195,7 +2195,7 @@ export const premiumFruits = {
   ],
   avacados: [
     {
-      productId: 599991335,
+      productId: 60039,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991335/avocado-hass-tanzania-premium-imported-1-pc-approx-260-g-320-g-product-images-o599991335-p591429030-0-202304180708.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991335/avocado-hass-tanzania-premium-imported-1-pc-approx-260-g-320-g-product-images-o599991335-p591429030-1-202304180708.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -2254,7 +2254,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991404,
+      productId: 60040,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991335/avocado-hass-tanzania-premium-imported-1-pc-approx-260-g-320-g-product-images-o599991335-p591429030-0-202304180708.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991335/avocado-hass-tanzania-premium-imported-1-pc-approx-260-g-320-g-product-images-o599991335-p591429030-1-202304180708.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -2313,7 +2313,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991405,
+      productId: 60041,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991335/avocado-hass-tanzania-premium-imported-1-pc-approx-260-g-320-g-product-images-o599991335-p591429030-0-202304180708.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991335/avocado-hass-tanzania-premium-imported-1-pc-approx-260-g-320-g-product-images-o599991335-p591429030-1-202304180708.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -2372,7 +2372,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991804,
+      productId: 60042,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991804/avocado-hass-bites-premium-imported-2-pc-product-images-o599991804-p603107738-0-202307171839.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991804/avocado-hass-bites-premium-imported-2-pc-product-images-o599991804-p603107738-1-202307171839.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991804/avocado-hass-bites-premium-imported-2-pc-product-images-o599991804-p603107738-2-202307171839.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991804/avocado-hass-bites-premium-imported-2-pc-product-images-o599991804-p603107738-3-202307171839.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -2440,7 +2440,7 @@ export const premiumFruits = {
   ],
   nectarines: [
     {
-      productId: 599990987,
+      productId: 60043,
       productImage:[
         "https://www.jiomart.com/images/product/original/599990987/nectarine-white-flesh-premium-imported-1-pc-approx-170-g-220-g-product-images-o599990987-p590920957-0-202207290616.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990987/nectarine-white-flesh-premium-imported-1-pc-approx-170-g-220-g-product-images-o599990987-p590920957-1-202207290616.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990987/nectarine-white-flesh-premium-imported-1-pc-approx-170-g-220-g-product-images-o599990987-p590920957-2-202207290616.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -2491,7 +2491,7 @@ export const premiumFruits = {
   ],
   peaches: [
     {
-      productId: 599991132,
+      productId: 60044,
       productImage:[
         "https://www.jiomart.com/images/product/original/599990987/nectarine-white-flesh-premium-imported-1-pc-approx-170-g-220-g-product-images-o599990987-p590920957-0-202207290616.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -2543,7 +2543,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599990989,
+      productId: 60045,
       productImage:[
         "https://www.jiomart.com/images/product/original/599990989/peach-white-flesh-premium-imported-1-pc-approx-170-g-220-g-product-images-o599990989-p590920959-0-202207290618.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990989/peach-white-flesh-premium-imported-1-pc-approx-170-g-220-g-product-images-o599990989-p590920959-1-202207290618.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990989/peach-white-flesh-premium-imported-1-pc-approx-170-g-220-g-product-images-o599990989-p590920959-2-202207290618.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -2597,7 +2597,7 @@ export const premiumFruits = {
   ],
   coconuts: [
     {
-      productId: 599990347,
+      productId: 60046,
       productImage:
         ["https://www.jiomart.com/images/product/original/599990347/coconut-madras-jumbo-premium-indian-1-pc-product-images-o599990347-p590860295-0-202302271947.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -2652,7 +2652,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991275,
+      productId: 60047,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991275/coconut-tender-premium-indian-3-pc-approx-300-ml-350-ml-per-nut-product-images-o599991275-p591189405-0-202303031318.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991275/coconut-tender-premium-indian-3-pc-approx-300-ml-350-ml-per-nut-product-images-o599991275-p591189405-1-202303031318.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -2707,7 +2707,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599990533,
+      productId: 60048,
       productImage:
         ["https://www.jiomart.com/images/product/original/599990533/coconut-tender-premium-indian-1-pc-approx-300-ml-350-ml-product-images-o599990533-p590860388-0-202304281821.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990533/coconut-tender-premium-indian-1-pc-approx-300-ml-350-ml-product-images-o599990533-p590860388-1-202304281821.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990533/coconut-tender-premium-indian-1-pc-approx-300-ml-350-ml-product-images-o599990533-p590860388-2-202304281821.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -2764,7 +2764,7 @@ export const premiumFruits = {
   ],
   melons: [
     {
-      productId: 599991080,
+      productId: 60049,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991080/watermelon-kiran-large-premium-indian-1-pc-product-images-o599991080-p591226032-0-202304180904.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991080/watermelon-kiran-large-premium-indian-1-pc-product-images-o599991080-p591226032-1-202304180904.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991080/watermelon-kiran-large-premium-indian-1-pc-product-images-o599991080-p591226032-2-202304180904.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -2819,7 +2819,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599990811,
+      productId: 60050,
       productImage:
         ["https://www.jiomart.com/images/product/original/599990811/watermelon-kiran-premium-indian-1-pc-approx-2-50-kg-3-50-kg-product-images-o599990811-p591189433-0-202207290623.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990811/watermelon-kiran-premium-indian-1-pc-approx-2-50-kg-3-50-kg-product-images-o599990811-p591189433-1-202207290623.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990811/watermelon-kiran-premium-indian-1-pc-approx-2-50-kg-3-50-kg-product-images-o599990811-p591189433-2-202207290623.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -2874,7 +2874,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599990807,
+      productId: 60051,
       productImage:
         ["https://www.jiomart.com/images/product/original/599990807/watermelon-seedless-medium-premium-indian-1-pc-approx-2-40-kg-3-00-kg-product-images-o599990807-p591043464-0-202305110328.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990807/watermelon-seedless-medium-premium-indian-1-pc-approx-2-40-kg-3-00-kg-product-images-o599990807-p591043464-1-202305110328.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -2929,7 +2929,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991692,
+      productId: 60052,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991692/watermelon-seedless-mini-premium-indian-1-pc-approx-1-80-kg-2-40-kg-product-images-o599991692-p599333947-0-202305121038.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991692/watermelon-seedless-mini-premium-indian-1-pc-approx-1-80-kg-2-40-kg-product-images-o599991692-p599333947-1-202305121038.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -2984,7 +2984,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991314,
+      productId: 60053,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991314/watermelon-saraswati-medium-premium-indian-1-pc-approx-2-40-kg-3-00-kg-product-images-o599991314-p591211874-0-202304180943.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991314/watermelon-saraswati-medium-premium-indian-1-pc-approx-2-40-kg-3-00-kg-product-images-o599991314-p591211874-1-202304180943.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991314/watermelon-saraswati-medium-premium-indian-1-pc-approx-2-40-kg-3-00-kg-product-images-o599991314-p591211874-2-202304180943.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -3039,7 +3039,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599990806,
+      productId: 60054,
       productImage:
         ["https://www.jiomart.com/images/product/original/599990806/muskmelon-bobby-medium-premium-indian-1-pc-approx-700-g-900-g-product-images-o599990806-p590945253-0-202207290623.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990806/muskmelon-bobby-medium-premium-indian-1-pc-approx-700-g-900-g-product-images-o599990806-p590945253-1-202207290623.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990806/muskmelon-bobby-medium-premium-indian-1-pc-approx-700-g-900-g-product-images-o599990806-p590945253-2-202207290623.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -3094,7 +3094,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991077,
+      productId: 60055,
       productImage:
         ["https://www.jiomart.com/images/product/original/599990806/muskmelon-bobby-medium-premium-indian-1-pc-approx-700-g-900-g-product-images-o599990806-p590945253-0-202207290623.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990806/muskmelon-bobby-medium-premium-indian-1-pc-approx-700-g-900-g-product-images-o599990806-p590945253-1-202207290623.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990806/muskmelon-bobby-medium-premium-indian-1-pc-approx-700-g-900-g-product-images-o599990806-p590945253-2-202207290623.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -3151,7 +3151,7 @@ export const premiumFruits = {
   ],
   bananas: [
     {
-      productId: 599990399,
+      productId: 60056,
       productImage:
         ["https://www.jiomart.com/images/product/original/599990399/banana-yellaki-premium-indian-6-pc-approx-320-g-400-g-product-images-o599990399-p590860325-0-202305241833.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -3204,7 +3204,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991808,
+      productId: 60057,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991808/banana-red-premium-indian-3-pc-product-images-o599991808-p603154146-0-202307211247.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991808/banana-red-premium-indian-3-pc-product-images-o599991808-p603154146-1-202307211248.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -3257,7 +3257,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991807,
+      productId: 60058,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991807/banana-nendran-premium-indian-2-pc-product-images-o599991807-p603154141-0-202307211247.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991807/banana-nendran-premium-indian-2-pc-product-images-o599991807-p603154141-1-202307211247.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -3312,7 +3312,7 @@ export const premiumFruits = {
   ],
   berries: [
     {
-      productId: 599990932,
+      productId: 60059,
       productImage:
         ["https://www.jiomart.com/images/product/original/599990932/blueberry-premium-imported-pack-125-g-product-images-o599990932-p590860270-0-202304180621.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -3364,7 +3364,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599990933,
+      productId: 60060,
       productImage:
         ["https://www.jiomart.com/images/product/original/599990933/blueberry-premium-imported-pack-250-g-product-images-o599990933-p590860345-0-202304180919.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -3416,7 +3416,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599990956,
+      productId: 60061,
       productImage:
         ["https://www.jiomart.com/images/product/original/599990956/blueberry-premium-imported-pack-500-g-product-images-o599990956-p590860406-0-202304180653.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -3468,7 +3468,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599990217,
+      productId: 60062,
       productImage:
         ["https://www.jiomart.com/images/product/original/599990217/strawberry-premium-indian-pack-200-g-product-images-o599990217-p590860399-0-202304281804.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990217/strawberry-premium-indian-pack-200-g-product-images-o599990217-p590860399-1-202304281804.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -3523,7 +3523,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991283,
+      productId: 60063,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991283/raspberry-pink-premium-indian-pack-100-g-product-images-o599991283-p591195273-0-202304281824.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -3576,7 +3576,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991075,
+      productId: 60064,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991075/mulberry-premium-indian-pack-150-g-product-images-o599991075-p590959468-0-202209150849.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -3631,7 +3631,7 @@ export const premiumFruits = {
   ],
   cherries: [
     {
-      productId: 599990980,
+      productId: 60065,
       productImage:
         ["https://www.jiomart.com/images/product/original/599990980/cherry-red-premium-imported-pack-125-g-product-images-o599990980-p590900443-0-202207290623.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -3684,7 +3684,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991130,
+      productId: 60066,
       productImage:
         ["https://www.jiomart.com/images/product/original/599990980/cherry-red-premium-imported-pack-125-g-product-images-o599990980-p590900443-0-202207290623.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -3739,7 +3739,7 @@ export const premiumFruits = {
   ],
   dragonfruits: [
     {
-      productId: 599990880,
+      productId: 60067,
       productImage:
         ["https://www.jiomart.com/images/product/original/599990880/dragon-fruit-white-premium-imported-1-pc-400-g-500-g-product-images-o599990880-p591021540-0-202304281755.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990880/dragon-fruit-white-premium-imported-1-pc-400-g-500-g-product-images-o599990880-p591021540-1-202304281755.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990880/dragon-fruit-white-premium-imported-1-pc-400-g-500-g-product-images-o599990880-p591021540-2-202304281755.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -3794,7 +3794,7 @@ export const premiumFruits = {
   ],
   grapes: [
     {
-      productId: 599991820,
+      productId: 60068,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991820/grapes-red-globe-premium-imported-pack-200-g-product-images-o599991820-p603154145-0-202307211247.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991820/grapes-red-globe-premium-imported-pack-200-g-product-images-o599991820-p603154145-1-202307211247.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -3848,7 +3848,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599990800,
+      productId: 60069,
       productImage:
         ["https://www.jiomart.com/images/product/original/599990800/grapes-red-globe-premium-imported-pack-400-g-product-images-o599990800-p590860277-0-202207290620.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -3902,7 +3902,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991070,
+      productId: 60070,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991070/grapes-red-globe-premium-indian-pack-400-g-product-images-o599991070-p590945256-0-202305241820.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -3956,7 +3956,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599990498,
+      productId: 60071,
       productImage:
         ["https://www.jiomart.com/images/product/original/599990499/grapes-green-sonaka-premium-indian-pack-500-g-product-images-o599990499-p590882284-0-202207290620.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -4010,7 +4010,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599990499,
+      productId: 60072,
       productImage:
         ["https://www.jiomart.com/images/product/original/599990498/grapes-black-sharad-premium-indian-pack-500-g-product-images-o599990498-p590860397-0-202207290620.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -4066,7 +4066,7 @@ export const premiumFruits = {
   ],
   citrus: [
     {
-      productId: 599991140,
+      productId: 60073,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991140/orange-valencia-premium-imported-4-pc-approx-720-g-880-g-product-images-o599991140-p591001125-0-202207282046.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991140/orange-valencia-premium-imported-4-pc-approx-720-g-880-g-product-images-o599991140-p591001125-1-202207282046.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991140/orange-valencia-premium-imported-4-pc-approx-720-g-880-g-product-images-o599991140-p591001125-2-202207282046.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -4118,7 +4118,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991371,
+      productId: 60074,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991140/orange-valencia-premium-imported-4-pc-approx-720-g-880-g-product-images-o599991140-p591001125-0-202207282046.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991140/orange-valencia-premium-imported-4-pc-approx-720-g-880-g-product-images-o599991140-p591001125-1-202207282046.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991140/orange-valencia-premium-imported-4-pc-approx-720-g-880-g-product-images-o599991140-p591001125-2-202207282046.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -4170,7 +4170,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991136,
+      productId: 60075,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991136/orange-nagpur-premium-indian-6-pc-approx-0-96-kg-1-32-kg-product-images-o599991136-p591001128-0-202304281825.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -4222,7 +4222,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599990134,
+      productId: 60076,
       productImage:
         ["https://www.jiomart.com/images/product/original/599990134/orange-nagpur-premium-indian-4-pc-approx-640-g-880-g-product-images-o599990134-p593160807-0-202304281828.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990134/orange-nagpur-premium-indian-4-pc-approx-640-g-880-g-product-images-o599990134-p593160807-1-202304281828.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990134/orange-nagpur-premium-indian-4-pc-approx-640-g-880-g-product-images-o599990134-p593160807-2-202304281828.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -4274,7 +4274,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991946,
+      productId: 60077,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991946/orange-nagpur-premium-indian-2-kg-product-images-o599991946-p606431483-0-202311301733.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991946/orange-nagpur-premium-indian-2-kg-product-images-o599991946-p606431483-0-202311301733.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991946/orange-nagpur-premium-indian-2-kg-product-images-o599991946-p606431483-2-202311301733.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991946/orange-nagpur-premium-indian-2-kg-product-images-o599991946-p606431483-3-202311301733.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -4326,7 +4326,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991274,
+      productId: 60078,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991274/orange-nagpur-premium-indian-12-pc-approx-1-92-kg-2-65-kg-product-images-o599991274-p591189404-0-202304281822.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991274/orange-nagpur-premium-indian-12-pc-approx-1-92-kg-2-65-kg-product-images-o599991274-p591189404-1-202304281822.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991274/orange-nagpur-premium-indian-12-pc-approx-1-92-kg-2-65-kg-product-images-o599991274-p591189404-2-202304281822.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -4378,7 +4378,7 @@ export const premiumFruits = {
       },
     }, 
     {
-      productId: 599991090,
+      productId: 60079,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991090/orange-kinnow-premium-indian-6-pc-approx-1-35-kg-1-70-kg-product-images-o599991090-p590959474-0-202207290616.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991090/orange-kinnow-premium-indian-6-pc-approx-1-35-kg-1-70-kg-product-images-o599991090-p590959474-1-202207290617.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -4430,7 +4430,7 @@ export const premiumFruits = {
       },
     }, 
     {
-      productId: 599991947,
+      productId: 60080,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991947/orange-kinnow-premium-indian-2-kg-product-images-o599991947-p606450955-0-202312010405.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991947/orange-kinnow-premium-indian-2-kg-product-images-o599991947-p606450955-1-202312010405.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991947/orange-kinnow-premium-indian-2-kg-product-images-o599991947-p606450955-2-202312010405.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991947/orange-kinnow-premium-indian-2-kg-product-images-o599991947-p606450955-3-202312010405.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -4482,7 +4482,7 @@ export const premiumFruits = {
       },
     }, 
     {
-      productId: 599991572,
+      productId: 60081,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991572/orange-kinnow-premium-indian-4-pc-approx-0-80-kg-1-00-kg-product-images-o599991572-p595504841-0-202211240937.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991572/orange-kinnow-premium-indian-4-pc-approx-0-80-kg-1-00-kg-product-images-o599991572-p595504841-1-202211240937.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991572/orange-kinnow-premium-indian-4-pc-approx-0-80-kg-1-00-kg-product-images-o599991572-p595504841-2-202211240937.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -4534,7 +4534,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991571,
+      productId: 60082,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991571/orange-kinnow-premium-indian-12-pc-approx-2-50-kg-3-10-kg-product-images-o599991571-p595504840-0-202211240937.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991571/orange-kinnow-premium-indian-12-pc-approx-2-50-kg-3-10-kg-product-images-o599991571-p595504840-1-202211240937.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991571/orange-kinnow-premium-indian-12-pc-approx-2-50-kg-3-10-kg-product-images-o599991571-p595504840-2-202211240937.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -4586,7 +4586,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599990082,
+      productId: 60083,
       productImage:
         ["https://www.jiomart.com/images/product/original/599990082/sweet-lime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-0-202304281858.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990082/sweet-lime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-1-202304281858.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990082/sweet-lime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-2-202304281858.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -4638,7 +4638,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991342,
+      productId: 60084,
       productImage:
         ["https://www.jiomart.com/images/product/original/599990082/sweet-lime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-0-202304281858.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990082/sweet-lime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-1-202304281858.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990082/sweet-lime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-2-202304281858.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -4690,7 +4690,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991491,
+      productId: 60085,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991491/orange-red-blood-premium-imported-4-pc-approx-580-g-740-g-product-images-o599991491-p593674717-0-202211171751.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991491/orange-red-blood-premium-imported-4-pc-approx-740-g-860-g-product-images-o599991491-p593674717-1-202209082013.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -4742,7 +4742,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991490,
+      productId: 60086,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991490/orange-red-blood-premium-imported-6-pc-approx-0-90-kg-1-10-kg-product-images-o599991490-p593674732-0-202211171751.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991490/orange-red-blood-premium-imported-6-pc-approx-1-10-kg-1-30-kg-product-images-o599991490-p593674732-1-202209082018.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -4794,7 +4794,7 @@ export const premiumFruits = {
       },
     },   
     {
-      productId: 599991944,
+      productId: 60087,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991944/orange-navel-premium-imported-2-pc-product-images-o599991944-p606328969-0-202311261551.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991944/orange-navel-premium-imported-2-pc-product-images-o599991944-p606328969-0-202311261551.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991944/orange-navel-premium-imported-2-pc-product-images-o599991944-p606328969-2-202311261551.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991944/orange-navel-premium-imported-2-pc-product-images-o599991944-p606328969-3-202311261551.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -4846,7 +4846,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991091,
+      productId: 60088,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991091/orange-navel-premium-imported-6-pc-approx-1-75-kg-2-0-kg-product-images-o599991091-p590959475-0-202207290618.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991091/orange-navel-premium-imported-6-pc-approx-1-75-kg-2-0-kg-product-images-o599991091-p590959475-1-202207290618.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -4898,7 +4898,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599990912,
+      productId: 60089,
       productImage:
         ["https://www.jiomart.com/images/product/original/599990912/orange-navel-premium-imported-15-pc-approx-4-2-kg-5-15-kg-product-images-o599990912-p590860349-0-202208171917.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990912/orange-navel-premium-imported-15-pc-approx-4-2-kg-5-15-kg-product-images-o599990912-p590860349-1-202208171917.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -4950,7 +4950,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991456,
+      productId: 60090,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991456/mini-orange-mandarin-nadorcott-premium-imported-4-pc-approx-320-g-360-g-product-images-o599991456-p592392569-0-202302271933.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991456/mini-orange-mandarin-nadorcott-premium-imported-4-pc-approx-320-g-360-g-product-images-o599991456-p592392569-1-202302271933.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991456/mini-orange-mandarin-nadorcott-premium-imported-4-pc-approx-320-g-360-g-product-images-o599991456-p592392569-2-202302271933.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -5002,7 +5002,7 @@ export const premiumFruits = {
       },
     },
     {   
-      productId: 599990897,
+      productId: 60091,
       productImage:
         ["https://www.jiomart.com/images/product/original/599990897/mini-orange-mandarin-nadorcott-premium-imported-6-pc-approx-480-g-540-g-product-images-o599990897-p590860412-0-202302271937.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990897/mini-orange-mandarin-nadorcott-premium-imported-6-pc-approx-480-g-540-g-product-images-o599990897-p590860412-1-202302271937.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -5054,7 +5054,7 @@ export const premiumFruits = {
       },
     },
     {   
-      productId: 599991220,
+      productId: 60092,
       productImage:
         ["https://www.jiomart.com/images/product/original/599990897/mini-orange-mandarin-nadorcott-premium-imported-6-pc-approx-480-g-540-g-product-images-o599990897-p590860412-0-202302271937.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990897/mini-orange-mandarin-nadorcott-premium-imported-6-pc-approx-480-g-540-g-product-images-o599990897-p590860412-1-202302271937.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -5108,9 +5108,167 @@ export const premiumFruits = {
     
     
   ],
+  mangos:[
+    {
+      productId: 600125,
+      productImage:
+        ["https://img.freepik.com/free-photo/photo-mango-half-white-background_125540-4595.jpg?t=st=1704556440~exp=1704560040~hmac=2e3a6a2a7c594abc680edd60cf09e2f974a11df62ed65221a2d3921b37fdf953&w=740","https://img.freepik.com/free-photo/freshness-nature-gourmet-wet-leaf-reflects-beauty-organic-growth-generated-by-artificial-intellingence_25030-62920.jpg?t=st=1704556462~exp=1704560062~hmac=77a4e27de8c01165ce4f776467d5f549c0205a71cf6e096ae6ca6c8752745195&w=826","https://img.freepik.com/premium-photo/mango-cluster-with-blurred-backdrop-leaves-unripe-mango_410516-15377.jpg?w=740","https://www.jiomart.com/images/product/original/599991659/mango-alphonso-devgad-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599991659-p599232541-0-202303110949.jpg?im=Resize=(420,420)"],
+      brand: "Curate",
+      shortDesc: "Alphonso Mango Premium Imported 4 Pc (Approx 200–230 grams)",
+      ratings: 3,
+      mrp: 275,
+      discount: 2,
+      additionalOffers: [
+        "Upto Rs. 60/- Cashback on your first order",
+        "Flat Rs. 100 cashback on first grocery purchase",
+      ],
+      bankOffers: [
+        "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+        "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+      ],
+      coupons: [
+        "Rs 100 OFF on Premium Fruits purchase of Rs. 699",
+        "Rs 200 OFF on Premium Fruits purchase of Rs.999",
+        "Rs 300 OFF on Premium Fruits purchase of Rs. 1599",
+      ],
+      status: true,
+      soldBy: "Reliance Retail",
+      description:
+        "Alphonso mango, often referred to as the King of Mangoes,is known for its sweet and aromatic flavor, creamy texture, and vibrant orange-yellow color.",
+      Nutrition: [
+        "Rich Source of Vitamin C",
+        "Good source of vitamin A",
+        "Contains vitamin E",
+      ],
+      HealthBenefits: [
+        "The high vitamin C content in mangoes can strengthen the immune system.",
+        "Vitamin A in mangoes supports eye health and may prevent age-related macular degeneration.",
+      ],
+      ShelfLifeStorage: [
+        "Allow unripe mangoes to ripen at room temperature. Placing them in a paper bag can speed up the process.",
+        "Once ripe, store mangoes in the refrigerator to slow down further ripening. They can last for up to a week in the fridge.",
+      ],
+      Disclaimer:
+        "It's important to note that some individuals may be allergic to mangoes. Allergic reactions can range from mild to severe.Always wash mangoes thoroughly and consider wearing gloves if you have sensitive skin.",
+      foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
+      countryOfOrigin: "India",
+      manufacturer: "Private Label",
+      manufacturerAddress: ["Private Label", "Fresh Produce"],
+      productSpecification: {
+        howtouse:
+          "Enjoy Alphonso mangoes fresh by peeling and slicing them. They are also popular in smoothies, desserts, salads, and as a topping for ice cream.",
+        interestingFacts:
+          "Mangoes are believed to have originated over 4,000 years ago in Southeast Asia, in countries like India and Burma.There are over 1,000 varieties of mangoes, each with its own unique flavor, texture, and color. Some popular varieties include Alphonso, Ataulfo, Kent, and Tommy Atkins.Mango is considered the national fruit of India, Pakistan, and the Philippines. It holds cultural and religious significance in many societies.Mango trees are known for their longevity. Some trees can live up to 300 years and continue to bear fruit.",
+      },
+    },
+    {
+      productId: 600126,
+      productImage:
+        ["https://5.imimg.com/data5/ANDROID/Default/2021/5/RA/TJ/EB/34190404/img-20210527-wa0013-jpg-1000x1000.jpg","https://5.imimg.com/data5/ANDROID/Default/2021/5/TL/TL/RX/34190404/product-1000x1000.jpg",],
+      brand: "Curate",
+      shortDesc: "Honey Mango Premium Imported 4 Pc (Approx 200–230 grams)",
+      ratings: 3,
+      mrp: 160,
+      discount: 2,
+      additionalOffers: [
+        "Upto Rs. 60/- Cashback on your first order",
+        "Flat Rs. 100 cashback on first grocery purchase",
+      ],
+      bankOffers: [
+        "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+        "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+      ],
+      coupons: [
+        "Rs 100 OFF on Premium Fruits purchase of Rs. 699",
+        "Rs 200 OFF on Premium Fruits purchase of Rs.999",
+        "Rs 300 OFF on Premium Fruits purchase of Rs. 1599",
+      ],
+      status: true,
+      soldBy: "Reliance Retail",
+      description:
+        "Also known as Ataulfo or Champagne mango, this variety is small, golden-yellow, and has a creamy, non-fibrous texture with a sweet and tangy flavor.",
+      Nutrition: [
+        "Rich Source of Vitamin C",
+        "Good source of vitamin A",
+        "Contains vitamin E",
+      ],
+      HealthBenefits: [
+        "The high vitamin C content in mangoes can strengthen the immune system.",
+        "Vitamin A in mangoes supports eye health and may prevent age-related macular degeneration.",
+      ],
+      ShelfLifeStorage: [
+        "Allow unripe mangoes to ripen at room temperature. Placing them in a paper bag can speed up the process.",
+        "Once ripe, store mangoes in the refrigerator to slow down further ripening. They can last for up to a week in the fridge.",
+      ],
+      Disclaimer:
+        "It's important to note that some individuals may be allergic to mangoes. Allergic reactions can range from mild to severe.Always wash mangoes thoroughly and consider wearing gloves if you have sensitive skin.",
+      foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
+      countryOfOrigin: "India",
+      manufacturer: "Private Label",
+      manufacturerAddress: ["Private Label", "Fresh Produce"],
+      productSpecification: {
+        howtouse:
+          "Honey mangoes are perfect for eating fresh, slicing into salads, or blending into smoothies. They are also great for making mango salsas",
+        interestingFacts:
+          "Mangoes are believed to have originated over 4,000 years ago in Southeast Asia, in countries like India and Burma.There are over 1,000 varieties of mangoes, each with its own unique flavor, texture, and color. Some popular varieties include Alphonso, Ataulfo, Kent, and Tommy Atkins.Mango is considered the national fruit of India, Pakistan, and the Philippines. It holds cultural and religious significance in many societies.Mango trees are known for their longevity. Some trees can live up to 300 years and continue to bear fruit.",
+      },
+    },
+    {
+      productId: 600127,
+      productImage:
+        ["https://5.imimg.com/data5/XS/OM/MY-12483512/kent-mango-1000x1000.png","https://rukminim2.flixcart.com/image/416/416/krwec280/fruit/q/t/5/1-unbranded-whole-original-imag5h8hgcy2tazw.jpeg?q=70"],
+      brand: "Curate",
+      shortDesc: "Kent Mango Premium Imported 4 Pc (Approx 200–230 grams)",
+      ratings: 3,
+      mrp: 250,
+      discount: 20,
+      additionalOffers: [
+        "Upto Rs. 60/- Cashback on your first order",
+        "Flat Rs. 100 cashback on first grocery purchase",
+      ],
+      bankOffers: [
+        "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+        "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+      ],
+      coupons: [
+        "Rs 100 OFF on Premium Fruits purchase of Rs. 699",
+        "Rs 200 OFF on Premium Fruits purchase of Rs.999",
+        "Rs 300 OFF on Premium Fruits purchase of Rs. 1599",
+      ],
+      status: true,
+      soldBy: "Reliance Retail",
+      description:
+        "Kent mangoes are large, with a dark green or reddish blush when ripe. They have a sweet and slightly fibrous flesh.",
+      Nutrition: [
+        "Rich Source of Vitamin C",
+        "Good source of vitamin A",
+        "Contains vitamin E",
+      ],
+      HealthBenefits: [
+        "The high vitamin C content in mangoes can strengthen the immune system.",
+        "Vitamin A in mangoes supports eye health and may prevent age-related macular degeneration.",
+      ],
+      ShelfLifeStorage: [
+        "Allow unripe mangoes to ripen at room temperature. Placing them in a paper bag can speed up the process.",
+        "Once ripe, store mangoes in the refrigerator to slow down further ripening. They can last for up to a week in the fridge.",
+      ],
+      Disclaimer:
+        "It's important to note that some individuals may be allergic to mangoes. Allergic reactions can range from mild to severe.Always wash mangoes thoroughly and consider wearing gloves if you have sensitive skin.",
+      foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
+      countryOfOrigin: "India",
+      manufacturer: "Private Label",
+      manufacturerAddress: ["Private Label", "Fresh Produce"],
+      productSpecification: {
+        howtouse:
+          "Kent mangoes are versatile and can be enjoyed fresh, in salads, salsas, or used in cooking. They are less fibrous, making them suitable for slicing and dicing.",
+        interestingFacts:
+          "Mangoes are believed to have originated over 4,000 years ago in Southeast Asia, in countries like India and Burma.There are over 1,000 varieties of mangoes, each with its own unique flavor, texture, and color. Some popular varieties include Alphonso, Ataulfo, Kent, and Tommy Atkins.Mango is considered the national fruit of India, Pakistan, and the Philippines. It holds cultural and religious significance in many societies.Mango trees are known for their longevity. Some trees can live up to 300 years and continue to bear fruit.",
+      },
+    },
+  ],
   wetdates: [
     {
-      productId: 599991658,
+      productId: 60093,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991658/dates-kimia-curate-premium-imported-pack-500-g-product-images-o599991658-p600939327-0-202305241903.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991658/dates-kimia-curate-premium-imported-pack-500-g-product-images-o599991658-p600939327-1-202305241903.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991658/dates-kimia-curate-premium-imported-pack-500-g-legal-images-o599991658-p600939327-2-202305241903.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991658/dates-kimia-curate-premium-imported-pack-500-g-legal-images-o599991658-p600939327-3-202305241903.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -5168,7 +5326,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991873,
+      productId: 60094,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991873/dates-fard-curate-premium-imported-pack-500-g-product-images-o599991873-p606249335-0-202311211554.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991873/dates-fard-curate-premium-imported-pack-500-g-product-images-o599991873-p606249335-1-202311211554.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991873/dates-fard-curate-premium-imported-pack-500-g-product-images-o599991873-p606249335-2-202311211554.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991873/dates-fard-curate-premium-imported-pack-500-g-product-images-o599991873-p606249335-3-202311211554.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -5226,7 +5384,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991795,
+      productId: 60095,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991795/dates-medjoul-curate-premium-imported-500-g-pack-product-images-o599991795-p603979491-0-202308191859.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991795/dates-medjoul-curate-premium-imported-500-g-pack-product-images-o599991795-p603979491-1-202308191859.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -5284,7 +5442,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991794,
+      productId: 60096,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991794/dates-ajwa-curate-premium-imported-500-g-pack-product-images-o599991794-p603979493-0-202308191859.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991794/dates-ajwa-curate-premium-imported-500-g-pack-product-images-o599991794-p603979493-1-202308191859.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -5342,7 +5500,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991791,
+      productId: 60097,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991791/dates-oriental-curate-premium-imported-500-g-pack-product-images-o599991791-p603979495-0-202308191859.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991791/dates-oriental-curate-premium-imported-500-g-pack-product-images-o599991791-p603979495-1-202308191859.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -5400,7 +5558,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991793,
+      productId: 60098,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991793/dates-assorted-curate-premium-imported-500-g-pack-product-images-o599991793-p603979496-0-202308191859.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991793/dates-assorted-curate-premium-imported-500-g-pack-product-images-o599991793-p603979496-1-202308191859.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -5458,7 +5616,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991792,
+      productId: 60099,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991792/dates-safavi-curate-premium-imported-500-g-pack-product-images-o599991792-p603979490-0-202308191859.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991792/dates-safavi-curate-premium-imported-500-g-pack-product-images-o599991792-p603979490-1-202308191859.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -5518,7 +5676,7 @@ export const premiumFruits = {
   ],
   giftpacks: [
     {
-      productId: 599991707,
+      productId: 60100,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991707/curate-s-christmas-fruit-box-premium-1-pack-product-images-o599991707-p603506507-0-202312211506.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991707/curate-s-classic-fruit-box-premium-1-pack-product-images-o599991707-p603506507-1-202312081820.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -5580,7 +5738,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991713,
+      productId: 60101,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991713/curate-s-exotic-fruit-box-premium-1-pack-product-images-o599991713-p603507497-0-202312081822.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991713/curate-s-exotic-fruit-box-premium-1-pack-product-images-o599991713-p603507497-1-202312081822.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -5642,7 +5800,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991709,
+      productId: 60102,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991709/curate-s-premium-fruit-box-premium-1-pack-product-images-o599991709-p603507473-0-202311211323.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991709/curate-s-premium-fruit-box-premium-1-pack-product-images-o599991709-p603507473-1-202311211323.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -5704,7 +5862,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991727,
+      productId: 60103,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991727/curate-s-signature-fruit-box-premium-1-pack-product-images-o599991727-p603507969-0-202312081836.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991727/curate-s-signature-fruit-box-premium-1-pack-product-images-o599991727-p603507969-1-202312081836.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -5766,7 +5924,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991715,
+      productId: 60104,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991715/curate-s-gourmet-fruit-box-premium-1-pack-product-images-o599991715-p603507516-0-202312081825.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991715/curate-s-gourmet-fruit-box-premium-1-pack-product-images-o599991715-p603507516-1-202311211358.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -5828,7 +5986,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991723,
+      productId: 60105,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991723/curate-s-deluxe-fruit-box-premium-1-pack-product-images-o599991723-p603507760-0-202312081829.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991723/curate-s-deluxe-fruit-box-premium-1-pack-product-images-o599991723-p603507760-1-202312081829.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -5890,7 +6048,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991721,
+      productId: 60106,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991721/curate-s-artisanal-fruit-box-premium-1-pack-product-images-o599991721-p603507655-0-202312081831.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991721/curate-s-artisanal-fruit-box-premium-1-pack-product-images-o599991721-p603507655-1-202312081831.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -5952,7 +6110,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991719,
+      productId: 60107,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991721/curate-s-artisanal-fruit-box-premium-1-pack-product-images-o599991721-p603507655-0-202312081831.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991721/curate-s-artisanal-fruit-box-premium-1-pack-product-images-o599991721-p603507655-1-202312081831.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -6016,7 +6174,7 @@ export const premiumFruits = {
   ],
   pomegranates: [
     {
-      productId: 599991882,
+      productId: 60108,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991882/pomegranate-kesar-medium-premium-indian-3-pc-product-images-o599991882-p604584183-0-202309150921.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991882/pomegranate-kesar-medium-premium-indian-3-pc-product-images-o599991882-p604584183-1-202309150921.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991882/pomegranate-kesar-medium-premium-indian-3-pc-product-images-o599991882-p604584183-2-202309150921.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991882/pomegranate-kesar-medium-premium-indian-3-pc-product-images-o599991882-p604584183-3-202309150921.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -6073,7 +6231,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991204,
+      productId: 60109,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991204/pomegranate-kesar-medium-premium-indian-4-pc-approx-1-00-kg-1-40-kg-product-images-o599991204-p591041952-0-202304281756.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991204/pomegranate-kesar-medium-premium-indian-4-pc-approx-1-00-kg-1-40-kg-product-images-o599991204-p591041952-1-202304281756.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991204/pomegranate-kesar-medium-premium-indian-4-pc-approx-1-00-kg-1-40-kg-product-images-o599991204-p591041952-2-202304281756.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -6130,7 +6288,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991093,
+      productId: 60110,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991093/pomegranate-kesar-medium-premium-indian-6-pc-approx-1-50-kg-2-10-kg-product-images-o599991093-p590959477-0-202304281845.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991093/pomegranate-kesar-medium-premium-indian-6-pc-approx-1-50-kg-2-10-kg-product-images-o599991093-p590959477-1-202304281845.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991093/pomegranate-kesar-medium-premium-indian-6-pc-approx-1-50-kg-2-10-kg-product-images-o599991093-p590959477-2-202304281845.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -6187,7 +6345,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599990323,
+      productId: 60111,
       productImage:
         ["https://www.jiomart.com/images/product/original/599990323/pomegranate-kesar-jumbo-premium-indian-1-pc-approx-350-g-450-g-product-images-o599990323-p590860271-0-202304281755.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990323/pomegranate-kesar-jumbo-premium-indian-1-pc-approx-350-g-450-g-product-images-o599990323-p590860271-1-202304281755.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990323/pomegranate-kesar-jumbo-premium-indian-1-pc-approx-350-g-450-g-product-images-o599990323-p590860271-2-202304281755.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -6244,7 +6402,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991203,
+      productId: 60112,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991203/pomegranate-kesar-jumbo-premium-indian-2-pc-approx-700-g-900-g-product-images-o599991203-p591041951-0-202304281900.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991203/pomegranate-kesar-jumbo-premium-indian-2-pc-approx-700-g-900-g-product-images-o599991203-p591041951-1-202304281900.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991203/pomegranate-kesar-jumbo-premium-indian-2-pc-approx-700-g-900-g-product-images-o599991203-p591041951-2-202304281900.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -6301,7 +6459,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991141,
+      productId: 60113,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991141/pomegranate-kesar-jumbo-premium-indian-4-pc-approx-1-40-kg-1-80-kg-product-images-o599991141-p591001141-0-202304281856.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991141/pomegranate-kesar-jumbo-premium-indian-4-pc-approx-1-40-kg-1-80-kg-product-images-o599991141-p591001141-1-202304281856.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991141/pomegranate-kesar-jumbo-premium-indian-4-pc-approx-1-40-kg-1-80-kg-product-images-o599991141-p591001141-2-202304281856.jpg?im=Resize=(420,420)",],
       brand: "Curate",
@@ -6360,7 +6518,7 @@ export const premiumFruits = {
   ],
   pineapples: [
     {
-      productId: 599991786,
+      productId: 60114,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991786/pineapple-queen-mini-premium-indian-1-pc-product-images-o599991786-p602987482-0-202307061954.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991786/pineapple-queen-mini-premium-indian-1-pc-product-images-o599991786-p602987482-1-202307061954.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991786/pineapple-queen-mini-premium-indian-1-pc-product-images-o599991786-p602987482-2-202307061954.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991786/pineapple-queen-mini-premium-indian-1-pc-product-images-o599991786-p602987482-3-202307061954.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -6414,7 +6572,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991778,
+      productId: 60115,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991778/pineapple-queen-premium-indian-1-pc-product-images-o599991778-p602987484-0-202307061954.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -6470,7 +6628,7 @@ export const premiumFruits = {
   ],
   papayas: [
     {
-      productId: 599991767,
+      productId: 60116,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991767/papaya-red-lady-premium-indian-1-pc-approx-0-90-kg-1-40-kg-product-images-o599991767-p602562441-0-202306231554.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991767/papaya-red-lady-premium-indian-1-pc-approx-0-90-kg-1-40-kg-product-images-o599991767-p602562441-1-202306231555.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -6527,7 +6685,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991766,
+      productId: 60117,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991766/papaya-mini-premium-indian-1-pc-approx-400-g-600-g-product-images-o599991766-p602562349-0-202306231553.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991766/papaya-mini-premium-indian-1-pc-approx-400-g-600-g-product-images-o599991766-p602562349-1-202306231553.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -6584,7 +6742,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991737,
+      productId: 60118,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991737/papaya-large-premium-indian-1-pc-approx-1-30-kg-1-80-kg-product-images-o599991737-p601735801-0-202305240136.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991737/papaya-large-premium-indian-1-pc-approx-1-30-kg-1-80-kg-product-images-o599991737-p601735801-1-202305240136.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -6641,7 +6799,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991738,
+      productId: 60119,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991738/papaya-long-premium-indian-1-pc-approx-1-00-kg-1-50-kg-product-images-o599991738-p601731464-0-202305232028.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991738/papaya-long-premium-indian-1-pc-approx-1-00-kg-1-50-kg-product-images-o599991738-p601731464-1-202305232028.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -6700,7 +6858,7 @@ export const premiumFruits = {
   ],
   guavas: [
     {
-      productId: 599990445,
+      productId: 60120,
       productImage:
        [ "https://www.jiomart.com/images/product/original/599990445/guava-taiwan-pink-premium-indian-2-pc-approx-400-g-600-g-product-images-o599990445-p593674721-0-202209082013.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990445/guava-taiwan-pink-premium-indian-2-pc-approx-400-g-600-g-product-images-o599990445-p593674721-1-202209082013.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990445/guava-taiwan-pink-premium-indian-2-pc-approx-400-g-600-g-product-images-o599990445-p593674721-2-202209082013.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -6755,7 +6913,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599991930,
+      productId: 60121,
       productImage:
        [ "https://www.jiomart.com/images/product/original/599991930/guava-taiwan-pink-jumbo-premium-indian-2-pc-product-images-o599991930-p605951073-0-202311021812.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991930/guava-taiwan-pink-jumbo-premium-indian-2-pc-product-images-o599991930-p605951073-1-202311021812.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599991930/guava-taiwan-pink-jumbo-premium-indian-2-pc-product-images-o599991930-p605951073-2-202311021812.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -6810,7 +6968,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 599990893,
+      productId: 60122,
       productImage:
        [ "https://www.jiomart.com/images/product/original/599990893/guava-pink-flesh-premium-indian-4-pc-approx-450-g-550-g-product-images-o599990893-p590882283-0-202207290621.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990893/guava-pink-flesh-premium-indian-4-pc-approx-450-g-550-g-product-images-o599990893-p590882283-1-202207290621.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/599990893/guava-pink-flesh-premium-indian-4-pc-approx-450-g-550-g-product-images-o599990893-p590882283-2-202207290621.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -6867,7 +7025,7 @@ export const premiumFruits = {
   ],
   custardapples: [
     {
-      productId: 599991503,
+      productId: 60123,
       productImage:
         ["https://www.jiomart.com/images/product/original/599991503/custard-apple-golden-premium-indian-2-pc-approx-740-g-860-g-product-images-o599991503-p593674696-0-202209082013.jpg?im=Resize=(420,420)"],
       brand: "Curate",
@@ -6922,7 +7080,7 @@ export const premiumFruits = {
       },
     },
     {
-      productId: 5999915031,
+      productId: 60124,
       productImage:
         ["https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/61V8ZzLNmWL._SX522_.jpg","https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/61spPnsD0gL._SX522_.jpg"],
       brand: "Curate",

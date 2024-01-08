@@ -1,3 +1,14 @@
 .active{
-    color:blue
+    color:blue;
+    font-weight:bold;
 }
+/* breadcrumbs */
+.custom-breadcrumb-item a {
+    text-decoration: none !important; /* Use !important to override Bootstrap styles if needed */
+  }
+  .breadcrumb-item + .breadcrumb-item::before {
+    content: ">" !important;
+  }
+  .activeColor{
+    color:black;
+  }

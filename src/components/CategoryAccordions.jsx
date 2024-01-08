@@ -15,7 +15,10 @@ const CategoryAccordions = ({ mainCategory }) => {
       "PomegranatePapayaPineapple",
       "SeasonalMinorFruits"
     ],
-    Beauty: ["makeup"],
+    Beauty: [
+      "makeup",
+      "skincare"
+    ],
     SportsToysLuggages: ["BagsTravelLuggages"],
     HomeAndKitchenNeeds: [
       "Kitchenware",
@@ -26,8 +29,7 @@ const CategoryAccordions = ({ mainCategory }) => {
     Fashion: [
       "MensFashion",
       "WomensFashion",
-      "JuniorBoy",
-      "JuniorGirl",
+      "KidsFashion",
       "Infants",
     ],
   };
@@ -44,6 +46,7 @@ const CategoryAccordions = ({ mainCategory }) => {
     SeasonalMinorFruits:["guavas","custardapples"],
     //beauty
     makeup: ["Lips", "Nails", "Eyes", "FaceMakeUp", "MakeupToolsBrushes"],
+    skincare:["Serum", "FaceMask", "Moisturizers"],
     //sportstoysluggages
     BagsTravelLuggages: [
       "BagsAndBackpacks",
@@ -61,20 +64,31 @@ const CategoryAccordions = ({ mainCategory }) => {
     MensFashion: [
       "ClothingAccessories",
       "WesternWear",
-      "FootWear",
-      "EyeWear",
+      "MensFootWear",
+      "MensEyeWear",
       "InnerWear",
     ],
     WomensFashion: [
-      "EthnicWear",
+      "EthinicWear",
       "TraditionalWear",
       "EyeWear",
       "FootWear",
       "Watches",
     ],
-    JuniorBoy: ["Shirts", "Tracks", "InnerWear"],
-    JuniorGirl: ["GownAndDress", "TopsAndPants", "InnerWear"],
-    Infants: ["Boy", "Girl"],
+    KidsFashion: [
+      "JuniorBoyShirt",
+      "JuniorBoyTracks",
+      "JuniorBoyInnerWear",
+      "JuniorGirlGowns",
+      "JuniorGirlCasualWear",
+      "JuniorGirlInnerWear",
+      
+    ],
+    Infants: [
+      "BabyGirl",
+      "BabyBoy",
+      "Toys",
+    ],
     "Category C2": ["Subcategory C1.1", "Subcategory C1.2", "Subcategory C1.3"],
   };
   const { pathname } = useLocation();
@@ -117,7 +131,7 @@ const CategoryAccordions = ({ mainCategory }) => {
       {categoriesByMainCategory[mainCategory].map((category,index) => (
         <Accordion.Item key={index} eventKey={category}>
           <Accordion.Header onClick={() => handleCategorySelect(category)}>
-            {category}
+          <span style={{ fontWeight: 'bold',fontSize:14}}>{category}</span>
           </Accordion.Header>
           <Accordion.Body>
             {subcategoriesByCategory[category].map((subcategory,index) => (

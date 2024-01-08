@@ -1,10 +1,11 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import ProductCard from "../components/ProductCard";
 import { useParams, useLocation } from "react-router-dom";
-import { Container, Row, Col } from "react-bootstrap";
+import { Container, Row, Col,Image } from "react-bootstrap";
 import BreadCrumbs from "../components/BreadCrumbs";
 import CategoryAccordions from "../components/CategoryAccordions";
 import SortBtn from "../components/SortBtn";
+import {categoryBannerAdImagedata} from '../utils/adimage/categorybanneradimage';
 
 const Category = ({ products }) => {
   const [showdata, setShowdata] = useState([]);
@@ -170,6 +171,118 @@ const Category = ({ products }) => {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
+  }else if (category === "skincare") {
+    // Check if 'Serum','FaceMask','Moisturizes',properties exist in the products object
+    if (
+      products &&
+      products.Serum &&
+      products.FaceMask &&
+      products.Moisturizers 
+      
+    ) {
+      filteredProducts = [
+        ...products.Serum,
+        ...products.FaceMask ,
+        ...products.Moisturizers,
+      ];
+    } else {
+      console.error("Products data is incomplete.");
+      return <div>Error loading products.</div>;
+    }
+  }else if (category === "mensfashion") {
+    // Check if 'ClothingAccessories','WesternWear','FootWear','EyeWear','InnerWear' properties exist in the products object
+    if (
+      products &&
+      products.ClothingAccessories &&
+      products.WesternWear &&
+      products.MensFootWear &&
+      products.MensEyeWear &&
+      products.InnerWear
+    ) {
+      filteredProducts = [
+        ...products.ClothingAccessories,
+        ...products.WesternWear,
+        ...products.MensFootWear,
+        ...products.MensEyeWear,
+        ...products.InnerWear,
+      ];
+    } else {
+      console.error("Products data is incomplete.");
+      return <div>Error loading products.</div>;
+    }
+  }else if (category === "womensfashion") {
+    // Check if 'EthinicWear','TraditionalWear','EyeWear','Watches','FootWear'properties exist in the products object
+    if (
+      products &&
+      products.EthinicWear &&
+      products.TraditionalWear &&
+      products.EyeWear &&
+      products.Watches &&
+      products.FootWear 
+      
+    ) {
+      filteredProducts = [
+        ...products.EthinicWear,
+        ...products.TraditionalWear ,
+        ...products.EyeWear,
+        ...products.Watches,
+        ...products.FootWear,
+      ];
+    } else {
+      console.error("Products data is incomplete.");
+      return <div>Error loading products.</div>;
+    }
+  }else if (category === "kidsfashion") {
+    // Check if 'JuniorBoyShirt','JuniorBoyTracks','JuniorBoyInnerWear',
+    //'JuniorGirlGowns','JuniorGirlCasualWear','JuniorGirlInnerWear','BabyGirl','BabyBoy','Toys'
+    //properties exist in the products object
+    if (
+      products &&
+      products.JuniorBoyShirt &&
+      products.JuniorBoyTracks &&
+      products.JuniorBoyInnerWear &&
+      products.JuniorGirlGowns &&
+      products.JuniorGirlCasualWear &&
+      products.JuniorGirlInnerWear 
+     
+      
+    ) {
+      filteredProducts = [
+        ...products.JuniorBoyShirt,
+        ...products.JuniorBoyTracks ,
+        ...products.JuniorBoyInnerWear,
+        ...products.JuniorGirlGowns,
+        ...products.JuniorGirlCasualWear,
+        ...products.JuniorGirlInnerWear,
+        ...products.BabyGirl,
+        ...products.BabyBoy,
+        ...products.Toys,
+      ];
+    } else {
+      console.error("Products data is incomplete.");
+      return <div>Error loading products.</div>;
+    }
+  }
+  else if (category === "infants") {
+    // Check if 'JuniorBoyShirt','JuniorBoyTracks','JuniorBoyInnerWear',
+    //'JuniorGirlGowns','JuniorGirlCasualWear','JuniorGirlInnerWear','BabyGirl','BabyBoy','Toys'
+    //properties exist in the products object
+    if (
+      products &&
+      products.BabyGirl &&
+      products.BabyBoy &&
+      products.Toys 
+      
+    ) {
+      filteredProducts = [
+        ...products.BabyGirl,
+        ...products.BabyBoy,
+        ...products.Toys,
+      ];
+    } else {
+      console.error("Products data is incomplete.");
+      return <div>Error loading products.</div>;
+    }
   } //BagsAndLuggages
   else if (category === "BagsTravelLuggages") {
     // Bags Luggages
@@ -222,6 +335,16 @@ const Category = ({ products }) => {
 
   // filteredProducts = shuffleArray(filteredProducts);
 
+//ProductlistAdImage
+const [categoryBannerAdImage,setcategoryBannerAdImage] = useState("");
+  
+useEffect(()=>{
+  if(category){
+    console.log("subcategoryAdImageData key :",category);
+    setcategoryBannerAdImage(categoryBannerAdImagedata[category]);
+  }
+},[category])
+
   return (
     <Container fluid className="product-list-container">
       {/* First Row with Breadcrumbs */}
@@ -243,6 +366,16 @@ const Category = ({ products }) => {
         </Col>
         {/* right column with product list */}
         <Col md={9}>
+        {categoryBannerAdImage && <Row>
+              <Col>
+                <Image
+                  src={categoryBannerAdImage}
+                  fluid
+                  rounded
+                  style={{ height: '200px',width:"100%",objectFit:"cover"}}
+                />
+              </Col>
+            </Row>}
           <Row className=" mt-3 justify-content-end">
             <Col>
               <SortBtn
@@ -251,7 +384,7 @@ const Category = ({ products }) => {
               />
             </Col>
           </Row>
-          <Row className=" mt-3 justify-content-end">
+          <Row className=" mt-3">
             {filteredProducts.map((product) => (
               <Col key={product.productId} xs={12} md={6} lg={4}>
                 <ProductCard product={product} category={category} />

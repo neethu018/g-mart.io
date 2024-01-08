@@ -498,7 +498,7 @@ const Header = () => {
             </Nav.Link>
 
             
-            <Nav.Link href="#about">About</Nav.Link>
+            <Nav.Link href="/Fashion">Fashion</Nav.Link>
             <Nav.Link href="#about">About</Nav.Link>
             <Nav.Link href="#about">About</Nav.Link>
             <CartIcon/>
