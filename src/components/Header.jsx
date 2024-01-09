@@ -456,7 +456,7 @@ const Header = () => {
             >
               <NavDropdown.Item
                 as={Link}
-                to={"/SportsToysLuggages/BagsTravelLuggages"}
+                to={"/SportsToysLuggages"}
                 onMouseEnter={handleBagsAndTravelLuggagesMouseEnter}
                 onMouseLeave={handleBagsAndTravelLuggagesMouseLeave}
               >

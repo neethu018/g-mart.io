@@ -89,7 +89,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/pf.png'  alt="Your Image" style={{width:"90px",height:"70px"}} />
+            <img src='../../public/AllCatogries/pf.png'  alt="Your Image" style={{width:"90px",height:"70px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -108,7 +108,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/apples-pears-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/apples-pears-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -163,7 +163,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/avocado-peach-plum-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/avocado-peach-plum-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -235,7 +235,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/banana-melons-coconut-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/banana-melons-coconut-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -304,7 +304,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/cherries-berries-exotic-fruits-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/cherries-berries-exotic-fruits-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -373,7 +373,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/citrus-mango-grapes-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/citrus-mango-grapes-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -442,7 +442,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/dates-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/dates-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -485,7 +485,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/gift-assorted-xl-packs-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/gift-assorted-xl-packs-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -528,7 +528,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/pomegranate-papaya-pineapple-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/pomegranate-papaya-pineapple-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -598,7 +598,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/seasonal-minor-fruits-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/seasonal-minor-fruits-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -669,7 +669,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/fashion.png'  alt="Your Image" style={{width:"90px",height:"70px"}} />
+            <img src='../../public/AllCatogries/fashion.png'  alt="Your Image" style={{width:"90px",height:"70px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -689,7 +689,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/men-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/men-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -773,7 +773,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/women-20230607 (1).webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/women-20230607 (1).webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -857,7 +857,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/junior-boys-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/junior-boys-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -943,7 +943,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/elect.webp'  alt="Your Image" style={{width:"90px",height:"70px"}} />
+            <img src='../../public/AllCatogries/elect.webp'  alt="Your Image" style={{width:"90px",height:"70px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -962,7 +962,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/mobiles-tablets-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/mobiles-tablets-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -1021,7 +1021,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/tv-speaker-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/tv-speaker-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -1080,7 +1080,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/home-appliances-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/home-appliances-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -1139,7 +1139,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/computers-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/computers-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -1212,7 +1212,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/home kit.webp'  alt="Your Image" style={{width:"90px",height:"70px"}} />
+            <img src='../../public/AllCatogries/home kit.webp'  alt="Your Image" style={{width:"90px",height:"70px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -1231,7 +1231,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/kitchenware-20231025.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/kitchenware-20231025.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -1291,7 +1291,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/home-decor-20231025.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/home-decor-20231025.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -1351,7 +1351,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/furniture-20231025.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/furniture-20231025.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -1423,7 +1423,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../bathroom-laundry-accessories-20231025.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/bathroom-laundry-accessories-20231025.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -1486,7 +1486,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/bea.webp'  alt="Your Image" style={{width:"90px",height:"70px"}} />
+            <img src='../../public/AllCatogries/bea.webp'  alt="Your Image" style={{width:"90px",height:"70px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -1507,7 +1507,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/make-up-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/make-up-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -1594,7 +1594,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/skin-care-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/skin-care-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -1655,7 +1655,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/tools-appliances-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/tools-appliances-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -1766,7 +1766,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/pf.png'  alt="Your Image" style={{width:"90px",height:"70px"}} />
+            <img src='../../public/AllCatogries/pf.png'  alt="Your Image" style={{width:"90px",height:"70px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -1785,7 +1785,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/str.jpg'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/str.jpg'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -1820,7 +1820,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/night.jpg'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/night.jpg'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -1855,7 +1855,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/leaves.jpg'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/leaves.jpg'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -1890,7 +1890,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/pv (1).jpg'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/pv (1).jpg'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -1925,7 +1925,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/noncc.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/noncc.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -1976,7 +1976,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/stLugg.webp'  alt="Your Image" style={{width:"90px",height:"70px"}} />
+            <img src='../../public/AllCatogries/stLugg.webp'  alt="Your Image" style={{width:"90px",height:"70px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
@@ -1996,7 +1996,7 @@ const AllCatogries = () => {
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
-            <img src='../../public/bags-travel-luggage-20231025.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+            <img src='../../public/AllCatogries/bags-travel-luggage-20231025.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
 
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
