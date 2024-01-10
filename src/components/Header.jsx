@@ -499,6 +499,7 @@ const Header = () => {
 
             
             <Nav.Link href="/Fashion">Fashion</Nav.Link>
+            <Nav.Link href="/Electronics">Electronics</Nav.Link>
             <Nav.Link href="#about">About</Nav.Link>
             <Nav.Link href="#about">About</Nav.Link>
             <CartIcon/>

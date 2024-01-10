@@ -282,7 +282,79 @@ const Category = ({ products }) => {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
-  } //BagsAndLuggages
+  } //Electronics
+  else if (category === "MobilesTablets") {
+    // Check if 'Smartphone','•	MobileAccessories','Tablets'properties exist in the products object
+    if (
+      products &&
+      products.Smartphone &&
+      products.MobileAccessories &&
+      products.Tablets 
+    ) {
+      filteredProducts = [
+        ...products.Smartphone,
+        ...products.MobileAccessories,
+        ...products.Tablets,
+      ];
+    } else {
+      console.error("Products data is incomplete.");
+      return <div>Error loading products.</div>;
+    }
+  }else if (category === "TvSpeaker") {
+    // Check if 'Tv','HomeTheatre','TvRemote'properties exist in the products object
+
+if (
+    products &&
+    products.Tv &&
+    products.HomeTheatre &&
+    products.TvRemote 
+) {
+filteredProducts = [
+    ...products.Tv,
+    ...products.HomeTheatre,
+    ...products.TvRemote,
+];
+} else {
+console.error("Products data is incomplete.");
+return <div>Error loading products.</div>;
+}
+}else if (category === "HomeAppliances") {
+    // Check if 'WashingMachine','Irons','Fans'properties exist in the products object
+    
+    if (
+        products && 
+        products.WashingMachine &&
+        products.Irons &&
+        products.Fans 
+        ) {
+        filteredProducts = [
+            ...products.WashingMachine,
+            ...products.Irons,
+            ...products.Fans,
+        ];
+} else {
+console.error("Products data is incomplete.");
+return <div>Error loading products.</div>;
+}
+}else if (category === "Computers") {
+    // Check if 'Laptop', 'Desktop', 'Monitor' properties exist in the products object
+    
+    if (
+        products &&
+        products.Laptop &&
+        products.Desktop &&
+        products.Monitor
+        ) {
+        filteredProducts = [
+            ...products.Laptop,
+            ...products.Desktop,
+            ...products.Monitor,
+        ];
+        } else {
+        console.error("Products data is incomplete.");
+        return <div>Error loading products.</div>;
+        }
+        } //BagsAndLuggages
   else if (category === "BagsTravelLuggages") {
     // Bags Luggages
     if (
