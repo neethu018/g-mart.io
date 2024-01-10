@@ -90,7 +90,7 @@ function App() {
             element={<ProductDetail />}
           />
               <Route path="/cart" element={<Cart/>}/>
-              <Route path="/AllCatogries" element={<AllCatogries/>}/>
+              <Route path="/allcategory" element={<AllCatogries/>}/>
         </Routes>
       </Router>
     </>

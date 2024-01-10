@@ -5,8 +5,10 @@ import { Card, Button } from "react-bootstrap";
 import { Link, useNavigate, useLocation } from "react-router-dom";
 import { CartContext } from "../context/CartContext";
 import { faPlus } from "@fortawesome/free-solid-svg-icons";
-import { faHeart as regularHeart } from "@fortawesome/free-regular-svg-icons";
-import { useContext } from "react";
+import { faHeart } from "@fortawesome/free-regular-svg-icons";
+import { faHeart as fasolid } from "@fortawesome/free-solid-svg-icons";
+import { useContext, useState } from "react";
+
 
 
 const ProductCard = ({ product, category, subcategory }) => {
@@ -38,8 +40,12 @@ const ProductCard = ({ product, category, subcategory }) => {
   const maxLength=39;
   const prod=product.shortDesc;
   const sd=prod.length > maxLength ? `${prod.slice(0,maxLength)}...`:prod;
-  
-  
+
+  const [liked,setLiked]=useState(false);
+  const handleLikeToggle=()=>{
+    setLiked(!liked)
+  };
+
 
   return (
     <Card
@@ -55,10 +61,25 @@ const ProductCard = ({ product, category, subcategory }) => {
         />
       </Link>
       <Card.Title style={{ position: "absolute", top: 30, right: 30 }}>
+        
+        {liked?
+        <span onClick={handleLikeToggle}>
         <FontAwesomeIcon
-          icon={regularHeart}
-          style={{ width: "30", height: "30" }}
+          icon={fasolid}
+          style={{ width: "30", height: "30", cursor:"pointer"}
+        }
         />
+        </span>
+        :
+        <span onClick={handleLikeToggle}>
+        <FontAwesomeIcon
+          icon={faHeart}
+          style={{ width: "30", height: "30", cursor:"pointer"}
+        }
+        />
+        </span>
+        }
+       
       </Card.Title>
       <Card.Body>
         <Card.Title>{sd}</Card.Title>
@@ -92,6 +113,7 @@ const ProductCard = ({ product, category, subcategory }) => {
               marginLeft: "20px",
              
             }}
+            
           >
             <div style={{ fontSize: 20, fontWeight: 800 }}>Add</div>
             <div>
