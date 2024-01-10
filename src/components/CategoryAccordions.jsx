@@ -32,6 +32,12 @@ const CategoryAccordions = ({ mainCategory }) => {
       "KidsFashion",
       "Infants",
     ],
+    Electronics: [
+      "MobilesTablets",
+      "TvSpeaker",
+      "HomeAppliances",
+      "Computers",
+    ],
   };
   const subcategoriesByCategory = {
     //premiumfruits
@@ -89,6 +95,28 @@ const CategoryAccordions = ({ mainCategory }) => {
       "BabyBoy",
       "Toys",
     ],
+   //Electronics
+   MobilesTablets: [
+    "Smartphone", 
+    "MobileAccessories", 
+    "Tablets"
+  ],
+   TvSpeaker: [
+    "Tv", 
+    "HomeTheatre", 
+    "TvRemote"
+  ],
+   HomeAppliances: [
+    "WashingMachine", 
+    "Irons", 
+    "Fans"
+  ],
+   Computers: [
+    "Laptop", 
+    "Desktop", 
+    "Monitor"
+  ],
+   
     "Category C2": ["Subcategory C1.1", "Subcategory C1.2", "Subcategory C1.3"],
   };
   const { pathname } = useLocation();
