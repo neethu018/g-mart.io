@@ -10,12 +10,15 @@ import { SportsToysLuggages } from "./utils/sportstoysluggages"; //sportstoysLug
 import MainCategory from "./pages/MainCategory";
 import Header from "./components/Header";
 import ProductDetail from "./pages/ProductDetail";
+import TopNavbar from "./components/navbar/TopNavbar";
+
 function App() {
   console.log("premiumfruits data :", premiumFruits);
   return (
   
     <>
       <Router>
+        <TopNavbar/>
         <Header />
         <Routes>
           <Route path="/" element={<Home />} />

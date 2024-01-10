@@ -155,12 +155,13 @@ const Header = () => {
   };
   return (
     <>
-      <Navbar bg="dark" variant="dark" expand="lg">
-        <Navbar.Brand href="/">React-Bootstrap</Navbar.Brand>
+      <Navbar expand="lg"  style={{backgroundColor:"#0c5273"}}>
+        {/* <Navbar.Brand href="/">GMart</Navbar.Brand> */}
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="mr-auto" navbarScroll>
+          <Nav className="mr-auto text-white" navbarScroll >
             <NavDropdown
+            
               show={showPremiumFruitsDropdown}
               onMouseEnter={handlePremiumFruitsMouseEnter}
               onMouseLeave={handlePremiumFruitsMouseLeave}
@@ -392,8 +393,21 @@ const Header = () => {
                 </>
               )}
             </NavDropdown>
+
+            {/* <Nav.Link
+              as={Link}
+              className="text-white fw-bold"
+              to={"/Groceries"}
+              onMouseEnter={handleGroceriesEnter}
+              onMouseLeave={handleGroceriesLeave}
+            >
+              Groceries
+            </Nav.Link> */}
+
+            
             <Nav.Link
               as={Link}
+              className="text-white fw-bold"
               to={"/premiumfruits"}
               onMouseEnter={handlePremiumFruitsMouseEnter}
               onMouseLeave={handlePremiumFruitsMouseLeave}
@@ -402,6 +416,7 @@ const Header = () => {
             </Nav.Link>
             {/* beauty dropdown */}
             <NavDropdown
+            
               show={showBeautyDropdown}
               onMouseEnter={handleBeautyMouseEnter}
               onMouseLeave={handleBeautyMouseLeave}
@@ -440,8 +455,21 @@ const Header = () => {
                 </>
               )}
             </NavDropdown>
+
+            {/* <Nav.Link
+              as={Link}
+              className="text-white fw-bold"
+              to={"/HomeAndKitchen"}
+              onMouseEnter={handleHomeAndKitchenEnter}
+              onMouseLeave={handleHomeAndKitchenLeave}
+            >
+              Home & Kitchen
+            </Nav.Link> */}
+
+
             <Nav.Link
               as={Link}
+              className="text-white fw-bold"
               to={"/Beauty"}
               onMouseEnter={handleBeautyMouseEnter}
               onMouseLeave={handleBeautyMouseLeave}
@@ -488,13 +516,45 @@ const Header = () => {
                 </>
               )}
             </NavDropdown>
+            {/* <Nav.Link
+              as={Link}
+              className="text-white fw-bold"
+              to={"/Electronics"}
+              onMouseEnter={handleElectronicsEnter}
+              onMouseLeave={handleElectronicsLeave}
+            >
+              Electronics
+            </Nav.Link>
+
             <Nav.Link
               as={Link}
+              className="text-white fw-bold"
+              to={"/Jewellery"}
+              onMouseEnter={handleJewelleryEnter}
+              onMouseLeave={handleJewelleryLeave}
+            >
+              Jewellery
+            </Nav.Link>
+
+            <Nav.Link
+              as={Link}
+              className="text-white fw-bold"
+              to={"/HomeImprovement"}
+              onMouseEnter={handleHomeImprovementEnter}
+              onMouseLeave={handleHomeImprovementLeave}
+            >
+              Home Improvement
+            </Nav.Link> */}
+
+
+            <Nav.Link
+              as={Link}
+              className="text-white fw-bold"
               to={"/SportsToysLuggages"}
               onMouseEnter={handleSportsToysLuggagesMouseEnter}
               onMouseLeave={handleSportsToysLuggagesMouseLeave}
             >
-              SportsToys&Luggages
+              Sports, Toys & Luggages
             </Nav.Link>
 
             
