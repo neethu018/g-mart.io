@@ -159,7 +159,7 @@ const CategoryAccordions = ({ mainCategory }) => {
       {categoriesByMainCategory[mainCategory].map((category,index) => (
         <Accordion.Item key={index} eventKey={category}>
           <Accordion.Header onClick={() => handleCategorySelect(category)}>
-            {category}
+          <span style={{ fontWeight: 'bold',fontSize:14}}>{category}</span>
           </Accordion.Header>
           <Accordion.Body>
             {subcategoriesByCategory[category].map((subcategory,index) => (

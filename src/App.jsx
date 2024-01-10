@@ -12,6 +12,8 @@ import Header from "./components/Header";
 import ProductDetail from "./pages/ProductDetail";
 import { Fashion } from "./utils/Fashion"; //fashion
 import { Electronics } from "./utils/electronics"; //electronics
+import AllCatogries from "./pages/AllCatogries";
+
 function App() {
   console.log("premiumfruits data :", premiumFruits);
   return (
@@ -107,6 +109,7 @@ function App() {
             element={<ProductDetail />}
           />
               <Route path="/cart" element={<Cart/>}/>
+              <Route path="/AllCatogries" element={<AllCatogries/>}/>
         </Routes>
       </Router>
     </>

@@ -37,7 +37,7 @@ export const Beauty = {
               howtouse:
                 "Step1: Ensure the tip of the pencil is sharp for precise application Step2: Apply first to the outer lines of lips to create the perfect contour Step3: Gradually fill in color all over lips to create the perfect lip fill Step4: You can increase the strokes as per the intensity you desire",
             },
-            productId: 948443,
+            productId: 60632,
           },
           {
             productImage:
@@ -75,7 +75,7 @@ export const Beauty = {
               howtouse:
                 "Step1: Ensure the tip of the pencil is sharp for precise application Step2: Apply first to the outer lines of lips to create the perfect contour Step3: Gradually fill in color all over lips to create the perfect lip fill Step4: You can increase the strokes as per the intensity you desire",
             },
-            productId: 948339,
+            productId: 60633,
           },
           {
             productImage:
@@ -113,7 +113,7 @@ export const Beauty = {
               howtouse:
                 "Step1: Ensure the tip of the pencil is sharp for precise application Step2: Apply first to the outer lines of lips to create the perfect contour Step3: Gradually fill in color all over lips to create the perfect lip fill Step4: You can increase the strokes as per the intensity you desire",
             },
-            productId: 948505,
+            productId: 60634,
           },
           {
             productImage:
@@ -151,7 +151,7 @@ export const Beauty = {
               howtouse:
                 "Step 1: Exfoliate and hydrate your lips. Step 2: Line your lips with the lip definer. Step 3: Define with vertical lines to add dimension. Step 4: Contour using a darker shade to fill in outer corners . Step 5: Fill in your lips with a matching matte shade",
             },
-            productId: 1080167,
+            productId: 60635,
           },
           {
             productImage:
@@ -189,7 +189,7 @@ export const Beauty = {
               howtouse:
                 "Step 1: Exfoliate and hydrate your lips. Step 2: Line your lips with the lip definer. Step 3: Define with vertical lines to add dimension. Step 4: Contour using a darker shade to fill in outer corners . Step 5: Fill in your lips with a matching matte shade",
             },
-            productId: 944480,
+            productId: 60636,
           },//lipstickcream
           {
             productImage:
@@ -227,7 +227,7 @@ export const Beauty = {
               howtouse:
                 "For a flawless application, start from the center of your lips and move outward. Build up the intensity according to your preference. Pair it with a lip liner for added definition or a clear gloss for an extra touch of glamour.",
             },
-            productId: 954785,
+            productId: 60637,
           },//lipstickliquid
           {
             productImage:
@@ -265,7 +265,7 @@ export const Beauty = {
               howtouse:
                 "Use the tip of the doe-foot applicator to easily line and define the contour of the lips. Fill in lips in using the flat side of the wand.",
             },
-            productId: 974112,
+            productId: 60638,
           },
           {
             productImage:
@@ -303,7 +303,7 @@ export const Beauty = {
               howtouse:
                 "1. Start by defining your Cupid's Bow to get perfectly designed lips. Then, move to the puter edges and get an intense look in one swipe.2. Get the intense matte that glides on easily and stays forever fresh",
             },
-            productId: 949481,
+            productId: 60639,
           },//lipstickmate
           {
             productImage:
@@ -341,7 +341,7 @@ export const Beauty = {
               howtouse:
                 "1. Start at the centre of the upper lip and move outwards toward the corners 2. Apply the lipstick to the lower lip 3. Blend to get the perfect finish",
             },
-            productId: 939718,
+            productId: 60640,
           },
           {
             productImage:
@@ -379,7 +379,7 @@ export const Beauty = {
               howtouse:
                 "Using the high point of the bullet, line the cupid’s bow, starting at the center of the lip and moving out. Now fill in the bottom lip by laying the bullet on one of its sides.",
             },
-            productId: 974029,
+            productId: 60641,
           },//lipgloss
           {
             productImage:
@@ -417,7 +417,7 @@ export const Beauty = {
               howtouse:
                 "Swipe lip gloss across your lips like a lipstick, staying away from your lip line. Or Dab a touch of gloss in the middle of your bottom lip and then rub your lips together.",
             },
-            productId: 974011,
+            productId: 60642,
           },
           {
             productImage:
@@ -455,7 +455,7 @@ export const Beauty = {
               howtouse:
                 "Dab the lip gloss on the centre of your lips and move outwards. Press your lips for a smoother looking finish. You can choose to apply it directly or choose to add that sheen to your favourite RENÉE lipstick shade.",
             },
-            productId: 1017817,
+            productId: 60643,
           },
           {
             productImage:
@@ -493,7 +493,7 @@ export const Beauty = {
               howtouse:
                 "Dab the lip gloss on the centre of your lips and move outwards. Press your lips for a smoother looking finish. You can choose to apply it directly or choose to add that sheen to your favourite RENÉE lipstick shade.",
             },
-            productId:"RVTSLIAQ2M",
+            productId:60644,
           },
           {
             productImage:
@@ -531,7 +531,7 @@ export const Beauty = {
               howtouse:
                 "Dab the lip gloss on the centre of your lips and move outwards. Press your lips for a smoother looking finish. You can choose to apply it directly or choose to add that sheen to your favourite RENÉE lipstick shade.",
             },
-            productId: 949310,
+            productId: 60645,
           },//lipbalm
           {
             productImage:
@@ -569,7 +569,7 @@ export const Beauty = {
               howtouse:
                 "Dab the lip gloss on the centre of your lips and move outwards. Press your lips for a smoother looking finish. You can choose to apply it directly or choose to add that sheen to your favourite RENÉE lipstick shade.",
             },
-            productId: 954861,
+            productId: 60646,
           },
           {
             productImage:
@@ -607,7 +607,7 @@ export const Beauty = {
               howtouse:
                 "Use fingertips or a brush to apply a small amount to apple of the cheeks and the lips. For a stronger shade, layer it with multiple applications.",
             },
-          productId: "RVNAUHAPAO",
+          productId: 60647,
           },
           {
             productImage:
@@ -645,7 +645,7 @@ export const Beauty = {
               howtouse:
                 "Massage balm directly onto the lips until it is obsorbed. For best results, use twice a day, daily.",
             },
-            productId: "RVPMXJXH3D",
+            productId: 60648,
           },
           {
             productImage:
@@ -683,7 +683,7 @@ export const Beauty = {
               howtouse:
                 "Massage balm directly onto the lips until it is obsorbed. For best results, use twice a day, daily.",
             },
-            productId: "RVCXPMWY7E",
+            productId: 60649,
           },
           {
             productImage:
@@ -721,7 +721,7 @@ export const Beauty = {
               howtouse:
                 "Massage balm directly onto the lips until it is obsorbed. For best results, use twice a day, daily.",
             },
-            productId: "RVOEF7RY2W",
+            productId: 60650,
           },
           {
             productImage:
@@ -759,7 +759,7 @@ export const Beauty = {
               howtouse:
                 "Wash your hands to remove any dirt or oils.Dry your hands thoroughly.Soak your fingertips in warm, soapy water for a few minutes to soften the nails. This can make the trimming process easier.Ensure that you're using a clean and sharp nail clipper appropriate for your nail size.Position the nail clipper at a comfortable angle, usually straight across the nail.Align the clipper with the desired nail length.Trim your nails in small sections, moving from one side to the other.Avoid cutting too close to the nail bed to prevent ingrown nails.",
             },
-            productId: 1047276,
+            productId: 60651,
           },
           {
             productImage:
@@ -797,7 +797,7 @@ export const Beauty = {
               howtouse:
                 "Wash your hands to remove any dirt or oils.Dry your hands thoroughly.Soak your fingertips in warm, soapy water for a few minutes to soften the nails. This can make the trimming process easier.Ensure that you're using a clean and sharp nail clipper appropriate for your nail size.Position the nail clipper at a comfortable angle, usually straight across the nail.Align the clipper with the desired nail length.Trim your nails in small sections, moving from one side to the other.Avoid cutting too close to the nail bed to prevent ingrown nails.",
             },
-            productId: 1066244,
+            productId: 60652,
           },
           {
             productImage:
@@ -835,7 +835,7 @@ export const Beauty = {
               howtouse:
                 "Ensure your nails are clean and free from any polish or debris.Use the coarsest side of the buffer to shape your nails according to your preference. Move the buffer in one direction to avoid splitting.Switch to the smoother side to reduce ridges and create a smooth nail surface.Use the polishing side of the buffer in a gentle back-and-forth motion to achieve a glossy shine. Take care not to over-buff.Buffing can be done as often as needed to maintain a healthy shine. However, avoid excessive buffing to prevent thinning of the nails.Finish by moisturizing your nails and cuticles to keep them hydrated and healthy.",
             },
-            productId: 1046578,
+            productId: 60653,
           },
     ],
     Nails:[
@@ -876,7 +876,7 @@ export const Beauty = {
           howtouse:
             "Start from the center of the nail and move sideways. Although you are good to go in a single coat but for added drama you can use two coats.",
         },
-        productId: 974151,
+        productId: 60654,
       },
       {
         productImage:
@@ -914,7 +914,7 @@ export const Beauty = {
           howtouse:
             "Start from the center of the nail and move sideways. Although you are good to go in a single coat but for added drama you can use two coats.",
         },
-        productId: 974150,
+        productId: 60655,
       },
       {
         productImage:
@@ -952,7 +952,7 @@ export const Beauty = {
           howtouse:
             "Start from the center of the nail and move sideways. Although you are good to go in a single coat but for added drama you can use two coats.",
         },
-        productId: 948606,
+        productId: 60656,
       },
       {
         productImage:
@@ -990,7 +990,7 @@ export const Beauty = {
           howtouse:
             "Start from the center of the nail and move sideways. Although you are good to go in a single coat but for added drama you can use two coats.",
         },
-        productId: 948588,
+        productId: 60657,
       },//nailpolishremover
       {
         productImage:
@@ -1028,7 +1028,7 @@ export const Beauty = {
           howtouse:
             "Dab some remover onto a cotton pad and gently remove the lacquer from your nail bed with a circular massaging motion until completely clean.",
         },
-        productId: 974165,
+        productId: 60658,
       },
       {
         productImage:
@@ -1066,7 +1066,7 @@ export const Beauty = {
           howtouse:
             "Dab some remover onto a cotton pad and gently remove the lacquer from your nail bed with a circular massaging motion until completely clean.",
         },
-        productId: 974166,
+        productId: 60659,
       },
       {
         productImage:
@@ -1104,7 +1104,7 @@ export const Beauty = {
           howtouse:
             "Press saturated pad lightly over the nail to enable remover to penetrate the layers of polish. Wait a moment and wipe off in one stroke. A second application may be necessary to remove layers of dark nail polish or many layers of nail polish. Wash hands thoroughly.",
         },
-        productId: 974110,
+        productId: 60660,
       },//nailpaint
       {
         productImage:
@@ -1142,7 +1142,7 @@ export const Beauty = {
           howtouse:
             "To apply your first coat of paint, start by a center swipe of paint, then swipe on either side. You should be able to cover the average nail plate in 2-3 strokes. Repeat on each nail. Let dry for at least 3 minutes before applying your second coat of paint.",
         },
-        productId: 949800,
+        productId: 60661,
       },
       {
         productImage:
@@ -1180,7 +1180,7 @@ export const Beauty = {
           howtouse:
             "To apply your first coat of Paint, start by a center swipe of paint, then swipe on either side. You should be able to cover the average nail plate in 2-3 strokes. Repeat on each nail. Let dry for at least 3 minutes before applying your second coat of paint.",
         },
-        productId: 1028716,
+        productId: 60662,
       },
       {
         productImage:
@@ -1218,7 +1218,7 @@ export const Beauty = {
           howtouse:
             "To apply your first coat of Paint, start by a center swipe of paint, then swipe on either side. You should be able to cover the average nail plate in 2-3 strokes. Repeat on each nail. Let dry for at least 3 minutes before applying your second coat of paint.",
         },
-        productId: 949793,
+        productId: 60663,
       },//nailpaintremover
       {
         productImage:
@@ -1256,7 +1256,7 @@ export const Beauty = {
           howtouse:
             "Wash your hands to remove any surface dirt or oils.Moisten a cotton pad or ball with the [Your Brand Name] Nail Paint Remover.Place the moistened cotton pad or ball on your nail and press down gently.Hold the cotton pad or ball on the nail for a few seconds to allow the remover to work. Wipe away the nail polish, starting from the base to the tip.For stubborn or multiple layers of polish, repeat the process until your nails are clean.Wash your hands after using the nail paint remover. Apply a moisturizer to keep your nails and cuticles hydrated.Discard used cotton pads or balls in a waste bin.",
         },
-        productId: 954679,
+        productId: 60664,
       },
       {
         productImage:
@@ -1294,7 +1294,7 @@ export const Beauty = {
           howtouse:
             "Wash your hands to remove any surface dirt or oils.Moisten a cotton pad or ball with the [Your Brand Name] Nail Paint Remover.Place the moistened cotton pad or ball on your nail and press down gently.Hold the cotton pad or ball on the nail for a few seconds to allow the remover to work. Wipe away the nail polish, starting from the base to the tip.For stubborn or multiple layers of polish, repeat the process until your nails are clean.Wash your hands after using the nail paint remover. Apply a moisturizer to keep your nails and cuticles hydrated.Discard used cotton pads or balls in a waste bin.",
         },
-        productId: 954714,
+        productId: 60665,
       },//nailart
       {
         productImage:
@@ -1332,7 +1332,7 @@ export const Beauty = {
           howtouse:
             "Apply a coat of your favourite Lakme Color Crush Nail Art all over your nails avoiding the outer edges and the surrounding skin. Be sure to apply two coats of nail polish for that salon-quality finish.",
         },
-        productId: 949491,
+        productId: 60666,
       },
       {
         productImage:
@@ -1370,7 +1370,7 @@ export const Beauty = {
           howtouse:
             "Apply a coat of your favourite Lakme Color Crush Nail Art all over your nails avoiding the outer edges and the surrounding skin. Be sure to apply two coats of nail polish for that salon-quality finish.",
         },
-        productId: 949373,
+        productId: 60667,
       },//enamelremover
       {
         productImage:
@@ -1408,7 +1408,7 @@ export const Beauty = {
           howtouse:
             "Remove unwanted, old nail color from with Faces Nail Enamel Remover. Little amount of this liquid is enough for removal.",
         },
-        productId: 941092,
+        productId: 60668,
       },
     ],
     Eyes:[
@@ -1449,7 +1449,7 @@ export const Beauty = {
           howtouse:
             "Start at the inner corner of the eye and move outwards The kajal can also be used in the waterline for a refined look",
         },
-        productId: 973962,
+        productId: 60669,
       },
       {
         productImage:
@@ -1487,7 +1487,7 @@ export const Beauty = {
           howtouse:
             "Start at the inner corner of the eye and move outwards The kajal can also be used in the waterline for a refined look",
         },
-        productId: 949201,
+        productId: 60670,
       },
       {
         productImage:
@@ -1525,7 +1525,7 @@ export const Beauty = {
           howtouse:
             " Begin with a clean face and ensure that the eye area is free from any makeup or impurities.f desired, apply eyeshadow or other eye makeup before using kajal.Gently open the Maybelline kajal, being cautious not to twist it excessively to prevent breakage.Apply the kajal to the waterline of your eyes. The waterline is the inner rim of the lower eyelid. You can also apply it to the upper waterline for a more intense look.Depending on the product, you may be able to experiment with different styles, such as creating a winged or smudged look.",
         },
-        productId: 940610,
+        productId: 60671,
       },//eyeliner
       {
         productImage:
@@ -1563,7 +1563,7 @@ export const Beauty = {
           howtouse:
             "Start with a clean, dry eye area. Ensure that your eyelids are free from any oil, moisturizer, or previous makeup.Depending on the specific Blue Heaven eyeliner you have (pencil, liquid, gel), choose the type that suits your preferred application style.Use the applicator to create a smooth line along the lash line. You can start from the inner corner and move towards the outer corner.",
         },
-        productId: 954772,
+        productId: 60672,
       },
       {
         productImage:
@@ -1601,7 +1601,7 @@ export const Beauty = {
           howtouse:
             "Apply close to the lashes for a super tight line, or build to create a dramatic cat-eye or winged-out eye look. Use the lashes as a guide, by resting then pressing the side of the applicator. Use the applicator tip to fill in gaps between lashes, or use thick, bolder lines for a dramatic nighttime feel.",
         },
-        productId: 973942,
+        productId: 60673,
       },
       {
         productImage:
@@ -1639,7 +1639,7 @@ export const Beauty = {
           howtouse:
             "Use the tip of your eyeliner brush to create a dotted (guide) line on your.Slowly connect them with a steady hand and fill in the gaps to get an even stroke.Keep your eyes shut for a while to let the product dry well.",
         },
-        productId: 949351,
+        productId: 60674,
       },
       {
         productImage:
@@ -1677,7 +1677,7 @@ export const Beauty = {
           howtouse:
             "Step 1: Apply along the lash line from the inner to the outer corner. Step 2: Keep it as close to the lashline. Step 3: Extend the line to create a wing.",
         },
-        productId: 1089268,
+        productId: 60675,
       },//eyebrow pencil
       {
         productImage:
@@ -1715,7 +1715,7 @@ export const Beauty = {
           howtouse:
             "Step1: Ensure the tip of the pencil is sharp to mimic precise natural brow hair Step2: Following the shape of your brows to create a natural, fuller look Step3: Fill by drawing short, upward strokes in the direction of your natural hair growth Step4: Continue to make strokes to achieve a desired look.",
         },
-        productId: 948346,
+        productId: 60676,
       },
       {
         productImage:
@@ -1753,7 +1753,7 @@ export const Beauty = {
           howtouse:
             "Ensure your eyebrows are clean and free from any makeup or oils.Brush your eyebrows with a spoolie or eyebrow brush to shape them.Select an eyebrow pencil shade that closely matches your natural eyebrow color for a natural look.Start by outlining the bottom and top edges of your eyebrows using short, light strokes.Use the eyebrow pencil to fill in any sparse areas or gaps in your eyebrows with light, feathery strokes.After applying the pencil, use a spoolie or an eyebrow brush to blend and soften the product for a more natural appearance.If desired, define the arch and tail of your eyebrows for a polished look.To enhance the longevity of your eyebrow makeup, you can use a clear or tinted brow gel to set the hairs in place.",
         },
-        productId: 1039022,
+        productId: 60677,
       },//Eyeshadowpalette
       {
         productImage:
@@ -1791,7 +1791,7 @@ export const Beauty = {
           howtouse:
             "Start with clean, dry eyelids. You can apply a neutral eyeshadow base or primer to enhance the longevity and vibrancy of the eyeshadows.Select the eyeshadow shades you want to use for your eye look. Blue Heaven eyeshadow palettes often include a mix of colors suitable for creating various eye makeup styles.Begin by applying a neutral or matte transition shade to the crease of your eyelid. This helps to create a seamless blend between colors.Use darker shades to add depth to the outer corner of your eye or along the crease, depending on the desired look.Use shimmer or metallic shades on the eyelid for a pop of color or a glamorous finish. You can apply these shades with a fingertip or a flat eyeshadow brush for maximum intensity.Blend the eyeshadows well to avoid harsh lines and create a seamless transition between colors.Apply a light, shimmery shade to the brow bone and inner corner of the eyes to highlight and brighten.",
         },
-        productId: 954687,
+        productId: 60678,
       },
       {
         productImage:
@@ -1829,7 +1829,7 @@ export const Beauty = {
           howtouse:
             "Begin with clean, dry eyelids. Consider applying an eyeshadow primer or a neutral eyeshadow base to enhance the vibrancy and longevity of the eyeshadows.Identify the four eyeshadow shades in the quad that you want to use. Wet n Wild quads often include instructions on where to apply each shade (e.g., lid, crease, brow bone, outer corner).Use a transition shade (often a matte shade) to define the crease. This creates depth and helps blend the other eyeshadows seamlessly.Apply one of the lid shades to the movable part of the eyelid. This can be a shimmer or metallic shade for a pop of color or dimension.Use a darker shade from the quad to add depth to the outer corner of the eyelid. This can create a more defined and dimensional look.Apply the lightest shade in the quad to the brow bone. This highlights and brightens the area.Blend the eyeshadows well to avoid harsh lines and create a smooth transition between colors.",
         },
-        productId: 963556,
+        productId: 60679,
       },
       {
         productImage:
@@ -1867,7 +1867,7 @@ export const Beauty = {
           howtouse:
             "Start by taking a colour that is a shade or two darker than your skin tone and run it back and forth onto your crease as a transition shade - Start blending at the point where you want the deepest colour, like the outer corner and aim toward the place where you want the lightest colour. By doing this, a gradient will be created by the colour choice alone Next go for the shimmer shade on the lid to get that pop. - Use the doe-tip sponge applicator or a damp flat brush or your finger for that additional depth - Use a darker shade on the crease to define the eye shape. Start applying from the outer corner of the eye, making a ‘V’, and blend it halfway through the eyelid with the round eyeshadow blending brush",
         },
-        productId: 972442,
+        productId: 60680,
       },
       {
         productImage:
@@ -1905,7 +1905,7 @@ export const Beauty = {
           howtouse:
             "Start with clean, dry eyelids. Apply eyeshadow primer or a neutral eyeshadow base to create a smooth surface for the glitter.Select the Wet n Wild eyeshadow glitter you want to use. If it's loose glitter, you might need a glitter adhesive to help it adhere to the skin.Using a flat eyeshadow brush, a silicone applicator, or your fingertip, gently pat or press the glitter onto the eyelid. Take care not to rub or drag the glitter to avoid fallout.",
         },
-        productId: 963532,
+        productId: 60681,
       },//eyebrush
       {
         productImage:
@@ -1943,7 +1943,7 @@ export const Beauty = {
           howtouse:
             "Use the comb side to brush through eyebrows. Turn it over to gently brush through eyelashes.",
         },
-        productId: 1066258,
+        productId: 60682,
       },//glimmerstick
       {
         productImage:
@@ -1981,7 +1981,7 @@ export const Beauty = {
           howtouse:
             "Step1: Ensure the tip of the pencil is sharp for precise application Step2: Start from the inner corner of the upper eyelid, as close to the lash line as you can Step3: Continue to draw a thin line outwards, towards the outer corner Step4: You can increase the strokes as per the intensity you desire",
         },
-        productId: 948513,
+        productId: 60683,
       },
       {
         productImage:
@@ -2019,7 +2019,7 @@ export const Beauty = {
           howtouse:
             "Start with clean, dry eyelids. If you're applying eyeshadow, do so before applying the glimmerstick.Decide whether you want to apply the glimmerstick to the upper lash line, lower lash line, or both. You can also experiment with different styles, such as winged eyeliner.Gently glide the Glimmerstick along the lash line, starting from the inner corner and moving towards the outer corner. Use short strokes for more precision.",
         },
-        productId: 948477,
+        productId: 60684,
       },//eyebrowenhancer
       {
         productImage:
@@ -2057,7 +2057,7 @@ export const Beauty = {
           howtouse:
             "Start with clean, dry eyebrows. Brush your eyebrows using an eyebrow brush or spoolie to shape them.Depending on the Blue Heaven Eyebrow Enhancer you have (pencil, powder, gel, pomade), choose the product form that suits your preference and desired eyebrow look.Use the eyebrow enhancer to define the shape of your eyebrows. This can include outlining the edges and defining the arch.If you have sparse areas in your eyebrows, use the product to fill them in. You can make short, light strokes to mimic the appearance of natural eyebrow hairs.Blend the product with an eyebrow brush or spoolie to ensure a natural and seamless look. This helps soften any harsh lines and distributes the product evenly.",
         },
-        productId: 954713,
+        productId: 60685,
       },//eyelashes
       {
         productImage:
@@ -2095,7 +2095,7 @@ export const Beauty = {
           howtouse:
             "Carefully remove the eyelashes from the case with the help of a tweezer. Trim eyelashes to fit your eye shape, then apple glue to eyelashes Apply it to eyelids if necessary apply eyeliner or eye shadow.",
         },
-        productId: 1070037,
+        productId: 60686,
       },//mascara
       {
         productImage:
@@ -2133,7 +2133,7 @@ export const Beauty = {
           howtouse:
             "Start with clean, dry eyelashes. Curl your lashes if desired before applying mascara.Twist open the mascara tube, ensuring that the brush is clean and free of clumps.Hold the mascara wand horizontally and start at the base of your lashes. Wiggle the wand back and forth while moving upward to coat each lash. You can apply one or more coats, depending on the desired volume and length.Allow the mascara to dry between coats to avoid clumping. If you plan to apply multiple coats, do so before the mascara dries completely.",
         },
-        productId: 954858,
+        productId: 60687,
       },
       {
         productImage:
@@ -2171,7 +2171,7 @@ export const Beauty = {
           howtouse:
             "Start with clean, dry eyelashes. Curl your lashes if desired before applying mascara.Twist open the mascara tube, ensuring that the brush is clean and free of clumps.Hold the mascara wand horizontally and start at the base of your lashes. Wiggle the wand back and forth while moving upward to coat each lash. You can apply one or more coats, depending on the desired volume and length.Allow the mascara to dry between coats to avoid clumping. If you plan to apply multiple coats, do so before the mascara dries completely.",
         },
-        productId: "RVLML923VY",
+        productId: 60688,
       },
       {
         productImage:
@@ -2209,7 +2209,7 @@ export const Beauty = {
           howtouse:
             "Position wand horizontally and wiggle from side to side and base to tip to achieve maximum volume and length and lift. Hold wand vertically and stroke upward to curl and separate. Layer generously as desired.",
         },
-        productId: 973945,
+        productId: 60689,
       },
     ],
     FaceMakeUp:[
@@ -2250,7 +2250,7 @@ export const Beauty = {
           howtouse:
             "Dab over the face using the sponge applicator",
         },
-        productId: 949212,
+        productId: 60690,
       },
       {
         productImage:
@@ -2288,7 +2288,7 @@ export const Beauty = {
           howtouse:
             "After applying the foundation, take a small amount of the powder on a brush and pat it on the entire face. • Wait for a few seconds and dust off the excess with a brush.",
         },
-        productId: 974050,
+        productId: 60691,
       },//highlighter
       {
         productImage:
@@ -2326,7 +2326,7 @@ export const Beauty = {
           howtouse:
             "Apply to the areas you wish to bring dimension and light to, such as cheekbones, cupids bow, inner corners of the eyes, brow bone, even your body for an all-over glowing look!",
         },
-        productId: 973924,
+        productId: 60692,
       },
       {
         productImage:
@@ -2364,7 +2364,7 @@ export const Beauty = {
           howtouse:
             "Apply to the areas you wish to bring dimension and light to, such as cheekbones, cupids bow, inner corners of the eyes, brow bone, even your body for an all-over glowing look!",
         },
-        productId: 973925,
+        productId: 60693,
       },
       {
         productImage:
@@ -2402,7 +2402,7 @@ export const Beauty = {
           howtouse:
             "Apply to the areas you wish to bring dimension and light to, such as cheekbones, cupids bow, inner corners of the eyes, brow bone, even your body for an all-over glowing look!",
         },
-        productId: 973928,
+        productId: 60694,
       },
       {
         productImage:
@@ -2440,7 +2440,7 @@ export const Beauty = {
           howtouse:
             "1.Squeeze a little moisturiser on your palm 2.Apply little dots around your face 3.Blend the moisturiser 4.Enjoy your 3D highlighted glow",
         },
-        productId: 1086152,
+        productId: 60695,
       },//concealer
       {
         productImage:
@@ -2478,7 +2478,7 @@ export const Beauty = {
           howtouse:
             "Apply to skin directly with finger or concealer brush. Blend with finger or concealer brush.",
         },
-        productId: 974097,
+        productId: 60696,
       },
       {
         productImage:
@@ -2516,7 +2516,7 @@ export const Beauty = {
           howtouse:
             "Apply it on the desired places with the help of a concealer brush or use your fingertips to blend on all areas of application. Give few minutes for the product toDry completely.",
         },
-        productId: 974091,
+        productId: 60697,
       },
       {
         productImage:
@@ -2554,7 +2554,7 @@ export const Beauty = {
           howtouse:
             "Apply to skin directly with finger or concealer brush. Blend with finger or concealer brush.",
         },
-        productId: 974100,
+        productId: 60698,
       },
       {
         productImage:
@@ -2592,7 +2592,7 @@ export const Beauty = {
           howtouse:
             "Apply it on the desired places with the help of a concealer brush or use your fingertips to blend on all areas of application. Give few minutes for the product toDry completely.",
         },
-        productId: 954766,
+        productId: 60699,
       },
       {
         productImage:
@@ -2630,7 +2630,7 @@ export const Beauty = {
           howtouse:
             "Apply it on the desired places with the help of a concealer brush or use your fingertips to blend on all areas of application. Give few minutes for the product toDry completely.",
         },
-        productId: 954767,
+        productId: 60700,
       },//compact
       {
         productImage:
@@ -2668,7 +2668,7 @@ export const Beauty = {
           howtouse:
             "Begin by applying your foundation and concealer as part of your regular makeup routine.Select the Extraposh Compact Powder shade that matches your skin tone or is translucent for a universal finish.Dip a powder brush or use the included puff into the compact powder. Tap off any excess to avoid overapplication.Gently apply the powder over your foundation, starting from the center of your face and working outward. Focus on areas that tend to get oily.Blend the powder into your skin using a sweeping or patting motion. For more coverage, you can build up layers, but avoid over-powdering to prevent a heavy look.Use a light hand when applying the powder, especially if you have dry or mature skin, to prevent emphasizing fine lines.",
         },
-        productId: "RV3DUT24BD",
+        productId: 60701,
       },
       {
         productImage:
@@ -2706,7 +2706,7 @@ export const Beauty = {
           howtouse:
             "For a smooth powder finish using the dry sponge , gently dab the compact over the face and neck area till complexion looks fair and even toned.",
         },
-        productId: 1080115,
+        productId: 60702,
       },
       {
         productImage:
@@ -2744,7 +2744,7 @@ export const Beauty = {
           howtouse:
             "Begin by applying your foundation and concealer as part of your regular makeup routine.Select the Faces Canada Compact Powder shade that matches your skin tone or is translucent for a universal finish.Dip a powder brush or use the included puff into the compact powder. Tap off any excess to avoid overapplication.Gently apply the powder over your foundation, starting from the center of your face and working outward. Focus on areas that tend to get oily.Blend the powder into your skin using a sweeping or patting motion. For more coverage, you can build up layers, but avoid over-powdering to prevent a heavy look.Use a light hand when applying the powder, especially if you have dry or mature skin, to prevent emphasizing fine lines.",
         },
-        productId: 1057366,
+        productId: 60703,
       },
       {
         productImage:
@@ -2782,7 +2782,7 @@ export const Beauty = {
           howtouse:
             "Begin by applying your foundation and concealer as part of your regular makeup routine.Select the DA.VE Soft Light Compact Powder shade that matches your skin tone or is translucent for a universal finish.Dip a powder brush or use the included puff into the compact powder. Tap off any excess to avoid overapplication.Gently apply the powder over your foundation, starting from the center of your face and working outward. Focus on areas that tend to get oily.Blend the powder into your skin using a sweeping or patting motion. For more coverage, you can build up layers, but avoid over-powdering to prevent a heavy look.Use a light hand when applying the powder to prevent a heavy appearance, especially if you have dry or mature skin.",
         },
-        productId: "RVIG6B4VZ1",
+        productId: 60704,
       },//foundation
       {
         productImage:
@@ -2820,7 +2820,7 @@ export const Beauty = {
           howtouse:
             "Step 1: Apply Lakme 9to5 Weightless Foundation to clean, moisturized skin. Step 2 : Just take a small amount of product with the index finger and start applying it to the skin with your fingertips. Usually, you can just apply the mousse in four places: the forehead, nose, chin and cheekbones. Step 3: Blend into your skin starting from the centre of the skin outwards, taking care to cover your face including your neck.",
         },
-        productId: 949321,
+        productId: 60705,
       },
       {
         productImage:
@@ -2858,7 +2858,7 @@ export const Beauty = {
           howtouse:
             "Start with clean and moisturized skin. Use a suitable primer if desired.Choose a Lakmé Foundation shade that matches your skin tone. You can test the shade on your jawline to find the closest match.Use the foundation applicator or your fingertips to apply small dots or lines of foundation on your forehead, cheeks, nose, and chin.Use a makeup sponge, brush, or your fingertips to blend the foundation into your skin. Blend in a downward motion for a smoother finish.Use a light hand when applying foundation to avoid a heavy or cakey appearance. Focus on areas where you need coverage.Ensure to blend the foundation into your jawline and slightly down your neck to avoid a noticeable line.",
         },
-        productId: 949175,
+        productId: 60706,
       },
       {
         productImage:
@@ -2896,7 +2896,7 @@ export const Beauty = {
           howtouse:
             "Start with a clean and moisturized face. If using a primer, apply it to create a smooth base for the foundation.Select a Maybelline Foundation shade that closely matches your skin tone. You can test the shade on your jawline for the best match.Use the foundation applicator or your fingertips to apply small dots or lines of foundation on your forehead, cheeks, nose, and chin.Use a makeup sponge, brush, or your fingertips to blend the foundation into your skin. Blend in upward and outward motions for a natural look.Use a light hand when applying foundation to prevent a heavy or cakey appearance. Focus on areas where you need coverage.Ensure to blend the foundation into your jawline and slightly down your neck to avoid a noticeable line of demarcation.",
         },
-        productId: 940499,
+        productId: 60707,
       },
       {
         productImage:
@@ -2934,7 +2934,7 @@ export const Beauty = {
           howtouse:
             "Begin with clean, moisturized skin. Apply a suitable primer if desired for a smooth base.Select a Faces Canada Foundation shade that closely matches your skin tone. You can test the shade on your jawline for an accurate match.Use the foundation applicator or your fingertips to apply small dots or lines of foundation on your forehead, cheeks, nose, and chin.Use a makeup sponge, brush, or your fingertips to blend the foundation into your skin. Blend in upward and outward motions for a natural and even finish.Apply the foundation lightly to prevent a heavy or cakey appearance. Focus on areas that require coverage.Ensure the foundation is blended seamlessly into your jawline and slightly down your neck to avoid noticeable lines.",
         },
-        productId: 1047759,
+        productId: 60708,
       },
       {
         productImage:
@@ -2972,7 +2972,7 @@ export const Beauty = {
           howtouse:
             "Start with a clean and moisturized face. Apply a suitable primer if desired for a smooth and even base.Select an Insight Foundation shade that closely matches your skin tone. You can test the shade on your jawline for an accurate match.Use the foundation applicator or your fingertips to apply small dots or lines of foundation on your forehead, cheeks, nose, and chin.Use a makeup sponge, brush, or your fingertips to blend the foundation into your skin. Blend in upward and outward motions for a natural and even finish.Apply the foundation lightly to prevent a heavy or cakey appearance. Focus on areas that require coverage.Ensure the foundation is blended seamlessly into your jawline and slightly down your neck to avoid noticeable lines.",
         },
-        productId: 974057,
+        productId: 60709,
       },
     ],
     MakeupToolsBrushes:[
@@ -3013,7 +3013,7 @@ export const Beauty = {
           howtouse:
             "Lakmé Sharpener typically comes with multiple hole sizes to accommodate different pencil diameters. Choose the hole that best fits your Lakmé pencil.Insert the Lakmé pencil into the selected hole, ensuring a secure fit. Hold the sharpener steady to prevent any wobbling during the sharpening process.Rotate the pencil in a gentle, clockwise motion. The sharpener's blades will trim the pencil, creating a clean and pointed tip.Periodically stop and check the pencil's tip to ensure the desired level of sharpness. Avoid over-sharpening to prevent product wastage.Once the desired sharpness is achieved, carefully remove the pencil from the sharpener. Wipe away any excess shavings.Dispose of pencil shavings in a trash bin. Do not allow shavings to accumulate in the sharpener.",
         },
-        productId: 949192,
+        productId: 60710,
       },//face pack brush
       {
         productImage:
@@ -3051,7 +3051,7 @@ export const Beauty = {
           howtouse:
             "Depending on the consistency and the number of coats, gently apply your facepack in upwards and downwards motion on your face.",
         },
-        productId: 1066237,
+        productId: 60711,
       },
       {
         productImage:
@@ -3089,7 +3089,7 @@ export const Beauty = {
           howtouse:
             "Begin with a clean face. Remove any makeup or impurities using a gentle cleanser.Prepare your chosen face pack or mask according to the product instructions. Ensure it is in a suitable consistency for application.Dip the BABILA FACE PACK BRUSH into the face pack, ensuring the bristles are evenly coatedUsing gentle strokes, apply the face pack evenly to your face, avoiding the eye and lip areas.Be mindful of your hairline and eyebrows while applying the face pack to prevent the product from getting into your hair.Extend the application to your neck and jawline for comprehensive skincare.The brush's soft bristles allow for a smooth and comfortable application, enhancing the overall experience.After use, clean the BABILA FACE PACK BRUSH thoroughly with warm water and mild soap. Allow it to air dry before storing.",
         },
-        productId: 1046479,
+        productId: 60712,
       },//fanbrush
       {
         productImage:
@@ -3127,7 +3127,7 @@ export const Beauty = {
           howtouse:
             "Dip the fan brush into your favorite highlighter, ensuring the bristles are coated evenly.Lightly sweep the brush over the high points of your face, such as the tops of your cheekbones, bridge of the nose, and cupid's bow.For contouring, use the edge of the fan brush to pick up a small amount of contour powder.Apply the contour along the hollows of your cheeks, jawline, and the sides of your nose for a sculpted look.Use the fan brush to blend and soften harsh lines, ensuring a seamless and natural-looking finish.The fan shape is also effective for gently sweeping away excess powder or fallout without disturbing the rest of your makeup.Clean the brush regularly with a mild brush cleanser or gentle soap to maintain its performance.",
         },
-        productId: 1066229,
+        productId: 60713,
       },//eyeshadow brush
       {
         productImage:
@@ -3165,7 +3165,7 @@ export const Beauty = {
           howtouse:
             "Choose the eye shadow colors you wish to apply. Ensure the eye shadow palette is clean and free of excess powder.Gently dip the Bronson Professional Eye Shadow Brush into the desired eye shadow color. Tap off any excess to avoid fallout.Use the brush to apply the eye shadow to your eyelids with gentle sweeping or patting motions. Start from the inner corner and blend outward.If using multiple eye shadow shades, use the brush to blend the colors together for a smooth transition.Clean the brush regularly to remove any accumulated product. This ensures optimal performance and prevents color transfer between applications.",
         },
-        productId: 1066225,
+        productId: 60714,
       },
       {
         productImage:
@@ -3203,7 +3203,7 @@ export const Beauty = {
           howtouse:
             "Dip the Faces Canada Eye Shadow Brush into your chosen eyeshadow. Tap off any excess to avoid fallout.Use the brush to apply the base eyeshadow shade to the entire eyelid. Sweep the color gently back and forth for an even application.For added dimension, use the tip of the brush to apply a darker eyeshadow shade to the crease. Blend in windshield wiper motions for a seamless transition.Apply a lighter eyeshadow shade to the brow bone using the tip of the brush. This enhances the eyes and adds brightness.For a finishing touch, use the tip to add a pop of color or shimmer to the inner corner of the eyes.Blend eyeshadows seamlessly using circular motions to avoid harsh lines and achieve a professional-looking finish.",
         },
-        productId: 939569,
+        productId: 60715,
       },
       {
         productImage:
@@ -3241,7 +3241,7 @@ export const Beauty = {
           howtouse:
             "Dip the brush head in the product and apply.",
         },
-        productId: 1070325,
+        productId: 60716,
       },
       {
         productImage:
@@ -3279,7 +3279,7 @@ export const Beauty = {
           howtouse:
             "Begin with a clean and primed eyelid. Ensure your eyeshadow base or primer is applied for long-lasting results.Choose the eyeshadow shades you want to apply. You can use one or more colors for your desired eye makeup look.Gently swirl or tap the Vega Eye Shadow Brush into the eyeshadow pan to pick up the desired amount of product. Tap off any excess to avoid fallout.Using the brush, apply the eyeshadow to your eyelid with gentle sweeping or patting motions. Start from the inner corner and work your way outward.To achieve a seamless look, use the brush to blend the eyeshadow, especially in the crease area. The soft bristles ensure smooth blending for a professional finish.Clean the brush regularly to maintain hygiene. Use a mild brush cleaner or gentle soap, and let it dry thoroughly.",
         },
-        productId: 1011603,
+        productId: 60717,
       },
       {
         productImage:
@@ -3317,7 +3317,7 @@ export const Beauty = {
           howtouse:
             "Choose the eye shadow shades you want to apply. The Midazzle Professional Eye Shadow Brush works well with powder and pressed eye shadows.Gently swirl the brush over the eye shadow, ensuring the bristles pick up an even amount of product.Tap the brush against the edge of the eye shadow palette to remove any excess product. This step prevents fallout and ensures a controlled application.Using light pressure, apply the eye shadow to your eyelid. Start from the inner corner and blend towards the outer corner.For more intricate looks, use the brush to blend crease and transition colors. The soft bristles allow for seamless blending without harsh lines.Clean the Midazzle Professional Eye Shadow Brush regularly to maintain its performance. Use a brush cleaner or mild soap and water, and allow it to dry thoroughly.",
         },
-        productId: "RVF4MFMCQM",
+        productId: 60718,
       },//eyelash curlers
       {
         productImage:
@@ -3355,7 +3355,7 @@ export const Beauty = {
           howtouse:
             "Start with clean, dry lashes. If desired, apply mascara before using the lash curler brush for enhanced curling.Open the Babila Eye Lash Curler Brush and position it close to the base of your upper lashes.Gently place your lashes between the curler's clamps, ensuring they are well-positioned for even curling.Hold the curler steady and gently squeeze the handles together for about 5-10 seconds. Be careful not to tug or pull on your lashes.Release the curler's clamps slowly and carefully to reveal beautifully curled lashes.If you want a more pronounced curl, you can repeat the process, focusing on different sections of your lashes.Clean the curler regularly to remove any mascara residue and ensure smooth operation.",
         },
-        productId: 1046575,
+        productId: 60719,
       },
       {
         productImage:
@@ -3393,7 +3393,7 @@ export const Beauty = {
           howtouse:
             "Ensure your lashes are clean and free from mascara or any other eye makeup.Open the Majestique Eyelash Curler and position it near the base of your upper lashes.Gently place your lashes between the curler's clamps, making sure your lashes are evenly spread across the curve of the curler.Close the curler gently, ensuring not to pinch your eyelids. Hold for a few seconds, then release.For a more pronounced curl, repeat the process, moving the curler slightly towards the tips of your lashes.For optimal results, use the Majestique Eyelash Curler before applying mascara. This enhances the curl and prevents lash breakage.Wipe the curler clean after use to maintain hygiene and prevent any makeup buildup.",
         },
-        productId: 1071618,
+        productId: 60720,
       },//eyeliner brush
       {
         productImage:
@@ -3431,7 +3431,7 @@ export const Beauty = {
           howtouse:
             "Start with a clean and primed eye area. Ensure your eyelids are free of excess oil and properly moisturized.Choose your preferred eyeliner product, whether it's gel, cream, or powder. Ensure it is of the desired consistency for easy application.Dip the Vega Eye Liner Brush into your chosen eyeliner product. Ensure that the brush is evenly coated but not overloaded.Starting from the inner corner of your eye, use short, controlled strokes to create your desired eyeliner look. The fine tip of the brush allows for precision, whether you prefer a thin line or a bold wing.If you wish to build thickness or extend the line, continue applying and building with the brush. The Vega Eye Liner Brush allows for flexibility in creating various eye makeup styles.",
         },
-        productId: 1011759,
+        productId: 60721,
       },
       {
         productImage:
@@ -3469,7 +3469,7 @@ export const Beauty = {
           howtouse:
             "Start with a clean and dry eyelid. Apply eyeshadow if desired before eyeliner application.Dip the Boujee Eye Liner Brush into your preferred eyeliner product. Ensure the brush is coated evenly.Begin applying eyeliner at the inner corner of your eye. Place the brush as close to the lash line as possible.Use short, controlled strokes to create your desired eyeliner line. You can gradually build thickness and length as needed.Clean up any mistakes or uneven lines using a cotton swab dipped in makeup remover or concealer.Regularly clean the Boujee Eye Liner Brush using a mild brush cleaner or gentle soap to maintain its performance.",
         },
-        productId: "RVD8BPE7AG",
+        productId: 60722,
       },//tweezer
       {
         productImage:
@@ -3507,7 +3507,7 @@ export const Beauty = {
           howtouse:
             "Start with a clean face and ensure the area to be tweezed is free of makeup and oils.Select a well-lit environment to ensure optimal visibility while tweezing.Hold the tweezer near the middle or closer to the pointed tips for better control.Position the tweezer at the base of the hair you want to remove. Grasp the hair firmly with the tips.Pull the hair out in the direction of its growth to minimize discomfort and reduce the risk of breakage.Pluck one hair at a time using short, controlled movements to avoid over-tweezing.For eyebrow shaping, follow the natural arch and only remove stray hairs to achieve a well-defined look.Regularly clean the tweezer tips with rubbing alcohol to maintain hygiene and ensure optimal performance.",
         },
-        productId: 996887,
+        productId: 60723,
       },//sponge
       {
         productImage:
@@ -3545,7 +3545,7 @@ export const Beauty = {
           howtouse:
             "Start with a clean face and ensure the area to be tweezed is free of makeup and oils.Select a well-lit environment to ensure optimal visibility while tweezing.Hold the tweezer near the middle or closer to the pointed tips for better control.Position the tweezer at the base of the hair you want to remove. Grasp the hair firmly with the tips.Pull the hair out in the direction of its growth to minimize discomfort and reduce the risk of breakage.Pluck one hair at a time using short, controlled movements to avoid over-tweezing.For eyebrow shaping, follow the natural arch and only remove stray hairs to achieve a well-defined look.Regularly clean the tweezer tips with rubbing alcohol to maintain hygiene and ensure optimal performance.",
         },
-        productId: 1071642,
+        productId: 60724,
       },//puff
       {
         productImage:
@@ -3583,7 +3583,7 @@ export const Beauty = {
           howtouse:
             "Gently dip or press the Majestique Powder Puff Round into loose or pressed powder, ensuring an even distribution of product.Tap the powder puff against the back of your hand or on the edge of the powder container to remove any excess powder.Use the powder puff to gently press or roll the powder onto your face. Start from the center and work outward for an even application.Concentrate on areas where makeup has been applied, such as foundation and concealer, to set and mattify the makeup.Use gentle, patting motions to blend the powder into the skin seamlessly. The round shape allows for easy maneuvering around facial contours.Clean the powder puff regularly to prevent product buildup. Wash with a mild cleanser or soap, and allow it to air dry completely.The round shape makes this powder puff versatile for various makeup applications, including setting foundation, applying blush, or blending contour.",
         },
-        productId: 1071606,
+        productId: 60725,
       },
       {
         productImage:
@@ -3621,7 +3621,7 @@ export const Beauty = {
           howtouse:
             "Dampen your makeup sponge, then squeeze all the excess water from it. Dip in the product and apply in a strobing motion.",
         },
-        productId: 1070320,
+        productId: 60726,
       },//lip liner
       {
         productImage:
@@ -3659,7 +3659,7 @@ export const Beauty = {
           howtouse:
             "Begin with clean and moisturized lips. You can apply a lip balm beforehand to ensure smooth application.Choose the Babila Lip Liner shade that closely matches your lipstick or natural lip color.Use the lip liner to carefully outline the natural shape of your lips. You can start by tracing the cupid's bow and then move to the corners and the center of the lower lip.If desired, you can fill in the entire lip with the lip liner to create a base for your lipstick or to wear it alone for a matte look.Blend the lip liner gently with a lip brush or your fingertip to soften the edges and create a seamless transition between the liner and your lipstick.",
         },
-        productId: 1046471,
+        productId: 60727,
       },//black head remover
       {
         productImage:
@@ -3697,7 +3697,7 @@ export const Beauty = {
           howtouse:
             "Clean your skin before extractions and afterwards to avoid infections. Using the tool after a shower is ideal or alternatively apply a warm face cloth over your face for about one minute so the steam can open up your pores. Simply place the loop end over the top of the blackhead and gently press. It should just pop out easily.",
         },
-        productId: 1070071,
+        productId: 60728,
       },//foundation brush
       {
         productImage:
@@ -3735,8 +3735,1527 @@ export const Beauty = {
           howtouse:
             "1.Start by dotting the foundation all over your face and neck. 2. Using the foundation brush, buff in light, circular motions and build coverage as you go. 3. Blend in product for seamless coverage.",
         },
-        productId: 996836,
+        productId: 60729,
       }
+    ],
+    hairCare: [
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/940283/l-oreal-paris-dream-lengths-shampoo-192-5-ml-prod-940283-0-202302250607.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/940283/l-oreal-paris-dream-lengths-shampoo-192-5-ml-prod-940283-1-202302250607.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/940283/l-oreal-paris-dream-lengths-shampoo-192-5-ml-prod-940283-2-202302250607.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/940283/l-oreal-paris-dream-lengths-shampoo-192-5-ml-prod-940283-3-202302250607.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/940283/l-oreal-paris-dream-lengths-shampoo-192-5-ml-prod-940283-4-202302250607.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/940283/l-oreal-paris-dream-lengths-shampoo-192-5-ml-prod-940283-5-202302250607.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/940283/l-oreal-paris-dream-lengths-shampoo-192-5-ml-prod-940283-6-202112010627.jpg?im=Resize=(600,600)",
+        ],
+        brand: "L’Oreal Paris",
+        shortDesc:
+          "L'Oreal Paris Dream Lengths Restoring with Vegetal Keratin and Castor Oil Shampoo 180ml",
+        rating: 7,
+        mrp: 175.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+  
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description:
+          "Dreaming of long hair but tired of long hair problems like hair breakage, damaged hair, and split ends? Save the last 3 cms of your hair and instantly transform your long hair with the new L’Oréal Paris Dream Lengths Restoring Shampoo – a shampoo for hair growth! Infused with Vegetal Keratin and Castor Oil, the creamy Dream Lengths Restoring Shampoo intensely repairs the lengths of your hair so you can achieve your long hair goals without the long hair problems – a great shampoo for split ends! With vitamin B3 and B5, this hair repair shampoo visibly repairs damaged hair without weighing your hair down, and leaves your hair feeling 2X stronger. For best results and reduced hair breakage, use the L’Oréal Paris shampoo with the new L’Oréal Paris Dream Lengths Detangling Conditioner and L’Oréal Paris Dream Lengths No Haircut Cream (Leave In Cream). How To use? Massage the shampoo gently into wet scalp and hair, working from roots to tips and lather. Rinse thoroughly until no residue is left behind.",
+        CountryOfOrigin: "India",
+        ManufacturedBy: "Pritam International Pvt Ltd",
+        ManufacturerAddress:"K. No. 138, Raipur Industrial Area, Roorkee, Uttarakhand - 247667",
+        productId:60730 ,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/940243/l-oreal-paris-total-repair-5-shampoo-650-ml-prod-940243-0-202304271731.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/940243/l-oreal-paris-total-repair-5-shampoo-650-ml-prod-940243-1-202304271731.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/940243/l-oreal-paris-total-repair-5-shampoo-650-ml-prod-940243-2-202304271731.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/940243/l-oreal-paris-total-repair-5-shampoo-650-ml-prod-940243-3-202304271731.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/940243/l-oreal-paris-total-repair-5-shampoo-650-ml-prod-940243-4-202304271731.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/940243/l-oreal-paris-total-repair-5-shampoo-650-ml-prod-940243-5-202304271731.jpg?im=Resize=(600,600)",
+        ],
+        brand: "L'Oreal Paris",
+        shortDesc:
+          "L'Oreal Paris Total Repair 5 Repairing Shampoo 4% Concentrate with Keratin XS Damage Hair 650ml",
+        rating: 6,
+        mrp: 649.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+  
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+  
+          "Get upto Rs.100 cashback on CRED pay.Min. Order Value of Rs 199",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description:
+          " 5 Problems.1 Solution. L'Oreal Paris Total Repair 5 Repairing Shampoo helps fight against the five visible signs of damaged hair - Hair fall, dryness, roughness, dullness and split ends without weighing it down. Damaged hair can lack the natural cement which keeps the hair strong and resilient. To ensure cohesion and strength, the L’Oreal Laboratories have created Ceramide-Cement technology to replicate the hair’s natural cement, targetting the 5 problems. Explore our best hair products to revive and repair damaged hair. Highlights: 1. Helps fight against the five visible signs of damaged hair - hair fall, dryness, roughness, dullness, and split ends 2. Shampoo for damaged hair 3. With Protein + Ceramide 4. Fights the 5 signs of damage",
+  
+        CountryOfOrigin: "India",
+        ManufacturedBy: "Pritam International Pvt Ltd",
+        ManufacturerAddress:
+          "K. No. 138, Raipur Industrial Area, Roorkee, Uttarakhand - 247667",
+        productID: 60732,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/947245/revlon-flex-regular-conditioner-592-ml-prod-947245-0-202111121627.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/947245/revlon-flex-regular-conditioner-592-ml-prod-947245-1-202111121627.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/947245/revlon-flex-regular-conditioner-592-ml-prod-947245-2-202111121627.jpg?im=Resize=(600,600)",
+        ],
+        brand: " Revlon",
+        shortDesc: "Revlon Flex Regular Conditioner 592 Ml ",
+        rating: 12,
+        mrp: 265.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        countryOfOrigin: "India ",
+        manufactured: "Modi Mundipharma Products Pvt Ltd ",
+        productId: 60733,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/940234/l-oreal-paris-color-protect-shampoo-192-5-ml-prod-940234-0-202302250900.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/940234/l-oreal-paris-color-protect-shampoo-192-5-ml-prod-940234-1-202302250900.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/940234/l-oreal-paris-color-protect-shampoo-192-5-ml-prod-940234-2-202302250900.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/940234/l-oreal-paris-color-protect-shampoo-192-5-ml-prod-940234-3-202302250900.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/940234/l-oreal-paris-color-protect-shampoo-192-5-ml-prod-940234-4-202302250900.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/940234/l-oreal-paris-color-protect-shampoo-192-5-ml-prod-940234-5-202302250900.jpg?im=Resize=(600,600)",
+        ],
+        brand: "L’Oreal Paris",
+        shortDesc:
+          "L'Oreal Paris Color Protect Shampoo with Linseed Oil+UVA/UVB Hair 180ml",
+        rating: 5,
+        mrp: 159.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description:
+          "Colour Protect shampoo by L'Oreal Paris nourishes the hair and transforms its surface, keeping the hair protected and prolonging the color radiance. The Colour Protect formula with UV filter- Light Reflecting System combines an active nourishing ingredient and filters for color treated hair. Dry hair, meet your match. L’Oréal Paris offers hair conditioners for every concern and hair type. Whether you’re looking to moisturize dry hair, want a conditioner for colored hair, or want to help repair damaged hair with a deep conditioner, we have the hair conditioner—and complementary shampoo—that best fits your needs! Highlights: 1. Prolongs Color & Protects Hair 2. Nourishes the hair and transforms its surface 3. Hair feels silky to touch 4. Helps protect the hair fibre from external aggressions and accentuates the color’s radiance",
+        countryOfOrigin: "India",
+        manufactured: "Pritam International Pvt Ltd",
+        manufacturerAddress:
+          "K. No. 138, Raipur Industrial Area, Roorkee, Uttarakhand - 247667",
+        productId: 60734,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1018766/indulekha-bringha-oil-reduces-hair-fall-and-grows-new-hair-100-ayurvedic-oil-100-ml-prod-1018766-0-202302101707.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1018766/indulekha-bringha-oil-reduces-hair-fall-and-grows-new-hair-100-ayurvedic-oil-100-ml-prod-1018766-1-202302101707.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1018766/indulekha-bringha-oil-reduces-hair-fall-and-grows-new-hair-100-ayurvedic-oil-100-ml-prod-1018766-2-202302101707.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1018766/indulekha-bringha-oil-reduces-hair-fall-and-grows-new-hair-100-ayurvedic-oil-100-ml-prod-1018766-3-202302101707.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Indulekha",
+        shortDesc:
+          "Indulekha Bringha Oil, Reduces Hair Fall and Grows New Hair, 100% Ayurvedic Oil 100 ml",
+        rating: 4,
+        mrp: 432.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description: `Indulekha Bringha Oil is a Proprietary Ayurvedic Medicine for Hair Fall, Grows New Hair. It is 100% Ayurvedic Oil which is clinically proven to reduce hair fall and grows new hair in 4 months. It is proven on real male and female consumers having mild to severe hair fall. It is enriched with Bringharaj, a herb know in Ayurveda as "Keshraj" also known as King of Hair. Extracts from Bringharaj plants are known for their medicinal properties that not only reduce hair fall but also revive & regenerate new hair growth. The extracts of the herbs are cooked in virgin coconut oil and made to mature under natural sunlight for 7 days. The power of Sun and potency of these herbs goes into making every bottle of Indulekha Oil. It's unique and easy to apply straight to scalp "selfie comb" allows oil to penetrate deep inside the scalp directly, without getting your hands oily. It has 100% natural fragrance, colour and is recommended by ayurvedic experts for people suffering from hair fall. For best results use 3 times a week for 4 months, post applying the oil leave it for 3-4 hours and then rinse it off using Indulekha Bringha shampoo.`,
+        countryOfOrigin: "India",
+        manufactured: "Mosons Extractions Pvt. Ltd.",
+        productId: 60735,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1018309/dove-dryness-care-shampoo-for-dry-hair-scalp-340-ml-prod-1018309-0-202208101837.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1018309/dove-dryness-care-shampoo-for-dry-hair-scalp-340-ml-prod-1018309-1-202208101837.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1018309/dove-dryness-care-shampoo-for-dry-hair-scalp-340-ml-prod-1018309-2-202208101837.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1018309/dove-dryness-care-shampoo-for-dry-hair-scalp-340-ml-prod-1018309-3-202208101837.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1018309/dove-dryness-care-shampoo-for-dry-hair-scalp-340-ml-prod-1018309-5-202208101837.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Dove",
+        shortDesc: "Dove Dryness Care Shampoo (For Dry Hair & Scalp) 340 ml",
+        rating: 3,
+        mrp: 345.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description:
+          "Dove Dryness Care Shampoo, 340 ml Harsh, humid weather taking a toll on your beautiful hair causing damage? Guard your hair against harsh weather with the Dove Dryness Care Shampoo. Crafted from a perfect blend of ingredients, the shampoo helps to restore the natural balance hair making it soft and smooth. To help prevent daily damage, Dove Nutritive Solutions Dryness Care Shampoo gently nourishes normal and dry locks for healthy looking hair. The shampoo cleans your dry locks gently and gives it a shiny and glossy look. The specially designed formula of this shampoo is perfect for days when your dry scalp needs help. Dove Dryness Care Shampoo is just what you need for smooth and bouncy hair! This moisturizing and nourishing shampoo helps to protect hair from damage, for silky, soft . Uniquely formulated with Pro-Moisture Complex, this Dove shampoo nourishes hair from within. Dove Dryness Care Shampoo continues to nourish hair after each application, for strong hair* that’s manageable. Smooth, soft and more resilient to daily damage from grooming and brushing, beautiful hair is just one wash away with this nourishing shampoo. *Strength against hair breakage, based on lab test with Dove Dryness care system vs. non-conditioning shampoo",
+        countryOfOrigin: "India",
+        manufactured: "Yodeva Plastics Private Limited",
+        productId: 60736,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1089797/love-beauty-planet-tea-tree-pe-peppermint-vetiver-sulfate-free-purifying-shampoo-200-ml-prod-1089797-0-202306020758.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1089797/love-beauty-planet-tea-tree-pe-peppermint-vetiver-sulfate-free-purifying-shampoo-200-ml-prod-1089797-1-202306020758.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1089797/love-beauty-planet-tea-tree-pe-peppermint-vetiver-sulfate-free-purifying-shampoo-200-ml-prod-1089797-2-202306020758.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1089797/love-beauty-planet-tea-tree-pe-peppermint-vetiver-sulfate-free-purifying-shampoo-200-ml-prod-1089797-3-202306020758.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1089797/love-beauty-planet-tea-tree-pe-peppermint-vetiver-sulfate-free-purifying-shampoo-200-ml-prod-1089797-4-202306020758.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1089797/love-beauty-planet-tea-tree-pe-peppermint-vetiver-sulfate-free-purifying-shampoo-200-ml-prod-1089797-8-202306020758.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Love Beauty & Planet",
+        shortDesc:
+          "Love Beauty & Planet Tea Tree, Pe Peppermint & Vetiver Sulfate Free Purifying Shampoo 200 ml",
+        rating: 1,
+        mrp: 350.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        countryOfOrigin: "India",
+        manufactured: "Hindustan Unilever Ltd",
+        manufacturerAddress:
+          "Unilever House, B. D. Sawant Marg, Chakala, Andheri (E), Mumbai - 400 099",
+        productId: 60737,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1069113/qraamen-keratin-conditioner-with-ginger-and-biotin-for-dry-and-damaged-hair-frizz-free-smooth-hair-enriched-with-avocado-oil-and-ginger-extract-200-ml-prod-1069113-0-202303030645.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1069113/qraamen-keratin-conditioner-with-ginger-and-biotin-for-dry-and-damaged-hair-frizz-free-smooth-hair-enriched-with-avocado-oil-and-ginger-extract-200-ml-prod-1069113-1-202303030645.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1069113/qraamen-keratin-conditioner-with-ginger-and-biotin-for-dry-and-damaged-hair-frizz-free-smooth-hair-enriched-with-avocado-oil-and-ginger-extract-200-ml-prod-1069113-2-202303030645.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1069113/qraamen-keratin-conditioner-with-ginger-and-biotin-for-dry-and-damaged-hair-frizz-free-smooth-hair-enriched-with-avocado-oil-and-ginger-extract-200-ml-prod-1069113-3-202303030645.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1069113/qraamen-keratin-conditioner-with-ginger-and-biotin-for-dry-and-damaged-hair-frizz-free-smooth-hair-enriched-with-avocado-oil-and-ginger-extract-200-ml-prod-1069113-4-202303030645.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Qraamen",
+        shortDesc:
+          "Qraamen Keratin Conditioner with Ginger and Biotin for Dry and Damaged Hair - Frizz Free Smooth Hair - Enriched with Avocado Oil and Ginger Extract 200 ml",
+        rating: 0,
+        mrp: 167.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description:
+          "Get envious hairs that talk of shine, smoothness and lustre with this ‘Qraa Men Keratin Conditioner with Ginger and Biotin’ that comes with an array of benefits in terms of hair care. This is exactly what you need to treat dry, dull and damaged hairs in an effective manner for this solution helps repair, rejuvenate and revitalize the tresses like never before. Most importantly, this conditioner is free from dangerous chemicals, harsh metals and any kind of synthetic additives that might lead to further damage. It has been especially formulated with rare and certified ingredients that talk of natural care. With beneficial components like Keratin, Biotin, Sweet Almond oil, Ginger, Argan oil etc. ‘Qraa Men Keratin Conditioner with Ginger and Biotin’ comes with deep conditioning benefits that helps do away with tangles, frizz which helps reduce breakage and split ends",
+        countryOfOrigin: "India",
+        manufactured: "R G Biocosmetic Pvt Ltd",
+        manufacturerAddress:
+          "C 65, Okhla Industrial Area, Phase 1, New Delhi 110020",
+        productId: 60738,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1089807/love-beauty-planet-onion-black-seed-patchouli-hairfall-control-sulfate-free-shampoo-200-ml-prod-1089807-0-202305311559.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1089807/love-beauty-planet-onion-black-seed-patchouli-hairfall-control-sulfate-free-shampoo-200-ml-prod-1089807-1-202305311559.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1089807/love-beauty-planet-onion-black-seed-patchouli-hairfall-control-sulfate-free-shampoo-200-ml-prod-1089807-2-202305311559.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1089807/love-beauty-planet-onion-black-seed-patchouli-hairfall-control-sulfate-free-shampoo-200-ml-prod-1089807-3-202305311559.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1089807/love-beauty-planet-onion-black-seed-patchouli-hairfall-control-sulfate-free-shampoo-200-ml-prod-1089807-8-202305311600.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Love Beauty & Planet",
+        shortDesc:
+          "Love Beauty & Planet Onion, Black seed & Patchouli Hairfall Control Sulfate Free Shampoo 200 ml",
+        rating: 4,
+        mrp: 350.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        countryOfOrigin: "India",
+        manufactured: "Hindustan Unilever Ltd",
+        manufacturerAddress:
+          "Unilever House, B. D. Sawant Marg, Chakala, Andheri (E), Mumbai - 400 099",
+        productId: 60739,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/947250/revlon-outrageous-color-protection-conditioner-190-ml-prod-947250-0-202111112135.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/947250/revlon-outrageous-color-protection-conditioner-190-ml-prod-947250-1-202111112135.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/947250/revlon-outrageous-color-protection-conditioner-190-ml-prod-947250-2-202111112135.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Revlon",
+        shortDesc: "Revlon Outrageous Color Protection Conditioner 190 Ml",
+        rating: 2,
+        mrp: 210.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        countryOfOrigin: "India",
+        manufactured: "Modi Mundipharma Products Pvt Ltd",
+        productId: 60740,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1002783/minimalist-hair-growth-actives-18-hair-serum-30-ml-prod-1002783-0-202306260510.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1002783/minimalist-hair-growth-actives-18-hair-serum-30-ml-prod-1002783-1-202306260510.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1002783/minimalist-hair-growth-actives-18-hair-serum-30-ml-prod-1002783-2-202306260510.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1002783/minimalist-hair-growth-actives-18-hair-serum-30-ml-prod-1002783-4-202306260510.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1002783/minimalist-hair-growth-actives-18-hair-serum-30-ml-prod-1002783-5-202306260510.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Minimalist",
+        shortDesc: "Minimalist Hair Growth Actives 18 % Hair Serum 30 ml",
+        rating: 7,
+        mrp: 799.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description:
+          "A powerful hair growth serum with blend of 5 proven ingredients (Capixyl, Redensyl, Procapil, Anagain, and Baicapil) in a high concentration of 18%. A potent combination of peptides & extracts for fuller, thicker hair. Capixyl 5% + Redensyl 3% + Procapil 3% + Anagain 3% + Baicapil 4%. Starts to show reduction in hairfall by 4th week and new hair growth by 8th week A completely safe, yet powerful serum for both men & women, that can be used everyday without any side-effects that are generally associated with other treatments (like Minoxidil) Infused with Saw Palmetto Extract and Sanguisorba Officinalis (SO) Root Extract to further boost the performance of the serum All ingredients are sourced from leading suppliers - Capixyl (Lucas Meyer, Canada), Redensyl (Givaudan, Switzerland), Procapil (Sederma, UK), AnaGain (Mibelle AG, Switzerland), Baicapil (Provital, Spain)",
+        countryOfOrigin: "India",
+        manufactured: "Uprising Science Pvt Ltd",
+        manufacturerAddress:
+          " 21, Aarna 2 Tower, Near Kartarpura Industrial Area, Kartarpura-302006.",
+        productId: 60741,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1049460/plum-onion-and-biotin-sulphate-free-paraben-free-shampoo-for-hairfall-control-250-ml-prod-1049460-0-202304131539.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1049460/plum-onion-and-biotin-sulphate-free-paraben-free-shampoo-for-hairfall-control-250-ml-prod-1049460-1-202304131539.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1049460/plum-onion-and-biotin-sulphate-free-paraben-free-shampoo-for-hairfall-control-250-ml-prod-1049460-2-202304131539.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1049460/plum-onion-and-biotin-sulphate-free-paraben-free-shampoo-for-hairfall-control-250-ml-prod-1049460-3-202304131539.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1049460/plum-onion-and-biotin-sulphate-free-paraben-free-shampoo-for-hairfall-control-250-ml-prod-1049460-5-202304131539.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1049460/plum-onion-and-biotin-sulphate-free-paraben-free-shampoo-for-hairfall-control-250-ml-prod-1049460-7-202304131539.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Plum",
+        shortDesc:
+          "Plum Onion and Biotin Sulphate-free & Paraben-free Shampoo for Hairfall Control 250 ml",
+        rating: 7,
+        mrp: 314.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        countryOfOrigin: "India",
+        manufactured: "Intigree Biomed Pvt. Ltd.",
+        productId: 60742,
+      },
+    ],
+    hairColor: [
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/940228/l-oreal-paris-excellence-creme-hair-color-4-natural-brown-100gm-72ml-prod-940228-0-202311220831.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/940228/l-oreal-paris-excellence-creme-hair-color-4-natural-brown-100gm-72ml-prod-940228-1-202311220831.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/940228/l-oreal-paris-excellence-creme-hair-color-4-natural-brown-100gm-72ml-prod-940228-2-202311220831.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/940228/l-oreal-paris-excellence-creme-hair-color-4-natural-brown-100gm-72ml-prod-940228-3-202311220831.jpg?im=Resize=(600,600)",
+        ],
+        brand: " L'Oreal Paris",
+        shortDesc:
+          "L'Oreal Paris Excellence Creme Hair Color, 4 Natural Brown 100gm+72ml ",
+        rating: 5,
+        mrp: 650.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description:
+          "L'Oreal Paris Excellence Creme Hair Color is a triple care colour with triple care formula. 100 percent grey coverage from root to tips. Stronger hair, 85 percent more resistant to brushing. For a beautifully blended colour that complements your look, without a grey in sight. Rich, even, long lasting hair colour with a soft and silky touch. Excellence Creme hair colour triple protection means three ways to care for your hair: ceramide protects, pro-keratin strengthens & collagen replenishes. In this pack you will find: the protective serum, colouring creme and developer and conditioner. . 100% resistant grey coverage. Clean and easy preparation and application. Rich, radiant, gorgeous color all with Excellence® exclusive non-drip crème. Nourishing hair color. ",
+        countryOfOrigin: "India",
+        manufactured: "Loreal India Pvt Ltd",
+        manufacturerAddress:
+          " A-Wing, 8th Floor, Marathon Futurex, N.M. Joshi Marg, Lower Parel, Mumbai - 400013",
+        productId: 60743,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/947268/revlon-top-speed-hair-color-man-natural-black-70m-40-gm-prod-947268-0-202111121255.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/947268/revlon-top-speed-hair-color-man-natural-black-70m-40-gm-prod-947268-1-202302101935.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/947268/revlon-top-speed-hair-color-man-natural-black-70m-40-gm-prod-947268-2-202302101936.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/947268/revlon-top-speed-hair-color-man-natural-black-70m-40-gm-prod-947268-5-202302101936.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Revlon ",
+        shortDesc: "Revlon Top Speed Hair Color Man-Natural Black 70M 40 Gm ",
+        rating: 1,
+        mrp: 699.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        countryOfOrigin: "India",
+        manufactured: "Modi Mundipharma Products Pvt Ltd",
+        productId: 60744,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/903078/garnier-color-naturals-creme-riche-3-darkest-brown-70-ml-60-gm-prod-903078-0-202302211354.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/903078/garnier-color-naturals-creme-riche-3-darkest-brown-70-ml-60-gm-prod-903078-1-202302211354.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/903078/garnier-color-naturals-creme-riche-3-darkest-brown-70-ml-60-gm-prod-903078-2-202302211354.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/903078/garnier-color-naturals-creme-riche-3-darkest-brown-70-ml-60-gm-prod-903078-3-202302211354.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/903078/garnier-color-naturals-creme-riche-3-darkest-brown-70-ml-60-gm-prod-903078-5-202302211354.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Garnier",
+        shortDesc:
+          "Garnier Color Naturals Creme Riche - 3 Darkest Brown (70 ml + 60 gm) ",
+        rating: 0,
+        mrp: 209.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description:
+          "Garnier Color Naturals is crème hair colour which gives 100% Grey Coverage and beautiful rich color. It is an ammonia free hair color and has a superior Colour Lock technology which gives you rich long lasting color that lasts upto 8 weeks. Color Naturals comes in a range of 8 gorgeous shades especially suited for Indian skin tones. It is available in an easy to use kit which can be used at your convenience in the comfort of your house! It is enriched with the goodness of 3 oils – Almond, Olive and Avocado which nourishes hair and provides shiny, long lasting colour. Your Hair will love the nourishment and you will love the colour! To use, mix equal parts of the colorant and the developer in a plastic or a glass bowl and apply the mixture to your hair with a brush on dry, unwashed hair. Leave on for 30 minutes and rinse with water. Apply post colour-care conditioner (provided in kit) to the hair and rinse to reveal shiny, rich hair color. Post Colour Care: We recommend using a colour protect shampoo and conditioner for long lasting colour. Note: Always do a skin allergy test 24 hours before use. Rich Crème, Non Drip, Easy to Use Formula. No Ammonia formula. 100% Grey Coverage. Long Lasting Colour with 8 week Color Lock technology. Enriched with 3 oils – Olive, Almond and Avocado, to give nourishment along with silky, shiny hair. Multi-Application Coloring Kit for beautiful hair colour in just 30 minutes! Range of 8 rich vibrant shades available to choose from.",
+        countryOfOrigin: "India",
+        manufactured: "Loreal India Pvt, Ltd",
+        manufacturerAddress:
+          "Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501",
+        productId: 60745,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1079353/bblunt-salon-secret-high-shine-creme-hair-colour-coffee-natural-brown-108-ml-prod-1079353-0-202305091031.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1079353/bblunt-salon-secret-high-shine-creme-hair-colour-coffee-natural-brown-108-ml-prod-1079353-1-202305091031.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1079353/bblunt-salon-secret-high-shine-creme-hair-colour-coffee-natural-brown-108-ml-prod-1079353-2-202305091031.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1079353/bblunt-salon-secret-high-shine-creme-hair-colour-coffee-natural-brown-108-ml-prod-1079353-3-202305091032.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1079353/bblunt-salon-secret-high-shine-creme-hair-colour-coffee-natural-brown-108-ml-prod-1079353-4-202305091032.jpg?im=Resize=(600,600)",
+        ],
+        brand: "bblunt",
+        shortDesc:
+          "BBlunt Salon Secret High Shine Creme Hair Colour 4.31 Coffee Natural Brown (50gm +50ml + 8ml) 1's",
+        rating: 2,
+        mrp: 202.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description:
+          "Switch up your hair color at home with salon-like results! Yes, that’s right! With Salon Secret High Shine Crème Hair Colour in Coffee Natural, achieve a rich coffee brown shade in the comfort of your home. Created especially for Indian hair textures and skin tones, it is a first-of-its-kind hair colour, developed by Indian hair experts with no ammonia for 100% grey coverage. At the same time, it ensures rich, vibrant colour and moisture-locked hair with a spectacular shine that lasts up to 8 weeks. It has a 3 part formula which comes with developer, colourant and our Salon Secret – Shine Tonic. When added to the creamy colourant and developer, this revolutionary addition boosts the richness of the colour, giving it the ultimate gloss and nourishes each strand. Our Salon Secret Shine Tonic is just the thing that your regular at-home hair colour has been missing for so long!",
+        countryOfOrigin: "India",
+        manufactured: "Honasa Consumer Pvt Ltd",
+        productId: 60746,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/14645/garnier-color-naturals-creme-riche-shade-4-brown-70-ml-60-gm-prod-14645-0-202112020200.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/14645/garnier-color-naturals-creme-riche-shade-4-brown-70-ml-60-gm-prod-14645-1-202112020200.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/14645/garnier-color-naturals-creme-riche-shade-4-brown-70-ml-60-gm-prod-14645-1-202112020200.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/14645/garnier-color-naturals-creme-riche-shade-4-brown-70-ml-60-gm-prod-14645-2-202112020200.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/14645/garnier-color-naturals-creme-riche-shade-4-brown-70-ml-60-gm-prod-14645-3-202112020200.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Garnier",
+        shortDesc:
+          "Garnier Color Naturals Creme Riche - Shade 4 Brown (70 ml + 60 gm)",
+        rating: 2,
+        mrp: 180.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description:
+          "Sign your lips in statement colour with new L’Oreal Paris Rouge Signature Liquid Lip Ink. A collection of 12 ultra-matte lip inks that combine unapologetically bold colour with a super-lightweight finish, for the ultimate bare-lip sensation. Say goodbye to compromise- long-lasting no longer means thick, heavy and uncomfortable matte finish. The oil-in-water formula lets lips breathe, leaving a memorable mark but a forgettable feel for the ultimate all-day comfort. Every swipe will provide an instant pure colour statement that lasts with a soft-matte finish. With 12 on-trend shades from dusty greige to deep plum and pillar box red- every woman can sign her look with her own statement colour. With Rouge Signature, less is more. Less texture, more colour. Less excess, more impact. 1. For the most smooth finish, exfoliate your lips before applying 2. Use the point of the applicator to carefully outline your cupids bow 3. Fill your lips with colour, starting from the centre and blending outwards. BENEFITS - No flaking, no smudging, no drying-out. - Unique oil-in-water formula - Lasts for up to 24hrs.",
+        countryOfOrigin: "France",
+        manufactured: "L'Oreal India Pvt, Ltd",
+        manufacturerAddress:
+          "Gate No 446, Talegaon Chakan Road, Chakan, Pune, 410501",
+        productId: 60747,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1079210/bblunt-salon-secret-high-shine-creme-hair-colour-chocolate-dark-brown-108-ml-prod-1079210-0-202305091045.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1079210/bblunt-salon-secret-high-shine-creme-hair-colour-chocolate-dark-brown-108-ml-prod-1079210-1-202305091045.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1079210/bblunt-salon-secret-high-shine-creme-hair-colour-chocolate-dark-brown-108-ml-prod-1079210-2-202305091045.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1079210/bblunt-salon-secret-high-shine-creme-hair-colour-chocolate-dark-brown-108-ml-prod-1079210-3-202305091045.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1079210/bblunt-salon-secret-high-shine-creme-hair-colour-chocolate-dark-brown-108-ml-prod-1079210-4-202305091045.jpg?im=Resize=(600,600)",
+        ],
+        brand: "bblunt",
+        shortDesc:
+          "BBlunt Salon Secret High Shine creme Hair Colour Chocolate Dark Brown (50gm+50ml+8ml) 1's",
+        rating: 3,
+        mrp: 250.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description:
+          "Want salon-like hair at home? Now it’s possible with Salon Secret High Shine Crème Hair Colour in Chocolate Dark Brown, a salon-quality hair colour, created especially for Indian hair textures and skin tones. It is a first-of-its-kind, developed by Indian hair experts with no ammonia for 100% grey coverage. The result is a deep rich chocolatey colour and moisture-locked hair with a spectacular shine that lasts up to 8 weeks. It is a 3 part formula that comes with a developer, colourant and our Salon Secret – Shine Tonic. When added to the creamy colourant and developer, this revolutionary addition boosts the richness of the colour, giving it the ultimate gloss and nourishes each strand. Our Salon Secret Shine Tonic is just the thing that your regular at-home hair colour has been missing for so long!",
+        countryOfOrigin: "India",
+        manufactured: "Honasa Consumer Pvt Ltd",
+        productId: 60748,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1069850/hm-herbal-me-certified-natural-light-brown-henna-hair-colour-200-gm-prod-1069850-0-202303141127.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1069850/hm-herbal-me-certified-natural-light-brown-henna-hair-colour-200-gm-prod-1069850-2-202303141127.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1069850/hm-herbal-me-certified-natural-light-brown-henna-hair-colour-200-gm-prod-1069850-3-202303141127.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Herbal Me",
+        shortDesc:
+          "HM Herbal Me Certified Natural Light Brown Henna Hair Colour 200 gm",
+        rating: 5,
+        mrp: 450.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description:
+          "Herbal Me Hair Colors are made from ingredients that are obtained only from plants. This ensures that all the ingredients are 100% natural leaf powders, safe for hair, as well as completely natural. So, instead of using chemical dyes that can damage your hair over time, switch to Herbal Me Hair Colors which are not only completely safe for your hair, but also provide natural benefits.First-time users of Herbal Me Henna may not be able to achieve the desired colour initially if the hair has been chemically treated or dyed earlier. In such a case, this colour will have to be applied 3-4 times or even more depending upon the condition of the hair. But, once the hair starts getting repaired and nourished, the result is long-lasting and without any side effects.Please note that our Blonde hair colors CANNOT turn dark shades of hair into a lighter tone. They CANNOT change the color of black, brown or any other darker shade to a blonde color. This is NOT possible without the use of chemicals. The Blonde colors can only color grey, white or light and naturally blonde hair shades. Applying Plant-Based Hair Colors is an effective and time tested way for covering greys and imparting the desired colour. Henna and herbs application is one of the best natural hair care routine that has been practised over centuries for thick & voluminous hair, way before the invention of synthetic and permanent hair dyes. Our colours are Certified Natural by Ecocert Greenlife (France) as well as certified by PETA India & Halal.Key BenefitsConditions nourishes and rejuvenates the hair and leaves it silky and shiny.",
+        countryOfOrigin: "India ",
+        manufactured: "H M Enterprises",
+        productId: 60749,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/969765/berina-a36-deep-golden-blonde-hair-color-cream-60-gm-prod-969765-0-202112010904.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/969765/berina-a36-deep-golden-blonde-hair-color-cream-60-gm-prod-969765-1-202112010904.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/969765/berina-a36-deep-golden-blonde-hair-color-cream-60-gm-prod-969765-2-202112010904.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/969765/berina-a36-deep-golden-blonde-hair-color-cream-60-gm-prod-969765-3-202112010904.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Berina",
+        shortDesc: "Berina A36 Deep Golden Blonde Hair Color Cream 60 gm",
+        rating: 6,
+        mrp: 249.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description:
+          "Berina unveiled their premium range of Hair Colour ideal for consumers who wish for a hair color that also nourishes. With the Berina Hair Color cream at home it's time to bid goodbye to all of those unnecessary hair care products. Be ready to experience the unexpected and see how beautifully it provides your hair with a one stop hair care solution of not just nourishing hair follicles but also ensuring that the color lasts you longer. Berina contains an innovative component which protects the hair by providing it with sufficient nutrients and gives you glamorous color",
+        countryOfOrigin: "Thailand",
+        manufactured: "Jas Personal Care Pvt Ltd",
+        productId: 60750,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1069842/hm-herbal-me-100-organic-bhringraj-powder-120-gm-prod-1069842-0-202303141124.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1069842/hm-herbal-me-100-organic-bhringraj-powder-120-gm-prod-1069842-2-202303141124.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1069842/hm-herbal-me-100-organic-bhringraj-powder-120-gm-prod-1069842-3-202303141125.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Herbal Me",
+        shortDesc: "HM Herbal Me 100% Organic Bhringraj Powder 120 gm",
+        rating: 2,
+        mrp: 215.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description: `When it comes to premature greying of hair or excessive hair loss, Bhringraj is the perfect solution to such problems. It promotes new hair growth by stimulating the hair follicles. Adds shine and luster to your hair by providing the scalp with ample nutrition.
+  
+                                          Bhringraj prevents hair loss
+                                          Delays premature greying of hair
+                                          Promotes hair growth
+                                          Has antibacterial and antiseptic properties"Disclaimer: Organic & Natural products can have an allergic reaction to some people. Conduct a Patch test. Discontinue if irritation occurs. For external use only. Keep out of reach of children. Store in a cool dry place.`,
+        countryOfOrigin: "India",
+        manufactured: "H M Enterprises",
+        productId: 60751,
+      },
+    ],
+    hairStyling: [
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1053284/l-oreal-paris-magic-retouch-instant-root-concealer-spray-dark-brown-75ml-prod-1053284-0-202311220910.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1053284/l-oreal-paris-magic-retouch-instant-root-concealer-spray-dark-brown-75ml-prod-1053284-1-202311220910.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1053284/l-oreal-paris-magic-retouch-instant-root-concealer-spray-dark-brown-75ml-prod-1053284-2-202311220910.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1053284/l-oreal-paris-magic-retouch-instant-root-concealer-spray-dark-brown-75ml-prod-1053284-3-202311220910.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1053284/l-oreal-paris-magic-retouch-instant-root-concealer-spray-dark-brown-75ml-prod-1053284-4-202311220910.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1053284/l-oreal-paris-magic-retouch-instant-root-concealer-spray-dark-brown-75ml-prod-1053284-6-202311220910.jpg?im=Resize=(600,600)",
+        ],
+        brand: "L'Oreal Paris",
+        shortDesc:
+          "L'Oreal Paris Magic Retouch Instant Root Concealer Spray Dark Brown 75ml",
+        rating: 1,
+        mrp: 349.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        countryOfOrigin: "Belgium",
+        manufactured: "L'oreal Libramont",
+        productId: 60752,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1016341/arata-advanced-curl-care-complete-regime-8-potent-sulfate-paraben-free-curl-formulas-for-rough-coarse-curls-1250-gm-prod-1016341-0-202210140441.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1016341/arata-advanced-curl-care-complete-regime-8-potent-sulfate-paraben-free-curl-formulas-for-rough-coarse-curls-1250-gm-prod-1016341-1-202210140441.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1016341/arata-advanced-curl-care-complete-regime-8-potent-sulfate-paraben-free-curl-formulas-for-rough-coarse-curls-1250-gm-prod-1016341-2-202210140442.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1016341/arata-advanced-curl-care-complete-regime-8-potent-sulfate-paraben-free-curl-formulas-for-rough-coarse-curls-1250-gm-prod-1016341-3-202210140442.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Arata",
+        shortDesc: "Arata Advanced Curl Care Complete Regime Curls 1250gm",
+        rating: 3,
+        mrp: 4999.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description:
+          "Our Advanced Curl Care Complete Regime consists of eight potent, plant-powered, sulfate & paraben free formulas. Namely, The Arata Advanced Curl Care Hair Shampoo, Hair Conditioner, Leave-In Conditioner, Hair Oil, Hair Detangler, Hair Cream, Hair Gel and Hair Mask. The range, infused with natural oils, potent botanical extracts and butters repairs damaged hair, undoes stubborn knots, moisturizes coarse curls, and enhances definition - leaving you with lustrous, velvety soft curls!",
+        countryOfOrigin: "India",
+        manufactured: "Vistta Cosmetics",
+        productId: 60753,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1067859/coronation-herbal-coffee-fixing-hair-gel-100-gm-prod-1067859-0-202303141206.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1067859/coronation-herbal-coffee-fixing-hair-gel-100-gm-prod-1067859-1-202303141206.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1067859/coronation-herbal-coffee-fixing-hair-gel-100-gm-prod-1067859-2-202303141206.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1067859/coronation-herbal-coffee-fixing-hair-gel-100-gm-prod-1067859-3-202303141206.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Coronation Herbal",
+        shortDesc: "COROnation Herbal Coffee Fixing Hair Gel 100 gm",
+        rating: 4,
+        mrp: 499.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description:
+          "COROnation Herbal super nourishing Rice Water Hair Oil, full of fatty acids and vitamins, works its way from roots to tip. The natural goodness of Rice and Coconut Oils present in Rice Hair Oil penetrates deeply into the hair roots, to reverse damage, nourish, and make hair healthier. It works hard to preserve hair health, elasticity and flexibility.",
+        countryOfOrigin: "India",
+        manufactured: "	Manchanda Herbal Products Pvt. Ltd.",
+        productId: 60754,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/994018/medimade-coffee-fixing-hair-gel-100-gm-prod-994018-0-202203281621.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/994018/medimade-coffee-fixing-hair-gel-100-gm-prod-994018-2-202203281621.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/994018/medimade-coffee-fixing-hair-gel-100-gm-prod-994018-3-202203281621.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/994018/medimade-coffee-fixing-hair-gel-100-gm-prod-994018-4-202203281621.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Medimade",
+        shortDesc: "Medimade Coffee Fixing Hair Gel 100 gm",
+        rating: 3.5,
+        mrp: 498.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        countryOfOrigin: "India",
+        manufactured: "Manchanda Herbal Products Pvt. Ltd.",
+        productId: 60755,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1012779/fashion-colour-hair-colour-spray-silver-150-ml-prod-1012779-0-202210142138.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1012779/fashion-colour-hair-colour-spray-silver-150-ml-prod-1012779-1-202210142138.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1012779/fashion-colour-hair-colour-spray-silver-150-ml-prod-1012779-2-202210142138.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Fashion Colour",
+        shortDesc: "Fashion Colour Hair Colour Spray, Silver 150 ml",
+        rating: 3,
+        mrp: 290.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description:
+          "Colour on your own terms. A cool new way to colour hair without having to commit permanently. Spray on to add a dramatic splash of colour to your day. Simply shampoo to wash off colour. Specially created for indian hair. For those who are too afraid to commit to changing their hair colour permanently to a spunky shade",
+        countryOfOrigin: "Turkey",
+        manufactured: "M/S. Private Label Aerosol Dolum San. Tic.",
+        productId: 60756,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/937779/the-beard-story-ultimate-men-hair-styling-gel-strong-hold-100-gm-prod-937779-0-202206241843.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/937779/the-beard-story-ultimate-men-hair-styling-gel-strong-hold-100-gm-prod-937779-1-202206241843.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/937779/the-beard-story-ultimate-men-hair-styling-gel-strong-hold-100-gm-prod-937779-2-202206241843.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/937779/the-beard-story-ultimate-men-hair-styling-gel-strong-hold-100-gm-prod-937779-3-202206241843.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/937779/the-beard-story-ultimate-men-hair-styling-gel-strong-hold-100-gm-prod-937779-5-202206241843.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/937779/the-beard-story-ultimate-men-hair-styling-gel-strong-hold-100-gm-prod-937779-7-202206241843.jpg?im=Resize=(600,600)",
+        ],
+        brand: "The Beard Story",
+        shortDesc:
+          "The Beard Story Ultimate Men Hair Styling Gel - Strong Hold 100 gm",
+        rating: 1,
+        mrp: 199.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description:
+          "Control and condition your hair with Beard Story Strong Hold Styling Gel that strengthens your mane, tames frizz, and leaves hair visibly smooth and shiny. It creates a smooth, wet look with an extra strong hold that lasts throughout the day. This Styling gel is created using all natural ingredients, perfect for those who lead an active lifestyle and want their hair to remain in tact all day long. The Beard Story Hair Styling Gel For Strong Hold gives several added layers of protecton to your hair making sure that your style stays strong through your busy schedule.",
+        countryOfOrigin: "India",
+        manufactured: "Sai Samarth Cosmetics Pvt. Ltd.",
+        manufacturerAddress:
+          "Plot no 54, Sector 1 , The Vasai Taluka Industrial Estate, Gurupaida, Vasai (E) - 401208, Dist. Palghar, Maharashtra , India",
+        productId: 60757,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1089272/mamaearth-onion-hair-styling-cream-for-men-with-onion-redensyl-for-nourishment-styling-100-gm-prod-1089272-0-202305081904.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1089272/mamaearth-onion-hair-styling-cream-for-men-with-onion-redensyl-for-nourishment-styling-100-gm-prod-1089272-1-202305081904.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1089272/mamaearth-onion-hair-styling-cream-for-men-with-onion-redensyl-for-nourishment-styling-100-gm-prod-1089272-2-202305081904.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1089272/mamaearth-onion-hair-styling-cream-for-men-with-onion-redensyl-for-nourishment-styling-100-gm-prod-1089272-3-202305081904.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Mamaearth",
+        shortDesc:
+          "Mamaearth Onion Hair Styling Cream for Men with Onion & Redensyl for Nourishment & Styling 100 gm",
+        rating: 3,
+        mrp: 269.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description:
+          "Tired of rough and unruly hair that refuses to stay in place? Introducing Mamaearth Onion Hair Styling Cream for men that not only helps tame & style your mane but also nourishes it. Crafted with the goodness of Onion and the power of Redensyl, the hair styling cream gives your hair hold and shine when styled. Loaded with Sulfur, Onion helps curb hair fall while Redensyl in the styling cream aids hair growth and also strengthens the hair follicles. Also infused with Glycerin and Vitamin E, the hair styling cream seals in moisture, making it more manageable and shiny. And It’s also Made Safe Certified, which means it contains no toxins or harmful chemicals, just the goodness of nature.",
+        countryOfOrigin: "India",
+        manufactured: "Indo Herbal Products",
+        productId: 60758,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1120614/gatsby-styling-pomade-matte-moulder-75-gm-prod-1120614-0-202309262032.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1120614/gatsby-styling-pomade-matte-moulder-75-gm-prod-1120614-1-202309262032.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Gatsby",
+        shortDesc: "Gatsby Styling Pomade - Matte Moulder 75 gm",
+        rating: 4,
+        mrp: 285.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        countryOfOrigin: "Indonesia",
+        manufactured: "PT Mandom Indonesia",
+        productId: 60759,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1016324/arata-advanced-curl-care-hair-cream-for-velvety-soft-curls-intensive-moisture-curl-definition-cg-approved-100-gm-prod-1016324-0-202210131502.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1016324/arata-advanced-curl-care-hair-cream-for-velvety-soft-curls-intensive-moisture-curl-definition-cg-approved-100-gm-prod-1016324-1-202210131502.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1016324/arata-advanced-curl-care-hair-cream-for-velvety-soft-curls-intensive-moisture-curl-definition-cg-approved-100-gm-prod-1016324-2-202210131502.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1016324/arata-advanced-curl-care-hair-cream-for-velvety-soft-curls-intensive-moisture-curl-definition-cg-approved-100-gm-prod-1016324-3-202210131502.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Arata",
+        shortDesc:
+          "Arata Advanced Curl Care Hair Cream Soft Curls Intensive Moisture, Curl Definition 100gm",
+        rating: 2.4,
+        mrp: 599.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description:
+          "Our Advanced Curl Care Hair Cream is a plant-based sculpting solution, thoughtfully created to define your natural curl pattern and give you an intense dose of moisture. This powerful, vegan recipe sets a new standard for styling curls, enhances the effectiveness of scrunching, smoothens flyaways, and combats frizz to keep your curls velvety soft.",
+        countryOfOrigin: "India",
+        manufactured: "Vistta Cosmetics",
+        productId: 60760,
+      },
+    ],
+    hairToolAndAccessories: [
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/996875/gubb-oval-hair-brush-mini-scottish-range-80-gm-prod-996875-1-202307010937.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/996875/gubb-oval-hair-brush-mini-scottish-range-80-gm-prod-996875-0-202307010937.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/996875/gubb-oval-hair-brush-mini-scottish-range-80-gm-prod-996875-2-202307010937.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/996875/gubb-oval-hair-brush-mini-scottish-range-80-gm-prod-996875-3-202307010937.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/996875/gubb-oval-hair-brush-mini-scottish-range-80-gm-prod-996875-4-202307010937.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Gubb",
+        shortDesc: "Gubb Oval Cushioned Hair Brush, Mini - Scottish 1's",
+        rating: 3,
+        mrp: 185.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description:
+          "1. Its ball tipped nylon bristles are gentle on your scalp 2. The unique pattern & light weight body is ergonomically crafted for better grip and comfortable styling. 3. The high quality design of the brush prevents unwanted static while brushing hair, especially in winters. 4. This mini brush is lightweight and portable, making it ideal for travel.",
+        countryOfOrigin: "china",
+        manufactured: "Ruland Chemistry Co. Ltd.",
+        productId: 60761,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1011873/vega-round-brush-e20-rb-120-gm-prod-1011873-0-202203172033.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1011873/vega-round-brush-e20-rb-120-gm-prod-1011873-1-202203172033.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1011873/vega-round-brush-e20-rb-120-gm-prod-1011873-2-202203172033.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1011873/vega-round-brush-e20-rb-120-gm-prod-1011873-4-202203172033.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1011873/vega-round-brush-e20-rb-120-gm-prod-1011873-5-202203172033.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1011873/vega-round-brush-e20-rb-120-gm-prod-1011873-6-202203172033.jpg?im=Resize=(600,600)",
+        ],
+        brand: "vega",
+        shortDesc: "Vega Round Brush (E20 - Rb)",
+        rating: 3,
+        mrp: 337.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description: `Vega - "A one stop shop for HEAD to TOE Beauty care accessories . Vega has premium quality hair brushes which help in day to day hair styling. Vega Round hair brushes helps in smoothening & curling all hair lengths and textures. Ideal for home and salon use. Round brushes comes in many attractive colors with superiuor quality Ball tipped nylon bristles gently massage the scalp, help in shaping and add root lift while brushing your hair.`,
+        countryOfOrigin: "China",
+        manufactured: "Vega Industries Pvt. Ltd.",
+        productId: 60762,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1046460/babila-compact-flat-brush-hbc-v-11-1-s-prod-1046460-0-202303141230.jpg?im=Resize=(600,600)",
+        ],
+        brand: "BABILA",
+        shortDesc: "Babila Compact Flat Brush-HBC-V 11 1's",
+        rating: 3,
+        mrp: 152.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        countryOfOrigin: "China",
+        manufactured: "Babila Industries Pvt.Ltd",
+        productId: 60763,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1011485/vega-grooming-comb-hmc-23-36-gm-prod-1011485-0-202203172029.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1011485/vega-grooming-comb-hmc-23-36-gm-prod-1011485-1-202203172029.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1011485/vega-grooming-comb-hmc-23-36-gm-prod-1011485-2-202203172029.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1011485/vega-grooming-comb-hmc-23-36-gm-prod-1011485-5-202203172029.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1011485/vega-grooming-comb-hmc-23-36-gm-prod-1011485-6-202203172029.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Vega",
+        shortDesc: "Vega Comb (HMC - 23) 1's",
+        rating: 2,
+        mrp: 179.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        countryOfOrigin: "India",
+        manufactured: "Vega Industries Pvt. Ltd.",
+        productId: 60764,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1011487/vega-moon-dressing-comb-hmc-25-28-gm-prod-1011487-0-202203172029.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1011487/vega-moon-dressing-comb-hmc-25-28-gm-prod-1011487-1-202203172029.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1011487/vega-moon-dressing-comb-hmc-25-28-gm-prod-1011487-2-202203172029.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1011487/vega-moon-dressing-comb-hmc-25-28-gm-prod-1011487-5-202203172029.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Vega",
+        shortDesc: "Vega Handcrafted Comb (Hmc - 25)",
+        rating: 2.5,
+        mrp: 153.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description: `Vega - "A one stop shop for HEAD to TOE Beauty care accessories . Vega handcrafted combs are made from cellulose acetate which do not create static charge in hair due to its non-petroleum based material, which is derived from natural plants, It has smooth rounded teeth which do not hurt your scalp while combing and helps to reduce hair fall. Perfect for salon professionals, useful for grooming and styling hair and adding lustre.`,
+        countryOfOrigin: "India",
+        manufactured: "Vega Industries Pvt. Ltd.",
+        productId: 60765,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1011472/vega-dressing-comb-hmc-05-34-gm-prod-1011472-0-202203172028.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1011472/vega-dressing-comb-hmc-05-34-gm-prod-1011472-1-202203172028.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1011472/vega-dressing-comb-hmc-05-34-gm-prod-1011472-2-202203172028.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1011472/vega-dressing-comb-hmc-05-34-gm-prod-1011472-3-202203172028.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1011472/vega-dressing-comb-hmc-05-34-gm-prod-1011472-5-202203172029.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Vega",
+        shortDesc: "Vega Comb (HMC - 05) 1's",
+        rating: 1,
+        mrp: 173.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description: `Vega - "A one stop shop for HEAD to TOE Beauty care accessories . Vega handcrafted combs are made from cellulose acetate which do not create static charge in hair due to its non-petroleum based material, which is derived from natural plants, It has smooth rounded teeth which do not hurt your scalp while combing and helps to reduce hair fall. Perfect for salon professionals, useful for grooming and styling hair and adding lustre.`,
+        countryOfOrigin: "India",
+        manufactured: "Vega Industries Pvt. Ltd.",
+        productId: 60766,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1011850/vega-hot-curl-brush-small-e16-prs-104-gm-prod-1011850-0-202203172033.jpg?im=Resize=(600,600)",
+          "",
+        ],
+        brand: "vega ",
+        shortDesc: "Vega Hot Curl Brush Small (E16 - PRS) 1's",
+        rating: 3,
+        mrp: 427.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description: `Vega - "A one stop shop for HEAD to TOE Beauty care accessories . Vega Idea for adding wave and curl during blow drying. The heat-activated ceramic coating allows even heat distribution and better heat retention. It cuts drying time and adds shine, makes your hair style last longer. Suitable for short to long hair.`,
+        countryOfOrigin: "China",
+        manufactured: "	Vega Industries Pvt. Ltd.",
+        productId: 60767,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1046713/babila-hot-curl-brush-mini-hb-v-01m-1-s-prod-1046713-0-202303141336.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1046713/babila-hot-curl-brush-mini-hb-v-01m-1-s-prod-1046713-1-202303141336.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Babila",
+        shortDesc: "Babila Hot Curl Brush-Mini-HB-v 01M 1's",
+        rating: 1,
+        mrp: 312.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        countryOfOrigin: "China ",
+        manufactured: "Babila Industries Pvt.Ltd",
+        productId: 60768,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1025771/babila-round-hair-brush-hb-v560-1-s-prod-1025771-0-202206030157.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1025771/babila-round-hair-brush-hb-v560-1-s-prod-1025771-1-202206030157.jpg?im=Resize=(600,600)",
+        ],
+        brand: "BABILA",
+        shortDesc: "Babila Round Hair Brush-HB-V560 1's",
+        rating: 1,
+        mrp: 245.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description:
+          "BABILA Round hair brush is for small to medium neat hair. It curls hair at the ends. This brush is also used with blow hair dryer. It is useful for adding curl and curve to straight hair. The brush gently groom the hair while the bristles stimulate circulation in the scalp.",
+        countryOfOrigin: "China ",
+        manufactured: "Babila Industries Pvt.Ltd",
+        productId: 60769,
+      },
+    ],
+    scalpTreatments: [
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1017136/men-deserve-hair-styling-cream-strong-hold-100-gm-prod-1017136-0-202211211918.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1017136/men-deserve-hair-styling-cream-strong-hold-100-gm-prod-1017136-1-202211211918.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1017136/men-deserve-hair-styling-cream-strong-hold-100-gm-prod-1017136-2-202211211918.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1017136/men-deserve-hair-styling-cream-strong-hold-100-gm-prod-1017136-3-202211211918.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1017136/men-deserve-hair-styling-cream-strong-hold-100-gm-prod-1017136-4-202211211918.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Men Deserve",
+        shortDesc:
+          "Men Deserve Hair Styling Cream (Strong Hold) + Nourishment Keratin Restore 100gm",
+        rating: 2,
+        mrp: 280.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description:
+          "Now make pompadour or slicked back hairstyle. It's all easy with new non-sticky MD Hair Styling Cream Strong Hold. The product totally is free from Mineral Oil, Paraben and Petroleum jelly for protection of your hair. BEST For Medium to Strong Hold, Natural Finish & Spiked up Look.",
+        countryOfOrigin: "India",
+        manufactured: "Sapnish Enterprise",
+        productId: 60770,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1021368/keya-seth-aromatherapy-black-shine-hair-pack-100-gm-prod-1021368-0-202203281646.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1021368/keya-seth-aromatherapy-black-shine-hair-pack-100-gm-prod-1021368-1-202203281646.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1021368/keya-seth-aromatherapy-black-shine-hair-pack-100-gm-prod-1021368-2-202203281646.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Keya Seth Aromatherapy",
+        shortDesc: "Keya Seth Aromatherapy Black Shine Hair Pack 100 gm",
+        rating: 3,
+        mrp: 199.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description: `A 100% natural hair colour infused with 15 Ayurvedic herbs that gives natural black color to grey hair while nourishing them from root to tip. Aromatic Black Shine Solution activates the herbal ingredients present in the pack, making it a one stop solution for a range of hair problems. It is completely free from Ammonia, Hydrogen Peroxide, Heavy Metals & harmful chemicals. Natural Hair Color that also takes care of your hair Forget the worries of grey hair, Keya Seth Aromatherapy has come up with a natural alternative to harmful chemical based hair colours. Black Shine 100% Natural Hair Colour is enriched with 15 powerful herbs that cover greys & prevents further greying. This hair color pack also nourishes hair from the roots & repairs the hair strands Freedom from Grey hair in a natural way Grey hair should not stop you from living your life to the full, but the chemical filled hair colors should not be your choice. The hair dyes cover the greys efficiently but not without harming the hair, as a result the number of grey hair increases drastically after using common hair dyes. Most of these chemical dyes are also harmful for the skin & eyes. To solve this problem & to make sure that you do not look more than your age due to grey hairs, Keya Seth Aromatherapy has introduced the Black Shine 100% Natural Hair Colour Pack enriched with 15 Ayurvedic herbs. Apart from covering greys, this hair pack also promotes hair growth, overall hair health & controls further hair greying with regular use.`,
+        countryOfOrigin: "India",
+        manufactured: "Keya Seth Aromatherapy",
+        productId: 60771,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1003130/mcaffeine-naked-raw-cappuccino-coffee-hair-mask-200-gm-prod-1003130-0-202203281636.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1003130/mcaffeine-naked-raw-cappuccino-coffee-hair-mask-200-gm-prod-1003130-1-202203281636.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1003130/mcaffeine-naked-raw-cappuccino-coffee-hair-mask-200-gm-prod-1003130-2-202203281636.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1003130/mcaffeine-naked-raw-cappuccino-coffee-hair-mask-200-gm-prod-1003130-3-202203281636.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1003130/mcaffeine-naked-raw-cappuccino-coffee-hair-mask-200-gm-prod-1003130-5-202203281636.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1003130/mcaffeine-naked-raw-cappuccino-coffee-hair-mask-200-gm-prod-1003130-6-202203281636.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1003130/mcaffeine-naked-raw-cappuccino-coffee-hair-mask-200-gm-prod-1003130-7-202203281636.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Mcaffeine",
+        shortDesc: `Mcaffeine Naked & Raw Cappuccino Coffee Hair Mask 200 gm`,
+        rating: 2,
+        mrp: 491.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        description: `A mask that doesn’t conceal but unveils — soothed, healed, and dandruff-free scalp! With Coffee at its core, this anti-dandruff Cappuccino Coffee Hair Mask also promotes healthy scalp & hair. This rich creamy mask exudes an aroma that’s like the bitter-sweet goodness of coffee. Coffee helps in reducing dandruff and balances the scalp’s pH level. The anti-inflammatory Caffeine strengthens the hair and soothes irritated scalp. Rosemary Oil adds natural shine and lustre to the hair. Natural AHA reduces dandruff and build-up while also controlling excess oil on the scalp. Vitamin Blend strengthens the scalp barrier and improves hair density and thickness. It is free from harmful chemicals such as Paraben, SLS and Silicone and deserves to be a part of your hair care regimen. The Cappuccino Coffee Hair Mask is also gender-neutral and suitable for all hair types making it perfect for everybody. It is also FDA Approved, Dermatologically Tested, Made Safe, Peta Certified Cruelty-Free & 100% Vegan.`,
+        countryOfOrigin: "India",
+        manufactured: "Ananya Herbal Pvt. Ltd.",
+        productId: 60772,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/994015/medimade-coconut-vitamin-e-hair-mask-200-gm-prod-994015-0-202203281621.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/994015/medimade-coconut-vitamin-e-hair-mask-200-gm-prod-994015-1-202203281621.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/994015/medimade-coconut-vitamin-e-hair-mask-200-gm-prod-994015-2-202203281621.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/994015/medimade-coconut-vitamin-e-hair-mask-200-gm-prod-994015-3-202203281621.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/994015/medimade-coconut-vitamin-e-hair-mask-200-gm-prod-994015-4-202203281621.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/994015/medimade-coconut-vitamin-e-hair-mask-200-gm-prod-994015-5-202203281621.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Medimade",
+        shortDesc: "Medimade Coconut & Vitamin E Hair Mask 200 gm",
+        rating: 3,
+        mrp: 499.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        countryOfOrigin: "India",
+        manufactured: "Manchanda Herbal Products Pvt. Ltd.",
+        productId: 60773,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/935511/professional-o3-damage-remedy-hair-mask-50-gm-prod-935511-0-202302270644.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/935511/professional-o3-damage-remedy-hair-mask-50-gm-prod-935511-1-202302270644.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/935511/professional-o3-damage-remedy-hair-mask-50-gm-prod-935511-2-202302270644.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/935511/professional-o3-damage-remedy-hair-mask-50-gm-prod-935511-3-202302270644.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/935511/professional-o3-damage-remedy-hair-mask-50-gm-prod-935511-4-202202221022.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/935511/professional-o3-damage-remedy-hair-mask-50-gm-prod-935511-5-202202221022.jpg?im=Resize=(600,600)",
+        ],
+        brand: "O3+",
+        shortDesc: "Professional O3+ Damage Remedy Hair Mask 50 gm",
+        rating: 2,
+        mrp: 446.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        countryOfOrigin: "India",
+        manufactured: "Visage Beauty And Health Care Pvt Ltd",
+        manufacturerAddress:
+          "Khasra No 430, Village Naryal Old timber Road , Sector-4, Parwanoo",
+        productId: 60774,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/994016/medimade-olive-and-macadamia-hair-mask-200-gm-prod-994016-0-202203281621.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/994016/medimade-olive-and-macadamia-hair-mask-200-gm-prod-994016-1-202203281621.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/994016/medimade-olive-and-macadamia-hair-mask-200-gm-prod-994016-2-202203281621.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/994016/medimade-olive-and-macadamia-hair-mask-200-gm-prod-994016-3-202203281621.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/994016/medimade-olive-and-macadamia-hair-mask-200-gm-prod-994016-4-202203281621.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/994016/medimade-olive-and-macadamia-hair-mask-200-gm-prod-994016-5-202203281621.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Medimade",
+        shortDesc: "Medimade Olive And Macadamia Hair Mask 200 gm",
+        rating: 1,
+        mrp: 474.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        countryOfOrigin: "India",
+        manufactured: "Manchanda Herbal Products Pvt. Ltd.",
+        productId: 60775,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/407028/himalaya-anti-hair-fall-cream-100-ml-prod-407028-0-202112020203.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Himalaya",
+        shortDesc: "Himalaya Anti Hair Fall Cream Bhringaraja & Amla 100ml",
+        rating: 5,
+        mrp: 81.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        countryOfOrigin: "iNDIA",
+        manufactured: "The Himalaya Drug Company",
+        manufacturerAddress: "NA",
+        productId: 60776,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/915877/plum-olive-macadamia-mega-moisturizing-hair-mask-250-ml-prod-915877-0-202202181658.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/915877/plum-olive-macadamia-mega-moisturizing-hair-mask-250-ml-prod-915877-1-202202181658.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/915877/plum-olive-macadamia-mega-moisturizing-hair-mask-250-ml-prod-915877-2-202202181849.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/915877/plum-olive-macadamia-mega-moisturizing-hair-mask-250-ml-prod-915877-3-202202181849.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/915877/plum-olive-macadamia-mega-moisturizing-hair-mask-250-ml-prod-915877-4-202202181849.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/915877/plum-olive-macadamia-mega-moisturizing-hair-mask-250-ml-prod-915877-5-202202181849.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Plum",
+        shortDesc: "Plum Olive and Macadamia Mega Moisturizing Hair Mask 250gm",
+        rating: 2,
+        mrp: 594.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        countryOfOrigin: "India",
+        manufactured: "Pureplay Skin Sciences(I) Pvt Ltd",
+        manufacturerAddress: "NA",
+        productId: 60777,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/928319/volamena-repair-hair-mask-argan-oil-keratin-250-ml-prod-928319-0-202212141955.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/928319/volamena-repair-hair-mask-argan-oil-keratin-250-ml-prod-928319-1-202212141955.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/928319/volamena-repair-hair-mask-argan-oil-keratin-250-ml-prod-928319-3-202212141955.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Volamena",
+        shortDesc: "Volamena Repair Hair Mask - Argan Oil & Keratin 250 ml",
+        rating: 4.5,
+        mrp: 649.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        countryOfOrigin: "India",
+        manufactured: "	Bella Skin Care Sciences",
+        manufacturerAddress: "Patti Jhamra Attari Colony 136135 Shahabad Haryana",
+        productId: 60778,
+      },
+    ],
+    shopByHairType: [
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1008053/azafran-organics-aqua-halo-scalp-rejuv-shampoo-200-gm-prod-1008053-0-202203281639.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1008053/azafran-organics-aqua-halo-scalp-rejuv-shampoo-200-gm-prod-1008053-1-202203281639.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Azafran Organics",
+        shortDesc:
+          "Azafran Organics Aqua Halo Scalp Rejuvenating Shampoo Promotes Thick & Shiny Hair For All Hair Types 200gm",
+        rating: 2,
+        mrp: 594.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        countryOfOrigin: "India",
+        manufactured: "Azafran Innovacion Ltd.",
+        manufacturerAddress: "NA",
+        productId: 60779,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/937723/marc-anthony-strictly-curls-curl-defining-lotion-245-ml-prod-937723-0-202202221328.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/937723/marc-anthony-strictly-curls-curl-defining-lotion-245-ml-prod-937723-1-202202221328.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Marc Anthony",
+        shortDesc: "Marc Anthony Strictly Curls Curl Defining Lotion 245 ml",
+        rating: 3,
+        mrp: 1299.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        countryOfOrigin: "Canada",
+        manufactured: "Marc Anthony Cosmetics",
+        manufacturerAddress:
+          "192, Pippin Road, Concord, Ontario, L4K 4X9, Canada",
+        productId: 60780,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1008054/azafran-organics-aqua-halo-rejuv-conditioner-100-gm-prod-1008054-0-202203281637.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1008054/azafran-organics-aqua-halo-rejuv-conditioner-100-gm-prod-1008054-1-202203281637.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Azafran Organics",
+        shortDesc: "Azafran Organics Aqua Halo Rejuv Conditioner 100 gm",
+        rating: 1,
+        mrp: 213.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        countryOfOrigin: "India",
+        manufactured: "Azafran Innovacion Ltd.",
+        manufacturerAddress: "NA",
+        productId: 60781,
+      },
+      {
+        productImage: [
+          "https://www.jiomart.com/images/product/original/1050393/love-earth-hair-cleanser-organic-aloe-vera-with-blend-of-almond-oil-100-ml-prod-1050393-0-202208302134.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1050393/love-earth-hair-cleanser-organic-aloe-vera-with-blend-of-almond-oil-100-ml-prod-1050393-1-202208302134.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1050393/love-earth-hair-cleanser-organic-aloe-vera-with-blend-of-almond-oil-100-ml-prod-1050393-2-202208302134.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1050393/love-earth-hair-cleanser-organic-aloe-vera-with-blend-of-almond-oil-100-ml-prod-1050393-3-202208302134.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1050393/love-earth-hair-cleanser-organic-aloe-vera-with-blend-of-almond-oil-100-ml-prod-1050393-4-202208302134.jpg?im=Resize=(600,600)",
+          "https://www.jiomart.com/images/product/original/1050393/love-earth-hair-cleanser-organic-aloe-vera-with-blend-of-almond-oil-100-ml-prod-1050393-5-202208302134.jpg?im=Resize=(600,600)",
+        ],
+        brand: "Love Earth",
+        shortDesc:
+          "Love Earth Hair Cleanser Organic Aloe Vera with blend of Almond oil 100 ml",
+        rating: 2,
+        mrp: 299.0,
+        discount: 0,
+        additionalOffers: [
+          "Upto Rs. 60/- Cashback on your first order",
+          "Flat Rs. 100 cashback on first grocery purchase",
+        ],
+        bankOffers: [
+          "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+          "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+        ],
+        status: "In stock",
+        soldBy: "Reliance Retail",
+        countryOfOrigin: "India",
+        manufactured: "Love Earth Pvt Ltd.",
+        manufacturerAddress: "NA",
+        productId: 60782,
+      },
+      // {
+      //   productImage: [
+      //     "https://www.jiomart.com/images/product/original/937731/marc-anthony-strictly-curls-curl-booster-240-ml-prod-937731-0-202202220957.jpg?im=Resize=(600,600)",
+      //     "https://www.jiomart.com/images/product/original/937731/marc-anthony-strictly-curls-curl-booster-240-ml-prod-937731-1-202202220957.jpg?im=Resize=(600,600)",
+      //   ],
+      //   brand: "Marc Anthony",
+      //   shortDesc: "Marc Anthony Strictly Curls Curl Booster 240 ml",
+      //   rating: 1,
+      //   mrp: 1229.0,
+      //   discount: 0,
+      //   additionalOffers: [
+      //     "Upto Rs. 60/- Cashback on your first order",
+      //     "Flat Rs. 100 cashback on first grocery purchase",
+      //   ],
+      //   bankOffers: [
+      //     "Get Flat 10% cashback on your first MobikwikWallet transaction on Min.Order Value of Rs 750. Maximum cashback of Rs 50",
+      //     "Get 10% cashback upto ₹750 on your first ever transaction on Simpl.Min. Order Value of Rs 699",
+      //   ],
+      //   status: "In stock",
+      //   soldBy: "Reliance Retail",
+      //   countryOfOrigin: "Canada",
+      //   manufactured: "Marc Anthony Cosmetics",
+      //   manufacturerAddress:
+      //     "192, Pippin Road, Concord, Ontario, L4K 4X9, Canada",
+      //   productId: 60783,
+      // },
     ],
     Serum: [
       {

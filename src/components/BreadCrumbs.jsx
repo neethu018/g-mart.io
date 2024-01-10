@@ -2,6 +2,7 @@ import React from "react";
 import { Breadcrumb } from "react-bootstrap";
 import { Link } from "react-router-dom";
 
+
 const BreadCrumbs = ({mainTitle,mainUrl,catTitle,catUrl,subcatTitle,subcatUrl}) => {
     console.log("main",mainTitle);
     console.log("main",mainUrl);
@@ -11,35 +12,24 @@ const BreadCrumbs = ({mainTitle,mainUrl,catTitle,catUrl,subcatTitle,subcatUrl}) 
     console.log("subcatUrl",subcatUrl);
 
   return (
-    <Breadcrumb >
-      <Breadcrumb.Item linkAs={Link} linkProps={{ to: "/" }} className="text-decoration-none">
+
+    <Breadcrumb className="mt-3">
+      <Breadcrumb.Item linkAs={Link} linkProps={{ to: "/" }} className="custom-breadcrumb-item">
         Home
       </Breadcrumb.Item>
-      <Breadcrumb.Item linkAs={Link} linkProps={{ to: "/allcategory" }} className="text-decoration-none">
+      <Breadcrumb.Item linkAs={Link} linkProps={{ to: "/allcategory" }} className="custom-breadcrumb-item">
         All Categories
       </Breadcrumb.Item>
-      {mainTitle&& <Breadcrumb.Item linkAs={Link} linkProps={{ to: `${mainUrl}` }} className="text-decoration-none">
-        {mainTitle}
+      {mainTitle&& <Breadcrumb.Item linkAs={Link} linkProps={{ to: `${mainUrl}` }} className="custom-breadcrumb-item">
+        <span className={`${ catTitle? '' : 'text-black'}`}>{mainTitle}</span>
       </Breadcrumb.Item>}
-      {catTitle&& <Breadcrumb.Item linkAs={Link} linkProps={{ to: `${catUrl}` }} className="text-decoration-none">
-        {catTitle}
+      {catTitle&& <Breadcrumb.Item linkAs={Link} linkProps={{ to: `${catUrl}` }} className="custom-breadcrumb-item">
+      <span className={`${ subcatTitle? '' : 'text-black'}`}>{catTitle}</span>
       </Breadcrumb.Item>}
-      {subcatTitle&& <Breadcrumb.Item linkAs={Link} linkProps={{ to: `${subcatUrl}` }} className="text-decoration-none">
-        {subcatTitle}
+      {subcatTitle&& <Breadcrumb.Item linkAs={Link} linkProps={{ to: `${subcatUrl}` }} className="custom-breadcrumb-item">
+      <span className={`${ subcatTitle? 'text-black' :"" }`}>{subcatTitle}</span>
+
       </Breadcrumb.Item>}
-      {/* {breadcrumbsItem.map(
-        (item, index) =>
-          item && (
-            <Breadcrumb.Item
-              key={index}
-              href="/beauty"
-              linkAs={Link} linkProps={{ to: `/${item}` }}
-              className="text-decoration-none"
-            >
-              {item}
-            </Breadcrumb.Item>
-          )
-      )} */}
     </Breadcrumb>
   );
 };
