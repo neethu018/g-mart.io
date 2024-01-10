@@ -49,7 +49,9 @@ const TopNavbar = () => {
                 <input placeholder="Search" className="search-box" />
               </div>
               <IconButton>
+              <Link className="fs-4 text-white fw-bold navbar-brand" to="/cart">
                 <ShoppingCartIcon className="text-white fs-2" />
+                </Link>
               </IconButton>
               <IconButton className="rounded-5">
                 <PersonIcon className="text-white fs-2" />
