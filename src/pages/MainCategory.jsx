@@ -29,6 +29,14 @@ const MainCategory = ({ products }) => {
   // console.log("check",check);
 
   //sortbtn filter
+  const findDiscount =(mrp,discount)=>{
+    const discountMrp = ((
+      mrp -
+      mrp * (discount / 100)
+    ).toFixed())
+    console.log("discountMrp:",discountMrp);
+    return discountMrp
+  }
   if (selectedSortItem == "All Products") {
     console.log("based on all Products sorting");
     // Example usage:
@@ -45,10 +53,12 @@ const MainCategory = ({ products }) => {
       .sort((a, b) => b.ratings - a.ratings);
   } else if (selectedSortItem == "Price:High to Low") {
     console.log("based on ascending price");
-    filteredProducts = filteredProducts.slice().sort((a, b) => b.mrp - a.mrp);
+    // filteredProducts = filteredProducts.slice().sort((a, b) => b.mrp - a.mrp);
+    filteredProducts = filteredProducts.slice().sort((a, b) => findDiscount(b.mrp,b.discount) - findDiscount(a.mrp,a.discount));
   } else if (selectedSortItem == "Price:Low to High") {
     console.log("based on descending price");
-    filteredProducts = filteredProducts.slice().sort((a, b) => a.mrp - b.mrp);
+    // filteredProducts = filteredProducts.slice().sort((a, b) => a.mrp - b.mrp);
+    filteredProducts = filteredProducts.slice().sort((a, b) =>findDiscount(a.mrp,a.discount) - findDiscount(b.mrp,b.discount));
   } else {
     console.log("selectedSortItem is empty");
   }

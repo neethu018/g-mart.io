@@ -1,3 +1,4 @@
+import React, { useState } from "react";
 import SearchIcon from "@mui/icons-material/Search";
 import { IconButton } from "@mui/material";
 import PersonIcon from "@mui/icons-material/Person";
@@ -5,8 +6,20 @@ import MenuIcon from "@mui/icons-material/Menu";
 import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
 import "./Navbar.css";
 import { Link } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
+
 // import Home from "../../pages/Home";
 const TopNavbar = () => {
+  const navigate = useNavigate();
+  const [searchTerm, setSearchTerm] = useState("");
+  const handleSearch = (event,searchbtn) =>{
+    // console.log("search product",searchTerm);
+    // console.log("option",searchbtn);
+    if (event.key === 'Enter' || searchbtn=="searchbtn") {
+      event.preventDefault();
+      navigate(`/search/${searchTerm}`);
+    }
+  }
   return (
     <>
       <nav
@@ -45,8 +58,9 @@ const TopNavbar = () => {
               {/* <i class="fs-5 mx-3 text-white fa-solid fa-cart-shopping shop"></i> */}
 
               <div className="sb-search">
-                <SearchIcon />
-                <input placeholder="Search" className="search-box" />
+                <SearchIcon onClick={(event)=>handleSearch(event,"searchbtn")} style={{ cursor:"pointer" }}/>
+                <input placeholder="Search" className="search-box" onChange={(e) => setSearchTerm(e.target.value)}
+                onKeyDown={handleSearch}/>
               </div>
               <IconButton>
               <Link className="fs-4 text-white fw-bold navbar-brand" to="/cart">
