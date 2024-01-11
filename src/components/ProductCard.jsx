@@ -6,7 +6,6 @@ import { Link, useNavigate, useLocation } from "react-router-dom";
 import { CartContext } from "../context/CartContext";
 
 import { faPlus ,faMinus} from "@fortawesome/free-solid-svg-icons";
-import { useContext } from "react";
 import { faHeart } from "@fortawesome/free-regular-svg-icons";
 import { faHeart as fasolid } from "@fortawesome/free-solid-svg-icons";
 import { useContext, useState } from "react";
@@ -48,11 +47,11 @@ const ProductCard = ({ product, category, subcategory }) => {
     if (isItemInCart) {
       return (
         <button className="btn btn-outline-primary d-flex align-items-center justify-content-center gap-2 w-100">
-          <div onClick={handleDecrement} style={{backgroundColor:"skyblue",padding:".2em",width:"2rem",height:"2rem"}}>
+          <div onClick={handleDecrement} style={{padding:".2em",width:"2rem",height:"2rem"}}>
           <FontAwesomeIcon icon={faMinus} />
           </div>
           <span style={{ margin: '0 10px' }} className="text-black fw-bold">{isItemInCart.quantity}</span>
-          <div onClick={handleIncrement} style={{backgroundColor:"skyblue",padding:".2em",width:"2rem",height:"2rem"}}>
+          <div onClick={handleIncrement} style={{padding:".2em",width:"2rem",height:"2rem"}}>
           <FontAwesomeIcon icon={faPlus} />
           </div>
         </button>

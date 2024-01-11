@@ -7,6 +7,7 @@ import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
 import "./Navbar.css";
 import { Link } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
+import CartIcon from "../CartIcon";
 
 // import Home from "../../pages/Home";
 const TopNavbar = () => {
@@ -63,8 +64,9 @@ const TopNavbar = () => {
                 onKeyDown={handleSearch}/>
               </div>
               <IconButton>
-              <Link className="fs-4 text-white fw-bold navbar-brand" to="/cart">
-                <ShoppingCartIcon className="text-white fs-2" />
+              <Link className="fs-5 text-white fw-bold navbar-brand" to="/cart">
+                {/* <ShoppingCartIcon className="text-white fs-2" /> */}
+                <CartIcon />
                 </Link>
               </IconButton>
               <IconButton className="rounded-5">
