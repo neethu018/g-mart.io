@@ -4,7 +4,9 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { Card, Button } from "react-bootstrap";
 import { Link, useNavigate, useLocation } from "react-router-dom";
 import { CartContext } from "../context/CartContext";
-import { faPlus } from "@fortawesome/free-solid-svg-icons";
+
+import { faPlus ,faMinus} from "@fortawesome/free-solid-svg-icons";
+import { useContext } from "react";
 import { faHeart } from "@fortawesome/free-regular-svg-icons";
 import { faHeart as fasolid } from "@fortawesome/free-solid-svg-icons";
 import { useContext, useState } from "react";
@@ -13,8 +15,73 @@ import { useContext, useState } from "react";
 
 const ProductCard = ({ product, category, subcategory }) => {
   const { pathname } = useLocation();
-  const { cartItems, addToCart } = useContext(CartContext);
+  const { cartItems, addToCart, removeFromCart } = useContext(CartContext);
   const navigate = useNavigate();
+
+  // ... (rest of the code remains unchanged)
+
+  const handleAddToCart = () => {
+    // Check if the item is already in the cart
+    const isItemInCart = cartItems.find((cartItem) => cartItem.productId === product.productId);
+
+    // If the item is in the cart, don't add a new one; instead, increment its quantity
+    if (isItemInCart) {
+      addToCart(product);
+    } else {
+      addToCart(product);
+    }
+  };
+
+  const handleIncrement = () => {
+    addToCart(product);
+  };
+
+  const handleDecrement = () => {
+    removeFromCart(product);
+  };
+
+  const renderAddToCartButton = () => {
+    // Check if the item is already in the cart
+    const isItemInCart = cartItems.find((cartItem) => cartItem.productId === product.productId);
+
+    // If the item is in the cart, show increment and decrement buttons along with quantity
+    if (isItemInCart) {
+      return (
+        <button className="btn btn-outline-primary d-flex align-items-center justify-content-center gap-2 w-100">
+          <div onClick={handleDecrement} style={{backgroundColor:"skyblue",padding:".2em",width:"2rem",height:"2rem"}}>
+          <FontAwesomeIcon icon={faMinus} />
+          </div>
+          <span style={{ margin: '0 10px' }} className="text-black fw-bold">{isItemInCart.quantity}</span>
+          <div onClick={handleIncrement} style={{backgroundColor:"skyblue",padding:".2em",width:"2rem",height:"2rem"}}>
+          <FontAwesomeIcon icon={faPlus} />
+          </div>
+        </button>
+      );
+    }
+
+    // If the item is not in the cart, show the "Add to Cart" button
+    return (
+      <Button className="rounded-lg bg-white w-100 " onClick={handleAddToCart}>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "space-between",
+            color: "black",
+            alignItems: "center",
+            marginRight: "20px",
+            marginLeft: "20px",
+          }}
+        >
+          <div style={{ fontSize: 20, fontWeight: 800 }}>Add</div>
+          <div>
+            <FontAwesomeIcon icon={faPlus} />
+          </div>
+        </div>
+      </Button>
+    );
+  };
+
+
 
   let path = "";
   if (subcategory) {
@@ -29,15 +96,11 @@ const ProductCard = ({ product, category, subcategory }) => {
     navigate("/");
   }
 
-  const handleAddToCart = () => {
-    // Call the function from useCart to add the product to the cart
-    // console.log("add to cart button clicked")
-    // console.log("Adding to cart:", product);
-    addToCart(product);
-    // console.log("Cart after adding:", cartItems); // Make sure this log shows the updated cart
-    // console.log("add to cart button clicked")
-  };
-  const maxLength=39;
+  // const handleAddToCart = () => {
+  //   addToCart(product);
+
+  // };
+  const maxLength=35;
   const prod=product.shortDesc;
   const sd=prod.length > maxLength ? `${prod.slice(0,maxLength)}...`:prod;
 
@@ -49,16 +112,17 @@ const ProductCard = ({ product, category, subcategory }) => {
 
   return (
     <Card
-     style={{ borderRadius: "10%", padding: 20, marginBottom: 20,textDecoration:"none",boxShadow:"0 13px 15px rgba(0,0,0,.10),0 0 10px rgba(0,0,0,.10)", height:"460px",width:"290" }}
-     className="card">
+     style={{height:"500px"}}
+     className="card rounded-3 mb-5 p-3 shadow-lg">
       <Link to={`${pathname}/${path}`} state={{ product }}>
+        <div style={{height:"15rem",width:"100%"}}>
         <Card.Img
           variant="top"
-          className="card-img"
+          className="card-img" style={{height:"100%",width:"100%"}}
           src={product.productImage[0]}
           alt={product.productImage}
-          style={{ width: 230, height: 230,paddingLeft:"40px" }}
         />
+        </div>
       </Link>
       <Card.Title style={{ position: "absolute", top: 30, right: 30 }}>
         
@@ -82,19 +146,19 @@ const ProductCard = ({ product, category, subcategory }) => {
        
       </Card.Title>
       <Card.Body>
-        <Card.Title>{sd}</Card.Title>
+        <Card.Title style={{fontSize:"1rem",fontWeight:"bold"}}>{sd}</Card.Title>
         <Card.Text>
         {product.discount > 0 ? (
             <div className="d-flex flex-row justify-content-start gap-2">
-              <p style={{ fontWeight: "bold" }}>
-                &#x20B9;{" "}
+              <div style={{ fontWeight: "bold" }}>
+                &#x20B9;
                 {(
                   product.mrp -
                   product.mrp * (product.discount / 100)
                 ).toFixed()}
-              </p>
+              </div>
               <p style={{ textDecoration: "line-through" }}>
-                M.R.P:{product.mrp}
+              &#x20B9;{product.mrp}
               </p>
               <p style={{ color: "green",backgroundColor: "#ABEBC6",borderRadius:"5px",padding:"0px 5px" }}>{product.discount}% off</p>
             </div>
@@ -102,7 +166,8 @@ const ProductCard = ({ product, category, subcategory }) => {
             <p style={{ fontWeight: "bold" }}>&#x20B9; {product.mrp}</p>
           )}
         </Card.Text>
-        <Button className="rounded-lg bg-white w-100 " onClick={handleAddToCart}>
+        {renderAddToCartButton()}
+        {/* <Button className="rounded-lg bg-white w-100 " onClick={handleAddToCart}>
           <div
             style={{
               display: "flex",
@@ -120,7 +185,7 @@ const ProductCard = ({ product, category, subcategory }) => {
               <FontAwesomeIcon icon={faPlus} />
             </div>
           </div>
-        </Button>
+        </Button> */}
       </Card.Body>
     </Card>
   );

@@ -15,7 +15,12 @@ import Category from "./pages/Category";
 import TopNavbar from "./components/navbar/TopNavbar";
 import SubCategory from "./pages/SubCategory";
 import ProductDetail from "./pages/ProductDetail";
+
+import { Fashion } from "./utils/Fashion"; //fashion
+import { Electronics } from "./utils/electronics"; //electronics
 import AllCatogries from "./pages/AllCatogries";
+import Footer from "./components/Footer"
+
 import Cart from "./pages/Cart";
 import Search from "./pages/Search";
 
@@ -101,7 +106,7 @@ function App() {
             path="/Electronics/:category/:subcategory/:product"
             element={<ProductDetail />}
           />
-          {/* sportsToysLuggages */}
+           {/* sportsToysLuggages */}
           <Route
             path="/SportsToysLuggages"
             element={<MainCategory products={SportsToysLuggages} />}
@@ -136,7 +141,9 @@ function App() {
           {/* allcategory */}
           <Route path="/allcategory" element={<AllCatogries />} />
         </Routes>
+        <Footer/>
       </Router>
+    
     </>
   );
 }
