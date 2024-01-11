@@ -10,7 +10,13 @@ import { SportsToysLuggages } from "./utils/sportstoysluggages"; //sportstoysLug
 import MainCategory from "./pages/MainCategory";
 import Header from "./components/Header";
 import ProductDetail from "./pages/ProductDetail";
+
 import TopNavbar from "./components/navbar/TopNavbar";
+
+import { Fashion } from "./utils/Fashion"; //fashion
+import { Electronics } from "./utils/electronics"; //electronics
+import AllCatogries from "./pages/AllCatogries";
+
 
 function App() {
   console.log("premiumfruits data :", premiumFruits);
@@ -56,6 +62,40 @@ function App() {
             path="/Beauty/:category/:subcategory/:product"
             element={<ProductDetail />}
           />
+          {/*fashion routings */}
+          <Route
+            path="/Fashion"
+            element={<MainCategory products={Fashion} />}
+          />
+          <Route
+            path="/Fashion/:category"
+            element={<Category products={Fashion} />}
+          />
+          <Route
+            path="/Fashion/:category/:subcategory"
+            element={<SubCategory products={Fashion} />}
+          />
+          <Route
+            path="/Fashion/:category/:subcategory/:product"
+            element={<ProductDetail />}
+          />
+           {/*Electronics routings */}
+           <Route
+            path="/Electronics"
+            element={<MainCategory products={Electronics} />}
+          />
+          <Route
+            path="/Electronics/:category"
+            element={<Category products={Electronics} />}
+          />
+          <Route
+            path="/Electronics/:category/:subcategory"
+            element={<SubCategory products={Electronics} />}
+          />
+          <Route
+            path="/Electronics/:category/:subcategory/:product"
+            element={<ProductDetail />}
+          />
            {/* sportsToysLuggages */}
           <Route
             path="/SportsToysLuggages"
@@ -74,6 +114,7 @@ function App() {
             element={<ProductDetail />}
           />
               <Route path="/cart" element={<Cart/>}/>
+              <Route path="/allcategory" element={<AllCatogries/>}/>
         </Routes>
       </Router>
     </>

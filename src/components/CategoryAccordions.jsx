@@ -29,9 +29,14 @@ const CategoryAccordions = ({ mainCategory }) => {
     Fashion: [
       "MensFashion",
       "WomensFashion",
-      "JuniorBoy",
-      "JuniorGirl",
+      "KidsFashion",
       "Infants",
+    ],
+    Electronics: [
+      "MobilesTablets",
+      "TvSpeaker",
+      "HomeAppliances",
+      "Computers",
     ],
   };
   const subcategoriesByCategory = {
@@ -65,20 +70,53 @@ const CategoryAccordions = ({ mainCategory }) => {
     MensFashion: [
       "ClothingAccessories",
       "WesternWear",
-      "FootWear",
-      "EyeWear",
+      "MensFootWear",
+      "MensEyeWear",
       "InnerWear",
     ],
     WomensFashion: [
-      "EthnicWear",
+      "EthinicWear",
       "TraditionalWear",
       "EyeWear",
       "FootWear",
       "Watches",
     ],
-    JuniorBoy: ["Shirts", "Tracks", "InnerWear"],
-    JuniorGirl: ["GownAndDress", "TopsAndPants", "InnerWear"],
-    Infants: ["Boy", "Girl"],
+    KidsFashion: [
+      "JuniorBoyShirt",
+      "JuniorBoyTracks",
+      "JuniorBoyInnerWear",
+      "JuniorGirlGowns",
+      "JuniorGirlCasualWear",
+      "JuniorGirlInnerWear",
+      
+    ],
+    Infants: [
+      "BabyGirl",
+      "BabyBoy",
+      "Toys",
+    ],
+   //Electronics
+   MobilesTablets: [
+    "Smartphone", 
+    "MobileAccessories", 
+    "Tablets"
+  ],
+   TvSpeaker: [
+    "Tv", 
+    "HomeTheatre", 
+    "TvRemote"
+  ],
+   HomeAppliances: [
+    "WashingMachine", 
+    "Irons", 
+    "Fans"
+  ],
+   Computers: [
+    "Laptop", 
+    "Desktop", 
+    "Monitor"
+  ],
+   
     "Category C2": ["Subcategory C1.1", "Subcategory C1.2", "Subcategory C1.3"],
   };
   const { pathname } = useLocation();

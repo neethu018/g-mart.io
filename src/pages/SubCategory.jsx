@@ -1,10 +1,11 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import ProductCard from "../components/ProductCard";
 import { useParams, useLocation } from "react-router-dom";
-import { Container, Row, Col } from "react-bootstrap";
+import { Container, Row, Col,Image } from "react-bootstrap";
 import BreadCrumbs from "../components/BreadCrumbs";
 import CategoryAccordions from "../components/CategoryAccordions";
 import SortBtn from "../components/SortBtn";
+import {subcategoryAdImageData} from '../utils/adimage/subcategorybanneradimage';//subcategoryAdImageData
 
 const SubCategory = ({ products }) => {
   const { category, subcategory } = useParams();
@@ -66,6 +67,16 @@ const SubCategory = ({ products }) => {
     console.log("selectedSortItem is empty");
   }
 
+    //ProductlistAdImage
+    const [subcategoryAdImage,setSubcategoryAdImage] = useState("");
+  
+    useEffect(()=>{
+      if(subcategory){
+        console.log("subcategoryAdImageData key :",subcategory);
+        setSubcategoryAdImage(subcategoryAdImageData[subcategory]);
+      }
+    },[subcategory])
+
   return (
     <Container fluid className="product-list-container">
       {/* First Row with Breadcrumbs */}
@@ -89,6 +100,16 @@ const SubCategory = ({ products }) => {
         </Col>
         {/* right column with product list */}
         <Col md={9}>
+        {subcategoryAdImage && <Row>
+              <Col>
+                <Image
+                  src={subcategoryAdImage}
+                  fluid
+                  rounded
+                  style={{ height: '200px',width:"100%",objectFit:"cover"}}
+                />
+              </Col>
+            </Row>}
         <Row className=" mt-3 justify-content-end">
               <Col>
                 <SortBtn
@@ -97,7 +118,7 @@ const SubCategory = ({ products }) => {
                 />
               </Col>
             </Row>
-          <Row className=" mt-3 justify-content-end">
+          <Row className=" mt-3 ">
             {filteredProducts.map((product) => (
               <Col key={product.productId} xs={12} md={6} lg={4}>
                 <ProductCard
