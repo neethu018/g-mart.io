@@ -9639,7 +9639,7 @@ export const Fashion = {
         
               brand: "Deals4yoy",
         
-              shortDesc: "Footweae for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
+              shortDesc: "Footwear for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
       
               size : "7, 8, 9, 10",
       
@@ -9689,7 +9689,7 @@ export const Fashion = {
           
                 brand: "Deals4yoy",
           
-                shortDesc: "Footweae for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
+                shortDesc: "Footwear for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
         
                 size : "7, 8, 9, 10",
         
@@ -9739,7 +9739,7 @@ export const Fashion = {
           
                 brand: "Deals4yoy",
           
-                shortDesc: "Footweae for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
+                shortDesc: "Footwear for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
         
                 size : "7, 8, 9, 10",
         
@@ -9789,7 +9789,7 @@ export const Fashion = {
           
                 brand: "Deals4yoy",
           
-                shortDesc: "Footweae for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
+                shortDesc: "Footwear for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
         
                 size : "7, 8, 9, 10",
         
@@ -9839,7 +9839,7 @@ export const Fashion = {
           
                 brand: "Deals4yoy",
           
-                shortDesc: "Footweae for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
+                shortDesc: "Footwear for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
         
                 size : "7, 8, 9, 10",
         
@@ -9889,7 +9889,7 @@ export const Fashion = {
           
                 brand: "Deals4yoy",
           
-                shortDesc: "Footweae for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
+                shortDesc: "Footwear for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
         
                 size : "7, 8, 9, 10",
         
@@ -9939,7 +9939,7 @@ export const Fashion = {
           
                 brand: "Deals4yoy",
           
-                shortDesc: "Footweae for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
+                shortDesc: "Footwear for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
         
                 size : "7, 8, 9, 10",
         
@@ -9989,7 +9989,7 @@ export const Fashion = {
           
                 brand: "Deals4yoy",
           
-                shortDesc: "Footweae for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
+                shortDesc: "Footwear for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
         
                 size : "7, 8, 9, 10",
         
@@ -10039,7 +10039,7 @@ export const Fashion = {
           
                 brand: "Deals4yoy",
           
-                shortDesc: "Footweae for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
+                shortDesc: "Footwear for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
         
                 size : "7, 8, 9, 10",
         
@@ -10089,7 +10089,7 @@ export const Fashion = {
           
                 brand: "Deals4yoy",
           
-                shortDesc: "Footweae for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
+                shortDesc: "Footwear for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
         
                 size : "7, 8, 9, 10",
         
@@ -10139,7 +10139,7 @@ export const Fashion = {
           
                 brand: "Deals4yoy",
           
-                shortDesc: "Footweae for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
+                shortDesc: "Footwear for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
         
                 size : "7, 8, 9, 10",
         
@@ -10189,7 +10189,7 @@ export const Fashion = {
           
                 brand: "Deals4yoy",
           
-                shortDesc: "Footweae for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
+                shortDesc: "Footwear for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
         
                 size : "7, 8, 9, 10",
         
@@ -10239,7 +10239,7 @@ export const Fashion = {
           
                 brand: "Deals4yoy",
           
-                shortDesc: "Footweae for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
+                shortDesc: "Footwear for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
         
                 size : "7, 8, 9, 10",
         
@@ -10289,7 +10289,7 @@ export const Fashion = {
           
                 brand: "Deals4yoy",
           
-                shortDesc: "Footweae for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
+                shortDesc: "Footwear for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
         
                 size : "7, 8, 9, 10",
         
@@ -10339,7 +10339,7 @@ export const Fashion = {
           
                 brand: "Deals4yoy",
           
-                shortDesc: "Footweae for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
+                shortDesc: "Footwear for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
         
                 size : "7, 8, 9, 10",
         
@@ -10389,7 +10389,7 @@ export const Fashion = {
           
                 brand: "Deals4yoy",
           
-                shortDesc: "Footweae for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
+                shortDesc: "Footwear for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
         
                 size : "7, 8, 9, 10",
         
@@ -10439,7 +10439,7 @@ export const Fashion = {
           
                 brand: "Deals4yoy",
           
-                shortDesc: "Footweae for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
+                shortDesc: "Footwear for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
         
                 size : "7, 8, 9, 10",
         
@@ -10539,7 +10539,7 @@ export const Fashion = {
           
                 brand: "Deals4yoy",
           
-                shortDesc: "Footweae for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
+                shortDesc: "Footwear for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
         
                 size : "7, 8, 9, 10",
         
@@ -10589,7 +10589,7 @@ export const Fashion = {
           
                 brand: "Deals4yoy",
           
-                shortDesc: "Footweae for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
+                shortDesc: "Footwear for Women Acnos Brand Digital Rosegold Vintage Square Dial Unisex WR70ist Pack Of 1 (WR70-ROSEGOLD)",
         
                 size : "7, 8, 9, 10",
         
@@ -10667,7 +10667,7 @@ export const Fashion = {
                     Disclaimer:"Despite our attempts to provide you with the most accurate information possible, the actual packaging and colour of the product may sometimes vary. Please read the label, directions and warnings carefully before use.",
                     dressType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                     countryOfOrigin: "india",
-                    manufacturer: "Private Label",
+                    manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                     manufacturerAddress: ["Private Label", "Fresh Produce"],
                   
                     productId: 60339,
@@ -10705,7 +10705,7 @@ export const Fashion = {
                     Disclaimer:"Despite our attempts to provide you with the most accurate information possible, the actual packaging and colour of the product may sometimes vary. Please read the label, directions and warnings carefully before use.",
                     dressType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                     countryOfOrigin: "india",
-                    manufacturer: "Private Label",
+                    manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                     manufacturerAddress: ["Private Label", "Fresh Produce"],
                   
                     productId: 60340,
@@ -10743,7 +10743,7 @@ export const Fashion = {
                     Disclaimer:"Despite our attempts to provide you with the most accurate information possible, the actual packaging and colour of the product may sometimes vary. Please read the label, directions and warnings carefully before use.",
                     dressType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                     countryOfOrigin: "india",
-                    manufacturer: "Private Label",
+                    manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                     manufacturerAddress: ["Private Label", "Fresh Produce"],
                   
                     productId: 60341,
@@ -10780,7 +10780,7 @@ export const Fashion = {
                     Disclaimer:"Despite our attempts to provide you with the most accurate information possible, the actual packaging and colour of the product may sometimes vary. Please read the label, directions and warnings carefully before use.",
                     dressType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                     countryOfOrigin: "india",
-                    manufacturer: "Private Label",
+                    manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                     manufacturerAddress: ["Private Label", "Fresh Produce"],
                   
                     productId: 60342,
@@ -10817,7 +10817,7 @@ export const Fashion = {
                     Disclaimer:"Despite our attempts to provide you with the most accurate information possible, the actual packaging and colour of the product may sometimes vary. Please read the label, directions and warnings carefully before use.",
                     dressType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                     countryOfOrigin: "india",
-                    manufacturer: "Private Label",
+                    manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                     manufacturerAddress: ["Private Label", "Fresh Produce"],
                   
                     productId: 60343,
@@ -10854,7 +10854,7 @@ export const Fashion = {
                     Disclaimer:"Despite our attempts to provide you with the most accurate information possible, the actual packaging and colour of the product may sometimes vary. Please read the label, directions and warnings carefully before use.",
                     dressType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                     countryOfOrigin: "india",
-                    manufacturer: "Private Label",
+                    manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                     manufacturerAddress: ["Private Label", "Fresh Produce"],
                   
                     productId: 60344,
@@ -10891,7 +10891,7 @@ export const Fashion = {
                     Disclaimer:"Despite our attempts to provide you with the most accurate information possible, the actual packaging and colour of the product may sometimes vary. Please read the label, directions and warnings carefully before use.",
                     dressType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                     countryOfOrigin: "india",
-                    manufacturer: "Private Label",
+                    manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                     manufacturerAddress: ["Private Label", "Fresh Produce"],
                   
                     productId: 60345,
@@ -10928,7 +10928,7 @@ export const Fashion = {
                     Disclaimer:"Despite our attempts to provide you with the most accurate information possible, the actual packaging and colour of the product may sometimes vary. Please read the label, directions and warnings carefully before use.",
                     dressType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                     countryOfOrigin: "india",
-                    manufacturer: "Private Label",
+                    manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                     manufacturerAddress: ["Private Label", "Fresh Produce"],
                   
                     productId: 60346,
@@ -10965,7 +10965,7 @@ export const Fashion = {
                     Disclaimer:"Despite our attempts to provide you with the most accurate information possible, the actual packaging and colour of the product may sometimes vary. Please read the label, directions and warnings carefully before use.",
                     dressType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                     countryOfOrigin: "india",
-                    manufacturer: "Private Label",
+                    manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                     manufacturerAddress: ["Private Label", "Fresh Produce"],
                   
                     productId: 60347,
@@ -11002,7 +11002,7 @@ export const Fashion = {
                     Disclaimer:"Despite our attempts to provide you with the most accurate information possible, the actual packaging and colour of the product may sometimes vary. Please read the label, directions and warnings carefully before use.",
                     dressType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                     countryOfOrigin: "india",
-                    manufacturer: "Private Label",
+                    manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                     manufacturerAddress: ["Private Label", "Fresh Produce"],
                   
                     productId: 60348,
@@ -11039,7 +11039,7 @@ export const Fashion = {
                     Disclaimer:"Despite our attempts to provide you with the most accurate information possible, the actual packaging and colour of the product may sometimes vary. Please read the label, directions and warnings carefully before use.",
                     dressType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                     countryOfOrigin: "india",
-                    manufacturer: "Private Label",
+                    manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                     manufacturerAddress: ["Private Label", "Fresh Produce"],
                   
                     productId: 60349,
@@ -11076,7 +11076,7 @@ export const Fashion = {
                     Disclaimer:"Despite our attempts to provide you with the most accurate information possible, the actual packaging and colour of the product may sometimes vary. Please read the label, directions and warnings carefully before use.",
                     dressType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                     countryOfOrigin: "india",
-                    manufacturer: "Private Label",
+                    manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                     manufacturerAddress: ["Private Label", "Fresh Produce"],
                   
                     productId: 60350,
@@ -11113,7 +11113,7 @@ export const Fashion = {
                     Disclaimer:"Despite our attempts to provide you with the most accurate information possible, the actual packaging and colour of the product may sometimes vary. Please read the label, directions and warnings carefully before use.",
                     dressType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                     countryOfOrigin: "india",
-                    manufacturer: "Private Label",
+                    manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                     manufacturerAddress: ["Private Label", "Fresh Produce"],
                   
                     productId: 60351,
@@ -11150,7 +11150,7 @@ export const Fashion = {
                     Disclaimer:"Despite our attempts to provide you with the most accurate information possible, the actual packaging and colour of the product may sometimes vary. Please read the label, directions and warnings carefully before use.",
                     dressType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                     countryOfOrigin: "india",
-                    manufacturer: "Private Label",
+                    manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                     manufacturerAddress: ["Private Label", "Fresh Produce"],
                   
                     productId: 60352,
@@ -11187,7 +11187,7 @@ export const Fashion = {
                     Disclaimer:"Despite our attempts to provide you with the most accurate information possible, the actual packaging and colour of the product may sometimes vary. Please read the label, directions and warnings carefully before use.",
                     dressType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                     countryOfOrigin: "india",
-                    manufacturer: "Private Label",
+                    manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                     manufacturerAddress: ["Private Label", "Fresh Produce"],
                   
                     productId: 60353,
@@ -11224,7 +11224,7 @@ export const Fashion = {
                     Disclaimer:"Brand DISNEY BY MISS & CHIEF Style Code MACTSHRT183 Size 1 - 2 Years Brand Color Multicolor Ideal For Boys Fabric Cotton Blend Primary Color Multicolor Pattern Cartoon",
                     dressType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                     countryOfOrigin: "india",
-                    manufacturer: "Private Label",
+                    manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                     manufacturerAddress: ["Private Label", "Fresh Produce"],
                   
                     productId: 60354,
@@ -11261,7 +11261,7 @@ export const Fashion = {
                     Disclaimer:"Despite our attempts to provide you with the most accurate information possible, the actual packaging and colour of the product may sometimes vary. Please read the label, directions and warnings carefully before use.",
                     dressType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                     countryOfOrigin: "india",
-                    manufacturer: "Private Label",
+                    manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                     manufacturerAddress: ["Private Label", "Fresh Produce"],
                   
                     productId: 60355,
@@ -11298,7 +11298,7 @@ export const Fashion = {
                     Disclaimer:"Despite our attempts to provide you with the most accurate information possible, the actual packaging and colour of the product may sometimes vary. Please read the label, directions and warnings carefully before use.",
                     dressType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                     countryOfOrigin: "india",
-                    manufacturer: "Private Label",
+                    manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                     manufacturerAddress: ["Private Label", "Fresh Produce"],
                   
                     productId: 60356,
@@ -11335,7 +11335,7 @@ export const Fashion = {
                     Disclaimer:"Despite our attempts to provide you with the most accurate information possible, the actual packaging and colour of the product may sometimes vary. Please read the label, directions and warnings carefully before use.",
                     dressType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                     countryOfOrigin: "india",
-                    manufacturer: "Private Label",
+                    manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                     manufacturerAddress: ["Private Label", "Fresh Produce"],
                   
                     productId: 60357,
@@ -11372,7 +11372,7 @@ export const Fashion = {
                     Disclaimer:"Despite our attempts to provide you with the most accurate information possible, the actual packaging and colour of the product may sometimes vary. Please read the label, directions and warnings carefully before use.",
                     dressType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                     countryOfOrigin: "india",
-                    manufacturer: "Private Label",
+                    manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                     manufacturerAddress: ["Private Label", "Fresh Produce"],
                   
                     productId: 60358,
@@ -11411,7 +11411,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               },
@@ -11446,7 +11446,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               }, {
@@ -11480,7 +11480,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               }, {
@@ -11514,7 +11514,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               }, {
@@ -11548,7 +11548,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               }, {
@@ -11582,7 +11582,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               }, {
@@ -11616,7 +11616,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               }, {
@@ -11650,7 +11650,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               }, {
@@ -11684,7 +11684,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               }, {
@@ -11718,7 +11718,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               }, {
@@ -11752,7 +11752,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               }, {
@@ -11786,7 +11786,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               }, {
@@ -11820,7 +11820,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               }, {
@@ -11854,7 +11854,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               }, {
@@ -11888,7 +11888,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               }, {
@@ -11922,7 +11922,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               }, {
@@ -11956,7 +11956,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               }, {
@@ -11990,7 +11990,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               }, {
@@ -12024,7 +12024,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               }, {
@@ -12058,7 +12058,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               },
@@ -12095,7 +12095,7 @@ export const Fashion = {
               "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
             foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
             countryOfOrigin: "India",
-            manufacturer: "Private Label",
+            manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
             manufacturerAddress: ["Private Label", "Fresh Produce"],
           
           }, 
@@ -12130,7 +12130,7 @@ export const Fashion = {
               "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
             foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
             countryOfOrigin: "India",
-            manufacturer: "Private Label",
+            manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
             manufacturerAddress: ["Private Label", "Fresh Produce"],
           
           },   {
@@ -12164,7 +12164,7 @@ export const Fashion = {
               "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
             foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
             countryOfOrigin: "India",
-            manufacturer: "Private Label",
+            manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
             manufacturerAddress: ["Private Label", "Fresh Produce"],
           
           },   {
@@ -12198,7 +12198,7 @@ export const Fashion = {
               "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
             foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
             countryOfOrigin: "India",
-            manufacturer: "Private Label",
+            manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
             manufacturerAddress: ["Private Label", "Fresh Produce"],
           
           },   {
@@ -12232,7 +12232,7 @@ export const Fashion = {
               "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
             foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
             countryOfOrigin: "India",
-            manufacturer: "Private Label",
+            manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
             manufacturerAddress: ["Private Label", "Fresh Produce"],
           
           },   {
@@ -12266,7 +12266,7 @@ export const Fashion = {
               "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
             foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
             countryOfOrigin: "India",
-            manufacturer: "Private Label",
+            manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
             manufacturerAddress: ["Private Label", "Fresh Produce"],
           
           },   {
@@ -12300,7 +12300,7 @@ export const Fashion = {
               "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
             foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
             countryOfOrigin: "India",
-            manufacturer: "Private Label",
+            manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
             manufacturerAddress: ["Private Label", "Fresh Produce"],
           
           },   {
@@ -12334,7 +12334,7 @@ export const Fashion = {
               "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
             foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
             countryOfOrigin: "India",
-            manufacturer: "Private Label",
+            manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
             manufacturerAddress: ["Private Label", "Fresh Produce"],
           
           },   {
@@ -12368,7 +12368,7 @@ export const Fashion = {
               "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
             foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
             countryOfOrigin: "India",
-            manufacturer: "Private Label",
+            manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
             manufacturerAddress: ["Private Label", "Fresh Produce"],
           
           },   {
@@ -12402,7 +12402,7 @@ export const Fashion = {
               "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
             foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
             countryOfOrigin: "India",
-            manufacturer: "Private Label",
+            manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
             manufacturerAddress: ["Private Label", "Fresh Produce"],
           
           }, 
@@ -12440,7 +12440,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               },{
@@ -12474,7 +12474,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               },{
@@ -12508,7 +12508,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               },{
@@ -12542,7 +12542,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               },{
@@ -12576,7 +12576,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               },{
@@ -12610,7 +12610,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               },{
@@ -12644,7 +12644,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               },{
@@ -12678,7 +12678,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               },{
@@ -12712,7 +12712,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               },{
@@ -12746,7 +12746,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               },{
@@ -12780,7 +12780,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               },{
@@ -12814,7 +12814,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               },{
@@ -12848,7 +12848,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               },{
@@ -12882,7 +12882,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               },{
@@ -12916,7 +12916,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               },{
@@ -12950,7 +12950,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               },{
@@ -12984,7 +12984,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               },{
@@ -13018,7 +13018,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               },{
@@ -13052,7 +13052,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               },{
@@ -13086,7 +13086,7 @@ export const Fashion = {
                   "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
                 foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
                 countryOfOrigin: "India",
-                manufacturer: "Private Label",
+                manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
                 manufacturerAddress: ["Private Label", "Fresh Produce"],
               
               },
@@ -13123,7 +13123,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -13157,7 +13157,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -13191,7 +13191,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -13225,7 +13225,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -13259,7 +13259,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -13293,7 +13293,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -13327,7 +13327,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -13361,7 +13361,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -13395,7 +13395,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -13429,7 +13429,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -13463,7 +13463,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -13497,7 +13497,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -13531,7 +13531,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -13565,7 +13565,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -13599,7 +13599,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -13633,7 +13633,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -13667,7 +13667,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -13701,7 +13701,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -13735,7 +13735,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -13769,7 +13769,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },
@@ -13806,7 +13806,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -13840,7 +13840,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -13874,7 +13874,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -13908,7 +13908,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -13942,7 +13942,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -13976,7 +13976,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -14010,7 +14010,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -14044,7 +14044,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -14078,7 +14078,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -14112,7 +14112,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -14146,7 +14146,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -14180,7 +14180,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -14214,7 +14214,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -14248,7 +14248,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },{
@@ -14282,7 +14282,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },
@@ -14319,7 +14319,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -14353,7 +14353,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -14387,7 +14387,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -14421,7 +14421,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -14455,7 +14455,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -14489,7 +14489,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -14523,7 +14523,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -14557,7 +14557,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -14591,7 +14591,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -14625,7 +14625,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -14659,7 +14659,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -14693,7 +14693,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -14727,7 +14727,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -14761,7 +14761,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -14795,7 +14795,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -14829,7 +14829,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -14863,7 +14863,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -14897,7 +14897,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -14931,7 +14931,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -14965,7 +14965,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },
@@ -15002,7 +15002,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -15036,7 +15036,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -15070,7 +15070,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -15104,7 +15104,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -15138,7 +15138,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -15172,7 +15172,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -15206,7 +15206,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -15240,7 +15240,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -15274,7 +15274,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -15308,7 +15308,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -15342,7 +15342,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -15376,7 +15376,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -15410,7 +15410,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -15444,7 +15444,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -15478,7 +15478,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -15512,7 +15512,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -15546,7 +15546,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -15580,7 +15580,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -15614,7 +15614,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, {
@@ -15648,7 +15648,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, 
@@ -15685,7 +15685,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },  {
@@ -15719,7 +15719,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },  {
@@ -15753,7 +15753,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },  {
@@ -15787,7 +15787,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },  {
@@ -15821,7 +15821,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },  {
@@ -15855,7 +15855,7 @@ export const Fashion = {
                 "espite our attempts to provide you with the most accurate information possible, the actual packaging, material, and colour of the product may sometimes vary. Please read the label, directions, and warnings carefully before use.",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },  {
@@ -15889,7 +15889,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },  {
@@ -15923,7 +15923,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },  {
@@ -15957,7 +15957,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },  {
@@ -15991,7 +15991,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },  {
@@ -16025,7 +16025,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },  {
@@ -16059,7 +16059,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },  {
@@ -16093,7 +16093,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },  {
@@ -16127,7 +16127,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },  {
@@ -16161,7 +16161,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },  {
@@ -16195,7 +16195,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },  {
@@ -16229,7 +16229,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },  {
@@ -16263,7 +16263,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },  {
@@ -16297,7 +16297,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             },  {
@@ -16331,7 +16331,7 @@ export const Fashion = {
                 "Despite our attempts to provide you with the most accurate information possible, the actual packaging, ingredients and colour of the product may sometimes vary Please read the label, directions and warnings carefully before use",
               foodType: "https://www.jiomart.com/assets/ds2web/jds-icons/icon-veg.svg",
               countryOfOrigin: "India",
-              manufacturer: "Private Label",
+              manufacturer: "Private Label", colour:"blue, black, green, white, pink", size:"S, M, XL, XXL",
               manufacturerAddress: ["Private Label", "Fresh Produce"],
             
             }, 
