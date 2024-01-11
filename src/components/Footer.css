@@ -1,0 +1,21 @@
+.link{
+    margin-bottom: .8em;
+    display: block;
+    text-decoration: none;
+    color:#3B3B3B;
+}
+li,p{
+    color: #696969;
+}
+h3,h5{
+    margin-bottom: 1em;
+}
+h5{
+    font-weight: bold;
+}
+h3{
+    font-weight:bolder;
+}
+span{
+    color:#1e90ff;
+}
