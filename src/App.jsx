@@ -10,9 +10,13 @@ import { SportsToysLuggages } from "./utils/sportstoysluggages"; //sportstoysLug
 import MainCategory from "./pages/MainCategory";
 import Header from "./components/Header";
 import ProductDetail from "./pages/ProductDetail";
+
+import TopNavbar from "./components/navbar/TopNavbar";
+
 import { Fashion } from "./utils/Fashion"; //fashion
 import { Electronics } from "./utils/electronics"; //electronics
 import AllCatogries from "./pages/AllCatogries";
+
 
 function App() {
   console.log("premiumfruits data :", premiumFruits);
@@ -20,6 +24,7 @@ function App() {
   
     <>
       <Router>
+        <TopNavbar/>
         <Header />
         <Routes>
           <Route path="/" element={<Home />} />

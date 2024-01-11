@@ -3770,8 +3770,10 @@ export const Beauty = {
           "Dreaming of long hair but tired of long hair problems like hair breakage, damaged hair, and split ends? Save the last 3 cms of your hair and instantly transform your long hair with the new L’Oréal Paris Dream Lengths Restoring Shampoo – a shampoo for hair growth! Infused with Vegetal Keratin and Castor Oil, the creamy Dream Lengths Restoring Shampoo intensely repairs the lengths of your hair so you can achieve your long hair goals without the long hair problems – a great shampoo for split ends! With vitamin B3 and B5, this hair repair shampoo visibly repairs damaged hair without weighing your hair down, and leaves your hair feeling 2X stronger. For best results and reduced hair breakage, use the L’Oréal Paris shampoo with the new L’Oréal Paris Dream Lengths Detangling Conditioner and L’Oréal Paris Dream Lengths No Haircut Cream (Leave In Cream). How To use? Massage the shampoo gently into wet scalp and hair, working from roots to tips and lather. Rinse thoroughly until no residue is left behind.",
         CountryOfOrigin: "India",
         ManufacturedBy: "Pritam International Pvt Ltd",
+
         ManufacturerAddress:"K. No. 138, Raipur Industrial Area, Roorkee, Uttarakhand - 247667",
         productId:60730 ,
+
       },
       {
         productImage: [
