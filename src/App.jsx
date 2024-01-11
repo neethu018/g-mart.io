@@ -1,25 +1,43 @@
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 import "./App.css";
-import Category from "./pages/Category";
-import Home from "./pages/Home";
-import Cart from "./pages/Cart"
-import SubCategory from "./pages/SubCategory";
-import { premiumFruits } from "./utils/premiumfruitsdata";//premiumfruits data
-import { Beauty } from "./utils/beauty";//beauty data
+
+import { premiumFruits } from "./utils/premiumfruitsdata"; //premiumfruits data
+import { Beauty } from "./utils/beauty"; //beauty data
 import { SportsToysLuggages } from "./utils/sportstoysluggages"; //sportstoysLuggages data
-import MainCategory from "./pages/MainCategory";
+import { Fashion } from "./utils/Fashion"; //fashion
+import { Electronics } from "./utils/electronics"; //electronics
+
 import Header from "./components/Header";
+
+import Home from "./pages/Home";
+import MainCategory from "./pages/MainCategory";
+import Category from "./pages/Category";
+import TopNavbar from "./components/navbar/TopNavbar";
+import SubCategory from "./pages/SubCategory";
 import ProductDetail from "./pages/ProductDetail";
+
 import { Fashion } from "./utils/Fashion"; //fashion
 import { Electronics } from "./utils/electronics"; //electronics
 import AllCatogries from "./pages/AllCatogries";
 import Footer from "./components/Footer"
+
+import Cart from "./pages/Cart";
+import Search from "./pages/Search";
+
 function App() {
   console.log("premiumfruits data :", premiumFruits);
+  // data for search products
+  const totalProducts = Object.values(premiumFruits)
+    .concat(Object.values(SportsToysLuggages))
+    .concat(Object.values(Fashion))
+    .concat(Object.values(Beauty))
+    .concat(Object.values(Electronics))
+    .flat();
+  // console.log("total products", totalProducts);
   return (
-  
     <>
       <Router>
+        <TopNavbar />
         <Header />
         <Routes>
           <Route path="/" element={<Home />} />
@@ -40,11 +58,8 @@ function App() {
             path="/premiumfruits/:category/:subcategory/:product"
             element={<ProductDetail />}
           />
-           {/*beauty routings */}
-           <Route
-            path="/Beauty"
-            element={<MainCategory products={Beauty} />}
-          />
+          {/*beauty routings */}
+          <Route path="/Beauty" element={<MainCategory products={Beauty} />} />
           <Route
             path="/Beauty/:category"
             element={<Category products={Beauty} />}
@@ -74,8 +89,8 @@ function App() {
             path="/Fashion/:category/:subcategory/:product"
             element={<ProductDetail />}
           />
-           {/*Electronics routings */}
-           <Route
+          {/*Electronics routings */}
+          <Route
             path="/Electronics"
             element={<MainCategory products={Electronics} />}
           />
@@ -108,14 +123,28 @@ function App() {
             path="/SportsToysLuggages/:category/:subcategory/:product"
             element={<ProductDetail />}
           />
-              <Route path="/cart" element={<Cart/>}/>
-              <Route path="/AllCatogries" element={<AllCatogries/>}/>
+          {/* search */}
+          <Route
+            path="/search/"
+            element={<Search products={totalProducts} />}
+          />
+          <Route
+            path="/search/:searchTerm"
+            element={<Search products={totalProducts} />}
+          />
+          <Route
+            path="/search/:searchTerm/:productname/:productId"
+            element={<ProductDetail />}
+          />
+          {/* cart */}
+          <Route path="/cart" element={<Cart />} />
+          {/* allcategory */}
+          <Route path="/allcategory" element={<AllCatogries />} />
         </Routes>
         <Footer/>
       </Router>
     
     </>
-
   );
 }
 
