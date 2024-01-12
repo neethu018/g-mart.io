@@ -13,19 +13,14 @@ const CategoryAccordions = ({ mainCategory }) => {
       "Dates",
       "GiftAssortedXlPacks",
       "PomegranatePapayaPineapple",
-      "SeasonalMinorFruits"
+      "SeasonalMinorFruits",
+
     ],
     Beauty: [
       "makeup",
       "skincare"
     ],
     SportsToysLuggages: ["BagsTravelLuggages"],
-    HomeAndKitchenNeeds: [
-      "Kitchenware",
-      "HomeDecor",
-      "Furniture",
-      "BathroomAccessories",
-    ],
     Fashion: [
       "MensFashion",
       "WomensFashion",
@@ -38,6 +33,12 @@ const CategoryAccordions = ({ mainCategory }) => {
       "HomeAppliances",
       "Computers",
     ],
+    HomeKitchenNeeds:[
+      "KitchenTools",
+      "HomeDecor",
+      "Furniture",
+      "BathroomAccessories"
+    ]
   };
   const subcategoriesByCategory = {
     //premiumfruits
@@ -61,10 +62,10 @@ const CategoryAccordions = ({ mainCategory }) => {
       // "TravelAccessories",
       "TrolleysAndSuitcases",
     ],
-    // homekitchen
-    Kitchenware: ["KitchenTools", "Cookware", "GasStove"],
-    HomeDecor: ["InteriorNeeds", "Decors", "GiftingSets"],
-    Furniture: ["Chairs", "Tables", "Mattress", "SofasAndCouches"],
+    // HomeKitchenNeeds
+    KitchenTools: ["kitchenTools", "cookWare", "gasStove"],
+    HomeDecor: ["interiorNeeds", "decors", "giftingSets"],
+    Furniture: ["chairs", "table", "mattress", "sofasCouches"],
     BathroomAccessories: ["MugsTubsBuckets", "HooksClipsLaundryEssentials"],
     //fashion
     MensFashion: [
