@@ -15,9 +15,6 @@ import Category from "./pages/Category";
 import TopNavbar from "./components/navbar/TopNavbar";
 import SubCategory from "./pages/SubCategory";
 import ProductDetail from "./pages/ProductDetail";
-
-import { Fashion } from "./utils/Fashion"; //fashion
-import { Electronics } from "./utils/electronics"; //electronics
 import AllCatogries from "./pages/AllCatogries";
 import Footer from "./components/Footer"
 

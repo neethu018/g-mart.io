@@ -560,7 +560,7 @@ const Header = () => {
             <Nav.Link href="/Electronics">Electronics</Nav.Link>
             <Nav.Link href="#about">About</Nav.Link>
             <Nav.Link href="#about">About</Nav.Link>
-            <CartIcon/>
+            {/* <CartIcon/> */}
 
           </Nav>
         </Navbar.Collapse>
