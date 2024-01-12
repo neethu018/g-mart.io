@@ -13,6 +13,7 @@ import {
   faGift,
   faReceipt
 } from "@fortawesome/free-solid-svg-icons";
+import BreadCrumbs from "../components/BreadCrumbs";
 
 const ProductDetail = () => {
   // Use useLocation to access the state object
@@ -31,8 +32,39 @@ const ProductDetail = () => {
     addToCart(product);
   };
 
+  //for breadcrumbs
+  console.log("pathnam:", pathname);
+  const titles = pathname.split("/");
+  console.log("titles", titles);
+  const mainTitle = titles[1];
+  const mainUrl = "/" + titles[1];
+  console.log("mainTitle", mainTitle);
+  console.log("mainUrl", mainUrl);
+  const catTitle = titles[2];
+  const catUrl = "/" + titles[1] + "/" + titles[2];
+  console.log("catTitle", catTitle);
+  console.log("catUrl", catUrl);
+  const subcatTitle = titles[3];
+  const subcatUrl = pathname;
+  console.log("subcatTitle", subcatTitle);
+  console.log("subcatUrl", subcatUrl);
+
+
 return (
-    <Container className='mt-5' fluid>
+    <Container className='mt-2' fluid>
+      {/* First Row with Breadcrumbs */}
+      <Row>
+        <Col>
+          <BreadCrumbs
+            mainTitle={mainTitle}
+            mainUrl={mainUrl}
+            catTitle={catTitle}
+            catUrl={catUrl}
+            subcatTitle={subcatTitle}
+            subcatUrl={subcatUrl}
+          />
+        </Col>
+      </Row>
       <Row>
         <Col className="fixed-row" style={{marginLeft:"30px",}}>
         <div className="d-flex justify-content-center" style={{marginRight:"130px"}}>

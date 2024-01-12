@@ -23,10 +23,10 @@ const BreadCrumbs = ({mainTitle,mainUrl,catTitle,catUrl,subcatTitle,subcatUrl}) 
       {mainTitle&& <Breadcrumb.Item linkAs={Link} linkProps={{ to: `${mainUrl}` }} className="custom-breadcrumb-item">
         <span className={`${ catTitle? '' : 'text-black'}`}>{mainTitle}</span>
       </Breadcrumb.Item>}
-      {catTitle&& <Breadcrumb.Item linkAs={Link} linkProps={{ to: `${catUrl}` }} className="custom-breadcrumb-item">
+      {catTitle&& <Breadcrumb.Item linkAs={Link} linkProps={{ to: `${catTitle == 'allproducts'?mainUrl:catUrl}` }}className="custom-breadcrumb-item">
       <span className={`${ subcatTitle? '' : 'text-black'}`}>{catTitle}</span>
       </Breadcrumb.Item>}
-      {subcatTitle&& <Breadcrumb.Item linkAs={Link} linkProps={{ to: `${subcatUrl}` }} className="custom-breadcrumb-item">
+      {subcatTitle&& <Breadcrumb.Item className="custom-breadcrumb-item">
       <span className={`${ subcatTitle? 'text-black' :"" }`}>{subcatTitle}</span>
 
       </Breadcrumb.Item>}

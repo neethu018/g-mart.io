@@ -469,7 +469,7 @@ export const SportsToysLuggages = {
     
     
   ],
-  DoffleBags: [
+  DuffleBags: [
       {
         productImage:
           ["https://www.jiomart.com/images/product/original/rvtoftjvoy/medler-epoch-nylon-55-litres-waterproof-strolley-duffle-bag-2-wheels-luggage-bag-navy-blue-product-images-orvtoftjvoy-p591754080-0-202205310750.jpg?im=Resize=(420,420)"],
@@ -972,7 +972,7 @@ export const SportsToysLuggages = {
       
       
     ],
-     TrollyseAndSuitcase: [
+    TrolleysAndSuitcases: [
       {
         productImage:
           ["https://www.jiomart.com/images/product/original/rvyqu52ey6/sitara-bag-suitcase-polyester-luggage-three-wheel-combo-trolley-bag-pack-of-2-grey-product-images-orvyqu52ey6-p601374841-0-202305111815.jpg?im=Resize=(420,420)"],
@@ -1476,7 +1476,7 @@ export const SportsToysLuggages = {
       }
       
       
-    ],ShoppingbagsAndOtherbags: [
+    ],ShoppingAndOtherbags: [
       {
         productImage:
           ["https://www.jiomart.com/images/product/original/rvm4r4bnrm/sh-nasima-shirts-organizer-and-clothing-box-for-closet-clothes-grey-pack-of-3-product-images-orvm4r4bnrm-p600219730-0-202304061409.jpg?im=Resize=(420,420)"],

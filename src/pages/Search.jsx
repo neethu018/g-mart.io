@@ -3,7 +3,7 @@ import { useParams } from "react-router-dom";
 import { Col, Container, Row, Card } from "react-bootstrap";
 import ProductCard from "../components/ProductCard";
 import SortBtn from "../components/SortBtn";
-import CategoryAccordions from "../components/CategoryAccordions";
+// import CategoryAccordions from "../components/CategoryAccordions";
 
 const NoProduct = () => {
   return (

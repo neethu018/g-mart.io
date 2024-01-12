@@ -6,6 +6,7 @@ import { Beauty } from "./utils/beauty"; //beauty data
 import { SportsToysLuggages } from "./utils/sportstoysluggages"; //sportstoysLuggages data
 import { Fashion } from "./utils/Fashion"; //fashion
 import { Electronics } from "./utils/electronics"; //electronics
+import { HomeKitchenNeeds } from "./utils/HomeKitchenTools"; //homeandkitchen
 
 import Header from "./components/Header";
 
@@ -29,6 +30,7 @@ function App() {
     .concat(Object.values(Fashion))
     .concat(Object.values(Beauty))
     .concat(Object.values(Electronics))
+    .concat(Object.values(HomeKitchenNeeds))
     .flat();
   // console.log("total products", totalProducts);
   return (
@@ -101,6 +103,24 @@ function App() {
           />
           <Route
             path="/Electronics/:category/:subcategory/:product"
+            element={<ProductDetail />}
+          />
+          
+          {/*HomeKitchenNeeds routings */}
+          <Route
+            path="/HomeKitchenNeeds"
+            element={<MainCategory products={HomeKitchenNeeds} />}
+          />
+          <Route
+            path="/HomeKitchenNeeds/:category"
+            element={<Category products={HomeKitchenNeeds} />}
+          />
+          <Route
+            path="/HomeKitchenNeeds/:category/:subcategory"
+            element={<SubCategory products={HomeKitchenNeeds} />}
+          />
+          <Route
+            path="/HomeKitchenNeeds/:category/:subcategory/:product"
             element={<ProductDetail />}
           />
            {/* sportsToysLuggages */}

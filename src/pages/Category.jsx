@@ -1,11 +1,11 @@
 import React, { useEffect, useState } from "react";
 import ProductCard from "../components/ProductCard";
 import { useParams, useLocation } from "react-router-dom";
-import { Container, Row, Col,Image } from "react-bootstrap";
+import { Container, Row, Col, Image } from "react-bootstrap";
 import BreadCrumbs from "../components/BreadCrumbs";
 import CategoryAccordions from "../components/CategoryAccordions";
 import SortBtn from "../components/SortBtn";
-import {categoryBannerAdImagedata} from '../utils/adimage/categorybanneradimage';
+import { categoryBannerAdImagedata } from "../utils/adimage/categorybanneradimage";
 
 const Category = ({ products }) => {
   const [showdata, setShowdata] = useState([]);
@@ -171,25 +171,24 @@ const Category = ({ products }) => {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
-  }else if (category === "skincare") {
+  } else if (category === "skincare") {
     // Check if 'Serum','FaceMask','Moisturizes',properties exist in the products object
     if (
       products &&
       products.Serum &&
       products.FaceMask &&
-      products.Moisturizers 
-      
+      products.Moisturizers
     ) {
       filteredProducts = [
         ...products.Serum,
-        ...products.FaceMask ,
+        ...products.FaceMask,
         ...products.Moisturizers,
       ];
     } else {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
-  }else if (category === "mensfashion") {
+  } else if (category === "mensfashion") {
     // Check if 'ClothingAccessories','WesternWear','FootWear','EyeWear','InnerWear' properties exist in the products object
     if (
       products &&
@@ -210,7 +209,7 @@ const Category = ({ products }) => {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
-  }else if (category === "womensfashion") {
+  } else if (category === "womensfashion") {
     // Check if 'EthinicWear','TraditionalWear','EyeWear','Watches','FootWear'properties exist in the products object
     if (
       products &&
@@ -218,12 +217,11 @@ const Category = ({ products }) => {
       products.TraditionalWear &&
       products.EyeWear &&
       products.Watches &&
-      products.FootWear 
-      
+      products.FootWear
     ) {
       filteredProducts = [
         ...products.EthinicWear,
-        ...products.TraditionalWear ,
+        ...products.TraditionalWear,
         ...products.EyeWear,
         ...products.Watches,
         ...products.FootWear,
@@ -232,7 +230,7 @@ const Category = ({ products }) => {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
-  }else if (category === "kidsfashion") {
+  } else if (category === "kidsfashion") {
     // Check if 'JuniorBoyShirt','JuniorBoyTracks','JuniorBoyInnerWear',
     //'JuniorGirlGowns','JuniorGirlCasualWear','JuniorGirlInnerWear','BabyGirl','BabyBoy','Toys'
     //properties exist in the products object
@@ -243,13 +241,11 @@ const Category = ({ products }) => {
       products.JuniorBoyInnerWear &&
       products.JuniorGirlGowns &&
       products.JuniorGirlCasualWear &&
-      products.JuniorGirlInnerWear 
-     
-      
+      products.JuniorGirlInnerWear
     ) {
       filteredProducts = [
         ...products.JuniorBoyShirt,
-        ...products.JuniorBoyTracks ,
+        ...products.JuniorBoyTracks,
         ...products.JuniorBoyInnerWear,
         ...products.JuniorGirlGowns,
         ...products.JuniorGirlCasualWear,
@@ -262,18 +258,11 @@ const Category = ({ products }) => {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
-  }
-  else if (category === "infants") {
+  } else if (category === "infants") {
     // Check if 'JuniorBoyShirt','JuniorBoyTracks','JuniorBoyInnerWear',
     //'JuniorGirlGowns','JuniorGirlCasualWear','JuniorGirlInnerWear','BabyGirl','BabyBoy','Toys'
     //properties exist in the products object
-    if (
-      products &&
-      products.BabyGirl &&
-      products.BabyBoy &&
-      products.Toys 
-      
-    ) {
+    if (products && products.BabyGirl && products.BabyBoy && products.Toys) {
       filteredProducts = [
         ...products.BabyGirl,
         ...products.BabyBoy,
@@ -290,7 +279,7 @@ const Category = ({ products }) => {
       products &&
       products.Smartphone &&
       products.MobileAccessories &&
-      products.Tablets 
+      products.Tablets
     ) {
       filteredProducts = [
         ...products.Smartphone,
@@ -301,61 +290,51 @@ const Category = ({ products }) => {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
-  }else if (category === "TvSpeaker") {
+  } else if (category === "TvSpeaker") {
     // Check if 'Tv','HomeTheatre','TvRemote'properties exist in the products object
 
-if (
-    products &&
-    products.Tv &&
-    products.HomeTheatre &&
-    products.TvRemote 
-) {
-filteredProducts = [
-    ...products.Tv,
-    ...products.HomeTheatre,
-    ...products.TvRemote,
-];
-} else {
-console.error("Products data is incomplete.");
-return <div>Error loading products.</div>;
-}
-}else if (category === "HomeAppliances") {
+    if (products && products.Tv && products.HomeTheatre && products.TvRemote) {
+      filteredProducts = [
+        ...products.Tv,
+        ...products.HomeTheatre,
+        ...products.TvRemote,
+      ];
+    } else {
+      console.error("Products data is incomplete.");
+      return <div>Error loading products.</div>;
+    }
+  } else if (category === "HomeAppliances") {
     // Check if 'WashingMachine','Irons','Fans'properties exist in the products object
-    
+
     if (
-        products && 
-        products.WashingMachine &&
-        products.Irons &&
-        products.Fans 
-        ) {
-        filteredProducts = [
-            ...products.WashingMachine,
-            ...products.Irons,
-            ...products.Fans,
-        ];
-} else {
-console.error("Products data is incomplete.");
-return <div>Error loading products.</div>;
-}
-}else if (category === "Computers") {
+      products &&
+      products.WashingMachine &&
+      products.Irons &&
+      products.Fans
+    ) {
+      filteredProducts = [
+        ...products.WashingMachine,
+        ...products.Irons,
+        ...products.Fans,
+      ];
+    } else {
+      console.error("Products data is incomplete.");
+      return <div>Error loading products.</div>;
+    }
+  } else if (category === "Computers") {
     // Check if 'Laptop', 'Desktop', 'Monitor' properties exist in the products object
-    
-    if (
-        products &&
-        products.Laptop &&
-        products.Desktop &&
-        products.Monitor
-        ) {
-        filteredProducts = [
-            ...products.Laptop,
-            ...products.Desktop,
-            ...products.Monitor,
-        ];
-        } else {
-        console.error("Products data is incomplete.");
-        return <div>Error loading products.</div>;
-        }
-        } //BagsAndLuggages
+
+    if (products && products.Laptop && products.Desktop && products.Monitor) {
+      filteredProducts = [
+        ...products.Laptop,
+        ...products.Desktop,
+        ...products.Monitor,
+      ];
+    } else {
+      console.error("Products data is incomplete.");
+      return <div>Error loading products.</div>;
+    }
+  } //BagsAndLuggages
   else if (category === "BagsTravelLuggages") {
     // Bags Luggages
     if (
@@ -375,20 +354,85 @@ return <div>Error loading products.</div>;
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
+  } //KitchenTools
+  else if (category === "KitchenTools") {
+    if (
+      products &&
+      products.kitchenTools &&
+      products.cookWare &&
+      products.gasStove
+    ) {
+      filteredProducts = [
+        ...products.kitchenTools,
+        ...products.cookWare,
+        ...products.gasStove,
+      ];
+    } else {
+      console.error("Products data is incomplete.");
+      return <div>Error loading products.</div>;
+    }
+  } //HomeDecor
+  else if (category === "HomeDecor") {
+    if (
+      products &&
+      products.interiorNeeds &&
+      products.decors &&
+      products.giftingSets
+    ) {
+      filteredProducts = [
+        ...products.interiorNeeds,
+        ...products.decors,
+        ...products.giftingSets,
+      ];
+    } else {
+      console.error("Products data is incomplete.");
+      return <div>Error loading products.</div>;
+    }
+  } //Furniture
+  else if (category === "Furniture") {
+    if (
+      products &&
+      products.chairs &&
+      products.table &&
+      products.mattress&&
+      products.sofasCouches
+    ) {
+      filteredProducts = [
+        ...products.chairs,
+        ...products.table,
+        ...products.mattress,
+        ...products.sofasCouches,
+      ];
+    } else {
+      console.error("Products data is incomplete.");
+      return <div>Error loading products.</div>;
+    }
+  } //BathroomAccessories
+  else if (category === "BathroomAccessories") {
+    if (
+      products &&
+      products.MugsTubsBuckets &&
+      products.HooksClipsLaundryEssentials
+    ) {
+      filteredProducts = [
+        ...products.MugsTubsBuckets,
+        ...products.HooksClipsLaundryEssentials
+      ];
+    } else {
+      console.error("Products data is incomplete.");
+      return <div>Error loading products.</div>;
+    }
   } else {
     // Handle other categories or render an appropriate message
     return <div>Invalid category specified.</div>;
   }
 
   //sortbtn filter
-  const findDiscount =(mrp,discount)=>{
-    const discountMrp = ((
-      mrp -
-      mrp * (discount / 100)
-    ).toFixed())
-    console.log("discountMrp:",discountMrp);
-    return discountMrp
-  }
+  const findDiscount = (mrp, discount) => {
+    const discountMrp = (mrp - mrp * (discount / 100)).toFixed();
+    console.log("discountMrp:", discountMrp);
+    return discountMrp;
+  };
   if (selectedSortItem == "All Products") {
     console.log("based on all Products sorting");
     // Example usage:
@@ -406,26 +450,36 @@ return <div>Error loading products.</div>;
   } else if (selectedSortItem == "Price:High to Low") {
     console.log("based on ascending price");
     // filteredProducts = filteredProducts.slice().sort((a, b) => b.mrp - a.mrp);
-    filteredProducts = filteredProducts.slice().sort((a, b) => findDiscount(b.mrp,b.discount) - findDiscount(a.mrp,a.discount));
+    filteredProducts = filteredProducts
+      .slice()
+      .sort(
+        (a, b) =>
+          findDiscount(b.mrp, b.discount) - findDiscount(a.mrp, a.discount)
+      );
   } else if (selectedSortItem == "Price:Low to High") {
     console.log("based on descending price");
     // filteredProducts = filteredProducts.slice().sort((a, b) => a.mrp - b.mrp);
-    filteredProducts = filteredProducts.slice().sort((a, b) =>findDiscount(a.mrp,a.discount) - findDiscount(b.mrp,b.discount));
+    filteredProducts = filteredProducts
+      .slice()
+      .sort(
+        (a, b) =>
+          findDiscount(a.mrp, a.discount) - findDiscount(b.mrp, b.discount)
+      );
   } else {
     console.log("selectedSortItem is empty");
   }
 
   // filteredProducts = shuffleArray(filteredProducts);
 
-//ProductlistAdImage
-const [categoryBannerAdImage,setcategoryBannerAdImage] = useState("");
-  
-useEffect(()=>{
-  if(category){
-    console.log("subcategoryAdImageData key :",category);
-    setcategoryBannerAdImage(categoryBannerAdImagedata[category]);
-  }
-},[category])
+  //ProductlistAdImage
+  const [categoryBannerAdImage, setcategoryBannerAdImage] = useState("");
+
+  useEffect(() => {
+    if (category) {
+      console.log("subcategoryAdImageData key :", category);
+      setcategoryBannerAdImage(categoryBannerAdImagedata[category]);
+    }
+  }, [category]);
 
   return (
     <Container fluid className="product-list-container">
@@ -448,16 +502,18 @@ useEffect(()=>{
         </Col>
         {/* right column with product list */}
         <Col md={9}>
-        {categoryBannerAdImage && <Row>
+          {categoryBannerAdImage && (
+            <Row>
               <Col>
                 <Image
                   src={categoryBannerAdImage}
                   fluid
                   rounded
-                  style={{ height: '200px',width:"100%",objectFit:"cover"}}
+                  style={{ height: "200px", width: "100%", objectFit: "cover" }}
                 />
               </Col>
-            </Row>}
+            </Row>
+          )}
           <Row className=" mt-3 justify-content-end">
             <Col>
               <SortBtn
