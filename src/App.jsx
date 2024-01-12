@@ -130,7 +130,7 @@ function App() {
             element={<Search products={totalProducts} />}
           />
           <Route
-            path="/search/:searchTerm/:productname/:productId"
+            path="/search/:searchTerm/:productId"
             element={<ProductDetail />}
           />
           {/* cart */}
