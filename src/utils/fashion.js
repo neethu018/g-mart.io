@@ -16336,8 +16336,6 @@ export const Fashion = {
             
             }, 
           ],
-        
-        
   };
   
  

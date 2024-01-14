@@ -1707,7 +1707,6 @@ export const Electronics = {
                   productId:60540
                 },
               ],
-  
         Tv: [
       {
         productImage:[
@@ -2150,8 +2149,6 @@ export const Electronics = {
           productId:60550
         },
     ],
-  
-  
     HomeTheatre: [
       {
         productImage:[
