@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useMemo, useState } from "react";
 import { Col, Container, Row,Image } from "react-bootstrap";
 import ProductCard from "../components/ProductCard";
 import { useLocation } from "react-router-dom";
@@ -79,14 +79,26 @@ const MainCategory = ({ products }) => {
     return shuffledArray;
   }
 //ProductlistAdImage
-const [maincategoryBannerAdImage,setmaincategoryBannerAdImage] = useState("");
+// const [maincategoryBannerAdImage,setmaincategoryBannerAdImage] = useState("");
   
-useEffect(()=>{
-  if(mainTitle){
-    console.log("subcategoryAdImageData key :",mainTitle);
-    setmaincategoryBannerAdImage(maincategorybanneradimagedata[mainTitle]);
+// useEffect(()=>{
+//   if(mainTitle){
+//     console.log("subcategoryAdImageData key :",mainTitle);
+//     setmaincategoryBannerAdImage(maincategorybanneradimagedata[mainTitle]);
+//   }
+// },[mainTitle])
+// let maincategoryBannerAdImage =""
+// if(mainTitle){
+//   maincategoryBannerAdImage=maincategorybanneradimagedata[mainTitle]
+// }
+
+const maincategoryBannerAdImage = useMemo(() => {
+  if (mainTitle) {
+    return maincategorybanneradimagedata[mainTitle];
   }
-},[mainTitle])
+  // If subcatTitle is falsy, you may want to return a default value or handle it accordingly
+  return defaultImage; // Replace defaultImage with your actual default value
+}, [mainTitle, maincategorybanneradimagedata]);
 
   return (
     <Container fluid className="product-list-container">

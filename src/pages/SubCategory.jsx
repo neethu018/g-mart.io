@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useMemo, useState } from "react";
 import ProductCard from "../components/ProductCard";
 import { useParams, useLocation } from "react-router-dom";
 import { Container, Row, Col,Image } from "react-bootstrap";
@@ -79,15 +79,26 @@ const SubCategory = ({ products }) => {
   }
 
     //ProductlistAdImage
-    const [subcategoryAdImage,setSubcategoryAdImage] = useState("");
+    // const [subcategoryAdImage,setSubcategoryAdImage] = useState("");
   
-    useEffect(()=>{
-      if(subcategory){
-        console.log("subcategoryAdImageData key :",subcategory);
-        setSubcategoryAdImage(subcategoryAdImageData[subcategory]);
+    // useEffect(()=>{
+    //   if(subcategory){
+    //     console.log("subcategoryAdImageData key :",subcategory);
+    //     setSubcategoryAdImage(subcategoryAdImageData[subcategory]);
+    //   }
+    // },[subcategory])
+    // let subcategoryAdImage =""
+    // if(subcatTitle){
+    //   subcategoryAdImage=subcategoryAdImageData[subcatTitle]
+    // }
+    const subcategoryAdImage = useMemo(() => {
+      if (subcatTitle) {
+        return subcategoryAdImageData[subcatTitle];
       }
-    },[subcategory])
-
+      // If subcatTitle is falsy, you may want to return a default value or handle it accordingly
+      return defaultImage; // Replace defaultImage with your actual default value
+    }, [subcatTitle, subcategoryAdImageData]);
+    
   return (
     <Container fluid className="product-list-container">
       {/* First Row with Breadcrumbs */}
