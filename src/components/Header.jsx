@@ -31,6 +31,26 @@ const Header = () => {
   //beauty state
   const [showBeautyDropdown, setshowBeautyDropdown] = useState(false);
   const [showMakeUpDropdown, setShowMakeUpDropdown] = useState(false);
+  const [showSkinCareDropdown, setShowSkinCareDropdown] = useState(false);
+  const [showHairDropdown, setShowHairDropdown] = useState(false);
+  //fashion state
+  const [showFashionDropdown, setshowFashionDropdown] = useState(false);
+  const [showMensFashionDropdown, setshowMensFashionDropdown ] = useState(false);
+  const [showWomensFashionDropdown, setshowWomensFashionDropdown ] = useState(false);
+  const [showKidsFashionDropdown, setshowKidsFashionDropdown ] = useState(false);
+  const [showInfantsDropdown, setshowInfantsDropdown] = useState(false);
+  //electronics state
+  const [showElectronicsDropdown, setshowElectronicsDropdown] = useState(false);
+  const [showMobilesTabletsDropdown, setshowMobilesTabletsDropdown] = useState(false);
+  const [showTvSpeakerDropdown, setshowTvSpeakerDropdown] = useState(false);
+  const [showHomeAppliancesDropdown, setshowHomeAppliancesDropdown] = useState(false);
+  const [showComputersDropdown, setshowComputersDropdown] = useState(false);
+  //home and kitchen needs state
+  const [showHomeKitchenNeedsDropdown, setshowHomeKitchenNeedsDropdown] = useState(false);
+  const [showKitchenwareDropdown, setshowKitchenwareDropdown] = useState(false);
+  const [showHomeDecorDropdown, setshowHomeDecorDropdown] = useState(false);
+  const [showFurnitureDropdown, setshowFurnitureDropdown] = useState(false);
+  const [showBathroomAccessoriesDropdown, setshowBathroomAccessoriesDropdown] = useState(false);
   //SportsToysLuggage
   const [showSportsToysLuggagesDropdown, setshowSportsToysLuggagesDropdown] =
     useState(false);
@@ -138,6 +158,125 @@ const Header = () => {
   };
   const handleMakeUpMouseLeave = () => {
     setShowMakeUpDropdown(false);
+  };
+  //for skincare
+  const handleSkinCareMouseEnter = () => {
+    setShowSkinCareDropdown(true);
+  };
+  const handleSkinCareMouseLeave = () => {
+    setShowSkinCareDropdown(false);
+  };
+   //for hair
+   const handleHairMouseEnter = () => {
+    setShowHairDropdown(true);
+  };
+  const handleHairMouseLeave = () => {
+    setShowHairDropdown(false);
+  };
+  //fashion
+  const handleFashionMouseEnter = () => {
+    setshowFashionDropdown(true);
+  };
+  const handleFashionMouseLeave = () => {
+    setshowFashionDropdown(false);
+  };
+  //for Mens wear
+  const handleMensFashionMouseEnter = () => {
+    setshowMensFashionDropdown(true);
+  };
+  const handleMensFashionMouseLeave = () => {
+    setshowMensFashionDropdown(false);
+  };
+   //for Womens wear
+   const handleWomensFashionMouseEnter = () => {
+    setshowWomensFashionDropdown(true);
+  };
+  const handleWomensFashionMouseLeave = () => {
+    setshowWomensFashionDropdown(false);
+  };
+   //for kids fashion
+   const handleKidsFashionMouseEnter = () => {
+    setshowKidsFashionDropdown(true);
+  };
+  const handleKidsFashionMouseLeave = () => {
+    setshowKidsFashionDropdown(false);
+  };
+   //for Infants
+   const handleInfantsMouseEnter = () => {
+    setshowInfantsDropdown(true);
+  };
+  const handleInfantsMouseLeave = () => {
+    setshowInfantsDropdown(false);
+  };
+  //electronics
+  const handleElectronicsMouseEnter = () => {
+    setshowElectronicsDropdown(true);
+  };
+  const handleElectronicsMouseLeave = () => {
+    setshowElectronicsDropdown(false);
+  };
+  //moblies and tablets
+  const handleMobilesTabletsMouseEnter = () => {
+    setshowMobilesTabletsDropdown(true);
+  };
+  const handleMobilesTabletsMouseLeave = () => {
+    setshowMobilesTabletsDropdown(false);
+  };
+  //tv speaker
+  const handleTvSpeakerMouseEnter = () => {
+    setshowTvSpeakerDropdown(true);
+  };
+  const handleTvSpeakerMouseLeave = () => {
+    setshowTvSpeakerDropdown(false);
+  };
+  //home appliances
+  const handleHomeAppliancesMouseEnter = () => {
+    setshowHomeAppliancesDropdown(true);
+  };
+  const handleHomeAppliancesMouseLeave = () => {
+    setshowHomeAppliancesDropdown(false);
+  };
+  //computers
+  const handleComputersMouseEnter = () => {
+    setshowComputersDropdown(true);
+  };
+  const handleComputersMouseLeave = () => {
+    setshowComputersDropdown(false);
+  };
+  //home and kitchen needs
+  const handleHomeKitchenNeedsMouseEnter = () => {
+    setshowHomeKitchenNeedsDropdown(true);
+  };
+  const handleHomeKitchenNeedsMouseLeave = () => {
+    setshowHomeKitchenNeedsDropdown(false);
+  };
+  // kitchenware
+  const handleKitchenwareMouseEnter = () => {
+    setshowKitchenwareDropdown(true);
+  };
+  const handleKitchenwareMouseLeave = () => {
+    setshowKitchenwareDropdown(false);
+  };
+  // homedecor
+  const handleHomeDecorMouseEnter = () => {
+    setshowHomeDecorDropdown(true);
+  };
+  const handleHomeDecorMouseLeave = () => {
+    setshowHomeDecorDropdown(false);
+  };
+  // furniture
+  const handleFurnitureMouseEnter = () => {
+    setshowFurnitureDropdown(true);
+  };
+  const handleFurnitureMouseLeave = () => {
+    setshowFurnitureDropdown(false);
+  };
+  // bathroom accesssories
+  const handleBathroomAccessoriesMouseEnter = () => {
+    setshowBathroomAccessoriesDropdown(true);
+  };
+  const handleBathroomAccessoriesMouseLeave = () => {
+    setshowBathroomAccessoriesDropdown(false);
   };
   //SportsToysLuggages
   const handleSportsToysLuggagesMouseEnter = () => {
@@ -454,19 +593,70 @@ const Header = () => {
                   </Container>
                 </>
               )}
+              <NavDropdown.Item
+                as={Link}
+                to={"/Beauty/SkinCare"}
+                onMouseEnter={handleSkinCareMouseEnter}
+                onMouseLeave={handleSkinCareMouseLeave}
+              >
+                SkinCare
+              </NavDropdown.Item>
+              {showSkinCareDropdown && (
+                <>
+                  <Container
+                    show={showSkinCareDropdown}
+                    onMouseEnter={handleSkinCareMouseEnter}
+                    onMouseLeave={handleSkinCareMouseLeave}
+                  >
+                    <NavDropdown.Item href="/Beauty/SkinCare/Serum">
+                    Serum
+                    </NavDropdown.Item>
+                    <NavDropdown.Item href="/Beauty/SkinCare/FaceMask">
+                    FaceMask
+                    </NavDropdown.Item>
+                    <NavDropdown.Item href="/Beauty/SkinCare/Moisturizers">
+                    Moisturizers
+                    </NavDropdown.Item>
+                  </Container>
+                </>
+              )}
+              <NavDropdown.Item
+                as={Link}
+                to={"/Beauty/Hair"}
+                onMouseEnter={handleHairMouseEnter}
+                onMouseLeave={handleHairMouseLeave}
+              >
+                 Hair
+              </NavDropdown.Item>
+              {showHairDropdown && (
+                <>
+                  <Container
+                    show={showHairDropdown}
+                    onMouseEnter={handleHairMouseEnter}
+                    onMouseLeave={handleHairMouseLeave}
+                  >
+                    <NavDropdown.Item href="/Beauty/Hair/HairCare">
+                    HairCare
+                    </NavDropdown.Item>
+                    <NavDropdown.Item href="/Beauty/Hair/HairColor">
+                    HairColor
+                    </NavDropdown.Item>
+                    <NavDropdown.Item href="/Beauty/Hair/HairStyling">
+                    HairStyling
+                    </NavDropdown.Item>
+                    <NavDropdown.Item href="/Beauty/Hair/HairToolAndAccessories">
+                    HairToolAndAccessories
+                    </NavDropdown.Item>
+                    <NavDropdown.Item href="/Beauty/Hair/ScalpTreatments">
+                    ScalpTreatments
+                    </NavDropdown.Item>
+                    <NavDropdown.Item href="/Beauty/Hair/ShopByHairType">
+                    ShopByHairType
+                    </NavDropdown.Item>
+                  </Container>
+                </>
+              )}
             </NavDropdown>
-
-            {/* <Nav.Link
-              as={Link}
-              className="text-white fw-bold"
-              to={"/HomeAndKitchen"}
-              onMouseEnter={handleHomeAndKitchenEnter}
-              onMouseLeave={handleHomeAndKitchenLeave}
-            >
-              Home & Kitchen
-            </Nav.Link> */}
-
-
             <Nav.Link
               as={Link}
               className="text-white fw-bold"
@@ -516,37 +706,6 @@ const Header = () => {
                 </>
               )}
             </NavDropdown>
-            {/* <Nav.Link
-              as={Link}
-              className="text-white fw-bold"
-              to={"/Electronics"}
-              onMouseEnter={handleElectronicsEnter}
-              onMouseLeave={handleElectronicsLeave}
-            >
-              Electronics
-            </Nav.Link>
-
-            <Nav.Link
-              as={Link}
-              className="text-white fw-bold"
-              to={"/Jewellery"}
-              onMouseEnter={handleJewelleryEnter}
-              onMouseLeave={handleJewelleryLeave}
-            >
-              Jewellery
-            </Nav.Link>
-
-            <Nav.Link
-              as={Link}
-              className="text-white fw-bold"
-              to={"/HomeImprovement"}
-              onMouseEnter={handleHomeImprovementEnter}
-              onMouseLeave={handleHomeImprovementLeave}
-            >
-              Home Improvement
-            </Nav.Link> */}
-
-
             <Nav.Link
               as={Link}
               className="text-white fw-bold"
@@ -556,9 +715,403 @@ const Header = () => {
             >
               Sports, Toys & Luggages
             </Nav.Link>
-            <Nav.Link href="/Fashion">Fashion</Nav.Link>
-            <Nav.Link href="/Electronics">Electronics</Nav.Link>
-            <Nav.Link href="#about">About</Nav.Link>
+            <NavDropdown
+            
+            show={showFashionDropdown}
+            onMouseEnter={handleFashionMouseEnter}
+            onMouseLeave={handleFashionMouseLeave}
+          >
+            <NavDropdown.Item
+              as={Link}
+              to={"/Fashion/MensFashion"}
+              onMouseEnter={handleMensFashionMouseEnter}
+              onMouseLeave={handleMensFashionMouseLeave}
+            >
+              Mens Fashion
+            </NavDropdown.Item>
+            {showMensFashionDropdown && (
+              <>
+                <Container
+                  show={showMensFashionDropdown}
+                  onMouseEnter={handleMensFashionMouseEnter}
+                  onMouseLeave={handleMensFashionMouseLeave}
+                >
+                  <NavDropdown.Item href="/Fashion/MensFashion/ClothingAccessories">
+                    ClothingAccesseries
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/Fashion/MensFashion/WesternWear">
+                  WesternWear
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/Fashion/MensFashion/MensFootWear">
+                  MensFootWear
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/Fashion/MensFashion/MensEyeWear">
+                  MensEyeWear
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/Fashion/MensFashion/InnerWear">
+                    InnerWear
+                  </NavDropdown.Item>
+                  
+                </Container>
+              </>
+            )}
+            <NavDropdown.Item
+              as={Link}
+              to={"/Fashion/WomensFashion"}
+              onMouseEnter={handleWomensFashionMouseEnter}
+              onMouseLeave={handleWomensFashionMouseLeave}
+            >
+              Womens Fashion
+            </NavDropdown.Item>
+            {showWomensFashionDropdown && (
+              <>
+                <Container
+                  show={showWomensFashionDropdown}
+                  onMouseEnter={handleWomensFashionMouseEnter}
+                  onMouseLeave={handleWomensFashionMouseLeave}
+                >
+                  <NavDropdown.Item href="/Fashion/WomensFashion/EthinicWear">
+                  EthinicWear
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/Fashion/WomensFashion/TraditionalWear">
+                  TraditionalWear
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/Fashion/WomensFashion/EyeWear">
+                  EyeWear
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/Fashion/WomensFashion/FootWear">
+                  FootWear
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/Fashion/WomensFashion/Watches">
+                  Watches
+                  </NavDropdown.Item>
+                  
+                </Container>
+              </>
+            )}
+            <NavDropdown.Item
+              as={Link}
+              to={"/Fashion/KidsFashion"}
+              onMouseEnter={handleKidsFashionMouseEnter}
+              onMouseLeave={handleKidsFashionMouseLeave}
+            >
+              Kids Fashion
+            </NavDropdown.Item>
+            {showKidsFashionDropdown && (
+              <>
+                <Container
+                  show={showKidsFashionDropdown}
+                  onMouseEnter={handleKidsFashionMouseEnter}
+                  onMouseLeave={handleKidsFashionMouseLeave}
+                >
+                  <NavDropdown.Item href="/Fashion/KidsFashion/JuniorBoyShirt">
+                  JuniorBoyShirt
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/Fashion/KidsFashion/JuniorBoyTracks">
+                  JuniorBoyTracks
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/Fashion/KidsFashion/JuniorBoyInnerWear">
+                  JuniorBoyInnerWear
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/Fashion/KidsFashion/JuniorGirlGowns">
+                  JuniorGirlGowns
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/Fashion/KidsFashion/JuniorGirlCasualWear">
+                  JuniorGirlCasualWear
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/Fashion/KidsFashion/JuniorGirlInnerWear">
+                  JuniorGirlInnerWear
+                  </NavDropdown.Item>
+                  
+                </Container>
+              </>
+            )}
+            <NavDropdown.Item
+              as={Link}
+              to={"/Fashion/Infants"}
+              onMouseEnter={handleInfantsMouseEnter}
+              onMouseLeave={handleInfantsMouseLeave}
+            >
+              Infants
+            </NavDropdown.Item>
+            {showInfantsDropdown && (
+              <>
+                <Container
+                  show={showInfantsDropdown}
+                  onMouseEnter={handleInfantsMouseEnter}
+                  onMouseLeave={handleInfantsMouseLeave}
+                >
+                  <NavDropdown.Item href="/Fashion/Infants/BabyGirl">
+                  BabyGirl
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/Fashion/Infants/BabyBoy">
+                  BabyBoy
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/Fashion/Infants/Toys">
+                  Toys
+                  </NavDropdown.Item>
+                </Container>
+              </>
+            )}
+          </NavDropdown>
+            <Nav.Link 
+            as={Link}
+            className="text-white fw-bold"
+            to={"/Fashion"}
+            onMouseEnter={handleFashionMouseEnter}
+            onMouseLeave={handleFashionMouseLeave}
+            >
+              Fashion
+            </Nav.Link>
+             {/* Electronics */}
+        <NavDropdown
+            
+            show={showElectronicsDropdown}
+            onMouseEnter={handleElectronicsMouseEnter}
+            onMouseLeave={handleElectronicsMouseLeave}
+          >
+            <NavDropdown.Item
+              as={Link}
+              to={"/Electronics/MobilesTablets"}
+              onMouseEnter={handleMobilesTabletsMouseEnter}
+              onMouseLeave={handleMobilesTabletsMouseLeave}
+            >
+              MobilesTablets
+            </NavDropdown.Item>
+            {showMobilesTabletsDropdown && (
+              <>
+                <Container
+                  show={showMobilesTabletsDropdown}
+                  onMouseEnter={handleMobilesTabletsMouseEnter}
+                  onMouseLeave={handleMobilesTabletsMouseLeave}
+                >
+                  <NavDropdown.Item href="/Electronics/MobilesTablets/Smartphone">
+                  Smartphone
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/Electronics/MobilesTablets/MobileAccessories">
+                  MobileAccessories
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/Electronics/MobilesTablets/Tablets">
+                  Tablets
+                  </NavDropdown.Item>
+                </Container>
+              </>
+            )}
+            <NavDropdown.Item
+              as={Link}
+              to={"/Electronics/TvSpeaker"}
+              onMouseEnter={handleTvSpeakerMouseEnter}
+              onMouseLeave={handleTvSpeakerMouseLeave}
+            >
+              TvSpeaker
+            </NavDropdown.Item>
+            {showTvSpeakerDropdown && (
+              <>
+                <Container
+                  show={showTvSpeakerDropdown}
+                  onMouseEnter={handleTvSpeakerMouseEnter}
+                  onMouseLeave={handleTvSpeakerMouseLeave}
+                >
+                  <NavDropdown.Item href="/Electronics/TvSpeaker/Tv">
+                  Tv
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/Electronics/TvSpeaker/HomeTheatre">
+                  HomeTheatre
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/Electronics/TvSpeaker/TvRemote">
+                  TvRemote
+                  </NavDropdown.Item>
+                </Container>
+              </>
+            )}
+            <NavDropdown.Item
+              as={Link}
+              to={"/Electronics/HomeAppliances"}
+              onMouseEnter={handleHomeAppliancesMouseEnter}
+              onMouseLeave={handleHomeAppliancesMouseLeave}
+            >
+              HomeAppliances
+            </NavDropdown.Item>
+            {showHomeAppliancesDropdown && (
+              <>
+                <Container
+                  show={showHomeAppliancesDropdown}
+                  onMouseEnter={handleHomeAppliancesMouseEnter}
+                  onMouseLeave={handleHomeAppliancesMouseLeave}
+                >
+                  <NavDropdown.Item href="/Electronics/HomeAppliances/WashingMachine">
+                  WashingMachine
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/Electronics/HomeAppliances/Irons">
+                  Irons
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/Electronics/HomeAppliances/Fans">
+                  Fans
+                  </NavDropdown.Item>
+                </Container>
+              </>
+            )}
+            <NavDropdown.Item
+              as={Link}
+              to={"/Electronics/Computers"}
+              onMouseEnter={handleComputersMouseEnter}
+              onMouseLeave={handleComputersMouseLeave}
+            >
+              Computers
+            </NavDropdown.Item>
+            {showComputersDropdown && (
+              <>
+                <Container
+                  show={showComputersDropdown}
+                  onMouseEnter={handleComputersMouseEnter}
+                  onMouseLeave={handleComputersMouseLeave}
+                >
+                  <NavDropdown.Item href="/Electronics/Computers/Laptop">
+                  Laptop
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/Electronics/Computers/Desktop">
+                  Desktop
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/Electronics/Computers/Monitor">
+                  Monitor
+                  </NavDropdown.Item>
+                </Container>
+              </>
+            )}
+          </NavDropdown>
+          <Nav.Link
+            as={Link}
+            className="text-white fw-bold"
+            to={"/Electronics"}
+            onMouseEnter={handleElectronicsMouseEnter}
+            onMouseLeave={handleElectronicsMouseLeave} 
+            >
+              Electronics
+            </Nav.Link>
+            <NavDropdown
+            
+            show={showHomeKitchenNeedsDropdown}
+            onMouseEnter={handleHomeKitchenNeedsMouseEnter}
+            onMouseLeave={handleHomeKitchenNeedsMouseLeave}
+          >
+            <NavDropdown.Item
+              as={Link}
+              to={"/HomeKitchenNeeds/Kitchenware"}
+              onMouseEnter={handleKitchenwareMouseEnter}
+              onMouseLeave={handleKitchenwareMouseLeave}
+            >
+              Kitchenware
+            </NavDropdown.Item>
+            {showKitchenwareDropdown && (
+              <>
+                <Container
+                  show={showKitchenwareDropdown}
+                  onMouseEnter={handleKitchenwareMouseEnter}
+                  onMouseLeave={handleKitchenwareMouseLeave}
+                >
+                  <NavDropdown.Item href="/HomeKitchenNeeds/Kitchenware/KitchenTools">
+                  KitchenTools
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/HomeKitchenNeeds/Kitchenware/Cookware">
+                  Cookware
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/HomeKitchenNeeds/Kitchenware/GasStove">
+                  GasStove
+                  </NavDropdown.Item>
+                </Container>
+              </>
+            )}
+            <NavDropdown.Item
+              as={Link}
+              to={"/HomeKitchenNeeds/HomeDecor"}
+              onMouseEnter={handleHomeDecorMouseEnter}
+              onMouseLeave={handleHomeDecorMouseLeave}
+            >
+              HomeDecor
+            </NavDropdown.Item>
+            {showHomeDecorDropdown && (
+              <>
+                <Container
+                  show={showHomeDecorDropdown}
+                  onMouseEnter={handleHomeDecorMouseEnter}
+                  onMouseLeave={handleHomeDecorMouseLeave}
+                >
+                  <NavDropdown.Item href="/HomeKitchenNeeds/HomeDecor/InteriorNeeds">
+                  InteriorNeeds
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/HomeKitchenNeeds/HomeDecor/Decors">
+                  Decors
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/HomeKitchenNeeds/HomeDecor/GiftingSets">
+                  GiftingSets
+                  </NavDropdown.Item>
+                </Container>
+              </>
+            )}
+            <NavDropdown.Item
+              as={Link}
+              to={"/HomeKitchenNeeds/Furniture"}
+              onMouseEnter={handleFurnitureMouseEnter}
+              onMouseLeave={handleFurnitureMouseLeave}
+            >
+              Furniture
+            </NavDropdown.Item>
+            {showFurnitureDropdown && (
+              <>
+                <Container
+                  show={showFurnitureDropdown}
+                  onMouseEnter={handleFurnitureMouseEnter}
+                  onMouseLeave={handleFurnitureMouseLeave}
+                >
+                  <NavDropdown.Item href="/HomeKitchenNeeds/Furniture/Chairs">
+                  Chairs
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/HomeKitchenNeeds/Furniture/Tables">
+                  Tables
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/HomeKitchenNeeds/Furniture/Mattress">
+                  Mattress
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/HomeKitchenNeeds/Furniture/SofasAndCouches">
+                  SofasAndCouches
+                  </NavDropdown.Item>
+                </Container>
+              </>
+            )}
+            <NavDropdown.Item
+              as={Link}
+              to={"/HomeKitchenNeeds/BathroomAccessories"}
+              onMouseEnter={handleBathroomAccessoriesMouseEnter}
+              onMouseLeave={handleBathroomAccessoriesMouseLeave}
+            >
+              BathroomAccessories
+            </NavDropdown.Item>
+            {showBathroomAccessoriesDropdown && (
+              <>
+                <Container
+                  show={showBathroomAccessoriesDropdown}
+                  onMouseEnter={handleBathroomAccessoriesMouseEnter}
+                  onMouseLeave={handleBathroomAccessoriesMouseLeave}
+                >
+                  <NavDropdown.Item href="/HomeKitchenNeeds/BathroomAccessories/MugsTubsBuckets">
+                  MugsTubsBuckets
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/HomeKitchenNeeds/BathroomAccessories/HooksClipsLaundryEssentials">
+                  HooksClipsLaundryEssentials
+                  </NavDropdown.Item>
+                </Container>
+              </>
+            )}
+          </NavDropdown>
+          <Nav.Link
+            as={Link}
+            className="text-white fw-bold"
+            to={"/HomeKitchenNeeds"}
+            onMouseEnter={handleHomeKitchenNeedsMouseEnter}
+            onMouseLeave={handleHomeKitchenNeedsMouseLeave} 
+            >
+              HomeAndKitchenNeeds
+            </Nav.Link>
             <Nav.Link href="#about">About</Nav.Link>
             {/* <CartIcon/> */}
 

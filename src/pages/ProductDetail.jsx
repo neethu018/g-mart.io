@@ -3,7 +3,7 @@ import React from "react";
 import { useLocation,} from "react-router-dom";
 import { Container, Row, Col, Image,Button,Carousel} from "react-bootstrap";
 import { CartContext } from "../context/CartContext";
-import { useContext } from "react";
+import { useContext,useEffect } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faHeart,
@@ -48,8 +48,10 @@ const ProductDetail = () => {
   const subcatUrl = pathname;
   console.log("subcatTitle", subcatTitle);
   console.log("subcatUrl", subcatUrl);
-
-
+//useEffect to scroll top, once page reload
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
 return (
     <Container className='mt-2' fluid>
       {/* First Row with Breadcrumbs */}
@@ -84,7 +86,7 @@ return (
                     src={image}
                     alt={`Product Image ${index + 1}`}
                     style={{
-                       objectFit: "contain", 
+                       objectFit: "fill", 
                        height: "400px",
                        width:"500px",
                       }}
@@ -148,23 +150,7 @@ return (
             ) : (
               <p>M.R.P:{product.mrp}</p>
             )}
-              {/* <div style={{ display: "flex", gap: 10, alignItems: "center" }}>
-                
-                <p style={{ fontSize: 20, fontWeight: "bold" }}>
-                M.R.P:{product.mrp}
-                </p>
-                {product.discount && (
-                <p 
-                style={{ color: "green",
-                backgroundColor:"rgb(197,219,197)",
-                borderRadius:"5px",padding:"5px",
-                fontWeight:"bold" }}
-                >
-                  {product.discount}% off
-                </p>
-                )}
-                </div> */}
-              <div>
+             <div>
                 
                 {product.colour && (
                 <>
@@ -291,61 +277,7 @@ return (
         </Col>
       </Row>
     </Container>
-    // <Container>
-    //   <Row>
-    //     <Col>
-    //       <Image src={product.productImage[0]} alt="product image" />
-    //     </Col>
-    //     <Col>
-    //       <h5>{product.brand}</h5>
-    //       <h6>{product.shortDesc}</h6>
-    //       <div style={{ display: "flex", justifyContent: "space-between" }}>
-    //         <div style={{ display: "flex" }}>
-    //           <FontAwesomeIcon icon={faStar} color="gold" />
-    //           <FontAwesomeIcon icon={faStar} color="gold" />
-    //           <FontAwesomeIcon icon={faStar} color="gold" />
-    //           <FontAwesomeIcon icon={faStar} color="gold" />
-    //           <FontAwesomeIcon icon={faStar} color="gold" />
-    //           <p>{product.ratings}</p>
-    //         </div>
-    //         <div>
-    //           <FontAwesomeIcon
-    //             icon={faHeart}
-    //             style={{ width: 20, height: 20 }}
-    //           />
-    //           <FontAwesomeIcon
-    //             icon={faShareNodes}
-    //             style={{ width: 20, height: 20 }}
-    //           />
-    //         </div>
-    //       </div>
-    //       {product.discount > 0 ? (
-    //         <div>
-    //           <div style={{ display: "flex", gap: 10, alignItems: "center" }}>
-    //             <p style={{ fontSize: 20, fontWeight: "bold" }}>
-    //               {
-    //                 (product.mrp - (product.mrp * (product.discount / 100)))
-    //                   .toFixed()
-    //               }
-    //             </p>
-    //             <p style={{ color: "green" }}>{product.discount}% off</p>
-    //           </div>
-    //           <div>
-    //             <p>
-    //               <span style={{ textDecoration: "line-through" }}>
-    //                 M.R.P:{product.mrp}
-    //               </span>
-    //               (Incl.of. all taxes)
-    //             </p>
-    //           </div>
-    //         </div>
-    //       ) : (
-    //         <p>M.R.P:{product.mrp}</p>
-    //       )}
-    //       <p>{product.description}</p>
-    //     </Col>
-    //   </Row>
-    // </Container>
+   
   );
 };
 
