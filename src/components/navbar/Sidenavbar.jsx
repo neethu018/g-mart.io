@@ -32,7 +32,7 @@ function Sidenavbar({sidebar,showsidebar}) {
            </div>
       </div>
      
-        <div className='content-section'>
+        <div className='content-sections'>
           <div className='nav-section'>
             <ul className='nav-section-list' onClick={showsidebar}>
               <li className='nav-section-list-item divider-h'>

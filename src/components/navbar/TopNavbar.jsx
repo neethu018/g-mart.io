@@ -8,6 +8,7 @@ import "./Navbar.css";
 import { Link } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
 import CartIcon from "../CartIcon";
+import Sidenavbar from "./Sidenavbar";
 
 // import Home from "../../pages/Home";
 const TopNavbar = () => {
@@ -21,6 +22,9 @@ const TopNavbar = () => {
       navigate(`/search/${searchTerm}`);
     }
   }
+  const [sidebar,setSidebar]=useState(false);
+
+  const showsidebar =() => setSidebar(!sidebar);
   return (
     <>
       <nav
@@ -28,8 +32,8 @@ const TopNavbar = () => {
         style={{ backgroundColor: "#0078ad" }}
       >
         <div className="container-fluid my-2">
-          <IconButton className="rounded-5">
-            <MenuIcon className="fs-1 mx-3 text-white" />
+          <IconButton className="rounded-5" onClick={showsidebar} >
+            <MenuIcon className="fs-1 mx-3 text-white"  />
           </IconButton>
 
           <Link className="fs-4 text-white fw-bold navbar-brand" to="/">
@@ -84,6 +88,7 @@ const TopNavbar = () => {
           <form className="d-flex ms-auto"> </form>
         </div>
       </nav>
+      <Sidenavbar sidebar={sidebar} showsidebar={showsidebar} />
     </>
   );
 };
