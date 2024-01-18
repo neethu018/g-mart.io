@@ -8,7 +8,6 @@ import "./Navbar.css";
 import { Link } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
 import CartIcon from "../CartIcon";
-import Sidenavbar from "./Sidenavbar";
 
 // import Home from "../../pages/Home";
 const TopNavbar = () => {
@@ -22,25 +21,16 @@ const TopNavbar = () => {
       navigate(`/search/${searchTerm}`);
     }
   }
-
-
-
-  const [sidebar,setSidebar]=useState(false);
-
-  const showsidebar =() => setSidebar(!sidebar);
   return (
     <>
       <nav
         className="navbar navbar-expand-lg "
         style={{ backgroundColor: "#0078ad" }}
-        
       >
         <div className="container-fluid my-2">
           <IconButton className="rounded-5">
-            <MenuIcon className="fs-1 mx-3 text-white" onClick={showsidebar} />
+            <MenuIcon className="fs-1 mx-3 text-white" />
           </IconButton>
-
-       
 
           <Link className="fs-4 text-white fw-bold navbar-brand" to="/">
             GMart
@@ -94,10 +84,6 @@ const TopNavbar = () => {
           <form className="d-flex ms-auto"> </form>
         </div>
       </nav>
-      <div className="sidebar"> 
-        <Sidenavbar sidebar={sidebar} showsidebar={showsidebar} />
-      </div>
-     
     </>
   );
 };
