@@ -8,7 +8,7 @@ export const Fashion = {
   
         brand: "Teamspirit",
   
-        shortDesc: " Ankle-Length Socks Pack of 3",
+        shortDesc: "Ankle-Length Socks Pack of 3",
 
         size : "FS",
 
@@ -58,7 +58,7 @@ export const Fashion = {
   
         brand: "Teamspirit",
   
-        shortDesc: " Ankle-Length Socks Pack of 3",
+        shortDesc: "Ankle-Length Socks Pack of 3",
 
         size : "FS",
 
@@ -108,7 +108,7 @@ export const Fashion = {
   
         brand: "Teamspirit",
   
-        shortDesc: " Ankle-Length Socks Pack of 3",
+        shortDesc: "Ankle-Length Socks Pack of 3",
 
         size : "FS",
 
@@ -159,7 +159,7 @@ export const Fashion = {
   
         brand: "FASHNO",
   
-        shortDesc: " Racing Riding Full Gloves Driving Gloves Black Color, (Pack Of 1)",
+        shortDesc: "Racing Riding Full Gloves Driving Gloves Black Color, (Pack Of 1)",
 
         size : "FreeSize",
 
@@ -210,7 +210,7 @@ export const Fashion = {
   
         brand: "FASHNO",
   
-        shortDesc: " Racing Riding Full Gloves Driving Gloves Black Color, (Pack Of 1)",
+        shortDesc: "Racing Riding Full Gloves Driving Gloves Black Color, (Pack Of 1)",
 
         size : "FreeSize",
 
@@ -256,12 +256,12 @@ export const Fashion = {
       {
   
         productImage: [
-           "https://www.jiomart.com/images/product/original/rvlqlnm69i/queery-1pcs-snow-proof-inside-fur-unisex-woolen-beanie-cap-for-men-and-women-warm-winter-premium-soft-grey-product", 
+           "https://www.jiomart.com/images/product/original/rv7hdzclci/queery-1pcs-snow-proof-inside-fur-unisex-woolen-beanie-cap-for-men-women-girl-boy-warm-winter-premium-soft-grey-product-images-rv7hdzclci-0-202306260641.jpg?im=Resize=(600,750)", 
         ],
   
         brand: "FASHNO",
   
-        shortDesc: " Racing Riding Full Gloves Driving Gloves Black Color, (Pack Of 1)",
+        shortDesc: "Racing Riding Full Gloves Driving Gloves Black Color, (Pack Of 1)",
 
         size : "FreeSize",
 
@@ -312,7 +312,7 @@ export const Fashion = {
   
         brand: "QUEERY",
   
-        shortDesc: " Hankerchief Set of 12 Pieces",
+        shortDesc: "Hankerchief Set of 12 Pieces",
 
         size : "FreeSize",
 
@@ -363,7 +363,7 @@ export const Fashion = {
   
         brand: "QUEERY",
   
-        shortDesc: " Hankerchief Set of 12 Pieces",
+        shortDesc: "Hankerchief Set of 12 Pieces",
 
         size : "FreeSize",
 
@@ -414,7 +414,7 @@ export const Fashion = {
   
         brand: "QUEERY",
   
-        shortDesc: " Hankerchief Set of 12 Pieces",
+        shortDesc: "Hankerchief Set of 12 Pieces",
 
         size : "FreeSize",
 
@@ -465,7 +465,7 @@ export const Fashion = {
   
         brand: "jemox",
   
-        shortDesc: " Ankle Length Socks - Free (Pack Of 12)",
+        shortDesc: "Ankle Length Socks - Free (Pack Of 12)",
 
         size : "FreeSize",
 
@@ -516,7 +516,7 @@ export const Fashion = {
   
         brand: "jemox",
   
-        shortDesc: " Ankle Length Socks - Free (Pack Of 12)",
+        shortDesc: "Ankle Length Socks - Free (Pack Of 12)",
 
         size : "FreeSize",
 
@@ -567,7 +567,7 @@ export const Fashion = {
   
         brand: "jemox",
   
-        shortDesc: " Ankle Length Socks - Free (Pack Of 12)",
+        shortDesc: "Ankle Length Socks - Free (Pack Of 12)",
 
         size : "FreeSize",
 
@@ -824,7 +824,7 @@ export const Fashion = {
   
         brand: "Marks & Spencer",
   
-        shortDesc: "  Tie KANTH LANGOT Casual/Formal Self Design Plain Neck With Pocket Sqaure For Men-Dark Blue",
+        shortDesc: "Tie KANTH LANGOT Casual/Formal Self Design Plain Neck With Pocket Sqaure For Men-Dark Blue",
 
         size : "FreeSize",
 
@@ -875,7 +875,7 @@ export const Fashion = {
   
         brand: "Marks & Spencer",
   
-        shortDesc: "  Tie KANTH LANGOT Casual/Formal Self Design Plain Neck With Pocket Sqaure For Men-Dark Blue",
+        shortDesc: "Tie KANTH LANGOT Casual/Formal Self Design Plain Neck With Pocket Sqaure For Men-Dark Blue",
 
         size : "FreeSize",
 
@@ -926,7 +926,7 @@ export const Fashion = {
   
         brand: "Marks & Spencer",
   
-        shortDesc: "  Tie KANTH LANGOT Casual/Formal Self Design Plain Neck With Pocket Sqaure For Men-Dark Blue",
+        shortDesc: "Tie KANTH LANGOT Casual/Formal Self Design Plain Neck With Pocket Sqaure For Men-Dark Blue",
 
         size : "FreeSize",
 
@@ -979,7 +979,7 @@ export const Fashion = {
     
           brand: "JOHN PLAYERS JEANS",
     
-          shortDesc: " Jeans",
+          shortDesc: "Jeans",
   
           size : "L, XL, XXL",
   
@@ -1030,7 +1030,7 @@ export const Fashion = {
       
             brand: "JOHN PLAYERS JEANS",
       
-            shortDesc: " Jeans",
+            shortDesc: "Jeans",
     
             size : "L, XL, XXL",
     
@@ -1081,7 +1081,7 @@ export const Fashion = {
       
             brand: "JOHN PLAYERS JEANS",
       
-            shortDesc: " Jeans",
+            shortDesc: "Jeans",
     
             size : "L, XL, XXL",
     
@@ -1131,7 +1131,7 @@ export const Fashion = {
       
             brand: "JOHN PLAYERS JEANS",
       
-            shortDesc: " T-Shirt with Logo Embroidery",
+            shortDesc: "T-Shirt with Logo Embroidery",
     
             size : "L, XL, XXL",
     
@@ -1181,7 +1181,7 @@ export const Fashion = {
       
             brand: "JOHN PLAYERS JEANS",
       
-            shortDesc: " T-Shirt with Logo Embroidery",
+            shortDesc: "T-Shirt with Logo Embroidery",
     
             size : "L, XL, XXL",
     
@@ -1231,7 +1231,7 @@ export const Fashion = {
       
             brand: "JOHN PLAYERS JEANS",
       
-            shortDesc: " T-Shirt with Logo Embroidery",
+            shortDesc: "T-Shirt with Logo Embroidery",
     
             size : "L, XL, XXL",
     
@@ -1481,7 +1481,7 @@ export const Fashion = {
       
             brand: "Glito",
       
-            shortDesc: " Cotton Shirt Men Checked Slim Fit",
+            shortDesc: "Cotton Shirt Men Checked Slim Fit",
     
             size : "L, XL, XXL",
     
@@ -1581,7 +1581,7 @@ export const Fashion = {
       
             brand: "Glito",
       
-            shortDesc: " Cotton Shirt Men Checked Slim Fit",
+            shortDesc: "Cotton Shirt Men Checked Slim Fit",
     
             size : "L, XL, XXL",
     
@@ -1681,7 +1681,7 @@ export const Fashion = {
       
             brand: "Glito",
       
-            shortDesc: " Cotton Shirt Men Checked Slim Fit",
+            shortDesc: "Cotton Shirt Men Checked Slim Fit",
     
             size : "L, XL, XXL",
     
@@ -1731,7 +1731,7 @@ export const Fashion = {
       
             brand: "TAILORAEDGE",
       
-            shortDesc: " TROUSERS TAILORAEDGE CLASSIC SATCO Color Cream Size 30",
+            shortDesc: "TROUSERS TAILORAEDGE CLASSIC SATCO Color Cream Size 30",
     
             size : "L, XL, XXL",
     
@@ -1781,7 +1781,7 @@ export const Fashion = {
       
             brand: "TAILORAEDGE",
       
-            shortDesc: " TROUSERS TAILORAEDGE CLASSIC SATCO Color Cream Size 30",
+            shortDesc: "TROUSERS TAILORAEDGE CLASSIC SATCO Color Cream Size 30",
     
             size : "L, XL, XXL",
     
@@ -1831,7 +1831,7 @@ export const Fashion = {
       
             brand: "TAILORAEDGE",
       
-            shortDesc: " TROUSERS TAILORAEDGE CLASSIC SATCO Color Cream Size 30",
+            shortDesc: "TROUSERS TAILORAEDGE CLASSIC SATCO Color Cream Size 30",
     
             size : "L, XL, XXL",
     
@@ -1881,7 +1881,7 @@ export const Fashion = {
       
             brand: "Buzzic",
       
-            shortDesc: " men gold modi jacket",
+            shortDesc: "men gold modi jacket",
     
             size : "L, XL, XXL",
     
@@ -1931,7 +1931,7 @@ export const Fashion = {
       
             brand: "Buzzic",
       
-            shortDesc: " men gold modi jacket",
+            shortDesc: "men gold modi jacket",
     
             size : "L, XL, XXL",
     
@@ -1981,7 +1981,7 @@ export const Fashion = {
       
             brand: "Buzzic",
       
-            shortDesc: " men gold modi jacket",
+            shortDesc: "men gold modi jacket",
     
             size : "L, XL, XXL",
     
@@ -2034,7 +2034,7 @@ export const Fashion = {
     
           brand: "FRISBEE",
     
-          shortDesc: " Sport Shoes Aadi Men's Black Mesh Running",
+          shortDesc: "Sport Shoes Aadi Men's Black Mesh Running",
   
           size : "UK6,UK7,UK8,UK10",
   
@@ -2085,7 +2085,7 @@ export const Fashion = {
       
             brand: "FRISBEE",
       
-            shortDesc: " Sport Shoes Aadi Men's Black Mesh Running",
+            shortDesc: "Sport Shoes Aadi Men's Black Mesh Running",
     
             size : "UK6,UK7,UK8,UK10",
     
@@ -2136,7 +2136,7 @@ export const Fashion = {
       
             brand: "FRISBEE",
       
-            shortDesc: " Sport Shoes Aadi Men's Black Mesh Running",
+            shortDesc: "Sport Shoes Aadi Men's Black Mesh Running",
     
             size : "UK6,UK7,UK8,UK10",
     
@@ -2187,7 +2187,7 @@ export const Fashion = {
       
             brand: "FRISBEE",
       
-            shortDesc: " Oxford Shoes | Trekking Shoes | | School Shoes | | Police Shoes | | Riding Shoes for Men. (Black)",
+            shortDesc: "Oxford Shoes | Trekking Shoes | | School Shoes | | Police Shoes | | Riding Shoes for Men. (Black)",
     
             size : "UK6,UK7,UK8,UK10",
     
@@ -2238,7 +2238,7 @@ export const Fashion = {
       
             brand: "FRISBEE",
       
-            shortDesc: " Oxford Shoes | Trekking Shoes | | School Shoes | | Police Shoes | | Riding Shoes for Men. (Black)",
+            shortDesc: "Oxford Shoes | Trekking Shoes | | School Shoes | | Police Shoes | | Riding Shoes for Men. (Black)",
     
             size : "UK6,UK7,UK8,UK10",
     
@@ -2289,7 +2289,7 @@ export const Fashion = {
       
             brand: "FRISBEE",
       
-            shortDesc: " Oxford Shoes | Trekking Shoes | | School Shoes | | Police Shoes | | Riding Shoes for Men. (Black)",
+            shortDesc: "Oxford Shoes | Trekking Shoes | | School Shoes | | Police Shoes | | Riding Shoes for Men. (Black)",
     
             size : "UK6,UK7,UK8,UK10",
     
@@ -2340,7 +2340,7 @@ export const Fashion = {
       
             brand: "SCHUMANN",
       
-            shortDesc: " Sandals Textured Thong-Strap",
+            shortDesc: "Sandals Textured Thong-Strap",
     
             size : "6,7,8,9,10",
     
@@ -2391,7 +2391,7 @@ export const Fashion = {
       
             brand: "SCHUMANN",
       
-            shortDesc: " Sandals Textured Thong-Strap",
+            shortDesc: "Sandals Textured Thong-Strap",
     
             size : "6,7,8,9,10",
     
@@ -2442,7 +2442,7 @@ export const Fashion = {
       
             brand: "SCHUMANN",
       
-            shortDesc: " Sandals Textured Thong-Strap",
+            shortDesc: "Sandals Textured Thong-Strap",
     
             size : "6,7,8,9,10",
     
@@ -2646,7 +2646,7 @@ export const Fashion = {
       
             brand: "STELVIO",
       
-            shortDesc: " Slippers for Men LYVI Ultra Waterproof Red Hawai",
+            shortDesc: "Slippers for Men LYVI Ultra Waterproof Red Hawai",
     
             size : "6,7,8,9,10",
     
@@ -2697,7 +2697,7 @@ export const Fashion = {
       
             brand: "STELVIO",
       
-            shortDesc: " Slippers for Men LYVI Ultra Waterproof Red Hawai",
+            shortDesc: "Slippers for Men LYVI Ultra Waterproof Red Hawai",
     
             size : "6,7,8,9,10",
     
@@ -2748,7 +2748,7 @@ export const Fashion = {
       
             brand: "STELVIO",
       
-            shortDesc: " Slippers for Men LYVI Ultra Waterproof Red Hawai",
+            shortDesc: "Slippers for Men LYVI Ultra Waterproof Red Hawai",
     
             size : "6,7,8,9,10",
     
@@ -2799,7 +2799,7 @@ export const Fashion = {
       
             brand: "adidas",
       
-            shortDesc: " Running Shoes Ultraboost 22 Lace-Up",
+            shortDesc: "Running Shoes Ultraboost 22 Lace-Up",
     
             size : "6,7,8,9,10",
     
@@ -2850,7 +2850,7 @@ export const Fashion = {
       
             brand: "adidas",
       
-            shortDesc: " Running Shoes Ultraboost 22 Lace-Up",
+            shortDesc: "Running Shoes Ultraboost 22 Lace-Up",
     
             size : "6,7,8,9,10",
     
@@ -2901,7 +2901,7 @@ export const Fashion = {
       
             brand: "adidas",
       
-            shortDesc: " Running Shoes Ultraboost 22 Lace-Up",
+            shortDesc: "Running Shoes Ultraboost 22 Lace-Up",
     
             size : "6,7,8,9,10",
     
@@ -2952,7 +2952,7 @@ export const Fashion = {
       
             brand: "adidas",
       
-            shortDesc: " Running Shoes Alpha Boost V1",
+            shortDesc: "Running Shoes Alpha Boost V1",
     
             size : "6,7,8,9,10",
     
@@ -3003,7 +3003,7 @@ export const Fashion = {
       
             brand: "adidas",
       
-            shortDesc: " Running Shoes Alpha Boost V1",
+            shortDesc: "Running Shoes Alpha Boost V1",
     
             size : "6,7,8,9,10",
     
@@ -3054,7 +3054,7 @@ export const Fashion = {
       
             brand: "adidas",
       
-            shortDesc: " Running Shoes Alpha Boost V1",
+            shortDesc: "Running Shoes Alpha Boost V1",
     
             size : "6,7,8,9,10",
     
@@ -3106,7 +3106,7 @@ export const Fashion = {
     
           brand: "Gansta",
     
-          shortDesc: " Sunglasses, Men And Women Gansta Wayfarer Full-Frame Black Clear, Pack Of 3(GN3006-Blk-Brn-Clr-Com)",
+          shortDesc: "Sunglasses, Men And Women Gansta Wayfarer Full-Frame Black Clear, Pack Of 3(GN3006-Blk-Brn-Clr-Com)",
   
           size : "Medium(51mm - 54mm)",
   
@@ -3156,7 +3156,7 @@ export const Fashion = {
       
             brand: "Gansta",
       
-            shortDesc: " Sunglasses, Men And Women Gansta Wayfarer Full-Frame Black Clear, Pack Of 3(GN3006-Blk-Brn-Clr-Com)",
+            shortDesc: "Sunglasses, Men And Women Gansta Wayfarer Full-Frame Black Clear, Pack Of 3(GN3006-Blk-Brn-Clr-Com)",
     
             size : "Medium(51mm - 54mm)",
     
@@ -3206,7 +3206,7 @@ export const Fashion = {
       
             brand: "Gansta",
       
-            shortDesc: " Sunglasses, Men And Women Gansta Wayfarer Full-Frame Black Clear, Pack Of 3(GN3006-Blk-Brn-Clr-Com)",
+            shortDesc: "Sunglasses, Men And Women Gansta Wayfarer Full-Frame Black Clear, Pack Of 3(GN3006-Blk-Brn-Clr-Com)",
     
             size : "Medium(51mm - 54mm)",
     
@@ -3256,7 +3256,7 @@ export const Fashion = {
       
             brand: "REDEX",
       
-            shortDesc: " Frames for Men & Women Redex Green ",
+            shortDesc: "Frames for Men & Women Redex Green ",
     
             size : "Medium(51mm - 54mm)",
     
@@ -3306,7 +3306,7 @@ export const Fashion = {
       
             brand: "REDEX",
       
-            shortDesc: " Frames for Men & Women Redex Green ",
+            shortDesc: "Frames for Men & Women Redex Green ",
     
             size : "Medium(51mm - 54mm)",
     
@@ -3356,7 +3356,7 @@ export const Fashion = {
       
             brand: "REDEX",
       
-            shortDesc: " Frames for Men & Women Redex Green ",
+            shortDesc: "Frames for Men & Women Redex Green ",
     
             size : "Medium(51mm - 54mm)",
     
@@ -3406,7 +3406,7 @@ export const Fashion = {
       
             brand: "ELLIGATOR",
       
-            shortDesc: " Sunglasses For Men And Women (Pack Of 2) SRPM UV Protection Aviator Round Full Frame Pink And Violet",
+            shortDesc: "Sunglasses For Men And Women (Pack Of 2) SRPM UV Protection Aviator Round Full Frame Pink And Violet",
     
             size : "Medium(51mm - 54mm)",
     
@@ -3456,7 +3456,7 @@ export const Fashion = {
       
             brand: "ELLIGATOR",
       
-            shortDesc: " Sunglasses For Men And Women (Pack Of 2) SRPM UV Protection Aviator Round Full Frame Pink And Violet",
+            shortDesc: "Sunglasses For Men And Women (Pack Of 2) SRPM UV Protection Aviator Round Full Frame Pink And Violet",
     
             size : "Medium(51mm - 54mm)",
     
@@ -3506,7 +3506,7 @@ export const Fashion = {
       
             brand: "ELLIGATOR",
       
-            shortDesc: " Sunglasses For Men And Women (Pack Of 2) SRPM UV Protection Aviator Round Full Frame Pink And Violet",
+            shortDesc: "Sunglasses For Men And Women (Pack Of 2) SRPM UV Protection Aviator Round Full Frame Pink And Violet",
     
             size : "Medium(51mm - 54mm)",
     
@@ -3556,7 +3556,7 @@ export const Fashion = {
       
             brand: "NUVEW",
       
-            shortDesc: " Sunglasses For Men And Women (Pack Of 2) SRPM UV Protection Aviator Round Full Frame Pink And Violet",
+            shortDesc: "Sunglasses For Men And Women (Pack Of 2) SRPM UV Protection Aviator Round Full Frame Pink And Violet",
     
             size : "Medium(51mm-54mm)",
     
@@ -3606,7 +3606,7 @@ export const Fashion = {
       
             brand: "NUVEW",
       
-            shortDesc: " Sunglasses For Men And Women (Pack Of 2) SRPM UV Protection Aviator Round Full Frame Pink And Violet",
+            shortDesc: "Sunglasses For Men And Women (Pack Of 2) SRPM UV Protection Aviator Round Full Frame Pink And Violet",
     
             size : "Medium(51mm-54mm)",
     
@@ -3656,7 +3656,7 @@ export const Fashion = {
       
             brand: "NUVEW",
       
-            shortDesc: " Sunglasses For Men And Women (Pack Of 2) SRPM UV Protection Aviator Round Full Frame Pink And Violet",
+            shortDesc: "Sunglasses For Men And Women (Pack Of 2) SRPM UV Protection Aviator Round Full Frame Pink And Violet",
     
             size : "Medium(51mm-54mm)",
     
@@ -3706,7 +3706,7 @@ export const Fashion = {
       
             brand: "NUVEW",
       
-            shortDesc: " Sunglasses For Men And Women (Pack Of 2) SRPM UV Protection Aviator Round Full Frame Pink And Violet",
+            shortDesc: "Sunglasses For Men And Women (Pack Of 2) SRPM UV Protection Aviator Round Full Frame Pink And Violet",
     
             size : "Medium(51mm-54mm)",
     
@@ -3756,7 +3756,7 @@ export const Fashion = {
       
             brand: "NUVEW",
       
-            shortDesc: " Sunglasses For Men And Women (Pack Of 2) SRPM UV Protection Aviator Round Full Frame Pink And Violet",
+            shortDesc: "Sunglasses For Men And Women (Pack Of 2) SRPM UV Protection Aviator Round Full Frame Pink And Violet",
     
             size : "Medium(51mm-54mm)",
     
@@ -3806,7 +3806,7 @@ export const Fashion = {
       
             brand: "NUVEW",
       
-            shortDesc: " Sunglasses For Men And Women (Pack Of 2) SRPM UV Protection Aviator Round Full Frame Pink And Violet",
+            shortDesc: "Sunglasses For Men And Women (Pack Of 2) SRPM UV Protection Aviator Round Full Frame Pink And Violet",
     
             size : "Medium(51mm-54mm)",
     
@@ -4308,7 +4308,7 @@ export const Fashion = {
     
           brand: "Netplay",
     
-          shortDesc: " Waistband Checked Boxer with Elasticated ",
+          shortDesc: "Waistband Checked Boxer with Elasticated ",
   
           size : "S, M, L, XL",
   
@@ -4358,7 +4358,7 @@ export const Fashion = {
       
             brand: "Netplay",
       
-            shortDesc: " Waistband Checked Boxer with Elasticated ",
+            shortDesc: "Waistband Checked Boxer with Elasticated ",
     
             size : "S, M, L, XL",
     
@@ -4408,7 +4408,7 @@ export const Fashion = {
       
             brand: "Netplay",
       
-            shortDesc: " Waistband Checked Boxer with Elasticated ",
+            shortDesc: "Waistband Checked Boxer with Elasticated ",
     
             size : "S, M, L, XL",
     
@@ -5819,7 +5819,7 @@ export const Fashion = {
   
         brand: "GURHAL",
   
-        shortDesc: " Dress GURHAL Embroidered Cotton Unstitched  Material Pin",
+        shortDesc: "Dress GURHAL Embroidered Cotton Unstitched  Material Pin",
 
         size: "XS, S, M, L, XL, XXL",
 
@@ -5869,7 +5869,7 @@ export const Fashion = {
   
         brand: "GURHAL",
   
-        shortDesc: " Dress GURHAL Embroidered Cotton Unstitched  Material Pin",
+        shortDesc: "Dress GURHAL Embroidered Cotton Unstitched  Material Pin",
 
         size: "XS, S, M, L, XL, XXL",
 
@@ -5919,7 +5919,7 @@ export const Fashion = {
   
         brand: "GURHAL",
   
-        shortDesc: " Dress GURHAL Embroidered Cotton Unstitched  Material Pin",
+        shortDesc: "Dress GURHAL Embroidered Cotton Unstitched  Material Pin",
 
         size: "XS, S, M, L, XL, XXL",
 
@@ -5970,7 +5970,7 @@ export const Fashion = {
   
         brand: "Curie Apparels",
   
-        shortDesc: " Women's Foil Printed Georgette Ethnic Set With Top And Skirt (Mustard) (CAK13)",
+        shortDesc: "Women's Foil Printed Georgette Ethnic Set With Top And Skirt (Mustard) (CAK13)",
 
         size: "XS, S, M, L, XL, XXL",
 
@@ -6021,7 +6021,7 @@ export const Fashion = {
   
         brand: "Curie Apparels",
   
-        shortDesc: " Women's Foil Printed Georgette Ethnic Set With Top And Skirt (Mustard) (CAK13)",
+        shortDesc: "Women's Foil Printed Georgette Ethnic Set With Top And Skirt (Mustard) (CAK13)",
 
         size: "XS, S, M, L, XL, XXL",
 
@@ -6072,7 +6072,7 @@ export const Fashion = {
   
         brand: "Curie Apparels",
   
-        shortDesc: " Women's Foil Printed Georgette Ethnic Set With Top And Skirt (Mustard) (CAK13)",
+        shortDesc: "Women's Foil Printed Georgette Ethnic Set With Top And Skirt (Mustard) (CAK13)",
 
         size: "XS, S, M, L, XL, XXL",
 
@@ -6429,7 +6429,7 @@ export const Fashion = {
   
         brand: "Modestouze Attires",
   
-        shortDesc: " Women's Embroidered Silk Blend Kurta And Printed Palazzo With Dupatta (Black)",
+        shortDesc: "Women's Embroidered Silk Blend Kurta And Printed Palazzo With Dupatta (Black)",
 
         size: "XS, S, M, L, XL, XXL",
 
@@ -6480,7 +6480,7 @@ export const Fashion = {
   
         brand: "Modestouze Attires",
   
-        shortDesc: " Women's Embroidered Silk Blend Kurta And Printed Palazzo With Dupatta (Black)",
+        shortDesc: "Women's Embroidered Silk Blend Kurta And Printed Palazzo With Dupatta (Black)",
 
         size: "XS, S, M, L, XL, XXL",
 
@@ -6531,7 +6531,7 @@ export const Fashion = {
   
         brand: "Modestouze Attires",
   
-        shortDesc: " Women's Embroidered Silk Blend Kurta And Printed Palazzo With Dupatta (Black)",
+        shortDesc: "Women's Embroidered Silk Blend Kurta And Printed Palazzo With Dupatta (Black)",
 
         size: "XS, S, M, L, XL, XXL",
 
@@ -6583,7 +6583,7 @@ export const Fashion = {
     
           brand: "HALFSAREE STUDIO",
     
-          shortDesc: " Pista Mehendi Banarasi Silk Zari woven Lehenga design",
+          shortDesc: "Pista Mehendi Banarasi Silk Zari woven Lehenga design",
   
           size : "Freesize",
   
@@ -6633,7 +6633,7 @@ export const Fashion = {
       
             brand: "HALFSAREE STUDIO",
       
-            shortDesc: " Pista Mehendi Banarasi Silk Zari woven Lehenga design",
+            shortDesc: "Pista Mehendi Banarasi Silk Zari woven Lehenga design",
     
             size : "Freesize",
     
@@ -6683,7 +6683,7 @@ export const Fashion = {
       
             brand: "HALFSAREE STUDIO",
       
-            shortDesc: " Pista Mehendi Banarasi Silk Zari woven Lehenga design",
+            shortDesc: "Pista Mehendi Banarasi Silk Zari woven Lehenga design",
     
             size : "Freesize",
     
@@ -6733,7 +6733,7 @@ export const Fashion = {
       
             brand: "HALFSAREE STUDIO",
       
-            shortDesc: " Pista Mehendi Banarasi Silk Zari woven Lehenga design",
+            shortDesc: "Pista Mehendi Banarasi Silk Zari woven Lehenga design",
     
             size : "Freesize",
     
@@ -6783,7 +6783,7 @@ export const Fashion = {
       
             brand: "HALFSAREE STUDIO",
       
-            shortDesc: " Pista Mehendi Banarasi Silk Zari woven Lehenga design",
+            shortDesc: "Pista Mehendi Banarasi Silk Zari woven Lehenga design",
     
             size : "Freesize",
     
@@ -6833,7 +6833,7 @@ export const Fashion = {
       
             brand: "HALFSAREE STUDIO",
       
-            shortDesc: " Pista Mehendi Banarasi Silk Zari woven Lehenga design",
+            shortDesc: "Pista Mehendi Banarasi Silk Zari woven Lehenga design",
     
             size : "Freesize",
     
@@ -6883,7 +6883,7 @@ export const Fashion = {
       
             brand: "HALFSAREE STUDIO",
       
-            shortDesc: " Pista Mehendi Banarasi Silk Zari woven Lehenga design",
+            shortDesc: "Pista Mehendi Banarasi Silk Zari woven Lehenga design",
     
             size : "Freesize",
     
@@ -6933,7 +6933,7 @@ export const Fashion = {
       
             brand: "HALFSAREE STUDIO",
       
-            shortDesc: " Pista Mehendi Banarasi Silk Zari woven Lehenga design",
+            shortDesc: "Pista Mehendi Banarasi Silk Zari woven Lehenga design",
     
             size : "Freesize",
     
@@ -6983,7 +6983,7 @@ export const Fashion = {
       
             brand: "HALFSAREE STUDIO",
       
-            shortDesc: " Pista Mehendi Banarasi Silk Zari woven Lehenga design",
+            shortDesc: "Pista Mehendi Banarasi Silk Zari woven Lehenga design",
     
             size : "Freesize",
     
@@ -7033,7 +7033,7 @@ export const Fashion = {
       
             brand: "HALFSAREE STUDIO",
       
-            shortDesc: " Pista Mehendi Banarasi Silk Zari woven Lehenga design",
+            shortDesc: "Pista Mehendi Banarasi Silk Zari woven Lehenga design",
     
             size : "Freesize",
     
@@ -7083,7 +7083,7 @@ export const Fashion = {
       
             brand: "HALFSAREE STUDIO",
       
-            shortDesc: " Pista Mehendi Banarasi Silk Zari woven Lehenga design",
+            shortDesc: "Pista Mehendi Banarasi Silk Zari woven Lehenga design",
     
             size : "Freesize",
     
@@ -7133,7 +7133,7 @@ export const Fashion = {
       
             brand: "HALFSAREE STUDIO",
       
-            shortDesc: " Pista Mehendi Banarasi Silk Zari woven Lehenga design",
+            shortDesc: "Pista Mehendi Banarasi Silk Zari woven Lehenga design",
     
             size : "Freesize",
     
@@ -7183,7 +7183,7 @@ export const Fashion = {
       
             brand: "AFORMI",
       
-            shortDesc: " Silk Saree Pista Colour AFORMI Woven, Printed Banarasi Pure",
+            shortDesc: "Silk Saree Pista Colour AFORMI Woven, Printed Banarasi Pure",
     
             size : "Freesize",
     
@@ -7233,7 +7233,7 @@ export const Fashion = {
       
             brand: "AFORMI",
       
-            shortDesc: " Silk Saree Pista Colour AFORMI Woven, Printed Banarasi Pure",
+            shortDesc: "Silk Saree Pista Colour AFORMI Woven, Printed Banarasi Pure",
     
             size : "Freesize",
     
@@ -7283,7 +7283,7 @@ export const Fashion = {
       
             brand: "AFORMI",
       
-            shortDesc: " Silk Saree Pista Colour AFORMI Woven, Printed Banarasi Pure",
+            shortDesc: "Silk Saree Pista Colour AFORMI Woven, Printed Banarasi Pure",
     
             size : "Freesize",
     
@@ -7483,7 +7483,7 @@ export const Fashion = {
       
             brand: "AFORMI",
       
-            shortDesc: " Printed Banarasi Pure Silk Saree Grey Colour AFORMI Woven",
+            shortDesc: "Printed Banarasi Pure Silk Saree Grey Colour AFORMI Woven",
     
             size : "Freesize",
     
@@ -7533,7 +7533,7 @@ export const Fashion = {
       
             brand: "AFORMI",
       
-            shortDesc: " Printed Banarasi Pure Silk Saree Grey Colour AFORMI Woven",
+            shortDesc: "Printed Banarasi Pure Silk Saree Grey Colour AFORMI Woven",
     
             size : "Freesize",
     
@@ -7583,7 +7583,7 @@ export const Fashion = {
       
             brand: "AFORMI",
       
-            shortDesc: " Printed Banarasi Pure Silk Saree Grey Colour AFORMI Woven",
+            shortDesc: "Printed Banarasi Pure Silk Saree Grey Colour AFORMI Woven",
     
             size : "Freesize",
     
@@ -7635,7 +7635,7 @@ export const Fashion = {
     
           brand: "PIRASO",
     
-          shortDesc: " Sunglasses (Women) PIRASO UV Protection Butterfly Full-frame Brown  - Large",
+          shortDesc: "Sunglasses (Women) PIRASO UV Protection Butterfly Full-frame Brown  - Large",
   
           size : "large",
   
@@ -7685,7 +7685,7 @@ export const Fashion = {
       
             brand: "PIRASO",
       
-            shortDesc: " Sunglasses (Women) PIRASO UV Protection Butterfly Full-frame Brown  - Large",
+            shortDesc: "Sunglasses (Women) PIRASO UV Protection Butterfly Full-frame Brown  - Large",
     
             size : "large",
     
@@ -7735,7 +7735,7 @@ export const Fashion = {
       
             brand: "PIRASO",
       
-            shortDesc: " Sunglasses (Women) PIRASO UV Protection Butterfly Full-frame Brown  - Large",
+            shortDesc: "Sunglasses (Women) PIRASO UV Protection Butterfly Full-frame Brown  - Large",
     
             size : "large",
     
@@ -7785,7 +7785,7 @@ export const Fashion = {
       
             brand: "PIRASO",
       
-            shortDesc: " Sunglasses (Women) PIRASO UV Protection Butterfly Full-frame Brown  - Large",
+            shortDesc: "Sunglasses (Women) PIRASO UV Protection Butterfly Full-frame Brown  - Large",
     
             size : "large",
     
@@ -7835,7 +7835,7 @@ export const Fashion = {
       
             brand: "PIRASO",
       
-            shortDesc: " Sunglasses (Women) PIRASO UV Protection Butterfly Full-frame Brown  - Large",
+            shortDesc: "Sunglasses (Women) PIRASO UV Protection Butterfly Full-frame Brown  - Large",
     
             size : "large",
     
@@ -7885,7 +7885,7 @@ export const Fashion = {
       
             brand: "PIRASO",
       
-            shortDesc: " Sunglasses (Women) PIRASO UV Protection Butterfly Full-frame Brown  - Large",
+            shortDesc: "Sunglasses (Women) PIRASO UV Protection Butterfly Full-frame Brown  - Large",
     
             size : "large",
     
@@ -7935,7 +7935,7 @@ export const Fashion = {
       
             brand: "PIRASO",
       
-            shortDesc: " Sunglasses (Women) PIRASO UV Protection Butterfly Full-frame Brown  - Large",
+            shortDesc: "Sunglasses (Women) PIRASO UV Protection Butterfly Full-frame Brown  - Large",
     
             size : "large",
     
@@ -7985,7 +7985,7 @@ export const Fashion = {
       
             brand: "PIRASO",
       
-            shortDesc: " Sunglasses (Women) PIRASO UV Protection Butterfly Full-frame Brown  - Large",
+            shortDesc: "Sunglasses (Women) PIRASO UV Protection Butterfly Full-frame Brown  - Large",
     
             size : "large",
     
@@ -8185,7 +8185,7 @@ export const Fashion = {
       
             brand: "Walrus",
       
-            shortDesc: " Sunglasses For Women Walrus Uv Protection Round Full-Frame Silver ",
+            shortDesc: "Sunglasses For Women Walrus Uv Protection Round Full-Frame Silver ",
     
             size : "large",
     
@@ -8235,7 +8235,7 @@ export const Fashion = {
       
             brand: "Walrus",
       
-            shortDesc: " Sunglasses For Women Walrus Uv Protection Round Full-Frame Silver ",
+            shortDesc: "Sunglasses For Women Walrus Uv Protection Round Full-Frame Silver ",
     
             size : "large",
     
@@ -8285,7 +8285,7 @@ export const Fashion = {
       
             brand: "Walrus",
       
-            shortDesc: " Sunglasses For Women Walrus Uv Protection Round Full-Frame Silver ",
+            shortDesc: "Sunglasses For Women Walrus Uv Protection Round Full-Frame Silver ",
     
             size : "large",
     
@@ -8335,7 +8335,7 @@ export const Fashion = {
       
             brand: "PIRASO",
       
-            shortDesc: " Sunglasses (Women) PIRASO UV Protection Butterfly Full-frame Brown  - Large",
+            shortDesc: "Sunglasses (Women) PIRASO UV Protection Butterfly Full-frame Brown  - Large",
     
             size : "large",
     
@@ -8385,7 +8385,7 @@ export const Fashion = {
       
             brand: "PIRASO",
       
-            shortDesc: " Sunglasses (Women) PIRASO UV Protection Butterfly Full-frame Brown  - Large",
+            shortDesc: "Sunglasses (Women) PIRASO UV Protection Butterfly Full-frame Brown  - Large",
     
             size : "large",
     
@@ -8435,7 +8435,7 @@ export const Fashion = {
       
             brand: "PIRASO",
       
-            shortDesc: " Sunglasses (Women) PIRASO UV Protection Butterfly Full-frame Brown  - Large",
+            shortDesc: "Sunglasses (Women) PIRASO UV Protection Butterfly Full-frame Brown  - Large",
     
             size : "large",
     
@@ -8485,7 +8485,7 @@ export const Fashion = {
       
             brand: "PIRASO",
       
-            shortDesc: " Sunglasses (Women) PIRASO UV Protection Butterfly Full-frame Brown  - Large",
+            shortDesc: "Sunglasses (Women) PIRASO UV Protection Butterfly Full-frame Brown  - Large",
     
             size : "large",
     
@@ -8535,7 +8535,7 @@ export const Fashion = {
       
             brand: "PIRASO",
       
-            shortDesc: " Sunglasses (Women) PIRASO UV Protection Butterfly Full-frame Brown  - Large",
+            shortDesc: "Sunglasses (Women) PIRASO UV Protection Butterfly Full-frame Brown  - Large",
     
             size : "large",
     
@@ -8585,7 +8585,7 @@ export const Fashion = {
       
             brand: "PIRASO",
       
-            shortDesc: " Sunglasses (Women) PIRASO UV Protection Butterfly Full-frame Brown  - Large",
+            shortDesc: "Sunglasses (Women) PIRASO UV Protection Butterfly Full-frame Brown  - Large",
     
             size : "large",
     

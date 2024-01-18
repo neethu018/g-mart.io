@@ -295,7 +295,7 @@ const Header = () => {
   return (
     <>
       <Navbar expand="lg"  style={{backgroundColor:"#0c5273"}}>
-        {/* <Navbar.Brand href="/">GMart</Navbar.Brand> */}
+        {/* <Navbar.Brand as={Link} to="/">GMart</Navbar.Brand> */}
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mr-auto text-white" navbarScroll >
@@ -320,10 +320,10 @@ const Header = () => {
                     onMouseEnter={handleApplePearsMouseEnter}
                     onMouseLeave={handleApplePearsMouseLeave}
                   >
-                    <NavDropdown.Item href="/premiumfruits/ApplePears/apples">
+                    <NavDropdown.Item as={Link} to="/premiumfruits/ApplePears/apples">
                       Apples
                     </NavDropdown.Item>
-                    <NavDropdown.Item href="/premiumfruits/ApplePears/pears">
+                    <NavDropdown.Item as={Link} to="/premiumfruits/ApplePears/pears">
                       Pears
                     </NavDropdown.Item>
                   </Container>
@@ -345,13 +345,13 @@ const Header = () => {
                     onMouseEnter={handleAvacadoPeachPlumMouseEnter}
                     onMouseLeave={handleAvacadoPeachPlumMouseLeave}
                   >
-                    <NavDropdown.Item href="/premiumfruits/AvacadoPeachPlum/avacados">
+                    <NavDropdown.Item as={Link} to="/premiumfruits/AvacadoPeachPlum/avacados">
                       Avacados
                     </NavDropdown.Item>
-                    <NavDropdown.Item href="/premiumfruits/AvacadoPeachPlum/peaches">
+                    <NavDropdown.Item as={Link} to="/premiumfruits/AvacadoPeachPlum/peaches">
                       Peaches
                     </NavDropdown.Item>
-                    <NavDropdown.Item href="/premiumfruits/AvacadoPeachPlum/nectarines">
+                    <NavDropdown.Item as={Link} to="/premiumfruits/AvacadoPeachPlum/nectarines">
                       Nectarines
                     </NavDropdown.Item>
                   </Container>
@@ -372,13 +372,13 @@ const Header = () => {
                     onMouseEnter={handleBananaMelonCoconutMouseEnter}
                     onMouseLeave={handleBananaMelonCoconutMouseLeave}
                   >
-                    <NavDropdown.Item href="/premiumfruits/BananaMelonCoconut/bananas">
+                    <NavDropdown.Item as={Link} to="/premiumfruits/BananaMelonCoconut/bananas">
                       Bananas
                     </NavDropdown.Item>
-                    <NavDropdown.Item href="/premiumfruits/BananaMelonCoconut/melons">
+                    <NavDropdown.Item as={Link} to="/premiumfruits/BananaMelonCoconut/melons">
                       Melons
                     </NavDropdown.Item>
-                    <NavDropdown.Item href="/premiumfruits/BananaMelonCoconut/coconuts">
+                    <NavDropdown.Item as={Link} to="/premiumfruits/BananaMelonCoconut/coconuts">
                       Coconuts
                     </NavDropdown.Item>
                   </Container>
@@ -399,13 +399,13 @@ const Header = () => {
                     onMouseEnter={handleCherriesBerriesExoticMouseEnter}
                     onMouseLeave={handleCherriesBerriesExoticMouseLeave}
                   >
-                    <NavDropdown.Item href="/premiumfruits/CherriesBerriesDragonfruit/cherries">
+                    <NavDropdown.Item as={Link} to="/premiumfruits/CherriesBerriesDragonfruit/cherries">
                       Cherries
                     </NavDropdown.Item>
-                    <NavDropdown.Item href="/premiumfruits/CherriesBerriesDragonfruit/berries">
+                    <NavDropdown.Item as={Link} to="/premiumfruits/CherriesBerriesDragonfruit/berries">
                       Berries
                     </NavDropdown.Item>
-                    <NavDropdown.Item href="/premiumfruits/CherriesBerriesDragonfruit/dragonfruits">
+                    <NavDropdown.Item as={Link} to="/premiumfruits/CherriesBerriesDragonfruit/dragonfruits">
                       Dragon Fruits
                     </NavDropdown.Item>
                   </Container>
@@ -426,13 +426,13 @@ const Header = () => {
                     onMouseEnter={handleCitrusMangoGrapeMouseEnter}
                     onMouseLeave={handleCitrusMangoGrapeMouseLeave}
                   >
-                    <NavDropdown.Item href="/premiumfruits/CitrusMangosGrapes/citrus">
+                    <NavDropdown.Item as={Link} to="/premiumfruits/CitrusMangosGrapes/citrus">
                       Citrus
                     </NavDropdown.Item>
-                    <NavDropdown.Item href="/premiumfruits/CitrusMangosGrapes/mangos">
+                    <NavDropdown.Item as={Link} to="/premiumfruits/CitrusMangosGrapes/mangos">
                       Mangos
                     </NavDropdown.Item>
-                    <NavDropdown.Item href="/premiumfruits/CitrusMangosGrapes/grapes">
+                    <NavDropdown.Item as={Link} to="/premiumfruits/CitrusMangosGrapes/grapes">
                       Grapes
                     </NavDropdown.Item>
                   </Container>
@@ -453,7 +453,7 @@ const Header = () => {
                     onMouseEnter={handleWetDatesMouseEnter}
                     onMouseLeave={handleWetDatesMouseLeave}
                   >
-                    <NavDropdown.Item href="/premiumfruits/Dates/wetdates">
+                    <NavDropdown.Item as={Link} to="/premiumfruits/Dates/wetdates">
                       Wet Dates
                     </NavDropdown.Item>
                   </Container>
@@ -474,7 +474,7 @@ const Header = () => {
                     onMouseEnter={handleGiftPackMouseEnter}
                     onMouseLeave={handleGiftPackMouseLeave}
                   >
-                    <NavDropdown.Item href="/premiumfruits/GiftAssortedXlPacks/giftpacks">
+                    <NavDropdown.Item as={Link} to="/premiumfruits/GiftAssortedXlPacks/giftpacks">
                       Gifts Pack
                     </NavDropdown.Item>
                   </Container>
@@ -495,13 +495,13 @@ const Header = () => {
                     onMouseEnter={handlePomegranatePapayaPineappleMouseEnter}
                     onMouseLeave={handlePomegranatePapayaPineappleMouseLeave}
                   >
-                    <NavDropdown.Item href="/premiumfruits/PomegranatePapayaPineapple/pomegranates">
+                    <NavDropdown.Item as={Link} to="/premiumfruits/PomegranatePapayaPineapple/pomegranates">
                       Pomegranates
                     </NavDropdown.Item>
-                    <NavDropdown.Item href="/premiumfruits/PomegranatePapayaPineapple/papayas">
+                    <NavDropdown.Item as={Link} to="/premiumfruits/PomegranatePapayaPineapple/papayas">
                       Papayas
                     </NavDropdown.Item>
-                    <NavDropdown.Item href="/premiumfruits/PomegranatePapayaPineapple/pineapples">
+                    <NavDropdown.Item as={Link} to="/premiumfruits/PomegranatePapayaPineapple/pineapples">
                       Pineapples
                     </NavDropdown.Item>
                   </Container>
@@ -522,10 +522,10 @@ const Header = () => {
                     onMouseEnter={handleSeasonalMinorFruitsMouseEnter}
                     onMouseLeave={handleSeasonalMinorFruitsMouseLeave}
                   >
-                    <NavDropdown.Item href="/premiumfruits/SeasonalMinorFruits/guavas">
+                    <NavDropdown.Item as={Link} to="/premiumfruits/SeasonalMinorFruits/guavas">
                       Guava
                     </NavDropdown.Item>
-                    <NavDropdown.Item href="/premiumfruits/SeasonalMinorFruits/custardapples">
+                    <NavDropdown.Item as={Link} to="/premiumfruits/SeasonalMinorFruits/custardapples">
                       Custard Apples
                     </NavDropdown.Item>
                   </Container>
@@ -575,19 +575,19 @@ const Header = () => {
                     onMouseEnter={handleMakeUpMouseEnter}
                     onMouseLeave={handleMakeUpMouseLeave}
                   >
-                    <NavDropdown.Item href="/Beauty/makeup/Lips">
+                    <NavDropdown.Item as={Link} to="/Beauty/makeup/Lips">
                       Lips
                     </NavDropdown.Item>
-                    <NavDropdown.Item href="/Beauty/makeup/Nails">
+                    <NavDropdown.Item as={Link} to="/Beauty/makeup/Nails">
                       Nails
                     </NavDropdown.Item>
-                    <NavDropdown.Item href="/Beauty/makeup/Eyes">
+                    <NavDropdown.Item as={Link} to="/Beauty/makeup/Eyes">
                       Eyes
                     </NavDropdown.Item>
-                    <NavDropdown.Item href="/Beauty/makeup/FaceMakeUp">
+                    <NavDropdown.Item as={Link} to="/Beauty/makeup/FaceMakeUp">
                       FaceMakeUp
                     </NavDropdown.Item>
-                    <NavDropdown.Item href="/Beauty/makeup/MakeupToolsBrushes">
+                    <NavDropdown.Item as={Link} to="/Beauty/makeup/MakeupToolsBrushes">
                       MakeupToolsBrushes
                     </NavDropdown.Item>
                   </Container>
@@ -608,13 +608,13 @@ const Header = () => {
                     onMouseEnter={handleSkinCareMouseEnter}
                     onMouseLeave={handleSkinCareMouseLeave}
                   >
-                    <NavDropdown.Item href="/Beauty/SkinCare/Serum">
+                    <NavDropdown.Item as={Link} to="/Beauty/SkinCare/Serum">
                     Serum
                     </NavDropdown.Item>
-                    <NavDropdown.Item href="/Beauty/SkinCare/FaceMask">
+                    <NavDropdown.Item as={Link} to="/Beauty/SkinCare/FaceMask">
                     FaceMask
                     </NavDropdown.Item>
-                    <NavDropdown.Item href="/Beauty/SkinCare/Moisturizers">
+                    <NavDropdown.Item as={Link} to="/Beauty/SkinCare/Moisturizers">
                     Moisturizers
                     </NavDropdown.Item>
                   </Container>
@@ -635,22 +635,22 @@ const Header = () => {
                     onMouseEnter={handleHairMouseEnter}
                     onMouseLeave={handleHairMouseLeave}
                   >
-                    <NavDropdown.Item href="/Beauty/Hair/HairCare">
+                    <NavDropdown.Item as={Link} to="/Beauty/Hair/HairCare">
                     HairCare
                     </NavDropdown.Item>
-                    <NavDropdown.Item href="/Beauty/Hair/HairColor">
+                    <NavDropdown.Item as={Link} to="/Beauty/Hair/HairColor">
                     HairColor
                     </NavDropdown.Item>
-                    <NavDropdown.Item href="/Beauty/Hair/HairStyling">
+                    <NavDropdown.Item as={Link} to="/Beauty/Hair/HairStyling">
                     HairStyling
                     </NavDropdown.Item>
-                    <NavDropdown.Item href="/Beauty/Hair/HairToolAndAccessories">
+                    <NavDropdown.Item as={Link} to="/Beauty/Hair/HairToolAndAccessories">
                     HairToolAndAccessories
                     </NavDropdown.Item>
-                    <NavDropdown.Item href="/Beauty/Hair/ScalpTreatments">
+                    <NavDropdown.Item as={Link} to="/Beauty/Hair/ScalpTreatments">
                     ScalpTreatments
                     </NavDropdown.Item>
-                    <NavDropdown.Item href="/Beauty/Hair/ShopByHairType">
+                    <NavDropdown.Item as={Link} to="/Beauty/Hair/ShopByHairType">
                     ShopByHairType
                     </NavDropdown.Item>
                   </Container>
@@ -687,19 +687,19 @@ const Header = () => {
                     onMouseEnter={handleBagsAndTravelLuggagesMouseEnter}
                     onMouseLeave={handleBagsAndTravelLuggagesMouseLeave}
                   >
-                    <NavDropdown.Item href="/SportsToysLuggages/BagsTravelLuggages/BagsAndBackpacks">
+                    <NavDropdown.Item as={Link} to="/SportsToysLuggages/BagsTravelLuggages/BagsAndBackpacks">
                       Bags & Backpacks
                     </NavDropdown.Item>
-                    <NavDropdown.Item href="/SportsToysLuggages/BagsTravelLuggages/DuffleBags">
+                    <NavDropdown.Item as={Link} to="/SportsToysLuggages/BagsTravelLuggages/DuffleBags">
                       Duffle Bags
                     </NavDropdown.Item>
-                    <NavDropdown.Item href="/SportsToysLuggages/BagsTravelLuggages/ShoppingAndOtherbags">
+                    <NavDropdown.Item as={Link} to="/SportsToysLuggages/BagsTravelLuggages/ShoppingAndOtherbags">
                       Shopping & Other Bags
                     </NavDropdown.Item>
-                    {/* <NavDropdown.Item href="/SportsToysLuggages/BagsTravelLuggages/TravelAccessories">
+                    {/* <NavDropdown.Item as={Link} to="/SportsToysLuggages/BagsTravelLuggages/TravelAccessories">
                       Travel Accessories
                     </NavDropdown.Item> */}
-                    <NavDropdown.Item href="/SportsToysLuggages/BagsTravelLuggages/TrolleysAndSuitcases">
+                    <NavDropdown.Item as={Link} to="/SportsToysLuggages/BagsTravelLuggages/TrolleysAndSuitcases">
                       Trolleys & Suitcases
                     </NavDropdown.Item>
                   </Container>
@@ -736,19 +736,19 @@ const Header = () => {
                   onMouseEnter={handleMensFashionMouseEnter}
                   onMouseLeave={handleMensFashionMouseLeave}
                 >
-                  <NavDropdown.Item href="/Fashion/MensFashion/ClothingAccessories">
+                  <NavDropdown.Item as={Link} to="/Fashion/MensFashion/ClothingAccessories">
                     ClothingAccesseries
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/Fashion/MensFashion/WesternWear">
+                  <NavDropdown.Item as={Link} to="/Fashion/MensFashion/WesternWear">
                   WesternWear
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/Fashion/MensFashion/MensFootWear">
+                  <NavDropdown.Item as={Link} to="/Fashion/MensFashion/MensFootWear">
                   MensFootWear
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/Fashion/MensFashion/MensEyeWear">
+                  <NavDropdown.Item as={Link} to="/Fashion/MensFashion/MensEyeWear">
                   MensEyeWear
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/Fashion/MensFashion/InnerWear">
+                  <NavDropdown.Item as={Link} to="/Fashion/MensFashion/InnerWear">
                     InnerWear
                   </NavDropdown.Item>
                   
@@ -770,19 +770,19 @@ const Header = () => {
                   onMouseEnter={handleWomensFashionMouseEnter}
                   onMouseLeave={handleWomensFashionMouseLeave}
                 >
-                  <NavDropdown.Item href="/Fashion/WomensFashion/EthinicWear">
+                  <NavDropdown.Item as={Link} to="/Fashion/WomensFashion/EthinicWear">
                   EthinicWear
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/Fashion/WomensFashion/TraditionalWear">
+                  <NavDropdown.Item as={Link} to="/Fashion/WomensFashion/TraditionalWear">
                   TraditionalWear
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/Fashion/WomensFashion/EyeWear">
+                  <NavDropdown.Item as={Link} to="/Fashion/WomensFashion/EyeWear">
                   EyeWear
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/Fashion/WomensFashion/FootWear">
+                  <NavDropdown.Item as={Link} to="/Fashion/WomensFashion/FootWear">
                   FootWear
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/Fashion/WomensFashion/Watches">
+                  <NavDropdown.Item as={Link} to="/Fashion/WomensFashion/Watches">
                   Watches
                   </NavDropdown.Item>
                   
@@ -804,22 +804,22 @@ const Header = () => {
                   onMouseEnter={handleKidsFashionMouseEnter}
                   onMouseLeave={handleKidsFashionMouseLeave}
                 >
-                  <NavDropdown.Item href="/Fashion/KidsFashion/JuniorBoyShirt">
+                  <NavDropdown.Item as={Link} to="/Fashion/KidsFashion/JuniorBoyShirt">
                   JuniorBoyShirt
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/Fashion/KidsFashion/JuniorBoyTracks">
+                  <NavDropdown.Item as={Link} to="/Fashion/KidsFashion/JuniorBoyTracks">
                   JuniorBoyTracks
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/Fashion/KidsFashion/JuniorBoyInnerWear">
+                  <NavDropdown.Item as={Link} to="/Fashion/KidsFashion/JuniorBoyInnerWear">
                   JuniorBoyInnerWear
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/Fashion/KidsFashion/JuniorGirlGowns">
+                  <NavDropdown.Item as={Link} to="/Fashion/KidsFashion/JuniorGirlGowns">
                   JuniorGirlGowns
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/Fashion/KidsFashion/JuniorGirlCasualWear">
+                  <NavDropdown.Item as={Link} to="/Fashion/KidsFashion/JuniorGirlCasualWear">
                   JuniorGirlCasualWear
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/Fashion/KidsFashion/JuniorGirlInnerWear">
+                  <NavDropdown.Item as={Link} to="/Fashion/KidsFashion/JuniorGirlInnerWear">
                   JuniorGirlInnerWear
                   </NavDropdown.Item>
                   
@@ -841,13 +841,13 @@ const Header = () => {
                   onMouseEnter={handleInfantsMouseEnter}
                   onMouseLeave={handleInfantsMouseLeave}
                 >
-                  <NavDropdown.Item href="/Fashion/Infants/BabyGirl">
+                  <NavDropdown.Item as={Link} to="/Fashion/Infants/BabyGirl">
                   BabyGirl
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/Fashion/Infants/BabyBoy">
+                  <NavDropdown.Item as={Link} to="/Fashion/Infants/BabyBoy">
                   BabyBoy
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/Fashion/Infants/Toys">
+                  <NavDropdown.Item as={Link} to="/Fashion/Infants/Toys">
                   Toys
                   </NavDropdown.Item>
                 </Container>
@@ -885,13 +885,13 @@ const Header = () => {
                   onMouseEnter={handleMobilesTabletsMouseEnter}
                   onMouseLeave={handleMobilesTabletsMouseLeave}
                 >
-                  <NavDropdown.Item href="/Electronics/MobilesTablets/Smartphone">
+                  <NavDropdown.Item as={Link} to="/Electronics/MobilesTablets/Smartphone">
                   Smartphone
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/Electronics/MobilesTablets/MobileAccessories">
+                  <NavDropdown.Item as={Link} to="/Electronics/MobilesTablets/MobileAccessories">
                   MobileAccessories
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/Electronics/MobilesTablets/Tablets">
+                  <NavDropdown.Item as={Link} to="/Electronics/MobilesTablets/Tablets">
                   Tablets
                   </NavDropdown.Item>
                 </Container>
@@ -912,13 +912,13 @@ const Header = () => {
                   onMouseEnter={handleTvSpeakerMouseEnter}
                   onMouseLeave={handleTvSpeakerMouseLeave}
                 >
-                  <NavDropdown.Item href="/Electronics/TvSpeaker/Tv">
+                  <NavDropdown.Item as={Link} to="/Electronics/TvSpeaker/Tv">
                   Tv
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/Electronics/TvSpeaker/HomeTheatre">
+                  <NavDropdown.Item as={Link} to="/Electronics/TvSpeaker/HomeTheatre">
                   HomeTheatre
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/Electronics/TvSpeaker/TvRemote">
+                  <NavDropdown.Item as={Link} to="/Electronics/TvSpeaker/TvRemote">
                   TvRemote
                   </NavDropdown.Item>
                 </Container>
@@ -939,13 +939,13 @@ const Header = () => {
                   onMouseEnter={handleHomeAppliancesMouseEnter}
                   onMouseLeave={handleHomeAppliancesMouseLeave}
                 >
-                  <NavDropdown.Item href="/Electronics/HomeAppliances/WashingMachine">
+                  <NavDropdown.Item as={Link} to="/Electronics/HomeAppliances/WashingMachine">
                   WashingMachine
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/Electronics/HomeAppliances/Irons">
+                  <NavDropdown.Item as={Link} to="/Electronics/HomeAppliances/Irons">
                   Irons
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/Electronics/HomeAppliances/Fans">
+                  <NavDropdown.Item as={Link} to="/Electronics/HomeAppliances/Fans">
                   Fans
                   </NavDropdown.Item>
                 </Container>
@@ -966,13 +966,13 @@ const Header = () => {
                   onMouseEnter={handleComputersMouseEnter}
                   onMouseLeave={handleComputersMouseLeave}
                 >
-                  <NavDropdown.Item href="/Electronics/Computers/Laptop">
+                  <NavDropdown.Item as={Link} to="/Electronics/Computers/Laptop">
                   Laptop
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/Electronics/Computers/Desktop">
+                  <NavDropdown.Item as={Link} to="/Electronics/Computers/Desktop">
                   Desktop
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/Electronics/Computers/Monitor">
+                  <NavDropdown.Item as={Link} to="/Electronics/Computers/Monitor">
                   Monitor
                   </NavDropdown.Item>
                 </Container>
@@ -1009,13 +1009,13 @@ const Header = () => {
                   onMouseEnter={handleKitchenwareMouseEnter}
                   onMouseLeave={handleKitchenwareMouseLeave}
                 >
-                  <NavDropdown.Item href="/HomeKitchenNeeds/Kitchenware/KitchenTools">
+                  <NavDropdown.Item as={Link} to="/HomeKitchenNeeds/Kitchenware/KitchenTools">
                   KitchenTools
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/HomeKitchenNeeds/Kitchenware/Cookware">
+                  <NavDropdown.Item as={Link} to="/HomeKitchenNeeds/Kitchenware/Cookware">
                   Cookware
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/HomeKitchenNeeds/Kitchenware/GasStove">
+                  <NavDropdown.Item as={Link} to="/HomeKitchenNeeds/Kitchenware/GasStove">
                   GasStove
                   </NavDropdown.Item>
                 </Container>
@@ -1036,13 +1036,13 @@ const Header = () => {
                   onMouseEnter={handleHomeDecorMouseEnter}
                   onMouseLeave={handleHomeDecorMouseLeave}
                 >
-                  <NavDropdown.Item href="/HomeKitchenNeeds/HomeDecor/InteriorNeeds">
+                  <NavDropdown.Item as={Link} to="/HomeKitchenNeeds/HomeDecor/InteriorNeeds">
                   InteriorNeeds
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/HomeKitchenNeeds/HomeDecor/Decors">
+                  <NavDropdown.Item as={Link} to="/HomeKitchenNeeds/HomeDecor/Decors">
                   Decors
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/HomeKitchenNeeds/HomeDecor/GiftingSets">
+                  <NavDropdown.Item as={Link} to="/HomeKitchenNeeds/HomeDecor/GiftingSets">
                   GiftingSets
                   </NavDropdown.Item>
                 </Container>
@@ -1063,16 +1063,16 @@ const Header = () => {
                   onMouseEnter={handleFurnitureMouseEnter}
                   onMouseLeave={handleFurnitureMouseLeave}
                 >
-                  <NavDropdown.Item href="/HomeKitchenNeeds/Furniture/Chairs">
+                  <NavDropdown.Item as={Link} to="/HomeKitchenNeeds/Furniture/Chairs">
                   Chairs
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/HomeKitchenNeeds/Furniture/Tables">
+                  <NavDropdown.Item as={Link} to="/HomeKitchenNeeds/Furniture/Tables">
                   Tables
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/HomeKitchenNeeds/Furniture/Mattress">
+                  <NavDropdown.Item as={Link} to="/HomeKitchenNeeds/Furniture/Mattress">
                   Mattress
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/HomeKitchenNeeds/Furniture/SofasAndCouches">
+                  <NavDropdown.Item as={Link} to="/HomeKitchenNeeds/Furniture/SofasAndCouches">
                   SofasAndCouches
                   </NavDropdown.Item>
                 </Container>
@@ -1093,10 +1093,10 @@ const Header = () => {
                   onMouseEnter={handleBathroomAccessoriesMouseEnter}
                   onMouseLeave={handleBathroomAccessoriesMouseLeave}
                 >
-                  <NavDropdown.Item href="/HomeKitchenNeeds/BathroomAccessories/MugsTubsBuckets">
+                  <NavDropdown.Item as={Link} to="/HomeKitchenNeeds/BathroomAccessories/MugsTubsBuckets">
                   MugsTubsBuckets
                   </NavDropdown.Item>
-                  <NavDropdown.Item href="/HomeKitchenNeeds/BathroomAccessories/HooksClipsLaundryEssentials">
+                  <NavDropdown.Item as={Link} to="/HomeKitchenNeeds/BathroomAccessories/HooksClipsLaundryEssentials">
                   HooksClipsLaundryEssentials
                   </NavDropdown.Item>
                 </Container>
@@ -1112,7 +1112,7 @@ const Header = () => {
             >
               HomeAndKitchenNeeds
             </Nav.Link>
-            <Nav.Link href="#about">About</Nav.Link>
+            {/* <Nav.Link as={Link} to="#about">About</Nav.Link> */}
             {/* <CartIcon/> */}
 
           </Nav>

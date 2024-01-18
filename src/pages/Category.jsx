@@ -188,7 +188,7 @@ const Category = ({ products }) => {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
-  } else if (category === "mensfashion") {
+  } else if (category === "MensFashion") {
     // Check if 'ClothingAccessories','WesternWear','FootWear','EyeWear','InnerWear' properties exist in the products object
     if (
       products &&
@@ -209,7 +209,7 @@ const Category = ({ products }) => {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
-  } else if (category === "womensfashion") {
+  } else if (category === "WomensFashion") {
     // Check if 'EthinicWear','TraditionalWear','EyeWear','Watches','FootWear'properties exist in the products object
     if (
       products &&
@@ -355,17 +355,17 @@ const Category = ({ products }) => {
       return <div>Error loading products.</div>;
     }
   } //KitchenTools
-  else if (category === "KitchenTools") {
+  else if (category === "Kitchenware") {
     if (
       products &&
-      products.kitchenTools &&
-      products.cookWare &&
-      products.gasStove
+      products.KitchenTools &&
+      products.CookWare &&
+      products.GasStove
     ) {
       filteredProducts = [
-        ...products.kitchenTools,
-        ...products.cookWare,
-        ...products.gasStove,
+        ...products.KitchenTools,
+        ...products.CookWare,
+        ...products.GasStove,
       ];
     } else {
       console.error("Products data is incomplete.");
@@ -375,14 +375,14 @@ const Category = ({ products }) => {
   else if (category === "HomeDecor") {
     if (
       products &&
-      products.interiorNeeds &&
-      products.decors &&
-      products.giftingSets
+      products.InteriorNeeds &&
+      products.Decors &&
+      products.GiftingSets
     ) {
       filteredProducts = [
-        ...products.interiorNeeds,
-        ...products.decors,
-        ...products.giftingSets,
+        ...products.InteriorNeeds,
+        ...products.Decors,
+        ...products.GiftingSets,
       ];
     } else {
       console.error("Products data is incomplete.");
@@ -392,16 +392,16 @@ const Category = ({ products }) => {
   else if (category === "Furniture") {
     if (
       products &&
-      products.chairs &&
-      products.table &&
-      products.mattress&&
-      products.sofasCouches
+      products.Chairs &&
+      products.Table &&
+      products.Mattress&&
+      products.SofasCouches
     ) {
       filteredProducts = [
-        ...products.chairs,
-        ...products.table,
-        ...products.mattress,
-        ...products.sofasCouches,
+        ...products.Chairs,
+        ...products.Table,
+        ...products.Mattress,
+        ...products.SofasCouches,
       ];
     } else {
       console.error("Products data is incomplete.");

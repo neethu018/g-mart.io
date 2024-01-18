@@ -62,9 +62,9 @@ const CategoryAccordions = ({ mainCategory }) => {
       "TrolleysAndSuitcases",
     ],
     // HomeKitchenNeeds
-    KitchenTools: ["kitchenTools", "cookWare", "gasStove"],
-    HomeDecor: ["interiorNeeds", "decors", "giftingSets"],
-    Furniture: ["chairs", "table", "mattress", "sofasCouches"],
+    KitchenTools: ["KitchenTools", "CookWare", "GasStove"],
+    HomeDecor: ["InteriorNeeds", "Decors", "GiftingSets"],
+    Furniture: ["Chairs", "Table", "Mattress", "SofasCouches"],
     BathroomAccessories: ["MugsTubsBuckets", "HooksClipsLaundryEssentials"],
     //fashion
     MensFashion: [

@@ -18,13 +18,10 @@ import TopNavbar from "./components/navbar/TopNavbar";
 import SubCategory from "./pages/SubCategory";
 import ProductDetail from "./pages/ProductDetail";
 import AllCatogries from "./pages/AllCatogries";
-import Footer from "./components/Footer";
+import Footer from "./components/Footer"
 
 import Cart from "./pages/Cart";
 import Search from "./pages/Search";
-import About from "./pages/About";
-import Dropdown from "./pages/Dropdown";
-
 
 function App() {
   console.log("premiumfruits data :", premiumFruits);
@@ -44,9 +41,6 @@ function App() {
         <Header />
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/ab" element={<About />} />
-           <Route path="/guide" element={<Dropdown />} />
-     
           {/* premiumfruits routings */}
           <Route
             path="/premiumfruits"
@@ -112,7 +106,7 @@ function App() {
             path="/Electronics/:category/:subcategory/:product"
             element={<ProductDetail />}
           />
-
+          
           {/*HomeKitchenNeeds routings */}
           <Route
             path="/HomeKitchenNeeds"
@@ -130,7 +124,7 @@ function App() {
             path="/HomeKitchenNeeds/:category/:subcategory/:product"
             element={<ProductDetail />}
           />
-          {/* sportsToysLuggages */}
+           {/* sportsToysLuggages */}
           <Route
             path="/SportsToysLuggages"
             element={<MainCategory products={SportsToysLuggages} />}
@@ -177,14 +171,14 @@ function App() {
             path="/search/:searchTerm/:productId"
             element={<ProductDetail />}
           />
-      
           {/* cart */}
           <Route path="/cart" element={<Cart />} />
           {/* allcategory */}
           <Route path="/allcategory" element={<AllCatogries />} />
         </Routes>
-        <Footer />
+        <Footer/>
       </Router>
+    
     </>
   );
 }

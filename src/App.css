@@ -1,6 +1,6 @@
-
-.active{ 
-    font-weight:bold;
+.active {
+  color: blue;
+  font-weight: bold;
 }
 /* breadcrumbs */
 .custom-breadcrumb-item a {
