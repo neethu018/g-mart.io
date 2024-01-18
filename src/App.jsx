@@ -6,7 +6,8 @@ import { Beauty } from "./utils/beauty"; //beauty data
 import { SportsToysLuggages } from "./utils/sportstoysluggages"; //sportstoysLuggages data
 import { Fashion } from "./utils/Fashion"; //fashion
 import { Electronics } from "./utils/electronics"; //electronics
-import { HomeKitchenNeeds } from "./utils/HomeKitchenTools"; //homeandkitchen
+import { HomeKitchenNeeds } from "./utils/HomeKitchenNeeds";//homekitchen
+
 
 import Header from "./components/Header";
 
@@ -138,6 +139,23 @@ function App() {
           />
           <Route
             path="/SportsToysLuggages/:category/:subcategory/:product"
+            element={<ProductDetail />}
+          />
+          {/*homekitchen routings */}
+          <Route
+            path="/HomeKitchenNeeds"
+            element={<MainCategory products={HomeKitchenNeeds} />}
+          />
+          <Route
+            path="/HomeKitchenNeeds/:category"
+            element={<Category products={HomeKitchenNeeds} />}
+          />
+          <Route
+            path="/HomeKitchenNeeds/:category/:subcategory"
+            element={<SubCategory products={HomeKitchenNeeds} />}
+          />
+          <Route
+            path="/HomeKitchenNeeds/:category/:subcategory/:product"
             element={<ProductDetail />}
           />
           {/* search */}
