@@ -10,7 +10,6 @@ import { HomeKitchenNeeds } from "./utils/HomeKitchenNeeds";//homekitchen
 
 
 import Header from "./components/Header";
-
 import Home from "./pages/Home";
 import MainCategory from "./pages/MainCategory";
 import Category from "./pages/Category";
@@ -22,6 +21,8 @@ import Footer from "./components/Footer"
 
 import Cart from "./pages/Cart";
 import Search from "./pages/Search";
+import About from "./pages/About";
+import Guide from "./pages/Guide";
 
 function App() {
   console.log("premiumfruits data :", premiumFruits);
@@ -41,6 +42,8 @@ function App() {
         <Header />
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/about" element={<About />} />
+           <Route path="/guide" element={<Guide />} />
           {/* premiumfruits routings */}
           <Route
             path="/premiumfruits"
