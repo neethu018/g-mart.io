@@ -14,7 +14,6 @@ const CategoryAccordions = ({ mainCategory }) => {
       "GiftAssortedXlPacks",
       "PomegranatePapayaPineapple",
       "SeasonalMinorFruits",
-
     ],
     Beauty: [
       "makeup",

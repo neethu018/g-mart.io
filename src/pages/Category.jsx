@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useMemo, useState } from "react";
 import ProductCard from "../components/ProductCard";
 import { useParams, useLocation } from "react-router-dom";
 import { Container, Row, Col, Image } from "react-bootstrap";
@@ -472,14 +472,26 @@ const Category = ({ products }) => {
   // filteredProducts = shuffleArray(filteredProducts);
 
   //ProductlistAdImage
-  const [categoryBannerAdImage, setcategoryBannerAdImage] = useState("");
+  // const [categoryBannerAdImage, setcategoryBannerAdImage] = useState("");
 
-  useEffect(() => {
-    if (category) {
-      console.log("subcategoryAdImageData key :", category);
-      setcategoryBannerAdImage(categoryBannerAdImagedata[category]);
-    }
-  }, [category]);
+  // useEffect(() => {
+  //   if (category) {
+  //     console.log("subcategoryAdImageData key :", category);
+  //     setcategoryBannerAdImage(categoryBannerAdImagedata[category]);
+  //   }
+  // }, [category]);
+
+//   let categoryBannerAdImage =""
+// if(catTitle){
+//   categoryBannerAdImage=categoryBannerAdImagedata[catTitle]
+// }
+const categoryBannerAdImage = useMemo(() => {
+  if (catTitle) {
+    return categoryBannerAdImagedata[catTitle];
+  }
+  // If subcatTitle is falsy, you may want to return a default value or handle it accordingly
+  return defaultImage; // Replace defaultImage with your actual default value
+}, [catTitle, categoryBannerAdImagedata]);
 
   return (
     <Container fluid className="product-list-container">
