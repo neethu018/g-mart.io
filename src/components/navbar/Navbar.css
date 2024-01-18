@@ -54,3 +54,9 @@
   font-size: 1rem;
   color: rgba(0, 0, 0, 0.54);
 }
+.sidebar{
+position: absolute;
+top: 0;
+z-index: 3;
+
+}
