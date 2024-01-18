@@ -393,15 +393,15 @@ const Category = ({ products }) => {
     if (
       products &&
       products.Chairs &&
-      products.Table &&
+      products.Tables &&
       products.Mattress&&
-      products.SofasCouches
+      products.SofasAndCouches
     ) {
       filteredProducts = [
         ...products.Chairs,
-        ...products.Table,
+        ...products.Tables,
         ...products.Mattress,
-        ...products.SofasCouches,
+        ...products.SofasAndCouches,
       ];
     } else {
       console.error("Products data is incomplete.");

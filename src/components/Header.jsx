@@ -1012,8 +1012,8 @@ const Header = () => {
                   <NavDropdown.Item as={Link} to="/HomeKitchenNeeds/Kitchenware/KitchenTools">
                   KitchenTools
                   </NavDropdown.Item>
-                  <NavDropdown.Item as={Link} to="/HomeKitchenNeeds/Kitchenware/Cookware">
-                  Cookware
+                  <NavDropdown.Item as={Link} to="/HomeKitchenNeeds/Kitchenware/CookWare">
+                  CookWare
                   </NavDropdown.Item>
                   <NavDropdown.Item as={Link} to="/HomeKitchenNeeds/Kitchenware/GasStove">
                   GasStove
