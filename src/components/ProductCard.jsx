@@ -14,7 +14,7 @@ import { useContext, useState } from "react";
 
 const ProductCard = ({ product, category, subcategory }) => {
   const { pathname } = useLocation();
-  console.log("search:",pathname);
+  console.log("pathname:",pathname);
   const { cartItems, addToCart, removeFromCart } = useContext(CartContext);
   const navigate = useNavigate();
 
@@ -95,6 +95,7 @@ const ProductCard = ({ product, category, subcategory }) => {
     path = `${product.productId}`;
   } else if (category) {
     path = `${product.shortDesc.split(" ")[0]}/${product.productId}`;
+    console.log("only category :",path);
   } else {
     navigate("/");
   }

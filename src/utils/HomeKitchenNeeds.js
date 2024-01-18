@@ -1,6 +1,6 @@
 export const HomeKitchenNeeds = {
     
-    kitchenTools: [
+    KitchenTools: [
             {
                 productImage: ["https://www.jiomart.com/images/product/original/rvaczq4p1m/willgo-smart-portable-electric-usb-juice-maker-juicer-bottle-blender-grinder-product-images-orvaczq4p1m-p603942660-0-202308172310.jpg?im=Resize=(420,420)"],
                 brand: "WILLGO",
@@ -533,7 +533,7 @@ export const HomeKitchenNeeds = {
             },
         ],
 
-        cookWare: [
+        CookWare: [
             {
                 productImage: ["https://www.jiomart.com/images/product/original/493830167/nirlon-red-aluminium-non-stick-cookware-set-3-pcs-product-images-o493830167-p602022890-0-202305311112.jpg?im=Resize=(420,420)"],
                 brand: "Nirlon",
@@ -882,7 +882,7 @@ export const HomeKitchenNeeds = {
             },
 
         ],
-        gasStove: [
+        GasStove: [
             {
                 productImage: ["https://www.jiomart.com/images/product/original/493645081/livflame-black-toughened-glass-top-2-burner-gas-stove-product-images-o493645081-p601584355-0-202310041813.jpg?im=Resize=(420,420)"],
                 brand: "LivFlame",
@@ -972,7 +972,7 @@ export const HomeKitchenNeeds = {
 
         ],
     
-        interiorNeeds: [
+        InteriorNeeds: [
             {
                 productImage: ["https://www.jiomart.com/images/product/original/rvwzgcfjgc/aartshi-creations-in-personalised-home-door-name-plate-laser-cut-with-acrylic-embossed-letters-with-mirror-shine-size-13-x-12-in-colour-brown-golden-0101a-product-images-orvwzgcfjgc-p597563820-0-202301140752.jpg?im=Resize=(420,420)"],
                 brand: "Aartshi Creations IN",
@@ -1323,7 +1323,7 @@ export const HomeKitchenNeeds = {
                 productId: 60982,
             },
         ],
-        decors: [
+        Decors: [
 
             {
                 productImage: ["https://www.jiomart.com/images/product/original/rvxe9kjkwv/party-midlinkerz-ultimate-pastel-rose-gold-happy-birthday-decoration-kit-119-pcs-product-images-orvxe9kjkwv-p596897167-0-202301031529.jpg?im=Resize=(420,420)"],
@@ -1591,7 +1591,7 @@ export const HomeKitchenNeeds = {
             },
         ],
 
-        giftingSets: [
+        GiftingSets: [
             {
                 productImage: ["https://www.jiomart.com/images/product/original/rvqbirivba/knmstores-torch-light-led-3w-torch-light-rechargeable-torch-flashlight-long-distance-beam-range-car-rescue-torch-with-hammer-window-glass-and-seat-belt-cutter-built-a08-product-images-orvqbirivba-p605574022-0-202310121524.jpg?im=Resize=(420,420)"],
                 brand: "KNMSTORES",
@@ -1937,7 +1937,7 @@ export const HomeKitchenNeeds = {
             },
         ],
     
-        chairs: [
+        Chairs: [
             {
                 productImage: ["https://www.jiomart.com/images/product/original/494241494/nilkamal-apple-red-and-blue-junior-study-desk-product-images-o494241494-p605498193-0-202310072230.jpg?im=Resize=(420,420)"],
                 brand: "Nilkamal",
@@ -2024,7 +2024,7 @@ export const HomeKitchenNeeds = {
                 productId: 61022,
             },
         ],
-        table: [
+        Table: [
             {
                 productImage: ["https://www.jiomart.com/images/product/original/rvu9gf83kr/xure-wooden-laptop-table-product-images-orvu9gf83kr-p598431152-0-202302160806.jpg?im=Resize=(420,420)"],
                 brand: "XURE",
@@ -2197,7 +2197,7 @@ export const HomeKitchenNeeds = {
             },
         ],
 
-        mattress: [
+        Mattress: [
             {
                 productImage: ["https://www.jiomart.com/images/product/original/494241441/repose-spinemagic-orthopaedic-5-inch-dual-comfort-memory-foam-mattress-78x72x5-inch-king-size-mattress-product-images-o494241441-p605497606-0-202310301833.jpg?im=Resize=(420,420)"],
                 brand: "REPOSE",
@@ -2626,7 +2626,7 @@ export const HomeKitchenNeeds = {
                 productId: 61057,
             },
         ],
-        sofasCouches: [
+        SofasCouches: [
             {
                 productImage: ["https://www.jiomart.com/images/product/original/rvgs5ikui0/fresh-up-sofa-cum-bed-jute-fabric-washable-cover-with-cushion-maroon-2-5x6-feet-1-seater-product-images-orvgs5ikui0-p597703884-0-202301191416.jpg?im=Resize=(420,420)"],
                 brand: "Fresh Up",
