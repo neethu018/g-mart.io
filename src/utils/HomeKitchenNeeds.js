@@ -55,7 +55,7 @@ export const HomeKitchenNeeds = {
             },
 
             {
-                productImage: ["https://www.jiomart.com/images/product/original/xxxxxx/pigeon-mini-handy-and-compact-chopper-with-3-blades-green-400-ml-product-images-orxxxxxx-pxxxxxxx-0-xxxxxxxxxxxx.jpg?im=Resize=(420,420)"],
+                productImage: ["https://www.jiomart.com/images/product/original/rv5ugafw9s/deodap-matte-finish-manual-hand-press-chopper-for-kitchen-mini-handy-compact-chopper-with-3-blades-for-effortlessly-chopping-vegetables-fruits-for-your-kitchen-product-images-orv5ugafw9s-p607051616-0-202401011355.jpg?im=Resize=(420,420)"],
                 brand: "Pigeon",
                 shortDesc: "Mini Handy and Compact Chopper with 3 Blades (Green, 400 ml)",
                 ratings: 4.5,
@@ -215,7 +215,7 @@ export const HomeKitchenNeeds = {
             },
 
             {
-                productImage: ["https://www.jiomart.com/images/product/original/xxxxxx/vdnsi-steel-adjustable-strainer-colander-with-rubber-grip-handles-fine-mesh-colander-silver-product-images-orxxxxxx-pxxxxxxx-0-xxxxxxxxxxxx.jpg?im=Resize=(420,420)"],
+                productImage: ["https://www.jiomart.com/images/product/original/rv84swemgn/vdnsi-steel-adjustable-strainer-colander-with-rubber-grip-handles-fine-mesh-colander-silver-product-images-orv84swemgn-p598511825-0-202302181340.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/rv84swemgn/vdnsi-steel-adjustable-strainer-colander-with-rubber-grip-handles-fine-mesh-colander-silver-product-images-orv84swemgn-p598511825-1-202302181340.jpg?im=Resize=(420,420)","https://www.jiomart.com/images/product/original/rv84swemgn/vdnsi-steel-adjustable-strainer-colander-with-rubber-grip-handles-fine-mesh-colander-silver-product-images-orv84swemgn-p598511825-2-202302181340.jpg?im=Resize=(420,420)"],
                 brand: "VDNSI",
                 shortDesc: "Steel Adjustable Strainer Colander with Rubber Grip Handles Fine Mesh Colander (Silver)",
                 ratings: 4.2,
@@ -2024,7 +2024,7 @@ export const HomeKitchenNeeds = {
                 productId: 61022,
             },
         ],
-        Table: [
+        Tables: [
             {
                 productImage: ["https://www.jiomart.com/images/product/original/rvu9gf83kr/xure-wooden-laptop-table-product-images-orvu9gf83kr-p598431152-0-202302160806.jpg?im=Resize=(420,420)"],
                 brand: "XURE",
@@ -2626,7 +2626,7 @@ export const HomeKitchenNeeds = {
                 productId: 61057,
             },
         ],
-        SofasCouches: [
+        SofasAndCouches: [
             {
                 productImage: ["https://www.jiomart.com/images/product/original/rvgs5ikui0/fresh-up-sofa-cum-bed-jute-fabric-washable-cover-with-cushion-maroon-2-5x6-feet-1-seater-product-images-orvgs5ikui0-p597703884-0-202301191416.jpg?im=Resize=(420,420)"],
                 brand: "Fresh Up",

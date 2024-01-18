@@ -64,7 +64,7 @@ const CategoryAccordions = ({ mainCategory }) => {
     // HomeKitchenNeeds
     KitchenTools: ["KitchenTools", "CookWare", "GasStove"],
     HomeDecor: ["InteriorNeeds", "Decors", "GiftingSets"],
-    Furniture: ["Chairs", "Table", "Mattress", "SofasCouches"],
+    Furniture: ["Chairs", "Tables", "Mattress", "SofasAndCouches"],
     BathroomAccessories: ["MugsTubsBuckets", "HooksClipsLaundryEssentials"],
     //fashion
     MensFashion: [
