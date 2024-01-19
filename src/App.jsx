@@ -23,6 +23,7 @@ import Cart from "./pages/Cart";
 import Search from "./pages/Search";
 import About from "./pages/About";
 import Guide from "./pages/Guide";
+import Faq from "./pages/Faq";
 
 function App() {
   console.log("premiumfruits data :", premiumFruits);
@@ -44,6 +45,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
            <Route path="/guide" element={<Guide />} />
+           <Route path="/faq" element={<Faq />} />
           {/* premiumfruits routings */}
           <Route
             path="/premiumfruits"
