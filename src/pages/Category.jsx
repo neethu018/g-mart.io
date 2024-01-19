@@ -188,6 +188,29 @@ const Category = ({ products }) => {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
+  }else if (category === "Hair") {
+    // Check if 'Serum','FaceMask','Moisturizes',properties exist in the products object
+    if (
+      products &&
+      products.hairCare &&
+      products.hairColor &&
+      products.hairStyling&&
+      products.hairToolAndAccessories&&
+      products.scalpTreatments&&
+      products.shopByHairType
+    ) {
+      filteredProducts = [
+        ...products.hairCare ,
+      ...products.hairColor ,
+      ...products.hairStyling,
+      ...products.hairToolAndAccessories,
+      ...products.scalpTreatments,
+      ...products.shopByHairType,
+      ];
+    } else {
+      console.error("Products data is incomplete.");
+      return <div>Error loading products.</div>;
+    }
   } else if (category === "MensFashion") {
     // Check if 'ClothingAccessories','WesternWear','FootWear','EyeWear','InnerWear' properties exist in the products object
     if (
@@ -230,7 +253,7 @@ const Category = ({ products }) => {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
-  } else if (category === "kidsfashion") {
+  } else if (category === "KidsFashion") {
     // Check if 'JuniorBoyShirt','JuniorBoyTracks','JuniorBoyInnerWear',
     //'JuniorGirlGowns','JuniorGirlCasualWear','JuniorGirlInnerWear','BabyGirl','BabyBoy','Toys'
     //properties exist in the products object
@@ -258,7 +281,7 @@ const Category = ({ products }) => {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
-  } else if (category === "infants") {
+  } else if (category === "Infants") {
     // Check if 'JuniorBoyShirt','JuniorBoyTracks','JuniorBoyInnerWear',
     //'JuniorGirlGowns','JuniorGirlCasualWear','JuniorGirlInnerWear','BabyGirl','BabyBoy','Toys'
     //properties exist in the products object
@@ -355,7 +378,7 @@ const Category = ({ products }) => {
       return <div>Error loading products.</div>;
     }
   } //KitchenTools
-  else if (category === "Kitchenware") {
+  else if (category === "KitchenWare") {
     if (
       products &&
       products.KitchenTools &&

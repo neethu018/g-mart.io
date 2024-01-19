@@ -17,7 +17,8 @@ const CategoryAccordions = ({ mainCategory }) => {
     ],
     Beauty: [
       "makeup",
-      "skincare"
+      "skincare",
+      "Hair"
     ],
     SportsToysLuggages: ["BagsTravelLuggages"],
     Fashion: [
@@ -33,7 +34,7 @@ const CategoryAccordions = ({ mainCategory }) => {
       "Computers",
     ],
     HomeKitchenNeeds:[
-      "KitchenTools",
+      "KitchenWare",
       "HomeDecor",
       "Furniture",
       "BathroomAccessories"
@@ -53,6 +54,7 @@ const CategoryAccordions = ({ mainCategory }) => {
     //beauty
     makeup: ["Lips", "Nails", "Eyes", "FaceMakeUp", "MakeupToolsBrushes"],
     skincare:["Serum", "FaceMask", "Moisturizers"],
+    Hair:["hairCare", "hairColor", "hairStyling","hairToolAndAccessories","scalpTreatments","shopByHairType"],
     //sportstoysluggages
     BagsTravelLuggages: [
       "BagsAndBackpacks",
@@ -62,7 +64,7 @@ const CategoryAccordions = ({ mainCategory }) => {
       "TrolleysAndSuitcases",
     ],
     // HomeKitchenNeeds
-    KitchenTools: ["KitchenTools", "CookWare", "GasStove"],
+    KitchenWare: ["KitchenTools", "CookWare", "GasStove"],
     HomeDecor: ["InteriorNeeds", "Decors", "GiftingSets"],
     Furniture: ["Chairs", "Tables", "Mattress", "SofasAndCouches"],
     BathroomAccessories: ["MugsTubsBuckets", "HooksClipsLaundryEssentials"],
