@@ -94,7 +94,7 @@ const AllCatogries = () => {
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
               <Card.Title><h4 style={{fontWeight:"bolder",paddingTop:"3px", paddingLeft:"8px"}}>Premiumfruits</h4></Card.Title>
-              <Card.Text className='' style={{fontWeight:"",paddingTop:"0px", paddingLeft:"8px"}}>Apples & Pears, Banana, Melons & Coconut, Cherries, Berries & Exotic Fruits, Citrus, Mango & Grapes, Dates, Gift, Assorted & XL ...</Card.Text>
+              <Card.Text className='d-none d-sm-block' style={{fontWeight:"",paddingTop:"0px", paddingLeft:"8px"}}>Apples & Pears, Banana, Melons & Coconut, Cherries, Berries & Exotic Fruits, Citrus, Mango & Grapes, Dates, Gift, Assorted & XL ...</Card.Text>
             </div>
           </div>
         </Card.Body>
@@ -125,7 +125,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Apples</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Apples</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -137,7 +137,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Pears</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Pears</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -181,7 +181,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Avacados</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Avacados</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -194,7 +194,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Peaches</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Peaches</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -207,7 +207,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Nectarines</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Nectarines</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -253,7 +253,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Bananas</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Bananas</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -266,7 +266,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Melons</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Melons</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -279,7 +279,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Coconuts</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Coconuts</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -322,7 +322,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Cherries</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Cherries</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -335,7 +335,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Berries</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Berries</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -348,7 +348,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Dragon Fruits</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Dragon Fruits</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -391,7 +391,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Citrus</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Citrus</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -404,7 +404,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Mangos</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Mangos</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -418,7 +418,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Grapes    </h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Grapes    </h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -460,7 +460,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Wet Dates</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Wet Dates</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -503,7 +503,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Gift Packes</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Gift Packes</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -546,7 +546,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>pomegranates</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>pomegranates</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -559,7 +559,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>papayass</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>papayass</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -572,7 +572,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Pineapples</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Pineapples</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -616,7 +616,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Guava</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Guava</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -629,7 +629,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Gustard Apples</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Gustard Apples</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -665,7 +665,10 @@ const AllCatogries = () => {
         <Accordion style={{border:"0!important"}} className='accordian accordian-flush' >
             <Accordion.Item eventKey='0' className='item' style={{border:"none",borderRadius:"0"}}>
             <Accordion.Header style={{cursor:"default",userSelect:"none"}}className='accordian-header'>
-            <Card border='white' className='border-none text-decoration-none' onMouseEnter={()=>setHover(true)} onMouseLeave={()=>setHover(false)}>
+            <Card
+             as={Link}
+             to={"/Fashion"}
+             border='white' className='border-none text-decoration-none' onMouseEnter={()=>setHover(true)} onMouseLeave={()=>setHover(false)}>
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
@@ -674,7 +677,7 @@ const AllCatogries = () => {
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
               <Card.Title><h4 style={{fontWeight:"bolder",paddingTop:"3px", paddingLeft:"8px"}}>Fashion</h4></Card.Title>
-              <Card.Text className='' style={{fontWeight:"",paddingTop:"0px", paddingLeft:"8px"}}>Kitchenware, Furnishing, Home Decor, Prayer & Spiritual Needs, Furniture, Disposables, Tableware, Bathroom & LaundryAcees...
+              <Card.Text className='d-none d-sm-block' style={{fontWeight:"",paddingTop:"0px", paddingLeft:"8px"}}>Kitchenware, Furnishing, Home Decor, Prayer & Spiritual Needs, Furniture, Disposables, Tableware, Bathroom & LaundryAcees...
        </Card.Text>
             </div>
           </div>
@@ -685,7 +688,9 @@ const AllCatogries = () => {
             <Accordion style={{paddingBottom:"0px"}} className='accordian accordian-flush' onMouseEnter={()=>setHover(true)} onMouseLeave={()=>setHover(false)}>
             <Accordion.Item eventKey='0' className='item' style={{border:"none",borderRadius:"0"}}>
             <Accordion.Header style={{cursor:"default",userSelect:"none"}}className='accordian-header'>
-            <Card border='white' className='border-none text-decoration-none'>
+            <Card as={Link}
+             to={"/Fashion/MensFashion"}
+             border='white' className='border-none text-decoration-none'>
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
@@ -702,11 +707,12 @@ const AllCatogries = () => {
             </Accordion.Header><hr className='h-all' style={{marginLeft:"30px",marginRight:"15px",border:"1px solid grey",borderColor:isHover?"black":"grey"}}/>
             <Accordion.Body >
           
-            <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+            <Accordion.Item className='item '> <Card as={Link}
+              to={"/Fashion/MensFashion/ClothingAccessories"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Clothing Accessories</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Clothing Accessories</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -714,11 +720,12 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card as={Link} to={"Fashion/MensFashion/WesternWear"}
+              border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Western Wear</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Western Wear</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -726,11 +733,12 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card as={Link}
+              to={"/Fashion/MensFashion/MensFoodWear"}border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Food Wear</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Food Wear</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -738,11 +746,11 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card  as={Link}  to={"/Fashion/MensFashion/MensEyeWear"}border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Eye Wear</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Eye Wear</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -750,11 +758,11 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card  as={Link}  to={"/Fashion/MensFashion/InnerWear"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Inner Wear</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Inner Wear</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -769,7 +777,8 @@ const AllCatogries = () => {
     <Accordion style={{paddingBottom:"0px"}} className='accordian accordian-flush' onMouseEnter={()=>setHover(true)} onMouseLeave={()=>setHover(false)}>
             <Accordion.Item eventKey='0' className='item' style={{border:"none",borderRadius:"0"}}>
             <Accordion.Header style={{cursor:"default",userSelect:"none"}}className='accordian-header'>
-            <Card border='white' className='border-none text-decoration-none'>
+            <Card as={Link}
+              to={"/Fashion/WomensFashion"} border='white' className='border-none text-decoration-none'>
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
@@ -786,11 +795,12 @@ const AllCatogries = () => {
             </Accordion.Header><hr className='h-all' style={{marginLeft:"30px",marginRight:"15px",border:"1px solid grey",borderColor:isHover?"black":"grey"}}/>
             <Accordion.Body >
           
-            <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+            <Accordion.Item className='item '> <Card  as={Link}
+              to={"/Fashion/WomensFashion/EthinicWear"}  border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Wthnic Wear</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Ethnic Wear</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -798,11 +808,12 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card  as={Link}
+              to={"/Fashion/WomensFashion/TraditionalWear"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Traditional Wear</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Traditional Wear</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -810,11 +821,12 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card as={Link}
+              to={"/Fashion/WomensFashion/EyeWear"}  border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Eye Wear</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Eye Wear</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -822,11 +834,12 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card as={Link}
+              to={"/Fashion/WomensFashion/Watches"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Watches</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Watches</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -834,11 +847,12 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card as={Link}
+              to={"/Fashion/WomensFashion/FootWear"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Foot Wear</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Foot Wear</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -853,7 +867,8 @@ const AllCatogries = () => {
     <Accordion style={{paddingBottom:"0px"}} className='accordian accordian-flush' onMouseEnter={()=>setHover(true)} onMouseLeave={()=>setHover(false)}>
             <Accordion.Item eventKey='0' className='item' style={{border:"none",borderRadius:"0"}}>
             <Accordion.Header style={{cursor:"default",userSelect:"none"}}className='accordian-header'>
-            <Card border='white' className='border-none text-decoration-none'>
+            <Card as={Link}
+              to={"/Fashion/KidsFashion"} border='white' className='border-none text-decoration-none'>
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
@@ -870,11 +885,12 @@ const AllCatogries = () => {
             </Accordion.Header><hr className='h-all' style={{marginLeft:"30px",marginRight:"15px",border:"1px solid grey",borderColor:isHover?"black":"grey"}}/>
             <Accordion.Body >
           
-            <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+            <Accordion.Item className='item '> <Card as={Link}
+              to={"/Fashion/KidsFashion/JuniorBoyShirt"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Junior Boy</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>JuniorBoyShirt</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -882,11 +898,12 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card as={Link}
+              to={"/Fashion/KidsFashion/JuniorBoyTracks"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Junior Girl</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>JuniorBoyTracks</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -894,11 +911,12 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card as={Link}
+              to={"/Fashion/KidsFashion/JuniorBoyInnerWer"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Infants</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>JuniorBoyInnerWear</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -906,11 +924,103 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card as={Link}
+              to={"/Fashion/KidsFashion/JuniorGirlGowns"}border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Toys</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>JuniorGirlGowns</h6></Col>
+                <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
+            </Row>
+            
+          
+        </Card.Body>
+      </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
+      </Accordion.Item>
+      <Accordion.Item className='item '> <Card as={Link}
+              to={"/Fashion/KidsFashion/JuniorGirlCasualWear"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+        <Card.Body style={{paddingLeft:"93px"}}>
+          
+            <Row> 
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>JuniorGirlCasualWear</h6></Col>
+                <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
+            </Row>
+            
+          
+        </Card.Body>
+      </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
+      </Accordion.Item>
+      <Accordion.Item className='item '> <Card as={Link}
+              to={"/Fashion/KidsFashion/JuniorGirlInnerWear"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+        <Card.Body style={{paddingLeft:"93px"}}>
+          
+            <Row> 
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>JuniorGirlInnerWear</h6></Col>
+                <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
+            </Row>
+            
+          
+        </Card.Body>
+      </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
+      </Accordion.Item>
+      
+       </Accordion.Body>
+     </Accordion.Item>
+    </Accordion>
+    <Accordion style={{paddingBottom:"0px"}} className='accordian accordian-flush' onMouseEnter={()=>setHover(true)} onMouseLeave={()=>setHover(false)}>
+            <Accordion.Item eventKey='0' className='item' style={{border:"none",borderRadius:"0"}}>
+            <Accordion.Header style={{cursor:"default",userSelect:"none"}}className='accordian-header'>
+            <Card as={Link}
+              to={"/Fashion/Infants"} border='white' className='border-none text-decoration-none'>
+        <Card.Body>
+          <div className="d-flex">
+            {/* Left side image */}
+            <img src='../../AllCatogries/infants-20230607.webp'  alt="Your Image" style={{width:"60px",height:"50px"}} />
+
+            {/* Right side heading and paragraph */}
+            <div className="ml-3 mr-3">
+              <Card.Title><h5 style={{fontWeight:"bolder",paddingTop:"10px", paddingLeft:"8px"}}className='h-all'>Infants</h5></Card.Title>
+              
+            </div>
+          </div>
+        </Card.Body>
+      </Card>
+            </Accordion.Header><hr className='h-all' style={{marginLeft:"30px",marginRight:"15px",border:"1px solid grey",borderColor:isHover?"black":"grey"}}/>
+            <Accordion.Body >
+          
+            <Accordion.Item className='item '> <Card  as={Link}
+              to={"/Fashion/Infants/BabyGirl"}border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+        <Card.Body style={{paddingLeft:"93px"}}>
+          
+            <Row> 
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>BabyGirl</h6></Col>
+                <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
+            </Row>
+            
+          
+        </Card.Body>
+      </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
+      </Accordion.Item>
+      <Accordion.Item className='item '> <Card  as={Link}
+              to={"/Fashion/Infants/BabyBoy"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+        <Card.Body style={{paddingLeft:"93px"}}>
+          
+            <Row> 
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}> BabyBoy</h6></Col>
+                <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
+            </Row>
+            
+          
+        </Card.Body>
+      </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
+      </Accordion.Item>
+      
+      <Accordion.Item className='item '> <Card  as={Link}
+              to={"/Fashion/Infants/Toys"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+        <Card.Body style={{paddingLeft:"93px"}}>
+          
+            <Row> 
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Toys</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -939,7 +1049,8 @@ const AllCatogries = () => {
         <Accordion style={{border:"0!important"}} className='accordian accordian-flush' >
             <Accordion.Item eventKey='0' className='item' style={{border:"none",borderRadius:"0"}}>
             <Accordion.Header style={{cursor:"default",userSelect:"none"}}className='accordian-header'>
-            <Card border='white' className='border-none text-decoration-none' onMouseEnter={()=>setHover(true)} onMouseLeave={()=>setHover(false)}>
+            <Card as={Link}
+            to={"/Electronics"} border='white' className='border-none text-decoration-none' onMouseEnter={()=>setHover(true)} onMouseLeave={()=>setHover(false)}>
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
@@ -948,7 +1059,7 @@ const AllCatogries = () => {
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
               <Card.Title><h4 style={{fontWeight:"bolder",paddingTop:"3px", paddingLeft:"8px"}}>Electronics</h4></Card.Title>
-              <Card.Text className='' style={{fontWeight:"",paddingTop:"0px", paddingLeft:"8px"}}>Mobiles & Tablets, TV & Speaker, Home Appliances, Computers, Cameras, Kitchen Appliances, Personal Care & Grooming, Smart...</Card.Text>
+              <Card.Text className='d-none d-sm-block' style={{fontWeight:"",paddingTop:"0px", paddingLeft:"8px"}}>Mobiles & Tablets, TV & Speaker, Home Appliances, Computers, Cameras, Kitchen Appliances, Personal Care & Grooming, Smart...</Card.Text>
             </div>
           </div>
         </Card.Body>
@@ -958,7 +1069,8 @@ const AllCatogries = () => {
             <Accordion style={{paddingBottom:"0px"}} className='accordian accordian-flush' onMouseEnter={()=>setHover(true)} onMouseLeave={()=>setHover(false)}>
             <Accordion.Item eventKey='0' className='item' style={{border:"none",borderRadius:"0"}}>
             <Accordion.Header style={{cursor:"default",userSelect:"none"}}className='accordian-header'>
-            <Card border='white' className='border-none text-decoration-none'>
+            <Card as={Link}
+            to={"/Electronics/MobilesTablets"} border='white' className='border-none text-decoration-none'>
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
@@ -975,11 +1087,12 @@ const AllCatogries = () => {
             </Accordion.Header><hr className='h-all' style={{marginLeft:"30px",marginRight:"15px",border:"1px solid grey",borderColor:isHover?"black":"grey"}}/>
             <Accordion.Body >
           
-            <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+            <Accordion.Item className='item '> <Card as={Link}
+            to={"/Electronics/MobileTablets/SmartPhone"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Smart Phones</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Smart Phones</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -987,11 +1100,12 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card as={Link}
+            to={"/Electronics/MobileTablets/MobileAccessories"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Mobile Accessories</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Mobile Accessories</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -999,11 +1113,12 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card as={Link}
+            to={"/Electronics/MobileTablets/Tablets"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Tablets</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Tablets</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1017,7 +1132,8 @@ const AllCatogries = () => {
     <Accordion style={{paddingBottom:"0px"}} className='accordian accordian-flush' onMouseEnter={()=>setHover(true)} onMouseLeave={()=>setHover(false)}>
             <Accordion.Item eventKey='0' className='item' style={{border:"none",borderRadius:"0"}}>
             <Accordion.Header style={{cursor:"default",userSelect:"none"}}className='accordian-header'>
-            <Card border='white' className='border-none text-decoration-none'>
+            <Card as={Link}
+              to={"/Electronics/TvSpeaker"} border='white' className='border-none text-decoration-none'>
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
@@ -1034,11 +1150,12 @@ const AllCatogries = () => {
             </Accordion.Header><hr className='h-all' style={{marginLeft:"30px",marginRight:"15px",border:"1px solid grey",borderColor:isHover?"black":"grey"}}/>
             <Accordion.Body >
           
-            <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+            <Accordion.Item className='item '> <Card as={Link}
+              to={"/Electronics/TvSpeaker/Tv"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>TV</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>TV</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1046,11 +1163,12 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card as={Link}
+              to={"/Electronics/TvSpeaker/HomeTheatre"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Home Theater</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Home Theater</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1058,11 +1176,12 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card as={Link}
+              to={"/Electronics/TvSpeaker/TvRemote"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>TV Remote</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>TV Remote</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1076,7 +1195,8 @@ const AllCatogries = () => {
     <Accordion style={{paddingBottom:"0px"}} className='accordian accordian-flush' onMouseEnter={()=>setHover(true)} onMouseLeave={()=>setHover(false)}>
             <Accordion.Item eventKey='0' className='item' style={{border:"none",borderRadius:"0"}}>
             <Accordion.Header style={{cursor:"default",userSelect:"none"}}className='accordian-header'>
-            <Card border='white' className='border-none text-decoration-none'>
+            <Card as={Link}
+              to={"/Electronics/HomeAppliances"} border='white' className='border-none text-decoration-none'>
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
@@ -1093,11 +1213,12 @@ const AllCatogries = () => {
             </Accordion.Header><hr className='h-all' style={{marginLeft:"30px",marginRight:"15px",border:"1px solid grey",borderColor:isHover?"black":"grey"}}/>
             <Accordion.Body >
           
-            <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+            <Accordion.Item className='item '> <Card as={Link}
+              to={"/Electronics/HomeAppliances/WashingMachine"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Washing Machine</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Washing Machine</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1105,11 +1226,12 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card as={Link}
+              to={"/Electronics/HomeAppliances/Irons"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Irons</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Irons</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1117,11 +1239,13 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card
+      as={Link}
+      to={"/Electronics/HomeAppliances/Fans"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Fans</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Fans</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1135,7 +1259,8 @@ const AllCatogries = () => {
     <Accordion style={{paddingBottom:"0px"}} className='accordian accordian-flush' onMouseEnter={()=>setHover(true)} onMouseLeave={()=>setHover(false)}>
             <Accordion.Item eventKey='0' className='item' style={{border:"none",borderRadius:"0"}}>
             <Accordion.Header style={{cursor:"default",userSelect:"none"}}className='accordian-header'>
-            <Card border='white' className='border-none text-decoration-none'>
+            <Card as={Link}
+              to={"/Electronics/Computers"} border='white' className='border-none text-decoration-none'>
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
@@ -1152,11 +1277,12 @@ const AllCatogries = () => {
             </Accordion.Header><hr className='h-all' style={{marginLeft:"30px",marginRight:"15px",border:"1px solid grey",borderColor:isHover?"black":"grey"}}/>
             <Accordion.Body >
           
-            <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+            <Accordion.Item className='item '> <Card as={Link}
+              to={"/Electronics/Computers/Laptop"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Laptop</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Laptop</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1164,11 +1290,12 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card as={Link}
+              to={"/Electronics/Computers/Desktop"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Desktop</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Desktop</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1176,11 +1303,12 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card as={Link}
+              to={"/Electronics/Computers/Monitor"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Monitor</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Monitor</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1208,7 +1336,8 @@ const AllCatogries = () => {
         <Accordion style={{border:"0!important"}} className='accordian accordian-flush' >
             <Accordion.Item eventKey='0' className='item' style={{border:"none",borderRadius:"0"}}>
             <Accordion.Header style={{cursor:"default",userSelect:"none"}}className='accordian-header'>
-            <Card border='white' className='border-none text-decoration-none' onMouseEnter={()=>setHover(true)} onMouseLeave={()=>setHover(false)}>
+            <Card as={Link}
+            to={"/HomeKitchenNeeds"} border='white' className='border-none text-decoration-none' onMouseEnter={()=>setHover(true)} onMouseLeave={()=>setHover(false)}>
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
@@ -1217,7 +1346,7 @@ const AllCatogries = () => {
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
               <Card.Title><h4 style={{fontWeight:"bolder",paddingTop:"3px", paddingLeft:"8px"}}>Home & Kitchen</h4></Card.Title>
-              <Card.Text className='' style={{fontWeight:"",paddingTop:"0px", paddingLeft:"8px"}}>Kitchenware, Furnishing, Home Decor, Prayer & Spiritual Needs, Furniture, Disposables, Tableware, Bathroom & Laundry Acc...</Card.Text>
+              <Card.Text className='d-none d-sm-block' style={{fontWeight:"",paddingTop:"0px", paddingLeft:"8px"}}>Kitchenware, Furnishing, Home Decor, Prayer & Spiritual Needs, Furniture, Disposables, Tableware, Bathroom & Laundry Acc...</Card.Text>
             </div>
           </div>
         </Card.Body>
@@ -1227,7 +1356,8 @@ const AllCatogries = () => {
             <Accordion style={{paddingBottom:"0px"}} className='accordian accordian-flush' onMouseEnter={()=>setHover(true)} onMouseLeave={()=>setHover(false)}>
             <Accordion.Item eventKey='0' className='item' style={{border:"none",borderRadius:"0"}}>
             <Accordion.Header style={{cursor:"default",userSelect:"none"}}className='accordian-header'>
-            <Card border='white' className='border-none text-decoration-none'>
+            <Card as={Link}
+              to={"/HomeKitchenNeeds/KitchenWare"} border='white' className='border-none text-decoration-none'>
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
@@ -1244,11 +1374,12 @@ const AllCatogries = () => {
             </Accordion.Header><hr className='h-all' style={{marginLeft:"30px",marginRight:"15px",border:"1px solid grey",borderColor:isHover?"black":"grey"}}/>
             <Accordion.Body >
           
-            <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+            <Accordion.Item className='item '> <Card as={Link}
+              to={"/HomeKitchenNeeds/KitchenWare/KitchenTools"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>KitchenTools</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>KitchenTools</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1256,11 +1387,12 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card as={Link}
+              to={"/HomeKitchenNeeds/KitchenWare/CookWare"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Cookware</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Cookware</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1268,11 +1400,12 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card as={Link}
+              to={"/HomeKitchenNeeds/KitchenWare/GasStove"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Gas Stove</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Gas Stove</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1287,7 +1420,8 @@ const AllCatogries = () => {
     <Accordion style={{paddingBottom:"0px"}} className='accordian accordian-flush' onMouseEnter={()=>setHover(true)} onMouseLeave={()=>setHover(false)}>
             <Accordion.Item eventKey='0' className='item' style={{border:"none",borderRadius:"0"}}>
             <Accordion.Header style={{cursor:"default",userSelect:"none"}}className='accordian-header'>
-            <Card border='white' className='border-none text-decoration-none'>
+            <Card as={Link}
+              to={"/HomeKitchenNeeds/HomeDecor"} border='white' className='border-none text-decoration-none'>
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
@@ -1304,11 +1438,12 @@ const AllCatogries = () => {
             </Accordion.Header><hr className='h-all' style={{marginLeft:"30px",marginRight:"15px",border:"1px solid grey",borderColor:isHover?"black":"grey"}}/>
             <Accordion.Body >
           
-            <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+            <Accordion.Item className='item '> <Card as={Link}
+              to={"/HomeKitchenNeeds/HomeDecor/InteriorNeeds"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Interior Needs</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Interior Needs</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1316,11 +1451,12 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card as={Link}
+              to={"/HomeKitchenNeeds/HomeDecor/Decors"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Decors</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Decors</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1328,11 +1464,12 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card as={Link}
+              to={"/HomeKitchenNeeds/HomeDecor/GiftingSets"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Gifting Sets</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Gifting Sets</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1347,7 +1484,8 @@ const AllCatogries = () => {
     <Accordion style={{paddingBottom:"0px"}} className='accordian accordian-flush' onMouseEnter={()=>setHover(true)} onMouseLeave={()=>setHover(false)}>
             <Accordion.Item eventKey='0' className='item' style={{border:"none",borderRadius:"0"}}>
             <Accordion.Header style={{cursor:"default",userSelect:"none"}}className='accordian-header'>
-            <Card border='white' className='border-none text-decoration-none'>
+            <Card as={Link}
+              to={"/HomeKitchenNeeds/Furniture"} border='white' className='border-none text-decoration-none'>
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
@@ -1364,11 +1502,12 @@ const AllCatogries = () => {
             </Accordion.Header><hr className='h-all' style={{marginLeft:"30px",marginRight:"15px",border:"1px solid grey",borderColor:isHover?"black":"grey"}}/>
             <Accordion.Body >
           
-            <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+            <Accordion.Item className='item '> <Card as={Link}
+              to={"/HomeKitchenNeeds/Furniture/Chairs"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Chairs</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Chairs</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1376,11 +1515,12 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card as={Link}
+              to={"/HomeKitchenNeeds/Furniture/Tables"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Tables</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Tables</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1388,11 +1528,12 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card as={Link}
+              to={"/HomeKitchenNeeds/Furniture/Mattress"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Mattress</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Mattress</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1400,11 +1541,12 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card as={Link}
+              to={"/HomeKitchenNeeds/Furniture/SofasAndCouches"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Sofas & Couches</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Sofas & Couches</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1419,7 +1561,8 @@ const AllCatogries = () => {
     <Accordion style={{paddingBottom:"0px"}} className='accordian accordian-flush' onMouseEnter={()=>setHover(true)} onMouseLeave={()=>setHover(false)}>
             <Accordion.Item eventKey='0' className='item' style={{border:"none",borderRadius:"0"}}>
             <Accordion.Header style={{cursor:"default",userSelect:"none"}}className='accordian-header'>
-            <Card border='white' className='border-none text-decoration-none'>
+            <Card as={Link}
+              to={"/HomeKitchenNeeds/BathroomAccessories"} border='white' className='border-none text-decoration-none'>
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
@@ -1436,11 +1579,13 @@ const AllCatogries = () => {
             </Accordion.Header><hr className='h-all' style={{marginLeft:"30px",marginRight:"15px",border:"1px solid grey",borderColor:isHover?"black":"grey"}}/>
             <Accordion.Body >
           
-            <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+            <Accordion.Item className='item '> <Card
+            as={Link}
+            to={"/HomeKitchenNeeds/BathroomAccessories/MugsTubsBuckets"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Mugs,Tubs,Bucket</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Mugs,Tubs,Bucket</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1448,11 +1593,12 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card as={Link}
+              to={"/HomeKitchenNeeds/BathroomAccessories/HooksClipsLaundryEssentials"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Hooks,Clips,LuandryEssesntials</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Hooks,Clips,LuandryEssesntials</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1491,7 +1637,7 @@ const AllCatogries = () => {
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
               <Card.Title><h4 style={{fontWeight:"bolder",paddingTop:"3px", paddingLeft:"8px"}}>Beauty</h4></Card.Title>
-              <Card.Text className='' style={{fontWeight:"",paddingTop:"0px", paddingLeft:"8px"}}>Make-Up, Hair, Skin Care, Fragrances, Personal Care, Mom & Baby, Men's Grooming, Tools & Appliances, Wellness, Fitness...</Card.Text>
+              <Card.Text className='d-none d-sm-block' style={{fontWeight:"",paddingTop:"0px", paddingLeft:"8px"}}>Make-Up, Hair, Skin Care, Fragrances, Personal Care, Mom & Baby, Men's Grooming, Tools & Appliances, Wellness, Fitness...</Card.Text>
             </div>
           </div>
         </Card.Body>
@@ -1503,7 +1649,7 @@ const AllCatogries = () => {
             <Accordion.Header style={{cursor:"default",userSelect:"none"}}className='accordian-header'>
             <Card border='white'
             as={Link}
-            to={"/Beauty/make-up"} className='border-none text-decoration-none'>
+            to={"/Beauty/makeup"} className='border-none text-decoration-none'>
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
@@ -1522,11 +1668,11 @@ const AllCatogries = () => {
           
             <Accordion.Item className='item '> <Card
             as={Link}
-            to={"/Beauty/make-up/Lips"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+            to={"/Beauty/makeup/Lips"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Lips</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Lips</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1535,11 +1681,11 @@ const AllCatogries = () => {
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
       <Accordion.Item className='item '> <Card as={Link}
-            to={"/Beauty/make-up/Nails"}border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+            to={"/Beauty/makeup/Nails"}border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Nails</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Nails</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1547,11 +1693,11 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item><Accordion.Item className='item '> <Card border='white' as={Link}
-            to={"/Beauty/make-up/Eyes"}className='border-none text-decoration-none' style={{height:"50px"}}>
+            to={"/Beauty/makeup/Eyes"}className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Eyes</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Eyes</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1559,23 +1705,23 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item><Accordion.Item className='item '> <Card border='white' as={Link}
-            to={"/Beauty/make-up/FaceMakeUp"}className='border-none text-decoration-none' style={{height:"50px"}}>
+            to={"/Beauty/makeup/FaceMakeUp"}className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>FaceMakeUp</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>FaceMakeUp</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
           
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
-      </Accordion.Item><Accordion.Item className='item '> <Card border='white' as={Link} to={"/Beauty/make-up/MakeUpToolsBrushes"}
+      </Accordion.Item><Accordion.Item className='item '> <Card border='white' as={Link} to={"/Beauty/makeup/MakeUpToolsBrushes"}
       className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>MakeupToolsBrushes</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>MakeupToolsBrushes</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1590,7 +1736,8 @@ const AllCatogries = () => {
     <Accordion style={{paddingBottom:"0px"}} className='accordian accordian-flush' onMouseEnter={()=>setHover(true)} onMouseLeave={()=>setHover(false)}>
             <Accordion.Item eventKey='0' className='item' style={{border:"none",borderRadius:"0"}}>
             <Accordion.Header style={{cursor:"default",userSelect:"none"}}className='accordian-header'>
-            <Card border='white' className='border-none text-decoration-none'>
+            <Card    as={Link}
+                to={"/Beauty/skincare"} border='white' className='border-none text-decoration-none'>
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
@@ -1607,11 +1754,12 @@ const AllCatogries = () => {
             </Accordion.Header><hr className='h-all' style={{marginLeft:"30px",marginRight:"15px",border:"1px solid grey",borderColor:isHover?"black":"grey"}}/>
             <Accordion.Body >
           
-            <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+            <Accordion.Item className='item '> <Card    as={Link}
+                to={"/Beauty/skincare/Serum"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Serum</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Serum</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1619,11 +1767,13 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card  
+                as={Link}
+                to={"/Beauty/skincare/Moisturizers"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Moistures</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Moistures</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1631,11 +1781,13 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card
+        as={Link}
+        to={"/Beauty/skincare/FaceMask"}     border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>FaceMask</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>FaceMask</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1651,7 +1803,8 @@ const AllCatogries = () => {
     <Accordion style={{paddingBottom:"0px"}} className='accordian accordian-flush' onMouseEnter={()=>setHover(true)} onMouseLeave={()=>setHover(false)}>
             <Accordion.Item eventKey='0' className='item' style={{border:"none",borderRadius:"0"}}>
             <Accordion.Header style={{cursor:"default",userSelect:"none"}}className='accordian-header'>
-            <Card border='white' className='border-none text-decoration-none'>
+            <Card as={Link}
+                to={"/Beauty/Hair"} border='white' className='border-none text-decoration-none'>
         <Card.Body>
           <div className="d-flex">
             {/* Left side image */}
@@ -1668,11 +1821,12 @@ const AllCatogries = () => {
             </Accordion.Header><hr className='h-all' style={{marginLeft:"30px",marginRight:"15px",border:"1px solid grey",borderColor:isHover?"black":"grey"}}/>
             <Accordion.Body >
           
-            <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+            <Accordion.Item className='item '> <Card as={Link}
+                to={"/Beauty/Hair/hairCare"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Haircare</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Haircare</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1680,11 +1834,12 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card as={Link}
+                to={"/Beauty/Hair/hairColor"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Hair Color</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Hair Color</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1692,11 +1847,12 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card as={Link}
+                to={"/Beauty/Hair/hairStyling"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Hair Styling</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Hair Styling</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1704,11 +1860,13 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card as={Link}
+                to={"/Beauty/Hair/hairToolAndAccessories"} 
+      border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Hair Tools And Accessories</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Hair Tools And Accessories</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1716,11 +1874,13 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card
+      as={Link}
+      to={"/Beauty/Hair/scalpTreatments"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Scalp Treatments</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Scalp Treatments</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1728,11 +1888,12 @@ const AllCatogries = () => {
         </Card.Body>
       </Card><hr style={{width:"",marginLeft:"80px",marginRight:"0px",border:"1px solid grey",borderColor:isHover?"blue":"grey"}}/>
       </Accordion.Item>
-      <Accordion.Item className='item '> <Card border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
+      <Accordion.Item className='item '> <Card as={Link}
+                to={"/Beauty/Hair/shopByHairType"} border='white' className='border-none text-decoration-none' style={{height:"50px"}}>
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Shop By Hair Type</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Shop By Hair Type</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1771,7 +1932,7 @@ const AllCatogries = () => {
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
               <Card.Title><h4 style={{fontWeight:"bolder",paddingTop:"3px", paddingLeft:"8px"}}>Vegetables</h4></Card.Title>
-              <Card.Text className='' style={{fontWeight:"",paddingTop:"0px", paddingLeft:"8px"}}>Vegetables, Dairy & Bakery, Staples, Snacks & Branded Foods, Beverages, Personal Care, Home Care, Apparel...</Card.Text>
+              <Card.Text className='d-none d-sm-block' style={{fontWeight:"",paddingTop:"0px", paddingLeft:"8px"}}>Vegetables, Dairy & Bakery, Staples, Snacks & Branded Foods, Beverages, Personal Care, Home Care, Apparel...</Card.Text>
             </div>
           </div>
         </Card.Body>
@@ -1802,7 +1963,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Starchy</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Starchy</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1837,7 +1998,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Night Shades</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Night Shades</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1872,7 +2033,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Leaf Green</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Leaf Green</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1907,7 +2068,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Allium</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Allium</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1942,7 +2103,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Non Starchy</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Non Starchy</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -1981,7 +2142,7 @@ const AllCatogries = () => {
             {/* Right side heading and paragraph */}
             <div className="ml-3 mr-3">
               <Card.Title><h4 style={{fontWeight:"bolder",paddingTop:"3px", paddingLeft:"8px"}}>Sports,Toys & Luggages</h4></Card.Title>
-              <Card.Text className='' style={{fontWeight:"",paddingTop:"0px", paddingLeft:"8px"}}>Toys & Games, Bags & Travel Luggage, Sporting Goods & Fitness Equipment,DoffleBags, Bags and Backpacks, Luggages ...</Card.Text>
+              <Card.Text className='d-none d-sm-block' style={{fontWeight:"",paddingTop:"0px", paddingLeft:"8px"}}>Toys & Games, Bags & Travel Luggage, Sporting Goods & Fitness Equipment,DoffleBags, Bags and Backpacks, Luggages ...</Card.Text>
             </div>
           </div>
         </Card.Body>
@@ -2015,7 +2176,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Bags & Backpacks</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Bags & Backpacks</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -2028,7 +2189,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>DuffleBags</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>DuffleBags</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -2042,7 +2203,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Trollyes & Suitcases</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Trollyes & Suitcases</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
@@ -2056,7 +2217,7 @@ const AllCatogries = () => {
         <Card.Body style={{paddingLeft:"93px"}}>
           
             <Row> 
-                <Col xs={11}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Shopping & Otherbags</h6></Col>
+                <Col xs={10}><h6 style={{fontWeight:"bolder",paddingBottom:"15px", paddingLeft:"5px",cursor:"pointer",color:"grey"}}>Shopping & Otherbags</h6></Col>
                 <Col style={{justifyContent:"end"}} xs={1}><span className='arrow-icon' style={{marginRight:"auto",padding:"10px",borderRadius:"100px",cursor:"pointer",fontSize:"15px"}}><FontAwesomeIcon icon={faArrowRight} color="" /></span></Col>
             </Row>
             
