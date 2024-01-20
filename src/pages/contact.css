@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,800;1,500;1,600&family=Roboto:wght@300;400;500&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+   /*  font-family: 'Poppins', sans-serif; */
+}
+
+
+
+.mainc{
+    margin: 50px;
+    padding-left: 70px;
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    font-family: 'Poppins', sans-serif;
+    
+    
+}
+.contact h3{
+        font-size: 19px;
+        font-weight: 500;
+        padding-bottom: 12px;
+        letter-spacing: -0.09px;
+        line-height: 1.3333333333;
+}
+.mainc p{
+    font-size: 14px;
+    font-weight: 400;
+    padding-bottom: 14px;
+    letter-spacing: -0.07px;
+    line-height: 1.4285714286;
+    
+}
+.level h3{
+    font-size: 18px ;
+    font-weight: 500;
+    padding-bottom: 14px;
+    letter-spacing: -0.09px;
+    line-height: 1.3333333333;
+}
+
+.subline h3{
+    font-size: 18px ;
+    font-weight: 500;
+    padding-bottom: 14px;
+    letter-spacing: -0.09px;
+    line-height: 1.3333333333;
+}
+
+.sechead h3{
+    font-size: 18px ;
+    font-weight: 500;
+    padding-bottom: 14px;
+    letter-spacing: -0.09px;
+    line-height: 1.3333333333;
+
+}
+.inside a{
+    color: #0078ad !important;
+    text-decoration: none;
+}
+.sechead a{
+    color: #0078ad !important;
+    text-decoration: none;
+}
