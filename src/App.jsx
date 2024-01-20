@@ -22,6 +22,7 @@ import Footer from "./components/Footer"
 import Cart from "./pages/Cart";
 import Search from "./pages/Search";
 import About from "./pages/About";
+import Contact from "./pages/Contact";
 import Guide from "./pages/Guide";
 import Faq from "./pages/Faq";
 
@@ -44,8 +45,9 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
-           <Route path="/guide" element={<Guide />} />
-           <Route path="/faq" element={<Faq />} />
+          <Route path="/contact-us" element={<Contact />} />
+          <Route path="/guide" element={<Guide />} />
+          <Route path="/faq" element={<Faq />} />
           {/* premiumfruits routings */}
           <Route
             path="/premiumfruits"
