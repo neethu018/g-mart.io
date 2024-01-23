@@ -319,6 +319,12 @@ const Header = () => {
                     show={showApplePearsDropdown}
                     onMouseEnter={handleApplePearsMouseEnter}
                     onMouseLeave={handleApplePearsMouseLeave}
+                    style={{position: "absolute",
+                    top:0,left:259,
+                    backgroundColor: "white",
+                    borderRadius:"5px", 
+                    border: "0.6px solid rgb(128, 128, 128, 0.516)"
+                  }}
                   >
                     <NavDropdown.Item as={Link} to="/premiumfruits/ApplePears/apples">
                       Apples
@@ -344,6 +350,12 @@ const Header = () => {
                     show={showAvacadoPeachPlumDropdown}
                     onMouseEnter={handleAvacadoPeachPlumMouseEnter}
                     onMouseLeave={handleAvacadoPeachPlumMouseLeave}
+                    style={{position: "absolute",
+                    top:0,left:259,
+                    backgroundColor: "white",
+                    borderRadius:"5px", 
+                    border: "0.6px solid rgb(128, 128, 128, 0.516)"
+                  }}
                   >
                     <NavDropdown.Item as={Link} to="/premiumfruits/AvacadoPeachPlum/avacados">
                       Avacados
@@ -371,6 +383,12 @@ const Header = () => {
                     show={showBananaMelonCoconutDropdown}
                     onMouseEnter={handleBananaMelonCoconutMouseEnter}
                     onMouseLeave={handleBananaMelonCoconutMouseLeave}
+                    style={{position: "absolute",
+                    top:0,left:259,
+                    backgroundColor: "white",
+                    borderRadius:"5px", 
+                    border: "0.6px solid rgb(128, 128, 128, 0.516)"
+                  }}
                   >
                     <NavDropdown.Item as={Link} to="/premiumfruits/BananaMelonCoconut/bananas">
                       Bananas
@@ -398,6 +416,12 @@ const Header = () => {
                     show={showCherriesBerriesExoticDropdown}
                     onMouseEnter={handleCherriesBerriesExoticMouseEnter}
                     onMouseLeave={handleCherriesBerriesExoticMouseLeave}
+                    style={{position: "absolute",
+                    top:0,left:259,
+                    backgroundColor: "white",
+                    borderRadius:"5px", 
+                    border: "0.6px solid rgb(128, 128, 128, 0.516)"
+                  }}
                   >
                     <NavDropdown.Item as={Link} to="/premiumfruits/CherriesBerriesDragonfruit/cherries">
                       Cherries
@@ -425,6 +449,12 @@ const Header = () => {
                     show={showCitrusMangoGrapeDropdown}
                     onMouseEnter={handleCitrusMangoGrapeMouseEnter}
                     onMouseLeave={handleCitrusMangoGrapeMouseLeave}
+                    style={{position: "absolute",
+                    top:0,left:259,
+                    backgroundColor: "white",
+                    borderRadius:"5px", 
+                    border: "0.6px solid rgb(128, 128, 128, 0.516)"
+                  }}
                   >
                     <NavDropdown.Item as={Link} to="/premiumfruits/CitrusMangosGrapes/citrus">
                       Citrus
@@ -452,6 +482,12 @@ const Header = () => {
                     show={showWetDatesDropdown}
                     onMouseEnter={handleWetDatesMouseEnter}
                     onMouseLeave={handleWetDatesMouseLeave}
+                    style={{position: "absolute",
+                    top:0,left:259,
+                    backgroundColor: "white",
+                    borderRadius:"5px", 
+                    border: "0.6px solid rgb(128, 128, 128, 0.516)"
+                  }}
                   >
                     <NavDropdown.Item as={Link} to="/premiumfruits/Dates/wetdates">
                       Wet Dates
@@ -473,6 +509,12 @@ const Header = () => {
                     show={showGiftPackDropdown}
                     onMouseEnter={handleGiftPackMouseEnter}
                     onMouseLeave={handleGiftPackMouseLeave}
+                    style={{position: "absolute",
+                    top:0,left:259,
+                    backgroundColor: "white",
+                    borderRadius:"5px", 
+                    border: "0.6px solid rgb(128, 128, 128, 0.516)"
+                  }}
                   >
                     <NavDropdown.Item as={Link} to="/premiumfruits/GiftAssortedXlPacks/giftpacks">
                       Gifts Pack
@@ -494,6 +536,12 @@ const Header = () => {
                     show={showPomegranatePapayaPineappleDropdown}
                     onMouseEnter={handlePomegranatePapayaPineappleMouseEnter}
                     onMouseLeave={handlePomegranatePapayaPineappleMouseLeave}
+                    style={{position: "absolute",
+                    top:0,left:259,
+                    backgroundColor: "white",
+                    borderRadius:"5px", 
+                    border: "0.6px solid rgb(128, 128, 128, 0.516)"
+                  }}
                   >
                     <NavDropdown.Item as={Link} to="/premiumfruits/PomegranatePapayaPineapple/pomegranates">
                       Pomegranates
@@ -521,6 +569,12 @@ const Header = () => {
                     show={showSeasonalMinorFruitsDropdown}
                     onMouseEnter={handleSeasonalMinorFruitsMouseEnter}
                     onMouseLeave={handleSeasonalMinorFruitsMouseLeave}
+                    style={{position: "absolute",
+                    top:0,left:259,
+                    backgroundColor: "white",
+                    borderRadius:"5px", 
+                    border: "0.6px solid rgb(128, 128, 128, 0.516)"
+                  }}
                   >
                     <NavDropdown.Item as={Link} to="/premiumfruits/SeasonalMinorFruits/guavas">
                       Guava
@@ -574,6 +628,13 @@ const Header = () => {
                     show={showMakeUpDropdown}
                     onMouseEnter={handleMakeUpMouseEnter}
                     onMouseLeave={handleMakeUpMouseLeave}
+                    style={{position: "absolute",
+                    top:0,left:158,
+                    backgroundColor: "white",
+                    width:"220px",
+                    borderRadius:"5px", 
+                    border: "0.6px solid rgb(128, 128, 128, 0.516)"
+                  }}
                   >
                     <NavDropdown.Item as={Link} to="/Beauty/makeup/Lips">
                       Lips
@@ -607,6 +668,13 @@ const Header = () => {
                     show={showSkinCareDropdown}
                     onMouseEnter={handleSkinCareMouseEnter}
                     onMouseLeave={handleSkinCareMouseLeave}
+                    style={{position: "absolute",
+                    top:0,left:158,
+                    backgroundColor: "white",
+                    width:"220px",
+                    borderRadius:"5px", 
+                    border: "0.6px solid rgb(128, 128, 128, 0.516)"
+                  }}
                   >
                     <NavDropdown.Item as={Link} to="/Beauty/SkinCare/Serum">
                     Serum
@@ -634,6 +702,13 @@ const Header = () => {
                     show={showHairDropdown}
                     onMouseEnter={handleHairMouseEnter}
                     onMouseLeave={handleHairMouseLeave}
+                    style={{position: "absolute",
+                    top:0,left:158,
+                    backgroundColor: "white",
+                    width:"220px",
+                    borderRadius:"5px", 
+                    border: "0.6px solid rgb(128, 128, 128, 0.516)"
+                  }}
                   >
                     <NavDropdown.Item as={Link} to="/Beauty/Hair/HairCare">
                     HairCare
@@ -686,6 +761,13 @@ const Header = () => {
                     show={showBagsAndTravelLuggagesDropdown}
                     onMouseEnter={handleBagsAndTravelLuggagesMouseEnter}
                     onMouseLeave={handleBagsAndTravelLuggagesMouseLeave}
+                    style={{position: "absolute",
+                    top:0,left:200,
+                    width:"220px",
+                    backgroundColor: "white",
+                    borderRadius:"5px", 
+                    border: "0.6px solid rgb(128, 128, 128, 0.516)"
+                  }}
                   >
                     <NavDropdown.Item as={Link} to="/SportsToysLuggages/BagsTravelLuggages/BagsAndBackpacks">
                       Bags & Backpacks
@@ -735,6 +817,13 @@ const Header = () => {
                   show={showMensFashionDropdown}
                   onMouseEnter={handleMensFashionMouseEnter}
                   onMouseLeave={handleMensFashionMouseLeave}
+                  style={{position: "absolute",
+                    top:0,left:158,
+                    width:"220px",
+                    backgroundColor: "white",
+                    borderRadius:"5px", 
+                    border: "0.6px solid rgb(128, 128, 128, 0.516)"
+                  }}
                 >
                   <NavDropdown.Item as={Link} to="/Fashion/MensFashion/ClothingAccessories">
                     ClothingAccesseries
@@ -769,6 +858,13 @@ const Header = () => {
                   show={showWomensFashionDropdown}
                   onMouseEnter={handleWomensFashionMouseEnter}
                   onMouseLeave={handleWomensFashionMouseLeave}
+                  style={{position: "absolute",
+                    top:0,left:158,
+                    width:"220px",
+                    backgroundColor: "white",
+                    borderRadius:"5px", 
+                    border: "0.6px solid rgb(128, 128, 128, 0.516)"
+                  }}
                 >
                   <NavDropdown.Item as={Link} to="/Fashion/WomensFashion/EthinicWear">
                   EthinicWear
@@ -803,6 +899,13 @@ const Header = () => {
                   show={showKidsFashionDropdown}
                   onMouseEnter={handleKidsFashionMouseEnter}
                   onMouseLeave={handleKidsFashionMouseLeave}
+                  style={{position: "absolute",
+                    top:0,left:158,
+                    width:"220px",
+                    backgroundColor: "white",
+                    borderRadius:"5px", 
+                    border: "0.6px solid rgb(128, 128, 128, 0.516)"
+                  }}
                 >
                   <NavDropdown.Item as={Link} to="/Fashion/KidsFashion/JuniorBoyShirt">
                   JuniorBoyShirt
@@ -840,6 +943,13 @@ const Header = () => {
                   show={showInfantsDropdown}
                   onMouseEnter={handleInfantsMouseEnter}
                   onMouseLeave={handleInfantsMouseLeave}
+                  style={{position: "absolute",
+                    top:0,left:158,
+                    width:"220px",
+                    backgroundColor: "white",
+                    borderRadius:"5px", 
+                    border: "0.6px solid rgb(128, 128, 128, 0.516)"
+                  }}
                 >
                   <NavDropdown.Item as={Link} to="/Fashion/Infants/BabyGirl">
                   BabyGirl
@@ -884,6 +994,13 @@ const Header = () => {
                   show={showMobilesTabletsDropdown}
                   onMouseEnter={handleMobilesTabletsMouseEnter}
                   onMouseLeave={handleMobilesTabletsMouseLeave}
+                  style={{position: "absolute",
+                  top:0,left:158,
+                  width:"220px",
+                  backgroundColor: "white",
+                  borderRadius:"5px", 
+                  border: "0.6px solid rgb(128, 128, 128, 0.516)"
+                }}
                 >
                   <NavDropdown.Item as={Link} to="/Electronics/MobilesTablets/Smartphone">
                   Smartphone
@@ -911,6 +1028,13 @@ const Header = () => {
                   show={showTvSpeakerDropdown}
                   onMouseEnter={handleTvSpeakerMouseEnter}
                   onMouseLeave={handleTvSpeakerMouseLeave}
+                  style={{position: "absolute",
+                  top:0,left:158,
+                  width:"220px",
+                  backgroundColor: "white",
+                  borderRadius:"5px", 
+                  border: "0.6px solid rgb(128, 128, 128, 0.516)"
+                }}
                 >
                   <NavDropdown.Item as={Link} to="/Electronics/TvSpeaker/Tv">
                   Tv
@@ -938,6 +1062,13 @@ const Header = () => {
                   show={showHomeAppliancesDropdown}
                   onMouseEnter={handleHomeAppliancesMouseEnter}
                   onMouseLeave={handleHomeAppliancesMouseLeave}
+                  style={{position: "absolute",
+                  top:0,left:158,
+                  width:"220px",
+                  backgroundColor: "white",
+                  borderRadius:"5px", 
+                  border: "0.6px solid rgb(128, 128, 128, 0.516)"
+                }}
                 >
                   <NavDropdown.Item as={Link} to="/Electronics/HomeAppliances/WashingMachine">
                   WashingMachine
@@ -965,6 +1096,13 @@ const Header = () => {
                   show={showComputersDropdown}
                   onMouseEnter={handleComputersMouseEnter}
                   onMouseLeave={handleComputersMouseLeave}
+                  style={{position: "absolute",
+                  top:0,left:158,
+                  width:"220px",
+                  backgroundColor: "white",
+                  borderRadius:"5px", 
+                  border: "0.6px solid rgb(128, 128, 128, 0.516)"
+                }}
                 >
                   <NavDropdown.Item as={Link} to="/Electronics/Computers/Laptop">
                   Laptop
@@ -1008,6 +1146,13 @@ const Header = () => {
                   show={showKitchenwareDropdown}
                   onMouseEnter={handleKitchenwareMouseEnter}
                   onMouseLeave={handleKitchenwareMouseLeave}
+                  style={{position: "absolute",
+                    top:0,left:183,
+                    width:"240px",
+                    backgroundColor: "white",
+                    borderRadius:"5px", 
+                    border: "0.6px solid rgb(128, 128, 128, 0.516)"
+                  }}
                 >
                   <NavDropdown.Item as={Link} to="/HomeKitchenNeeds/Kitchenware/KitchenTools">
                   KitchenTools
@@ -1035,6 +1180,13 @@ const Header = () => {
                   show={showHomeDecorDropdown}
                   onMouseEnter={handleHomeDecorMouseEnter}
                   onMouseLeave={handleHomeDecorMouseLeave}
+                  style={{position: "absolute",
+                    top:0,left:183,
+                    width:"240px",
+                    backgroundColor: "white",
+                    borderRadius:"5px", 
+                    border: "0.6px solid rgb(128, 128, 128, 0.516)"
+                  }}
                 >
                   <NavDropdown.Item as={Link} to="/HomeKitchenNeeds/HomeDecor/InteriorNeeds">
                   InteriorNeeds
@@ -1062,6 +1214,13 @@ const Header = () => {
                   show={showFurnitureDropdown}
                   onMouseEnter={handleFurnitureMouseEnter}
                   onMouseLeave={handleFurnitureMouseLeave}
+                  style={{position: "absolute",
+                    top:0,left:183,
+                    width:"240px",
+                    backgroundColor: "white",
+                    borderRadius:"5px", 
+                    border: "0.6px solid rgb(128, 128, 128, 0.516)"
+                  }}
                 >
                   <NavDropdown.Item as={Link} to="/HomeKitchenNeeds/Furniture/Chairs">
                   Chairs
@@ -1092,6 +1251,13 @@ const Header = () => {
                   show={showBathroomAccessoriesDropdown}
                   onMouseEnter={handleBathroomAccessoriesMouseEnter}
                   onMouseLeave={handleBathroomAccessoriesMouseLeave}
+                  style={{position: "absolute",
+                    top:0,left:183,
+                    width:"240px",
+                    backgroundColor: "white",
+                    borderRadius:"5px", 
+                    border: "0.6px solid rgb(128, 128, 128, 0.516)"
+                  }}
                 >
                   <NavDropdown.Item as={Link} to="/HomeKitchenNeeds/BathroomAccessories/MugsTubsBuckets">
                   MugsTubsBuckets
