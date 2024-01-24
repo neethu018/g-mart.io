@@ -3,8 +3,12 @@ import React from 'react'
 import'./side.css';
 // import * as FaIcons from "react-icons/fa";
 import {Link} from 'react-router-dom';
-function Sidenavbar({sidebar,showsidebar}) {
+import { useAppContext } from '../../context/AppContext';
 
+
+function Sidenavbar({sidebar,showsidebar}) {
+  const { currentUser,logoutUser} = useAppContext();
+  console.log("currentUser:",currentUser);
 
   // const [sidebar,setSidebar]=useState(false);
 
@@ -25,10 +29,11 @@ function Sidenavbar({sidebar,showsidebar}) {
       <div className="header">
          <div className='first'> 
             <div onClick={showsidebar} ><button  className='btn first'> <img  width= '21'  height= '21' src="https://img.icons8.com/ios-filled/50/FFFFFF/back.png" alt="back"/> </button></div>
-              <div  className='helloc'> <h3  className='hello'>Hello!</h3></div>
+              <div  className='helloc'> <h3  className='hello'>{currentUser?"Hello "+currentUser.name+"!":"welcome!"}</h3></div>
          </div>
            <div className='sign'>
-           <Link to='/signup' onClick={showsidebar}> <button className='btn second'>Sign In</button></Link> 
+           {currentUser?(<Link to='/'> <button className='btn second' onClick={logoutUser}>Logout</button></Link> ):(<Link to='/loginsignup' > <button className='btn second'>Sign In</button></Link> )}
+           {/* <Link to='/signup' onClick={showsidebar}> <button className='btn second'>Sign In</button></Link>  */}
            </div>
       </div>
      
