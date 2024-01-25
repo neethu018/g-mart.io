@@ -85,7 +85,7 @@ const SmallBoxCarousal = ({ offers }) => {
     <Col>
       {/* <div style={{width:"100%",display:"flex",justifyContent:"center"}}> */}
       {
-        <Slider {...settings} style={{zIndex: -1,}}>
+        <Slider {...settings} >
           {offers.map((offer, index) => (
             <div key={index} className="slick-active px-2">
               <Link to={offer.path}>
@@ -105,7 +105,7 @@ const SmallBoxCarousal = ({ offers }) => {
   );
 };
 const CustomNextArrow = (props) => (
-  <div {...props} className="custom-arrow custom-next-arrow">
+  <div {...props} className="custom-arrow custom-next-arrow" >
     <button>
       <FontAwesomeIcon icon={faArrowRight} color="black" />
     </button>

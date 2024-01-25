@@ -81,7 +81,7 @@ const BoxCarousal = ({ offers }) => {
     <Col>
       {/* <div style={{width:"100%",display:"flex",justifyContent:"center"}}> */}
       {
-        <Slider {...settings} style={{zIndex: -1,}}>
+        <Slider {...settings}>
           {offers.map((offer, index) => (
             <div key={index} className="slick-active">
               <Link to={offer.path}>

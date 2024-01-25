@@ -79,7 +79,7 @@
     /* display: none; */
     overflow-y: auto; 
     flex-direction: column;
-    z-index: 2;
+    z-index:4;
 }
 .disapper{
     display:none;
