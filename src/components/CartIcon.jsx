@@ -1,12 +1,19 @@
-import { useContext } from 'react';
-import { CartContext } from '../context/CartContext';
+import { useContext, useEffect } from 'react';
 import { Nav, Badge } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faShoppingCart } from '@fortawesome/free-solid-svg-icons';
+import { useAppContext } from './../context/AppContext';
 
 const CartIcon = () => {
-  const { getTotalItems } = useContext(CartContext);
+  const { getCartItems,totalitemsincart,cartItems,currentUser,getTotalItems} = useAppContext();
+
+  useEffect(()=>{
+    getCartItems()
+    // getTotalItems()
+    console.log("cart:",cartItems);
+    console.log("items:",totalitemsincart);
+  },[currentUser])
 
   return (
     <Nav.Link as={Link} to="/cart" className='position-relative'>

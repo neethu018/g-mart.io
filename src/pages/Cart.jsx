@@ -1,22 +1,29 @@
-import { useContext } from "react";
-import { CartContext } from "../context/CartContext";
+import { useContext, useEffect } from "react";
 import { Link } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faPlus, faMinus } from "@fortawesome/free-solid-svg-icons";
+import { useAppContext } from "../context/AppContext";
 
 const Cart = () => {
+  //own cart functionality
   const {
-    cartItems,
+    getCartItems,
     addToCart,
     removeFromCart,
+    cartItems,
     clearCart,
-    getTotalMRP,
+    currentUser,
     getTotalItems,
+    getTotalMRP,
     getTotalAmountSaved,
     getTotalDiscount,
     getItemAmountSaved,
     getItemDiscount,
-  } = useContext(CartContext);
+  } = useAppContext();
+  useEffect(() => {
+    getCartItems();
+    console.log("getcartitems:", cartItems);
+  }, [currentUser]);
   return (
     <div className="container-fluid">
       <div className="d-flex justify-content-between align-items-center gap-1">
@@ -63,7 +70,7 @@ const Cart = () => {
                             className="text-black fw-bold"
                             style={{ fontSize: "1.1rem" }}
                           >
-                            &#8377;{getItemDiscount(item)*item.quantity}
+                            &#8377;{getItemDiscount(item) * item.quantity}
                           </h5>
                         </>
                       )}
@@ -77,7 +84,7 @@ const Cart = () => {
                         }`}
                         style={{ fontSize: "1.1rem" }}
                       >
-                        &#8377;{item.mrp*item.quantity}
+                        &#8377;{item.mrp * item.quantity}
                       </h5>
                     </div>
                     {getItemDiscount(item) > 0 && (
@@ -86,7 +93,8 @@ const Cart = () => {
                           className="text-success bg-success-subtle px-3 py-1 fw-bold rounded-1 mt-2 mb-5 mb-md-0"
                           style={{ width: "max-content", fontSize: ".8rem" }}
                         >
-                          You Save &#8377;{getItemAmountSaved(item)*item.quantity}
+                          You Save &#8377;
+                          {getItemAmountSaved(item) * item.quantity}
                         </h5>
                       </>
                     )}
@@ -113,23 +121,23 @@ const Cart = () => {
                         <FontAwesomeIcon icon={faMinus} />
                       </button>
                     </div>
-                    
                   </div>
                 </div>
               </div>
             ))}
-             {cartItems.length !== 0 && (
-        <div className="text-center my-4">
-          <button
-            className="btn btn-dark d-block" style={{width:"100%"}}
-            onClick={() => {
-              clearCart();
-            }}
-          >
-            Clear cart
-          </button>
-        </div>
-      )}
+            {cartItems.length !== 0 && (
+              <div className="text-center my-4">
+                <button
+                  className="btn btn-dark d-block"
+                  style={{ width: "100%" }}
+                  onClick={() => {
+                    clearCart();
+                  }}
+                >
+                  Clear cart
+                </button>
+              </div>
+            )}
           </div>
           <div className="col-lg-4">
             <div className="shadow-lg p-2 rounded-2">
@@ -159,8 +167,6 @@ const Cart = () => {
           </div>
         </div>
       )}
-
-      
     </div>
   );
 };

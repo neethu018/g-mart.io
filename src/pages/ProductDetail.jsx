@@ -1,8 +1,8 @@
 // src/pages/ProductDetail.js
 import React from "react";
-import { useLocation,} from "react-router-dom";
+import { useLocation,useNavigate} from "react-router-dom";
 import { Container, Row, Col, Image,Button,Carousel} from "react-bootstrap";
-import { CartContext } from "../context/CartContext";
+// import { CartContext } from "../context/CartContext";
 import { useContext,useEffect } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
@@ -14,10 +14,12 @@ import {
   faReceipt
 } from "@fortawesome/free-solid-svg-icons";
 import BreadCrumbs from "../components/BreadCrumbs";
+import { useAppContext } from "../context/AppContext";
 
 const ProductDetail = () => {
   // Use useLocation to access the state object
   const location = useLocation();
+  const navigate = useNavigate();
   const { pathname, state } = location;
   console.log("pathname", pathname);
   console.log("state", state);
@@ -25,11 +27,19 @@ const ProductDetail = () => {
   if (!state || !state.product) {
     return <div>No product data available.</div>;
   }
-  const { cartItems, addToCart } = useContext(CartContext);
+  // const { cartItems, addToCart } = useContext(CartContext);
+  const { addToCart,currentUser} = useAppContext();
+
   const product = state.product;
   //add to cart
   const handleAddToCart = () => {
-    addToCart(product);
+    if (currentUser) {
+      console.log("clicked addtocart");
+      addToCart(product);
+      console.log("cartItems:", cartItems);
+    } else {
+      navigate("/loginsignup");
+    }
   };
 
   //for breadcrumbs
