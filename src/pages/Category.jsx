@@ -532,11 +532,11 @@ const categoryBannerAdImage = useMemo(() => {
       {/* Second Row with Two Columns */}
       <Row>
         {/* Left Column with Category Accordions */}
-        <Col md={3} lg={3}>
+        <Col sm={4} md={4} lg={3}>
           <CategoryAccordions mainCategory={mainTitle} />
         </Col>
         {/* right column with product list */}
-        <Col md={9}>
+        <Col md={8}>
           {categoryBannerAdImage && (
             <Row>
               <Col>
