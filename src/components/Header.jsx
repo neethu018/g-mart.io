@@ -321,6 +321,7 @@ const Header = () => {
                     onMouseLeave={handleApplePearsMouseLeave}
                     style={{position: "absolute",
                     top:0,left:259,
+                    height:"305px",
                     backgroundColor: "white",
                     borderRadius:"5px", 
                     border: "0.6px solid rgb(128, 128, 128, 0.516)"
@@ -352,6 +353,7 @@ const Header = () => {
                     onMouseLeave={handleAvacadoPeachPlumMouseLeave}
                     style={{position: "absolute",
                     top:0,left:259,
+                    height:"305px",
                     backgroundColor: "white",
                     borderRadius:"5px", 
                     border: "0.6px solid rgb(128, 128, 128, 0.516)"
@@ -385,6 +387,7 @@ const Header = () => {
                     onMouseLeave={handleBananaMelonCoconutMouseLeave}
                     style={{position: "absolute",
                     top:0,left:259,
+                    height:"305px",
                     backgroundColor: "white",
                     borderRadius:"5px", 
                     border: "0.6px solid rgb(128, 128, 128, 0.516)"
@@ -418,6 +421,7 @@ const Header = () => {
                     onMouseLeave={handleCherriesBerriesExoticMouseLeave}
                     style={{position: "absolute",
                     top:0,left:259,
+                    height:"305px",
                     backgroundColor: "white",
                     borderRadius:"5px", 
                     border: "0.6px solid rgb(128, 128, 128, 0.516)"
@@ -451,6 +455,7 @@ const Header = () => {
                     onMouseLeave={handleCitrusMangoGrapeMouseLeave}
                     style={{position: "absolute",
                     top:0,left:259,
+                    height:"305px",
                     backgroundColor: "white",
                     borderRadius:"5px", 
                     border: "0.6px solid rgb(128, 128, 128, 0.516)"
@@ -484,6 +489,7 @@ const Header = () => {
                     onMouseLeave={handleWetDatesMouseLeave}
                     style={{position: "absolute",
                     top:0,left:259,
+                    height:"305px",
                     backgroundColor: "white",
                     borderRadius:"5px", 
                     border: "0.6px solid rgb(128, 128, 128, 0.516)"
@@ -511,6 +517,7 @@ const Header = () => {
                     onMouseLeave={handleGiftPackMouseLeave}
                     style={{position: "absolute",
                     top:0,left:259,
+                    height:"305px",
                     backgroundColor: "white",
                     borderRadius:"5px", 
                     border: "0.6px solid rgb(128, 128, 128, 0.516)"
@@ -538,6 +545,7 @@ const Header = () => {
                     onMouseLeave={handlePomegranatePapayaPineappleMouseLeave}
                     style={{position: "absolute",
                     top:0,left:259,
+                    height:"305px",
                     backgroundColor: "white",
                     borderRadius:"5px", 
                     border: "0.6px solid rgb(128, 128, 128, 0.516)"
@@ -571,6 +579,7 @@ const Header = () => {
                     onMouseLeave={handleSeasonalMinorFruitsMouseLeave}
                     style={{position: "absolute",
                     top:0,left:259,
+                    height:"305px",
                     backgroundColor: "white",
                     borderRadius:"5px", 
                     border: "0.6px solid rgb(128, 128, 128, 0.516)"
@@ -945,6 +954,7 @@ const Header = () => {
                   onMouseLeave={handleInfantsMouseLeave}
                   style={{position: "absolute",
                     top:0,left:158,
+                    height:"145px",
                     width:"220px",
                     backgroundColor: "white",
                     borderRadius:"5px", 
@@ -996,6 +1006,7 @@ const Header = () => {
                   onMouseLeave={handleMobilesTabletsMouseLeave}
                   style={{position: "absolute",
                   top:0,left:158,
+                  height:"145px",
                   width:"220px",
                   backgroundColor: "white",
                   borderRadius:"5px", 
@@ -1030,6 +1041,7 @@ const Header = () => {
                   onMouseLeave={handleTvSpeakerMouseLeave}
                   style={{position: "absolute",
                   top:0,left:158,
+                  height:"145px",
                   width:"220px",
                   backgroundColor: "white",
                   borderRadius:"5px", 
@@ -1064,6 +1076,7 @@ const Header = () => {
                   onMouseLeave={handleHomeAppliancesMouseLeave}
                   style={{position: "absolute",
                   top:0,left:158,
+                  height:"145px",
                   width:"220px",
                   backgroundColor: "white",
                   borderRadius:"5px", 
@@ -1098,6 +1111,7 @@ const Header = () => {
                   onMouseLeave={handleComputersMouseLeave}
                   style={{position: "absolute",
                   top:0,left:158,
+                  height:"145px",
                   width:"220px",
                   backgroundColor: "white",
                   borderRadius:"5px", 
@@ -1148,6 +1162,7 @@ const Header = () => {
                   onMouseLeave={handleKitchenwareMouseLeave}
                   style={{position: "absolute",
                     top:0,left:183,
+                    height:"145px",
                     width:"240px",
                     backgroundColor: "white",
                     borderRadius:"5px", 
@@ -1182,6 +1197,7 @@ const Header = () => {
                   onMouseLeave={handleHomeDecorMouseLeave}
                   style={{position: "absolute",
                     top:0,left:183,
+                    height:"145px",
                     width:"240px",
                     backgroundColor: "white",
                     borderRadius:"5px", 
@@ -1216,6 +1232,7 @@ const Header = () => {
                   onMouseLeave={handleFurnitureMouseLeave}
                   style={{position: "absolute",
                     top:0,left:183,
+                    height:"145px",
                     width:"240px",
                     backgroundColor: "white",
                     borderRadius:"5px", 
@@ -1253,6 +1270,7 @@ const Header = () => {
                   onMouseLeave={handleBathroomAccessoriesMouseLeave}
                   style={{position: "absolute",
                     top:0,left:183,
+                    height:"145px",
                     width:"240px",
                     backgroundColor: "white",
                     borderRadius:"5px", 
