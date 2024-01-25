@@ -100,6 +100,10 @@ const maincategoryBannerAdImage = useMemo(() => {
   return defaultImage; // Replace defaultImage with your actual default value
 }, [mainTitle, maincategorybanneradimagedata]);
 
+//for always strat from top
+useEffect(() => {
+  window.scrollTo(0, 0);
+}, []);
   return (
     <Container fluid className="product-list-container">
       {/* First Row with Breadcrumbs */}

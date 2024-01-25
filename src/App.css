@@ -74,12 +74,17 @@
   font-weight: bold;
   font-size: 14px;
 }
-
+.navtexts{
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+}
 @media (min-width: 576px) {
   /* Small devices (576px and up) */
   .accrdtext {
     font-size: 16px;
   }
+  
 }
 
 @media (min-width: 768px) {
@@ -87,6 +92,11 @@
   .accrdtext {
     font-size: 12px;
   }
+  .navtexts{
+    font-size: 14px;
+    color: white;
+  }
+  
 }
 
 @media (min-width: 992px) {
@@ -94,6 +104,11 @@
   .accrdtext {
     font-size: 12px;
   }
+  .navtexts{
+    font-size: 17px;
+    color: white;
+  }
+ 
 }
 
 @media (min-width: 1200px) {
@@ -101,10 +116,46 @@
   .accrdtext {
     font-size: 16px;
   }
+  .navtexts{
+    font-size: 17px;
+    color: white;
+  }
+  
 }
 @media (min-width: 1300px) {
   /* Extra large devices (1200px and up) */
   .accrdtext {
     font-size: 16px;
   }
+  .navtexts{
+    font-size: 17px;
+    color: white;
+  }
+}
+
+/* for navigation hori scrolling */
+
+.scrollable-no-scrollbar {
+  overflow: hidden;
+}
+
+.scrollable-content {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 10px;
+  overflow-x: auto;
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent; /* Set the color of the scrollbar track and handle */
+}
+
+.scrollable-content::-webkit-scrollbar {
+  width: 8px;
+}
+
+.scrollable-content::-webkit-scrollbar-track {
+  background-color: transparent; /* Set the color of the scrollbar track */
+}
+
+.scrollable-content::-webkit-scrollbar-thumb {
+  background-color: transparent; /* Set the color of the scrollbar handle */
 }
