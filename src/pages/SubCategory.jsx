@@ -98,7 +98,10 @@ const SubCategory = ({ products }) => {
       // If subcatTitle is falsy, you may want to return a default value or handle it accordingly
       return defaultImage; // Replace defaultImage with your actual default value
     }, [subcatTitle, subcategoryAdImageData]);
-    
+    //for always strat from top
+useEffect(() => {
+  window.scrollTo(0, 0);
+}, []);
   return (
     <Container fluid className="product-list-container">
       {/* First Row with Breadcrumbs */}

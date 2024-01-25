@@ -18,7 +18,7 @@ const FavouriteList = () => {
   return (
     <div>
       <Container>
-        <Row>
+        <Row className="mt-3">
           {favouriteItems.length == 0 ? (
             <Col>
               <div
@@ -50,7 +50,7 @@ const FavouriteList = () => {
             {favouriteItems.length > 0 && (
               <div className="text-center my-4">
                 <button
-                  className="btn btn-dark d-block"
+                  className="btn btn-primary d-block"
                   style={{ width: "100%" }}
                   onClick={() => {
                     clearWishlist();
