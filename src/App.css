@@ -135,7 +135,7 @@
 
 /* for navigation hori scrolling */
 
-.scrollable-no-scrollbar {
+.scrollable-no-scrollbars {
   overflow: hidden;
 }
 

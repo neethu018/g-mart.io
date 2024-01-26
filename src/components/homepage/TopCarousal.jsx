@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 const TopCarousal = ({ topCarousalOffer }) => {
   return (
-    <Carousel className="mt-4 px-0" style={{zIndex: -1,}}>
+    <Carousel className="mt-4 px-0" >
       {topCarousalOffer &&
         topCarousalOffer.map((image, index) => (
           <Carousel.Item key={index} interval={image.interval}>

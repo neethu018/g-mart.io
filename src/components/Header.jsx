@@ -1577,8 +1577,8 @@ const Header = () => {
       </Navbar>
       <Container
       fluid
-      className="scrollable-no-scrollbar mt-2 pt-3 d-block d-md-none d-lg-none sticky-top d-flex justify-content-center align-items-center"
-      style={{ background: isSticky ? '#3498DB' : 'transparent',zIndex: 1 }}
+      className="scrollable-no-scrollbars mt-2 pt-3 d-block d-md-none d-lg-none sticky-top d-flex justify-content-center align-items-center"
+      style={{ background: isSticky ? '#3498DB' : 'transparent',zIndex: 3,}}
     >
       <div className="scrollable-content">
         {options.map((option, index) => (
