@@ -193,20 +193,6 @@ function Sidenavbar({ sidebar, showsidebar }) {
                       <span className="nav-section-list-title word">Guide</span>
                     </Link>
                   </li>
-                  <li className="nav-section-list-item divider-h">
-                    <Link className="d" to="/caution-notice">
-                      <img
-                        className="icon jm"
-                        width={24}
-                        height={24}
-                        src="https://img.icons8.com/ios-filled/50/0078ad/spam.png"
-                        alt="spam"
-                      />
-                      <span className="nav-section-list-title word">
-                        Caution Notice
-                      </span>
-                    </Link>
-                  </li>
                 </ul>
               </div>
             </div>

@@ -844,25 +844,25 @@ const Header = () => {
                     border: "0.6px solid rgb(128, 128, 128, 0.516)",
                   }}
                 >
-                  <NavDropdown.Item as={Link} to="/Beauty/Hair/HairCare">
+                  <NavDropdown.Item as={Link} to="/Beauty/Hair/hairCare">
                     HairCare
                   </NavDropdown.Item>
-                  <NavDropdown.Item as={Link} to="/Beauty/Hair/HairColor">
+                  <NavDropdown.Item as={Link} to="/Beauty/Hair/hairColor">
                     HairColor
                   </NavDropdown.Item>
-                  <NavDropdown.Item as={Link} to="/Beauty/Hair/HairStyling">
+                  <NavDropdown.Item as={Link} to="/Beauty/Hair/hairStyling">
                     HairStyling
                   </NavDropdown.Item>
                   <NavDropdown.Item
                     as={Link}
-                    to="/Beauty/Hair/HairToolAndAccessories"
+                    to="/Beauty/Hair/hairToolAndAccessories"
                   >
                     HairToolAndAccessories
                   </NavDropdown.Item>
-                  <NavDropdown.Item as={Link} to="/Beauty/Hair/ScalpTreatments">
+                  <NavDropdown.Item as={Link} to="/Beauty/Hair/scalpTreatments">
                     ScalpTreatments
                   </NavDropdown.Item>
-                  <NavDropdown.Item as={Link} to="/Beauty/Hair/ShopByHairType">
+                  <NavDropdown.Item as={Link} to="/Beauty/Hair/shopByHairType">
                     ShopByHairType
                   </NavDropdown.Item>
                 </Container>
