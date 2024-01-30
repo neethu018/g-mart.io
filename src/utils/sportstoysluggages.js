@@ -444,7 +444,7 @@ export const SportsToysLuggages = {
       productId:60846,
     },{
       productImage:
-        ["https://www.jiomart.com/images/product/original/rvxpdo1ukr/larg-90l-waterproof-premium-quality-army-rucksack-backpack-product-images-orvxpdo1ukr-p597725429-0-202301201247.jpg?im=Resize=(420,420)","",""],
+        ["https://www.jiomart.com/images/product/original/rvxpdo1ukr/larg-90l-waterproof-premium-quality-army-rucksack-backpack-product-images-orvxpdo1ukr-p597725429-0-202301201247.jpg?im=Resize=(420,420)", ],
       brand: "CROSSBOW",
       shortDesc:"LARG 90L WATERPROOF PREMIUM QUALITY ARMY RUCKSACK BACKPACK .",
       ratings: 17,
@@ -520,7 +520,7 @@ export const SportsToysLuggages = {
         productId:60849,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rva4qu2okr/medler-epoch-nylon-duffle-travel-strolley-bag-55l-waterproof-two-wheels-purple-product-images-orva4qu2okr-p591747747-0-202205310352.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rva4qu2okr/medler-epoch-nylon-duffle-travel-strolley-bag-55l-waterproof-two-wheels-purple-product-images-orva4qu2okr-p591747747-0-202205310352.jpg?im=Resize=(420,420)", ],
         brand: "Medler",
         shortDesc:
           "Medler Epoch Nylon Duffle Travel Strolley Bag 55L - Waterproof- Two wheels (Purple)",
@@ -545,7 +545,7 @@ export const SportsToysLuggages = {
         productId:60850,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rv3umfyhth/medler-derben-nylon-55-litres-waterproof-strolley-duffle-bag-2-wheels-luggage-bag-turquoise-product-images-orv3umfyhth-p591738601-0-202205302217.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rv3umfyhth/medler-derben-nylon-55-litres-waterproof-strolley-duffle-bag-2-wheels-luggage-bag-turquoise-product-images-orv3umfyhth-p591738601-0-202205302217.jpg?im=Resize=(420,420)", ],
         brand: "MEDLER ",
         shortDesc:
           "MEDLER Derben Nylon 55 litres Waterproof Strolley Duffle Bag- 2 Wheels - Luggage Bag (Turquoise)",
@@ -570,7 +570,7 @@ export const SportsToysLuggages = {
         productId:60851,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvrgvfeqar/anybuy-black-polyester-travel-duffle-bags-with-trolley-luggage-2-wheels-79-l-product-images-orvrgvfeqar-p597751466-0-202301211318.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvrgvfeqar/anybuy-black-polyester-travel-duffle-bags-with-trolley-luggage-2-wheels-79-l-product-images-orvrgvfeqar-p597751466-0-202301211318.jpg?im=Resize=(420,420)", ],
         brand: "Anybuy",
         shortDesc:
           "Anybuy Black Polyester Travel Duffle Bags With Trolley Luggage 2 Wheels, 79 L",
@@ -595,7 +595,7 @@ export const SportsToysLuggages = {
         productId:60852,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/494241367/lavie-sport-galactic-red-polyester-duffle-bag-with-wheel-57-cm-product-images-o494241367-p605498171-0-202310072229.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/494241367/lavie-sport-galactic-red-polyester-duffle-bag-with-wheel-57-cm-product-images-o494241367-p605498171-0-202310072229.jpg?im=Resize=(420,420)", ],
         brand: "Lavie Sport ",
         shortDesc:
           "Lavie Sport Medium Duffle Bag, Galactic 57 cm Red | Duffle Bag with Wheel",
@@ -620,7 +620,7 @@ export const SportsToysLuggages = {
         productId:60853,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvf3ub1gqa/torrento-bag-sky-bulls-strolley-duffel-bag-60l-duffle-bags-heavy-premium-quality-travel-luggage-men-women-travelling-bag-product-images-orvf3ub1gqa-p599066278-0-202303041459.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvf3ub1gqa/torrento-bag-sky-bulls-strolley-duffel-bag-60l-duffle-bags-heavy-premium-quality-travel-luggage-men-women-travelling-bag-product-images-orvf3ub1gqa-p599066278-0-202303041459.jpg?im=Resize=(420,420)", ],
         brand: "TORRENTO BAG",
         shortDesc:
           "TORRENTO BAG SKY BULLS Strolley Duffel Bag - 60L DUFFLE BAGS HEAVY PREMIUM QUALITY TRAVEL LUGGAGE MEN WOMEN TRAVELLING BAG",
@@ -645,7 +645,7 @@ export const SportsToysLuggages = {
         productId:60854,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvwpdijpan/kindred-travel-duffle-bag-large-capacity-folding-travel-bags-lightweight-waterproof-carry-luggage-bag-for-women-product-images-orvwpdijpan-p604007097-0-202308220037.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvwpdijpan/kindred-travel-duffle-bag-large-capacity-folding-travel-bags-lightweight-waterproof-carry-luggage-bag-for-women-product-images-orvwpdijpan-p604007097-0-202308220037.jpg?im=Resize=(420,420)", ],
         brand: "KINDRED ",
         shortDesc:
           "KINDRED Travel Duffle Bag Large Capacity Folding Travel Bags Lightweight Waterproof Carry Luggage Bag for Women",
@@ -670,7 +670,7 @@ export const SportsToysLuggages = {
         productId:60855,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvvgcza8la/medler-epoch-nylon-duffle-travel-strolley-bag-55l-waterproof-two-wheels-black-product-images-orvvgcza8la-p591617943-0-202205262304.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvvgcza8la/medler-epoch-nylon-duffle-travel-strolley-bag-55l-waterproof-two-wheels-black-product-images-orvvgcza8la-p591617943-0-202205262304.jpg?im=Resize=(420,420)", ],
         brand: "Medler",
         shortDesc:
           "Medler Epoch Nylon Duffle Travel Strolley Bag 55L - Waterproof- Two wheels (Black)",
@@ -695,7 +695,7 @@ export const SportsToysLuggages = {
         productId:60856,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvrst6n9po/medler-aquiver-nylon-55-litres-waterproof-strolley-duffle-bag-2-wheels-luggage-bag-red-turq-set-of-2-product-images-orvrst6n9po-p598739007-0-202302241433.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvrst6n9po/medler-aquiver-nylon-55-litres-waterproof-strolley-duffle-bag-2-wheels-luggage-bag-red-turq-set-of-2-product-images-orvrst6n9po-p598739007-0-202302241433.jpg?im=Resize=(420,420)", ],
         brand: "MEDLER",
         shortDesc:
           "MEDLER Aquiver Nylon 55 litres Waterproof Strolley Duffle Bag- 2 Wheels - Luggage Bag - Red/Turq - (Set of 2)",
@@ -720,7 +720,7 @@ export const SportsToysLuggages = {
         productId:60857,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvehjgy2pc/aristocrat-polyester-blue-39-l-hand-duffel-bag-pack-of-1-product-images-orvehjgy2pc-p600556823-0-202304151041.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvehjgy2pc/aristocrat-polyester-blue-39-l-hand-duffel-bag-pack-of-1-product-images-orvehjgy2pc-p600556823-0-202304151041.jpg?im=Resize=(420,420)", ],
         brand: "ARISTOCRAT ",
         shortDesc:
           "ARISTOCRAT ROOKIE DUFFLE (E) 52 TEAL BLUE Duffel Without Wheels ()",
@@ -745,7 +745,7 @@ export const SportsToysLuggages = {
         productId:60858,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rv233ncgh1/medler-epoch-nylon-duffle-travel-strolley-bag-55l-waterproof-two-wheels-green-product-images-orv233ncgh1-p591685936-0-202205290108.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rv233ncgh1/medler-epoch-nylon-duffle-travel-strolley-bag-55l-waterproof-two-wheels-green-product-images-orv233ncgh1-p591685936-0-202205290108.jpg?im=Resize=(420,420)", ],
         brand: "Medler",
         shortDesc:
           "Medler Epoch Nylon Duffle Travel Strolley Bag 55L - Waterproof- Two Wheels (Green)",
@@ -770,7 +770,7 @@ export const SportsToysLuggages = {
         productId:60859,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvoby6vlgt/aristocrat-polyester-red-39-l-hand-duffel-bag-pack-of-1-product-images-orvoby6vlgt-p600553974-0-202304150920.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvoby6vlgt/aristocrat-polyester-red-39-l-hand-duffel-bag-pack-of-1-product-images-orvoby6vlgt-p600553974-0-202304150920.jpg?im=Resize=(420,420)", ],
         brand: "ARISTOCRAT",
         shortDesc:
           "ARISTOCRAT ROOKIE DUFFLE (E) 52 RED Duffel Without Wheels (O)",
@@ -795,7 +795,7 @@ export const SportsToysLuggages = {
         productId:60860,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvuc8pnt8i/aristocrat-rookie-dft-62-e-teal-blue-duffel-with-wheels-strolley-product-images-orvuc8pnt8i-p600925748-0-202304260839.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvuc8pnt8i/aristocrat-rookie-dft-62-e-teal-blue-duffel-with-wheels-strolley-product-images-orvuc8pnt8i-p600925748-0-202304260839.jpg?im=Resize=(420,420)", ],
         brand: "ARISTOCRAT",
         shortDesc:
           "ARISTOCRAT ROOKIE DFT 62 (E) TEAL BLUE Duffel With Wheels (Strolley) ()",
@@ -820,7 +820,7 @@ export const SportsToysLuggages = {
         productId:60861,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvbno1jzja/anybuy-blue-polyester-travel-duffle-bags-with-trolley-luggage-2-wheels-79-l-product-images-orvbno1jzja-p597751494-0-202301211318.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvbno1jzja/anybuy-blue-polyester-travel-duffle-bags-with-trolley-luggage-2-wheels-79-l-product-images-orvbno1jzja-p597751494-0-202301211318.jpg?im=Resize=(420,420)", ],
         brand: "Anybuy",
         shortDesc:
           "Anybuy Blue Polyester Travel Duffle Bags With Trolley Luggage 2 Wheels, 79 L",
@@ -845,7 +845,7 @@ export const SportsToysLuggages = {
         productId:60862,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rv23chayxf/medler-wendy-travel-duffle-bag-sports-gym-bag-grey-product-images-orv23chayxf-p597962072-0-202301301517.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rv23chayxf/medler-wendy-travel-duffle-bag-sports-gym-bag-grey-product-images-orv23chayxf-p597962072-0-202301301517.jpg?im=Resize=(420,420)", ],
         brand: "MEDLER",
         shortDesc:
           "MEDLER Wendy Travel Duffle Bag (Sports/Gym Bag) - Grey",
@@ -870,7 +870,7 @@ export const SportsToysLuggages = {
         productId:60863,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvaobkjytt/medler-apricate-nylon-55cms-cabin-size-waterproof-travel-duffle-bag-navy-blue-product-images-orvaobkjytt-p591626660-0-202205270814.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvaobkjytt/medler-apricate-nylon-55cms-cabin-size-waterproof-travel-duffle-bag-navy-blue-product-images-orvaobkjytt-p591626660-0-202205270814.jpg?im=Resize=(420,420)", ],
         brand: "MEDLER",
         shortDesc:
           "MEDLER Apricate Nylon 55cms Cabin Size Waterproof Travel Duffle Bag- Navy Blue",
@@ -895,7 +895,7 @@ export const SportsToysLuggages = {
         productId:60864,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvkpqsgbhn/medler-figo-polyester-29-49-litres-waterproof-duffle-bag-luggage-bag-blue-product-images-orvkpqsgbhn-p597942682-0-202301281722.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvkpqsgbhn/medler-figo-polyester-29-49-litres-waterproof-duffle-bag-luggage-bag-blue-product-images-orvkpqsgbhn-p597942682-0-202301281722.jpg?im=Resize=(420,420)", ],
         brand: "MEDLER",
         shortDesc:
           "MEDLER Figo Polyester 29..49 litres Waterproof Duffle Bag - Luggage Bag (Blue)",
@@ -920,7 +920,7 @@ export const SportsToysLuggages = {
         productId:60865,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvvj2yf9bi/leatherworld-black-pu-leather-sling-bag-product-images-orvvj2yf9bi-p591748673-0-202205310432.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvvj2yf9bi/leatherworld-black-pu-leather-sling-bag-product-images-orvvj2yf9bi-p591748673-0-202205310432.jpg?im=Resize=(420,420)", ],
         brand: "Leather World",
         shortDesc:
           "Leather World PU Leather sling bag and side Bag/Messenger Bag/Travel Bag/office and trending bag for men and women",
@@ -945,7 +945,7 @@ export const SportsToysLuggages = {
         productId:60866,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvftvdctsj/leatherworld-brown-pu-leather-sling-bag-product-images-orvftvdctsj-p591753370-0-202205310724.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvftvdctsj/leatherworld-brown-pu-leather-sling-bag-product-images-orvftvdctsj-p591753370-0-202205310724.jpg?im=Resize=(420,420)", ],
         brand: "Leather World ",
         shortDesc:
         "Leather World PU Leather sling bag and side Bag/Messenger Bag/Travel Bag/office and trending bag for men and women",
@@ -1000,7 +1000,7 @@ export const SportsToysLuggages = {
         productId:60868,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvtfzqfxyg/nasher-miles-pink-polypropylene-mumbai-hard-sided-trolley-bags-1-pc-75cm-product-images-orvtfzqfxyg-p590988627-0-202201061826.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvtfzqfxyg/nasher-miles-pink-polypropylene-mumbai-hard-sided-trolley-bags-1-pc-75cm-product-images-orvtfzqfxyg-p590988627-0-202201061826.jpg?im=Resize=(420,420)", ],
         brand: "Nasher Miles",
         shortDesc:
           "Nasher Miles Pink Polypropylene Mumbai Hard Sided Trolley Bags 1 Pc 75 cm",
@@ -1025,7 +1025,7 @@ export const SportsToysLuggages = {
         productId:60869,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvmz6ikrod/sitara-bag-suitcase-polyester-luggage-three-wheel-combo-trolley-bag-pack-of-2-purple-product-images-orvmz6ikrod-p601374824-0-202305111814.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvmz6ikrod/sitara-bag-suitcase-polyester-luggage-three-wheel-combo-trolley-bag-pack-of-2-purple-product-images-orvmz6ikrod-p601374824-0-202305111814.jpg?im=Resize=(420,420)", ],
         brand: "Sitara Bags ",
         shortDesc:
           "Sitara Bag Suitcase Polyester Luggage S Shape Three Wheel Combo Trolley Bag (Pack of 2) (Purple)",
@@ -1050,7 +1050,7 @@ export const SportsToysLuggages = {
         productId:60870,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/494241527/vip-corsa-ultra-red-polypropylene-strong-trolley-set-of-3-product-images-o494241527-p605537607-0-202310101426.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/494241527/vip-corsa-ultra-red-polypropylene-strong-trolley-set-of-3-product-images-o494241527-p605537607-0-202310101426.jpg?im=Resize=(420,420)", ],
         brand: "vip",
         shortDesc:
           "VIP Corsa Ultra Red Polypropylene Strong Trolley (Set of 3)",
@@ -1075,7 +1075,7 @@ export const SportsToysLuggages = {
         productId:60871,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvqxtynr3a/safari-regloss-detour-multicolor-polycarbonate-trolley-55-cm-reglossdetour554wprn-hard-luggage-product-images-orvqxtynr3a-p602953821-0-202307051638.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvqxtynr3a/safari-regloss-detour-multicolor-polycarbonate-trolley-55-cm-reglossdetour554wprn-hard-luggage-product-images-orvqxtynr3a-p602953821-0-202307051638.jpg?im=Resize=(420,420)", ],
         brand: "Safari",
         shortDesc:
           "Safari REGLOSS DETOUR Multicolor Polycarbonate Trolley 55 cm (REGLOSSDETOUR554WPRN) Hard Luggage",
@@ -1100,7 +1100,7 @@ export const SportsToysLuggages = {
         productId:60872,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rv2so6k7ll/nasher-miles-istanbul-hard-sided-abs-and-pc-check-in-orange-and-grey-24-inch-65cm-trolley-bag-product-images-orv2so6k7ll-p590988592-0-202309122100.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rv2so6k7ll/nasher-miles-istanbul-hard-sided-abs-and-pc-check-in-orange-and-grey-24-inch-65cm-trolley-bag-product-images-orv2so6k7ll-p590988592-0-202309122100.jpg?im=Resize=(420,420)", ],
         brand: "Nasher Miles",
         shortDesc:
           "Nasher Miles Istanbul Hard-Sided ABS and PC Check-in Orange and Grey 24 inch |65cm Trolley Bag",
@@ -1125,7 +1125,7 @@ export const SportsToysLuggages = {
         productId:60873,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/494242346/vip-unisex-corsa-strolley-55-66-76-360-nest-turquoise-polypropylene-set-of-3-s-m-l-product-images-o494242346-p606161984-0-202311181202.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/494242346/vip-unisex-corsa-strolley-55-66-76-360-nest-turquoise-polypropylene-set-of-3-s-m-l-product-images-o494242346-p606161984-0-202311181202.jpg?im=Resize=(420,420)", ],
         brand: "vip",
         shortDesc:
           "VIP Unisex Corsa Strolley 55+66+76 360 Nest Turquoise Polypropylene Set of 3 (S, M & L)",
@@ -1150,7 +1150,7 @@ export const SportsToysLuggages = {
         productId:60874,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rv4idybzeo/sitara-bag-suitcase-polyester-luggage-three-wheel-combo-trolley-bag-pack-of-2-red-product-images-orv4idybzeo-p601374908-0-202305111817.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rv4idybzeo/sitara-bag-suitcase-polyester-luggage-three-wheel-combo-trolley-bag-pack-of-2-red-product-images-orv4idybzeo-p601374908-0-202305111817.jpg?im=Resize=(420,420)", ],
         brand: "Sitara Bags",
         shortDesc:
           "Sitara Bag Suitcase Polyester Luggage S Shape Three Wheel Combo Trolley Bag (Pack of 2) (Red)",
@@ -1175,7 +1175,7 @@ export const SportsToysLuggages = {
         productId:60875,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvktw0pe92/safari-regloss-antiscratch-red-luggage-trolley-bag-55-cm-hard-luggage-product-images-orvktw0pe92-p602953686-0-202307051635.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvktw0pe92/safari-regloss-antiscratch-red-luggage-trolley-bag-55-cm-hard-luggage-product-images-orvktw0pe92-p602953686-0-202307051635.jpg?im=Resize=(420,420)", ],
         brand: "Safari ",
         shortDesc:
           "Safari Regloss Antiscratch Red Luggage Trolley Bag 55 cm Hard Luggage",
@@ -1200,7 +1200,7 @@ export const SportsToysLuggages = {
         productId:60876,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rv0u6gsdhg/safari-astra-8-wheels-76-cms-large-check-in-trolley-bag-hard-case-polycarbonate-360-degree-wheeling-system-luggage-trolley-bags-for-travel-suitcase-for-travel-cyan-product-images-orv0u6gsdhg-p605611959-0-202311220618.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rv0u6gsdhg/safari-astra-8-wheels-76-cms-large-check-in-trolley-bag-hard-case-polycarbonate-360-degree-wheeling-system-luggage-trolley-bags-for-travel-suitcase-for-travel-cyan-product-images-orv0u6gsdhg-p605611959-0-202311220618.jpg?im=Resize=(420,420)", ],
         brand: "Safari",
         shortDesc:
           "Safari Astra 8 Wheels 76 Cms Large Check-in Trolley Bag Hard Case Polycarbonate 360 Degree Wheeling System Luggage, Trolley Bags For Travel, Suitcase For Travel, Cyan",
@@ -1225,7 +1225,7 @@ export const SportsToysLuggages = {
         productId:60877,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvhqojqpmi/nasher-miles-multicolor-polypropylene-nicobar-hard-sided-trolley-bags-1-pc-75-cm-product-images-orvhqojqpmi-p591006784-0-202201171713.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvhqojqpmi/nasher-miles-multicolor-polypropylene-nicobar-hard-sided-trolley-bags-1-pc-75-cm-product-images-orvhqojqpmi-p591006784-0-202201171713.jpg?im=Resize=(420,420)", ],
         brand: "Nasher Miles",
         shortDesc:
           "Nasher Miles Multicolor Polypropylene Nicobar Hard Sided Trolley Bags 1 Pc 75 cm",
@@ -1250,7 +1250,7 @@ export const SportsToysLuggages = {
         productId:60878,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvizlfw78f/safari-quart-8-wheels-55-cms-small-cabin-trolley-bag-hard-case-polycarbonate-360-degree-wheeling-system-luggage-trolley-bags-for-travel-suitcase-for-travel-gun-metal-product-images-orvizlfw78f-p604723331-0-202309212043.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvizlfw78f/safari-quart-8-wheels-55-cms-small-cabin-trolley-bag-hard-case-polycarbonate-360-degree-wheeling-system-luggage-trolley-bags-for-travel-suitcase-for-travel-gun-metal-product-images-orvizlfw78f-p604723331-0-202309212043.jpg?im=Resize=(420,420)", ],
         brand: "Safari",
         shortDesc:
           "Safari Quart 8 Wheels 55 Cms Small Cabin Trolley Bag Hard Case Polycarbonate 360 Degree Wheeling System Luggage, Trolley Bags For Travel, Suitcase For Travel, Gun Metal",
@@ -1275,7 +1275,7 @@ export const SportsToysLuggages = {
         productId:60879,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvzrbl4tlc/safari-astra-8-wheels-56-and-66-cms-small-and-medium-trolley-bags-hard-case-polycarbonate-360-degree-wheeling-system-luggage-trolley-bags-for-travel-set-of-2-suitcase-for-travel-cyan-product-images-orvzrbl4tlc-p605612165-0-202311220620.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvzrbl4tlc/safari-astra-8-wheels-56-and-66-cms-small-and-medium-trolley-bags-hard-case-polycarbonate-360-degree-wheeling-system-luggage-trolley-bags-for-travel-set-of-2-suitcase-for-travel-cyan-product-images-orvzrbl4tlc-p605612165-0-202311220620.jpg?im=Resize=(420,420)", ],
         brand: "Safari",
         shortDesc:
           "Safari Astra 8 Wheels 56 and 66 Cms Small and Medium Trolley Bags Hard Case Polycarbonate 360 Degree Wheeling System Luggage, Trolley Bags For Travel Set of 2, Suitcase For Travel, Cyan",
@@ -1300,7 +1300,7 @@ export const SportsToysLuggages = {
         productId:60880,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvyj3vyzwp/safari-astra-8-wheels-76-cms-large-check-in-trolley-bag-hard-case-polycarbonate-360-degree-wheeling-system-luggage-trolley-bags-for-travel-suitcase-for-travel-black-product-images-orvyj3vyzwp-p605612152-0-202311220620.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvyj3vyzwp/safari-astra-8-wheels-76-cms-large-check-in-trolley-bag-hard-case-polycarbonate-360-degree-wheeling-system-luggage-trolley-bags-for-travel-suitcase-for-travel-black-product-images-orvyj3vyzwp-p605612152-0-202311220620.jpg?im=Resize=(420,420)", ],
         brand: "Safari",
         shortDesc:
           "Safari Astra 8 Wheels 76 Cms Large Check-in Trolley Bag Hard Case Polycarbonate 360 Degree Wheeling System Luggage, Trolley Bags For Travel, Suitcase For Travel, Black",
@@ -1325,7 +1325,7 @@ export const SportsToysLuggages = {
         productId:60881,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvwouvtt7t/stony-brook-by-nasher-miles-classic-soft-sided-polyester-cabin-luggage-teal-20-inch-55cm-trolley-bag-product-images-orvwouvtt7t-p601371198-0-202305181555.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvwouvtt7t/stony-brook-by-nasher-miles-classic-soft-sided-polyester-cabin-luggage-teal-20-inch-55cm-trolley-bag-product-images-orvwouvtt7t-p601371198-0-202305181555.jpg?im=Resize=(420,420)", ],
         brand: "Nasher Miles",
         shortDesc:
           "Stony Brook by Nasher Miles Classic Soft-Sided Polyester Cabin Luggage Teal 20 inch |55cm Trolley Bag",
@@ -1350,7 +1350,7 @@ export const SportsToysLuggages = {
         productId:60882,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvs2kyqba3/safari-quart-8-wheels-55-cms-small-cabin-trolley-bag-hard-case-polycarbonate-360-degree-wheeling-system-luggage-trolley-bags-for-travel-suitcase-for-travel-wine-red-product-images-orvs2kyqba3-p604720606-0-202309211943.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvs2kyqba3/safari-quart-8-wheels-55-cms-small-cabin-trolley-bag-hard-case-polycarbonate-360-degree-wheeling-system-luggage-trolley-bags-for-travel-suitcase-for-travel-wine-red-product-images-orvs2kyqba3-p604720606-0-202309211943.jpg?im=Resize=(420,420)", ],
         brand: "Safari ",
         shortDesc:
           "Safari Quart 8 Wheels 55 Cms Small Cabin Trolley Bag Hard Case Polycarbonate 360 Degree Wheeling System Luggage, Trolley Bags For Travel, Suitcase For Travel, Wine Red",
@@ -1375,7 +1375,7 @@ export const SportsToysLuggages = {
         productId:60883,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvwiauwxcf/aristocrat-blue-soft-body-luggage-strolly-set-of-3-product-images-orvwiauwxcf-p600536963-0-202304142157.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvwiauwxcf/aristocrat-blue-soft-body-luggage-strolly-set-of-3-product-images-orvwiauwxcf-p600536963-0-202304142157.jpg?im=Resize=(420,420)", ],
         brand: "ARISTOCRAT",
         shortDesc:
           "ARISTOCRAT Titus 4W Strolly 58+ 68+ 78 (E) Blue Cabin & Check-in Set -31 Inch",
@@ -1400,7 +1400,7 @@ export const SportsToysLuggages = {
         productId:60884,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvkubims7x/safari-route-cabin-amp-check-in-set-30-inch-product-images-orvkubims7x-p604733826-0-202309221226.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvkubims7x/safari-route-cabin-amp-check-in-set-30-inch-product-images-orvkubims7x-p604733826-0-202309221226.jpg?im=Resize=(420,420)", ],
         brand: "SAFARI",
         shortDesc:
           "SAFARI Route Cabin & Check-in Set - 30 inch",
@@ -1425,7 +1425,7 @@ export const SportsToysLuggages = {
         productId:60885,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvoiqdvjxl/safari-route-cabin-amp-check-in-set-26-inch-product-images-orvoiqdvjxl-p604730683-0-202309221056.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvoiqdvjxl/safari-route-cabin-amp-check-in-set-26-inch-product-images-orvoiqdvjxl-p604730683-0-202309221056.jpg?im=Resize=(420,420)", ],
         brand: "Safari",
         shortDesc:
           "SAFARI Route Cabin & Check-in Set - 26 inch",
@@ -1450,7 +1450,7 @@ export const SportsToysLuggages = {
         productId:60886,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvf93ldked/nasher-miles-manali-hard-sided-polycarbonate-check-in-orange-multicolor-28-inch-75cm-trolley-bag-product-images-orvf93ldked-p598467088-0-202309041615.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvf93ldked/nasher-miles-manali-hard-sided-polycarbonate-check-in-orange-multicolor-28-inch-75cm-trolley-bag-product-images-orvf93ldked-p598467088-0-202309041615.jpg?im=Resize=(420,420)", ],
         brand: "Nasher Miles",
         shortDesc:
         "Nasher Miles Manali Hard-sided Polycarbonate Check-in Orange Multicolor 28 inch |75cm Trolley bag",
@@ -1502,7 +1502,7 @@ export const SportsToysLuggages = {
         productId:60888,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvltdwgorh/saleon-storage-bag-with-large-capacity-underbed-bag-for-blankets-pillows-clothes-sorting-organizer-bag-storing-bag-54-x-48-x-28cm-water-moisture-resistance-set-of-1-product-images-orvltdwgorh-p599560182-0-202303181507.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvltdwgorh/saleon-storage-bag-with-large-capacity-underbed-bag-for-blankets-pillows-clothes-sorting-organizer-bag-storing-bag-54-x-48-x-28cm-water-moisture-resistance-set-of-1-product-images-orvltdwgorh-p599560182-0-202303181507.jpg?im=Resize=(420,420)", ],
         brand: "SALEON",
         shortDesc:
           "SaleOn Storage Bag With Large Capacity Underbed Bag for Blankets Pillows Clothes Sorting Organizer Bag Storing Bag 54 x 48 x 28cm - Water&Moisture Resistance (Set of 1)",
@@ -1527,7 +1527,7 @@ export const SportsToysLuggages = {
         productId:60889,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvmt1jnxl0/aadhya-high-quality-80gsm-non-woven-fabric-pack-of-3-pieces-non-woven-saree-cover-garment-cover-wardrobe-cover-travelling-organiser-and-gift-organiser-for-women-grey-product-images-orvmt1jnxl0-p600836748-0-202304230559.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvmt1jnxl0/aadhya-high-quality-80gsm-non-woven-fabric-pack-of-3-pieces-non-woven-saree-cover-garment-cover-wardrobe-cover-travelling-organiser-and-gift-organiser-for-women-grey-product-images-orvmt1jnxl0-p600836748-0-202304230559.jpg?im=Resize=(420,420)", ],
         brand: "Aadhya",
         shortDesc:
           "Aadhya High Quality (80gsm non woven fabric) Pack Of 3 Pieces Non Woven Saree Cover Garment Cover,Wardrobe Cover,Travelling Organiser And Gift Organiser For Women (Grey)",
@@ -1552,7 +1552,7 @@ export const SportsToysLuggages = {
         productId:60890,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvnqscdiik/aadhya-multipurpose-bangle-box-jewellery-vanity-box-purple-product-images-orvnqscdiik-p600834636-0-202304230442.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvnqscdiik/aadhya-multipurpose-bangle-box-jewellery-vanity-box-purple-product-images-orvnqscdiik-p600834636-0-202304230442.jpg?im=Resize=(420,420)", ],
         brand: "Aadhya",
         shortDesc:
           "Aadhya Multipurpose Bangle Box Jewellery Vanity Box (Purple)",
@@ -1577,7 +1577,7 @@ export const SportsToysLuggages = {
         productId:60891,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvampqssc5/jags-eco-friendly-jute-bag-with-zip-for-men-and-women-natural-jute-pack-of-2-size-l10-x-h11-x-w5-product-images-orvampqssc5-p596408157-0-202212161333.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvampqssc5/jags-eco-friendly-jute-bag-with-zip-for-men-and-women-natural-jute-pack-of-2-size-l10-x-h11-x-w5-product-images-orvampqssc5-p596408157-0-202212161333.jpg?im=Resize=(420,420)", ],
         brand: "JAGS",
         shortDesc:
           `JAGS Eco-Friendly Jute Bag with Zip for Men and Women Natural Jute(Pack of 2)Size(L10"x H11"x W5")`,
@@ -1602,7 +1602,7 @@ export const SportsToysLuggages = {
         productId:60892,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rv4pss7egi/elitehome-24ltr-foldable-steel-frame-cloth-organizer-for-wardrobe-garment-storage-saree-cover-product-images-orv4pss7egi-p597528286-0-202301121920.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rv4pss7egi/elitehome-24ltr-foldable-steel-frame-cloth-organizer-for-wardrobe-garment-storage-saree-cover-product-images-orv4pss7egi-p597528286-0-202301121920.jpg?im=Resize=(420,420)", ],
         brand: "ELITEHOME",
         shortDesc:
           "ELITEHOME 24Ltr foldable Steel Frame Cloth Organizer For Wardrobe, Garment Storage Saree Cover",
@@ -1627,7 +1627,7 @@ export const SportsToysLuggages = {
         productId:60893,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rverbz6xju/bjik-multicolor-nylon-rectangular-moisture-proof-storage-bag-57x48x32-cm-pack-of-2-product-images-orverbz6xju-p602646906-0-202306250426.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rverbz6xju/bjik-multicolor-nylon-rectangular-moisture-proof-storage-bag-57x48x32-cm-pack-of-2-product-images-orverbz6xju-p602646906-0-202306250426.jpg?im=Resize=(420,420)", ],
         brand: "BJIK",
         shortDesc:
           "BJIK Multicolor Nylon Rectangular Moisture Proof Storage Bag, (57x48x32 cm) - Pack of 2",
@@ -1652,7 +1652,7 @@ export const SportsToysLuggages = {
         productId:60894,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvanydma9u/kiwi-bags-transparent-lehenga-saree-cover-satin-cloth-storage-bag-with-handles-lehenga-saree-heavy-dresses-packing-covers-for-wedding-with-zipper-foldable-wardrobe-organizer-for-dresses-golden-pack-of-2-product-images-orvanydma9u-p601501309-0-202305140535.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvanydma9u/kiwi-bags-transparent-lehenga-saree-cover-satin-cloth-storage-bag-with-handles-lehenga-saree-heavy-dresses-packing-covers-for-wedding-with-zipper-foldable-wardrobe-organizer-for-dresses-golden-pack-of-2-product-images-orvanydma9u-p601501309-0-202305140535.jpg?im=Resize=(420,420)", ],
         brand: "KIWI BAGS",
         shortDesc:
           "KIWI BAGS Transparent Lehenga Saree Cover/Satin Cloth Storage Bag with Handles/Lehenga,Saree,Heavy Dresses Packing Covers For Wedding with Zipper/Foldable Wardrobe Organizer for Dresses-Golden, Pack of 2",
@@ -1677,7 +1677,7 @@ export const SportsToysLuggages = {
         productId:60895,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvpah7zfsv/sh-nasima-wardrobe-clothes-organizer-8-grids-skirts-t-shirts-jeans-grey-pack-of-1-product-images-orvpah7zfsv-p600771584-0-202304210906.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvpah7zfsv/sh-nasima-wardrobe-clothes-organizer-8-grids-skirts-t-shirts-jeans-grey-pack-of-1-product-images-orvpah7zfsv-p600771584-0-202304210906.jpg?im=Resize=(420,420)", ],
         brand: "SH NASIMA MANAFACTURER",
         shortDesc:
           "SH NASIMA Wardrobe Clothes Organizer, 8 Grids Skirts, T-shirts, Jeans (Grey) Pack of 1",
@@ -1702,7 +1702,7 @@ export const SportsToysLuggages = {
         productId:60896,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvgdor81uz/vyora-saree-covers-set-of-4-storage-bags-combo-garment-cover-pack-of-4-wardrobe-organizer-cloth-cover-with-transparent-window-product-images-orvgdor81uz-p597808634-0-202301240938.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvgdor81uz/vyora-saree-covers-set-of-4-storage-bags-combo-garment-cover-pack-of-4-wardrobe-organizer-cloth-cover-with-transparent-window-product-images-orvgdor81uz-p597808634-0-202301240938.jpg?im=Resize=(420,420)", ],
         brand: "VYORA",
         shortDesc:
           "VYORA Saree covers Set of 4 Garment Storage Bags Combo Pack of 4 (PINK)",
@@ -1727,7 +1727,7 @@ export const SportsToysLuggages = {
         productId:60897,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvszyiyiiv/craft-bazar-multipurpose-drawer-storage-organizer-rectangular-foldable-storage-box-with-side-handle-replacement-drawer-storage-and-cloth-organizer-grey-pack-of-2-product-images-orvszyiyiiv-p599082193-0-202303061138.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvszyiyiiv/craft-bazar-multipurpose-drawer-storage-organizer-rectangular-foldable-storage-box-with-side-handle-replacement-drawer-storage-and-cloth-organizer-grey-pack-of-2-product-images-orvszyiyiiv-p599082193-0-202303061138.jpg?im=Resize=(420,420)", ],
         brand: "Craft Bazar",
         shortDesc:
           "Craft Bazar Multipurpose Drawer Storage Organizer Rectangular Foldable Storage Box with Side Handle, Replacement Drawer Storage, and Cloth Organizer (Grey, Pack of 2)",
@@ -1752,7 +1752,7 @@ export const SportsToysLuggages = {
         productId:60898,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvbdyyco3v/aadhya-multipurpose-non-woven-saree-cover-pack-of-10_d-pink-product-images-orvbdyyco3v-p600801097-0-202304220723.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvbdyyco3v/aadhya-multipurpose-non-woven-saree-cover-pack-of-10_d-pink-product-images-orvbdyyco3v-p600801097-0-202304220723.jpg?im=Resize=(420,420)", ],
         brand: "Aadhya",
         shortDesc:
           "Aadhya Multipurpose Non Woven Saree Cover pack of 10_d (Pink)",
@@ -1777,7 +1777,7 @@ export const SportsToysLuggages = {
         productId:60899,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvgkfcb9on/mteaser-set-of-1-nylon-85-l-moisture-proof-multi-purpose-storage-bag-clothing-storage-organiser-toy-storage-stationery-paper-storage-bag-with-zipper-strong-handle-black-57x-36-8x-40-5-cm-product-images-orvgkfcb9on-p603713323-0-202308092351.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvgkfcb9on/mteaser-set-of-1-nylon-85-l-moisture-proof-multi-purpose-storage-bag-clothing-storage-organiser-toy-storage-stationery-paper-storage-bag-with-zipper-strong-handle-black-57x-36-8x-40-5-cm-product-images-orvgkfcb9on-p603713323-0-202308092351.jpg?im=Resize=(420,420)", ],
         brand: "Mteaser",
         shortDesc:
           "Mteaser Set of 1 Nylon 85 L Moisture Proof Multi-Purpose Storage Bag/Clothing Storage Organiser/Toy Storage/Stationery Paper Storage Bag with Zipper & Strong Handle (Black,57x 36.8X 40.5 cm)",
@@ -1802,7 +1802,7 @@ export const SportsToysLuggages = {
         productId:60900,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvbqgtmlwe/aadhya-designer-non-woven-saree-cover-saree-bag-storage-bag-set-of-8-pcs-8-inches-height-black-black-product-images-orvbqgtmlwe-p600805767-0-202304221032.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvbqgtmlwe/aadhya-designer-non-woven-saree-cover-saree-bag-storage-bag-set-of-8-pcs-8-inches-height-black-black-product-images-orvbqgtmlwe-p600805767-0-202304221032.jpg?im=Resize=(420,420)", ],
         brand: "Aadhya",
         shortDesc:
           "Aadhya Designer Non woven Saree cover/ Saree Bag/ Storage bag Set of 8 Pcs 8 Inches Height (Black) (Black)",
@@ -1827,7 +1827,7 @@ export const SportsToysLuggages = {
         productId:60901,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvw1muach2/aadhya-multipurpose-large-non-woven-saree-cover-pack-of-8-purple-product-images-orvw1muach2-p600800424-0-202304220655.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvw1muach2/aadhya-multipurpose-large-non-woven-saree-cover-pack-of-8-purple-product-images-orvw1muach2-p600800424-0-202304220655.jpg?im=Resize=(420,420)", ],
         brand: "Aadhya",
         shortDesc:
           "Aadhya Multipurpose Large Non Woven Saree Cover pack of 8 (Purple)",
@@ -1852,7 +1852,7 @@ export const SportsToysLuggages = {
         productId:60902,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rv6heazaln/aadhya-six-rods-bangle-bracelet-watch-bag-jewellery-pink-vanity-box-pink-product-images-orv6heazaln-p600798175-0-202304220508.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rv6heazaln/aadhya-six-rods-bangle-bracelet-watch-bag-jewellery-pink-vanity-box-pink-product-images-orv6heazaln-p600798175-0-202304220508.jpg?im=Resize=(420,420)", ],
         brand: "Aadhya",
         shortDesc:
           "Aadhya Six Rods Bangle Bracelet Watch Bag Jewellery (pink) Vanity Box (Pink)",
@@ -1877,7 +1877,7 @@ export const SportsToysLuggages = {
         productId:60903,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvgvybp2ni/sc_06_crm_6-product-images-orvgvybp2ni-p598462790-0-202302170731.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvgvybp2ni/sc_06_crm_6-product-images-orvgvybp2ni-p598462790-0-202302170731.jpg?im=Resize=(420,420)", ],
         brand: "VYORA",
         shortDesc:
           "VYORA Saree covers Set of 6 Garment Storage Bags Combo Pack of 6 (SC_06_CRM_6)",
@@ -1902,7 +1902,7 @@ export const SportsToysLuggages = {
         productId:60904,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rv459v9seg/bjik-teal-nylon-square-moisture-proof-storage-bag-38-2x22-3x38-2-cm-pack-of-6-product-images-orv459v9seg-p602634706-0-202306242111.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rv459v9seg/bjik-teal-nylon-square-moisture-proof-storage-bag-38-2x22-3x38-2-cm-pack-of-6-product-images-orv459v9seg-p602634706-0-202306242111.jpg?im=Resize=(420,420)", ],
         brand: "BJIK",
         shortDesc:
           "BJIK Teal Nylon Square Moisture Proof Storage Bag, (38.2x22.3x38.2 cm) - Pack of 6",
@@ -1927,7 +1927,7 @@ export const SportsToysLuggages = {
         productId:60905,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvqfuyhknn/aadhya-high-quality-transparent-saree-cover-suit-cover-pack-of-6-pcs-keep-safe-from-dust-grey-product-images-orvqfuyhknn-p600800822-0-202304220711.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvqfuyhknn/aadhya-high-quality-transparent-saree-cover-suit-cover-pack-of-6-pcs-keep-safe-from-dust-grey-product-images-orvqfuyhknn-p600800822-0-202304220711.jpg?im=Resize=(420,420)", ],
         brand: "Aadhya",
         shortDesc:
           "Aadhya High quality transparent saree cover, suit cover pack of 6 pcs Keep Safe from dust (Grey)",
@@ -1952,7 +1952,7 @@ export const SportsToysLuggages = {
         productId:60906,
       },{
         productImage:
-          ["https://www.jiomart.com/images/product/original/rvxwx8g11z/crownsy-foldable-underbed-storage-bag-wardrobe-organizer-blanket-storage-bag-for-comforter-blanket-cover-saree-clothing-bedding-with-transparent-window-and-side-handles-set-of-4-grey-product-images-orvxwx8g11z-p599540082-0-202303180805.jpg?im=Resize=(420,420)","",""],
+          ["https://www.jiomart.com/images/product/original/rvxwx8g11z/crownsy-foldable-underbed-storage-bag-wardrobe-organizer-blanket-storage-bag-for-comforter-blanket-cover-saree-clothing-bedding-with-transparent-window-and-side-handles-set-of-4-grey-product-images-orvxwx8g11z-p599540082-0-202303180805.jpg?im=Resize=(420,420)", ],
         brand: "CROWNSY",
         shortDesc:
         "CROWNSY Foldable Underbed Storage Bag Wardrobe Organizer Blanket Storage Bag for Comforter Blanket Cover Saree Clothing Bedding with Transparent Window and Side Handles-(Set of 4 Grey)",
