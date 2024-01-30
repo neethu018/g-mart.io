@@ -29,6 +29,7 @@ import Layout from "./pages/Layout";
 import FavouriteList from './pages/FavouriteList';
 import { useAppContext } from "./context/AppContext";
 import { useEffect, useState } from "react";
+import Contact from "./pages/Contact";
 
 function App() {
   console.log("premiumfruits data :", premiumFruits);
@@ -215,6 +216,8 @@ function App() {
             <Route path="/cart" element={<Cart />} />
             {/* allcategory */}
             <Route path="/allcategory" element={<AllCatogries />} />
+            {/* contactus */}
+            <Route path="/contact-us" element={<Contact/>} />
           </Route>
         </Routes>
       </Router>

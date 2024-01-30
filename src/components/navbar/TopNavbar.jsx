@@ -51,17 +51,17 @@ const TopNavbar = () => {
             </IconButton>
 
             <Link className="d-none d-sm-block fs-4 text-white fw-bold navbar-brand text-decoration-none" to="/">
-              GMart
+             <img src="/gmartlogo.jpeg" width={"100px"} height={"30px"} style={{borderRadius:"5px"}}/>
             </Link>
           </div>
           
           <div className="d-flex flex-row justify-contents-end">
-            <div className="sb-search d-flex">
+            <div className="sb-search d-flex gap-2">
               <SearchIcon
                 onClick={(event) => handleSearch(event, "searchbtn")}
                 style={{ cursor: "pointer" ,height:"40px"}}
               />
-              <FormControl type="Search" placeholder="Search" className="search-box px-2 py-0" onChange={(e) => setSearchTerm(e.target.value)} onKeyDown={handleSearch} style={{boxShadow:"none"}}/>
+              <FormControl type="Search" placeholder="G-mart Search" className="search-box px-2 py-0" onChange={(e) => setSearchTerm(e.target.value)} onKeyDown={handleSearch} style={{boxShadow:"none"}}/>
             </div>
             <div className="d-none d-sm-block sec-div">
               <IconButton>

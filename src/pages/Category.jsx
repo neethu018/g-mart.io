@@ -171,7 +171,7 @@ const Category = ({ products }) => {
       console.error("Products data is incomplete.");
       return <div>Error loading products.</div>;
     }
-  } else if (category === "skincare") {
+  } else if (category === "SkinCare") {
     // Check if 'Serum','FaceMask','Moisturizes',properties exist in the products object
     if (
       products &&
